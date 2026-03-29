@@ -40,30 +40,73 @@ It's very good.
 **MAREK**
 Everything on Cardassia Prime is better than it was ten years ago. This is not patriotism. It is simply a fact.
 
-He sits. Settles into his chair with the particular ease of a man who believes the conversation is already going well.
+He sits. Settles into his chair — not with ease, exactly, but with the controlled comfort of a man who has prepared for this meal the way other men prepare for battle.
 
 ---
 
 **MAREK** *(CONT'D)*
-Admiral. The medical outcomes on Kerata IV last quarter were remarkable. Infant mortality down forty percent from the Federation baseline when we arrived. Forty percent.
+Admiral. I had hoped this evening could be entirely social. But I would be failing in my responsibilities if I didn't raise a matter of some urgency.
 
-*(beat)*
+He sets down his knife. The gesture is small but deliberate — the universal signal of a man who has arrived at the reason he came.
 
-That number doesn't appear in the security briefings your office receives, I suspect.
+---
+
+**MAREK** *(CONT'D)*
+Eleven days ago, a device detonated in the eastern residential block of the Kerata IV settlement. A Cardassian block. Forty-three injured. Six dead. Two of them children.
+
+A silence.
+
+---
+
+**MAREK** *(CONT'D)*
+The forensic analysis — our forensic analysis, since no Federation investigation has been initiated — indicates military-grade plasma explosives. Not improvised. Not commercial mining charges. Purpose-built ordnance with a yield profile consistent with —
+
+He pauses. Chooses his next words with the care of a man who knows exactly how they'll land.
+
+---
+
+**MAREK** *(CONT'D)*
+— with weapons that require a level of manufacturing infrastructure not available to civilians.
 
 ---
 
 **VOSS**
-It appears in the development reports. We read the development reports.
+The colonial administration filed a preliminary report. The investigation is ongoing.
 
 ---
 
 **MAREK**
-Of course. I only mean — the security framing tends to crowd out the human dimension. Forty percent is not a security metric. It is forty percent.
+*(evenly)*
+The colonial administration filed a preliminary report eleven days after six Cardassian citizens — including two children — were killed by military-grade weapons. Preliminary.
 
-He cuts his food. Unhurried. He would be happy to talk about infant mortality for the rest of the evening. He is very comfortable talking about infant mortality.
+He lets the word sit.
 
-SORAK has been quiet. He has been quiet in the specific way of someone who is listening to everything including the things not being said.
+---
+
+**MAREK** *(CONT'D)*
+Admiral, I am not here to assign blame. I am here because fourteen thousand Cardassian nationals live on Kerata IV and the current security framework does not protect them. We need the right to investigate. Not to replace your authorities — to supplement them. Cardassian police working alongside the colonial administration. And given the military nature of the weapons involved —
+
+*(a beat — the precise calibration of reluctance, as though he wished he didn't have to say this)*
+
+— Cardassian military police. With the jurisdictional authority to follow the evidence wherever it leads.
+
+---
+
+The room has changed temperature.
+
+SORAK has been quiet. He has been quiet in the specific way of someone who is listening to everything including the things not being said. He has heard the phrase *supplement, not replace* before. He knows what follows it. He knows what military police with jurisdictional authority look like on the ground twenty-four months after they arrive.
+
+---
+
+**VOSS**
+You're asking for a combined security mandate. Cardassian military police operating under Cardassian jurisdiction on Federation colonial territory.
+
+---
+
+**MAREK**
+I'm asking for the minimum necessary to protect Cardassian lives. If the Federation investigation were further along — if there were arrests, if there were leads — I would not be sitting here. But eleven days, Admiral. Six dead. And preliminary.
+
+He picks up his knife again. Resumes eating. The gesture says: *this is reasonable and you know it and we both know that the longer you wait the worse it looks.*
 
 ---
 
@@ -88,21 +131,48 @@ Of course.
 
 He takes a small sip of wine. Files the quarter-second pause. Says nothing more about the corridor.
 
-Voss watches this exchange the way someone watches a tennis match when they already know the score — not without interest, just without suspense about the outcome.
+---
+
+**MAREK**
+And while we are discussing practical matters — I hesitate to raise this alongside a security concern, but it speaks to the same underlying issue.
+
+He pauses again. The warmth returns, but now it carries something else — a carefully performed weariness. The face of a man carrying too many burdens.
+
+---
+
+**MAREK** *(CONT'D)*
+We have three hundred Cardassian medical personnel on Kerata IV. Running hospitals we built. When a licensing dispute arises — a procedural question, a complaint — it is adjudicated under Federation colonial law by administrators who have never seen a Cardassian medical facility from the inside. Last month a surgical team was suspended for three days over a documentation discrepancy. Three days. The ward they serve handles sixty patients a day.
+
+*(quieter now — the voice of a man who is simply tired)*
+
+Our people build the hospitals. Staff the hospitals. And when they are killed — by military weapons — the investigation is preliminary. When they save lives — sixty patients a day — they are suspended over paperwork.
+
+He meets Voss's eyes.
+
+---
+
+**MAREK** *(CONT'D)*
+You can see how this feels from our side.
+
+---
+
+The word *our* does a great deal of work in that sentence. It contains fourteen thousand people and thirty years of infrastructure and every school and road and hospital — and it draws a line around all of it and puts it on the other side of the table from the Federation.
+
+Sorak registers it. Files it. Says nothing.
 
 ---
 
 **VOSS**
-The Council's position on the humanitarian mission remains supportive. The development metrics are —
+The Council's position on the humanitarian mission remains supportive. The security request is — I understand the urgency. I'll take it back.
 
 ---
 
 **MAREK**
-Remarkable. Yes.
+That's all I ask.
 
 *(warm)*
 
-I don't take that for granted, Admiral. The Federation's consistency on this has been —
+The Federation's consistency on this has been —
 
 He seems to search briefly for the word.
 
@@ -119,9 +189,11 @@ The dinner continues.
 
 Marek is extraordinary company — stories about Cardassian art, genuine curiosity about Federation colony programs, a self-deprecating anecdote about a diplomatic incident on Romulus that makes Voss almost smile. Almost.
 
+But the requests sit on the table like the Kanar — dark, slightly luminescent, impossible to ignore now that they've been poured.
+
 Throughout it all Sorak watches. Not obviously. He participates. He asks questions that seem idle. He is, by all visible evidence, a colleague enjoying a social occasion.
 
-He is mapping the exact shape of every deflection. He is learning the borders of what isn't being said.
+He is mapping the exact shape of every request. He is calculating where the next one will land. He is watching a man turn six dead Cardassians into boots on the ground.
 
 ---
 

@@ -419,11 +419,13 @@ We don't know yet what we're looking at. The last credit fades.
 
 A private dining room on a neutral starbase. Excellent food. Cardassian Kanar that Marek brought personally. Three people: Admiral Voss, Sorak, Gul Marek.
 
-The surface is a diplomatic policy dinner. What's actually happening is three-dimensional chess. Marek performs Cardassian diplomacy at its finest — charming, cultured, warm, advancing a narrative about the humanitarian mission without lying about anything directly. He has been doing this long enough that the room feels like his even though it isn't his starbase.
+The surface is a diplomatic policy dinner. The real business is a terrorist attack — eleven days ago, a military-grade device killed six Cardassians including two children in the eastern residential block. Marek's primary ask: Cardassian police and military police with jurisdictional authority to investigate. The Federation's preliminary report is eleven days old. The optics of refusal are impossible.
 
-Sorak watches every deflection, mapping the borders of what isn't being said. One question about the corridor — framed as logistics. Marek's answer is perfect. The quarter-second pause of his knife against the plate is filed.
+Underneath the security request, Marek layers the medical jurisdiction issue — Cardassian surgeons suspended over paperwork, sixty patients a day. Not the main ask, but the emotional architecture: *our people build your hospitals, staff your hospitals, and when they're killed the investigation is preliminary.* The word "our" draws a line around fourteen thousand people and thirty years of infrastructure and puts it on the other side of the table.
 
-Voss navigates between them — the official Federation position embodied.
+Sorak watches the pattern — maps each request, notes the corridor question, files the quarter-second knife pause. He is watching a man turn six dead Cardassians into boots on the ground.
+
+Voss navigates between them — calculating whether saying yes to the investigation means she's already said yes to the permanent military presence Marek hasn't asked for yet.
 
 Marek requests a private word with Voss before leaving. Whatever passes between them is too quiet to hear. He leaves graciously. The room becomes a different room. Sorak re-enters through the side door.
 
