@@ -204,7 +204,7 @@ They're going to withdraw.
 
 *(beat)*
 
-Hail Commander Taveris.
+Hail Commander K'Tagh.
 
 `CUT TO:`
 
@@ -212,7 +212,7 @@ Hail Commander Taveris.
 
 `INT. ENTERPRISE-A — VIEWSCREEN`
 
-Taveris appears.
+K'Tagh appears.
 
 She looks at the tactical situation on her own displays for a moment.
 
@@ -222,7 +222,7 @@ Something in her face that isn't quite admiration and isn't quite surprise. Some
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 Your tactical officer.
 
 It isn't a question.
@@ -235,7 +235,7 @@ Commander. The corridor is closed. The Cardassian vessel will not reach the entr
 
 I'm requesting that you stand down.
 
-Taveris looks at him for a long moment.
+K'Tagh looks at him for a long moment.
 
 Then looks at something off-screen. Her Klingon ships, calculating the geometry, arriving at the same answer Hummer did.
 
@@ -243,7 +243,7 @@ She makes a decision.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 Stand down. All vessels.
 
 She closes the channel.

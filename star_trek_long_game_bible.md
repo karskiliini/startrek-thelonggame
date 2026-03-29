@@ -8,7 +8,7 @@
 
 **STAR TREK: THE LONG GAME** is the title that was always going to be this film's title. After considering approximately fifty alternatives — Duty Hits Deep, Sole Duty, Common Duty, Silent Duty, Oath Breaks Deep, Duty Breaks Deep, Subduction, Evitable, Still Runs Fast, The Long Ambush, Slow Lightning, Fault Line, Hidden Conflict, Still Current, Duty Clash, The Last Duty, Hidden Fight — we returned to the clearest and most direct statement of the film's subject.
 
-The Long Game is what every faction in this film is playing. What the film is asking the audience to play. What Kirk teaches Hummer. What Sorak forgot the point of. What the Cardassians weaponized. What Taveris was a piece in without knowing it. What Marek sacrificed his career to interrupt. What the final exchange between Kirk and Sorak defines permanently.
+The Long Game is what every faction in this film is playing. What the film is asking the audience to play. What Kirk teaches Hummer. What Sorak forgot the point of. What the Cardassians weaponized. What K'Tagh was a piece in without knowing it. What Marek sacrificed his career to interrupt. What the final exchange between Kirk and Sorak defines permanently.
 
 The Star Trek prefix carries fifty years of promise — the Federation at its best, exploration, the idea that humanity can be better. The Long Game reframes that promise: not as optimism but as obligation. The hard patient unglamorous work underneath the dream. The thirty-year commitment of just showing up.
 
@@ -110,7 +110,7 @@ Klingons are loud, proud, reactive, and emotionally driven. A wounded empire tha
 
 The Cardassians — patient, meticulous, playing the fifty-year game — are constantly frustrated by their Klingon partners who keep wanting to do something visible. China wants Russia to stop making noise while China quietly reshapes the world. Russia wants to be seen as powerful today, visibly, now. This tension runs through every scene involving both factions.
 
-Taveris discovers in Scene 8 that her faction has been used as Cardassian muscle. For a Klingon that is not a strategic calculation. That is a matter of honor. Her fury is entirely Klingon and entirely Russian simultaneously.
+K'Tagh discovers in Scene 8 that his faction has been used as Cardassian muscle. For a Klingon that is not a strategic calculation. That is a matter of honor. His fury is entirely Klingon and entirely Russian simultaneously.
 
 ---
 
@@ -138,7 +138,7 @@ Kerata IV sits at the mouth of a natural corridor — the only fast, sheltered, 
 
 ## The Military Installation — Ten Times Larger
 
-Compartmentalized above Marek's clearance. Above Taveris's briefings. Above Sorak's fifteen years of intelligence work. Marek's shock when he pulled those files fourteen days before the film's present action is genuine — he has been here building it without knowing what he was building.
+Compartmentalized above Marek's clearance. Above K'Tagh's briefings. Above Sorak's fifteen years of intelligence work. Marek's shock when he pulled those files fourteen days before the film's present action is genuine — he has been here building it without knowing what he was building.
 
 The document he hands Kirk doesn't just expose Kerata IV. It forces every world in the Cardassian economic sphere to ask: what else is cover? No war needed. A diplomatic catastrophe that sets their timeline back fifteen years.
 
@@ -243,7 +243,7 @@ She raised the hesitation incident. She put it on the record. She is one of the 
 
 ---
 
-## COMMANDER TAVERIS — Klingon Commander
+## COMMANDER K'TAGH — Klingon Commander
 ### Commanding officer, IKS vessel at Kerata IV. Working name.
 
 A true professional. Precise. Almost courteous. Sent as Klingon insurance on a Cardassian operation. Speaks to Kirk like she's already read everything about him. She has.
@@ -447,7 +447,7 @@ Kirk boards Enterprise. Aging. Tired. Under-resourced. A water dispenser in the 
 
 Kirk receives his official orders: Klingon warbird behaving unusually near Kerata IV, Cardassian diplomatic vessel in orbit three weeks without explanation. Routine investigation. Keep it diplomatic. Everything legitimate. Everything incomplete.
 
-Spock: Taveris's distinguished record. The Cardassian vessel's encrypted communications volume — three hundred and forty percent above humanitarian coordination norms.
+Spock: K'Tagh's distinguished record. The Cardassian vessel's encrypted communications volume — three hundred and forty percent above humanitarian coordination norms.
 
 Kirk sets down the PADD. He doesn't know about the dinner on the starbase. He doesn't know he's already on Sorak's board.
 
@@ -495,13 +495,13 @@ A Klingon warbird in the system: loud, visible, aggressive. Drawing every eye.
 
 A Cardassian diplomatic vessel in orbit. Twenty-second day of a two-day courtesy stop.
 
-First communication between Kirk and Commander Taveris. Precise. Almost courteous. She speaks to Kirk like she's already read everything about him.
+First communication between Kirk and Commander K'Tagh. Precise. Almost courteous. He speaks to Kirk like he's already read everything about him.
 
-> **TAVERIS:** "I've read your file, Captain. Your particular kind of not creating complications tends to be eventful."
+> **K'TAGH:** "I've read your file, Captain. Your particular kind of not creating complications tends to be eventful."
 >
 > **KIRK:** "I'll try to disappoint you."
 >
-> **TAVERIS:** "I doubt that very much."
+> **K'TAGH:** "I doubt that very much."
 
 ---
 
@@ -509,7 +509,7 @@ First communication between Kirk and Commander Taveris. Precise. Almost courteou
 
 An explosion on the colony surface. Casualties. Federation citizens among the dead. The Cardassian vessel broadcasts immediately that Federation provocateurs are responsible — the signal clearly prepared before the dust settled.
 
-Kirk and Taveris receive incompatible versions from their governments simultaneously. Neither believes their version entirely.
+Kirk and K'Tagh receive incompatible versions from their governments simultaneously. Neither believes their version entirely.
 
 Hummer reads the explosion's sensor signature. Hull composition trace — Cardassian military construction. His first instinct is correct. The Emergency Disclosure window is open. He calculates whether the reading is sufficient cause to invoke the protocol. Calculates again. The Cardassian vessel begins a routine orbital correction. The vessel moves. The sensor geometry shifts. The thirty-eight second window closes.
 
@@ -565,11 +565,11 @@ The Kobayashi Maru assembling around Kirk in real time. Sorak has accounted for 
 
 ---
 
-## SCENE 8 — "TAVERIS"
+## SCENE 8 — "K'TAGH"
 
 The most important scene in the film. Two commanders on a private channel. No weapons. No ships. Just the truth moving between two people who have been watching each other carefully for days.
 
-Taveris has figured out she's been used. Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. Her faction was brought here as a distraction.
+K'Tagh has figured out he's been used. Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. His faction was brought here as a distraction.
 
 She tells Kirk not out of sympathy for the Federation. Because she will not be Cardassian muscle. That fury is entirely Klingon and entirely Russian simultaneously.
 
@@ -617,7 +617,7 @@ Klingon commanders face debris or decloak. They make the fear-move — decloak t
 
 **AFTER**
 
-Taveris appears on screen. Looks at the tactical situation. Then at Hummer. Something in her face that isn't quite admiration and isn't quite surprise. She stands her ships down.
+K'Tagh appears on screen. Looks at the tactical situation. Then at Hummer. Something in his face that isn't quite admiration and isn't quite surprise. He stands his ships down.
 
 Kirk returns. Reads the tactical record in silence. The gut move. The preemptive orders placed before the decloaks. The three calving shots. The geometry.
 
@@ -661,7 +661,7 @@ Sorak says nothing. For long enough that the silence becomes the most eloquent t
 
 Aftermath. The political settlement imperfect, unresolved, alive. The Cardassian installation under Federation arbitration — a process that will take years and may resolve nothing cleanly. Nobody won cleanly. The grey water is still grey.
 
-Taveris and Kirk — one final private communication. Brief. Formal. Everything acknowledged underneath. Two commanders who saw each other clearly across a dark canyon and chose not to pull the trigger. She closes the channel first.
+K'Tagh and Kirk — one final private communication. Brief. Formal. Everything acknowledged underneath. Two commanders who saw each other clearly across a dark canyon and chose not to pull the trigger. He closes the channel first.
 
 The review board. Five officers. Admiral Voss at the center. Hummer's file. Board Member Chen raises the hesitation incident. Kirk stands.
 

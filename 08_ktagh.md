@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 8 — "TAVERIS"
+## Scene 8 — "K'TAGH"
 
 ---
 
@@ -41,13 +41,13 @@ On the bridge, Hummer watches him go. Goes back to his console. Keeps reading.
 
 Kirk opens the channel.
 
-TAVERIS appears on the screen. Behind her — not a bridge. A private space on her vessel. She chose this deliberately.
+K'TAGH appears on the screen. Behind him — not a bridge. A private space on his vessel. He chose this deliberately.
 
-She looks at Kirk for a moment before she speaks. Reading something in his face.
+He looks at Kirk for a moment before he speaks. Reading something in his face.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 You received information about the explosion that you don't have evidence for.
 
 It isn't a question.
@@ -59,18 +59,18 @@ Commander, this channel —
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 Is not logged on my end either.
 
 *(beat)*
 
 Captain. I need you to listen to me for approximately four minutes. After that you can respond however you feel is appropriate.
 
-Kirk says nothing. Which she takes as assent.
+Kirk says nothing. Which he takes as assent.
 
 ---
 
-**TAVERIS** *(CONT'D)*
+**K'TAGH** *(CONT'D)*
 I was sent to this system as a guarantee. The joint operation — you understand there is a joint operation —
 
 ---
@@ -80,14 +80,14 @@ I'm beginning to.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 My faction was told this installation served Klingon strategic interests. That Cardassian investment in this corridor would create shared infrastructure that benefits both —
 
-She stops. Something crosses her face.
+He stops. Something crosses his face.
 
 ---
 
-**TAVERIS** *(CONT'D)*
+**K'TAGH** *(CONT'D)*
 I have spent the last three weeks reviewing the construction projections that my faction was given versus the power consumption data I can read from orbit with standard sensors.
 
 *(beat)*
@@ -103,14 +103,14 @@ Commander —
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 I am not finished.
 
 He waits.
 
 ---
 
-**TAVERIS** *(CONT'D)*
+**K'TAGH** *(CONT'D)*
 When that installation is complete — the corridor formalization follows automatically under the treaty framework they've been building for thirty years. The Federation loses unrestricted access to the passage in perpetuity.
 
 Cardassia controls the fastest route to your core systems from the spinward border.
@@ -123,7 +123,7 @@ My government made me a piece in that game without telling me what game it was.
 
 The silence between them has enormous weight.
 
-Kirk looks at her.
+Kirk looks at him.
 
 ---
 
@@ -132,20 +132,20 @@ Why are you telling me this?
 
 ---
 
-**TAVERIS**
-*(and here is where something very Klingon and very specific comes into her face)*
+**K'TAGH**
+*(and here is where something very Klingon and very specific comes into his face)*
 Because I will not be Cardassian muscle.
 
 Beat.
 
 ---
 
-**TAVERIS** *(CONT'D)*
+**K'TAGH** *(CONT'D)*
 Whatever you do with this information — that is your problem. But I came here believing I was serving a Klingon strategic interest.
 
 I was serving a Cardassian one. And they did not have the honor to tell me so.
 
-She closes the channel.
+He closes the channel.
 
 Kirk sits alone in his ready room.
 

@@ -82,7 +82,7 @@ What do we know about the Klingon vessel?
 ---
 
 **SPOCK**
-IKS Rotarran-class. Commander Taveris. Her record is —
+IKS Rotarran-class. Commander K'Tagh. Her record is —
 
 He pauses. The pause of a man selecting the correct word from several available.
 

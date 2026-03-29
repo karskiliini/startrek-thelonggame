@@ -43,7 +43,7 @@ Report.
 ---
 
 **HUMMER**
-Klingon warbird in high orbit. IKS designation — Commander Taveris commanding. Armed but weapons not hot.
+Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding. Armed but weapons not hot.
 
 *(beat)*
 
@@ -69,7 +69,7 @@ Open a channel to the Klingon vessel.
 
 The viewscreen shifts.
 
-TAVERIS appears.
+K'TAGH appears.
 
 She is not what the title 'Klingon Commander' typically prepares you for. She is precise. Almost courteous. Her posture carries authority the way architecture carries weight — structurally, completely, without apparent effort.
 
@@ -77,7 +77,7 @@ She looks at Kirk the way someone looks at a document they have already read.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 Captain Kirk. The Federation vessel is twelve minutes early.
 
 ---
@@ -87,7 +87,7 @@ I didn't realize we had a scheduled arrival.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 In my experience, when the Federation sends a starship to observe a situation, the situation has already been decided. It seemed reasonable to expect you.
 
 A beat. Kirk almost smiles.
@@ -99,7 +99,7 @@ Commander. My orders are observation and diplomatic liaison. I'm not here to cre
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 No. You are here because someone decided this situation requires your particular kind of not creating complications.
 
 *(beat)*
@@ -113,7 +113,7 @@ I'll try to disappoint you.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 I doubt that very much.
 
 She closes the channel.

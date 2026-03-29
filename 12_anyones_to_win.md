@@ -11,11 +11,11 @@ The political settlement imperfect, unresolved, alive. The Cardassian installati
 
 Kirk opens a private channel.
 
-TAVERIS appears on screen. Behind her — her vessel, preparing to depart the system.
+K'TAGH appears on screen. Behind him — his vessel, preparing to depart the system.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 Captain.
 
 ---
@@ -27,7 +27,7 @@ A beat. Formal on the surface. Everything acknowledged underneath.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 The corridor remains open.
 
 ---
@@ -37,14 +37,14 @@ For now.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 For now.
 
 She looks at him for a moment. Two commanders who saw each other clearly across a dark canyon and chose not to pull the trigger.
 
 ---
 
-**TAVERIS** *(CONT'D)*
+**K'TAGH** *(CONT'D)*
 Your tactical officer.
 
 ---
@@ -54,7 +54,7 @@ What about him.
 
 ---
 
-**TAVERIS**
+**K'TAGH**
 He knew where we'd be. Before we knew.
 
 *(beat)*
