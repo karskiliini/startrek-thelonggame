@@ -150,7 +150,7 @@ They sent you here knowing you would do this. They sent you here because when it
 
 *(beat)*
 
-You are not a warrior, Commander. You are a detonator. The Klingon High Command pointed you at this system and waited for you to go off. The only question they had was when.
+You are not a warrior, Commander. You are a tool. The Klingon High Command pointed you at this system and waited for you to go off. The only question they had was when.
 
 *(beat)*
 
