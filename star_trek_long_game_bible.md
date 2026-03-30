@@ -311,9 +311,13 @@ Fourteen days before the film's present action he pulled files classified four l
 
 **Why He Helps Kirk**
 
-Not nobility. The most ruthless Cardassian calculation available: buying his civilization five years. He calculated the cost fourteen days ago and paid it then.
+The second explosion. The Klingon explosion. That is what breaks him — not the files, not the scale of the installation, not even what he discovered fourteen days ago. It is watching his alliance partner destroy a power distribution hub he spent three years building because they couldn't wait for the Cardassian timeline to deliver results.
 
-*"Because I remember what we looked like after the Dominion War. And because the Klingons don't."*
+Thirty years of patient, invisible work. Schools. Hospitals. Roads. A civilization built one contract at a time. And the Klingons blew up a piece of it because they wanted something to happen *now*.
+
+Not nobility. The most ruthless Cardassian calculation available: the alliance with the Klingons will destroy Cardassia faster than the Federation ever could. He helps Kirk not because Kirk is right, but because the Klingons are ruining everything.
+
+*"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — and if this continues, it will come — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
 
 ---
 
@@ -549,9 +553,11 @@ First communication between Kirk and Commander K'Tagh. Not courteous. Not hostil
 
 ## SCENE 5 — "THE INCIDENT"
 
-An explosion on the colony surface. Casualties. Federation citizens among the dead. The Cardassian vessel broadcasts immediately that Federation provocateurs are responsible — the signal clearly prepared before the dust settled.
+**The second explosion.** Not the one Marek described in Scene 1 — that was Cardassian work, precise, controlled, designed to create political leverage. This one is different. Bigger. Cruder. A power distribution hub in the northern settlement, not a residential block. The explosive yield is wrong — too much force, too little control. This is Klingon impatience. K'Tagh's faction (or elements above him) decided the Cardassian timeline was too slow and accelerated it.
 
-Kirk and K'Tagh receive incompatible versions from their governments simultaneously. Neither believes their version entirely.
+This is the moment that breaks the alliance — not publicly, not yet, but in Marek's mind. He watches his thirty-year operation being destroyed by a partner who couldn't wait five more years. The Russia problem: they keep wanting to do something visible. This explosion is visible.
+
+Both vessels broadcast simultaneously — Cardassians blaming Klingon provocation, Klingons blaming Federation elements. Neither version is entirely honest. The Cardassian official is less composed than usual — this was not coordinated with them.
 
 Hummer reads the explosion's sensor signature. Hull composition trace — Cardassian military construction. His first instinct is correct. He should say it out loud. Three words to Kirk: *Cardassian military signature.* Instead he keeps calculating — verifying, cross-referencing, building the case no one asked him to build. The Cardassian vessel begins a routine orbital correction. The sensor geometry shifts. The trace becomes unrecoverable. He had it. He said nothing.
 

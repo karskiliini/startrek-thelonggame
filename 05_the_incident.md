@@ -17,9 +17,11 @@ The explosion happens before he can decide what it means.
 
 `EXT. KERATA IV — COLONY SURFACE — CONTINUOUS`
 
-A building in the eastern residential sector. The blast is large but contained — the specific character of an explosion that was designed to look uncontrolled while being precisely so.
+A power distribution hub in the northern settlement cluster. The blast is not contained — not this time. This is bigger than the incident Marek described at the dinner. Cruder. The explosive yield is wrong for a precision operation — too much force, too little control. The particular signature of someone who wanted results more than they wanted subtlety.
 
-The dust is still in the air when the first Cardassian broadcast begins.
+Not Cardassian work. Cardassians don't make this kind of mess.
+
+The dust is still in the air when the broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action.
 
 `CUT TO:`
 
@@ -30,14 +32,14 @@ The dust is still in the air when the first Cardassian broadcast begins.
 ---
 
 **COMMUNICATIONS OFFICER**
-Captain — Cardassian vessel broadcasting on all frequencies. They're claiming —
+Captain — both vessels are broadcasting on all frequencies. The Cardassians are claiming a Klingon provocation, the Klingons are claiming —
 
 ---
 
 **KIRK**
-On screen.
+On screen. Cardassian first.
 
-The broadcast. A CARDASSIAN OFFICIAL — smooth, prepared, the specific composure of someone delivering a speech they wrote before the event it describes:
+The broadcast. A CARDASSIAN OFFICIAL — smooth, but this time not quite as prepared. Something in his composure has cracked. This was not the plan. Whatever is happening, it wasn't coordinated with Cardassia:
 
 ---
 
