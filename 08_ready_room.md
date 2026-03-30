@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 7 — "READY ROOM"
+## Scene 8 — "READY ROOM"
 
 ---
 

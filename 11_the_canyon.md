@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 10 — "THE CANYON"
+## Scene 11 — "THE CANYON"
 
 ---
 

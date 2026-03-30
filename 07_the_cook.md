@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 6 — "THE COOK"
+## Scene 7 — "THE COOK"
 
 ---
 

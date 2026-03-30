@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 9 — "K'TAGH"
+## Scene 10 — "K'TAGH"
 
 ---
 

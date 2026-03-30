@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 5B — "THE CALL"
+## Scene 6 — "THE CALL"
 
 ---
 
