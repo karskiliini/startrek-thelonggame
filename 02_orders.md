@@ -19,7 +19,7 @@ The flagship of the Federation. Waiting to be put down.
 
 `INT. ENTERPRISE-A — MESS — CONTINUOUS`
 
-A TABLE of junior officers eating. Synthesized food — nutritionally precise, texturally approximate. The kind of meal you stop tasting after a while.
+A TABLE of junior officers eating. Rectangular blocks on rectangular trays — uniform in color, uniform in shape, uniform in the specific way that food stops being food and becomes a delivery system for calories. No texture. No contour. The geometry of nutrition without the memory of anything that was ever alive. A meal that looks like it was designed by someone who had food described to them but never tasted it.
 
 Half the faces are new. Transfer replacements. The particular discomfort of officers who requested Enterprise and got — this. The paint is right but the smell is wrong. Something tired in the air circulation that no filter quite catches.
 
