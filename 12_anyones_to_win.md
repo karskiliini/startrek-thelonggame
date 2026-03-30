@@ -178,6 +178,13 @@ McCoy drinks the grey water.
 
 Kirk drinks the grey water.
 
+Kirk looks at Spock.
+
+---
+
+**KIRK**
+How about a scotch?
+
 `CUT TO:`
 
 ---
