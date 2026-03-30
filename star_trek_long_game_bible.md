@@ -258,7 +258,7 @@ She raised the hesitation incident. She put it on the record. She is one of the 
 ---
 
 ## COMMANDER K'TAGH — Klingon Commander
-### Commanding officer, IKS vessel at Kerata IV. The mad dog.
+### Commanding officer, IKS vessel at Kerata IV. The mad dog. Cast placeholder: Stallone energy — Rambo 1 / Rocky 3 in a Klingon uniform.
 
 Volatile. Blunt. Dangerous in the way that a man with nothing left to calculate is dangerous. K'Tagh is the Klingon the other Klingons send when they need someone who doesn't flinch — and the one they regret sending when he stops taking orders.
 
