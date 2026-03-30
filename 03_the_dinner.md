@@ -24,25 +24,24 @@ Come.
 
 The door opens. HUMMER enters.
 
-He's in full dress uniform — the only one at the table who is. He reads the room in approximately half a second and recalibrates. Removes his jacket without being asked and folds it over a chair back with the precision of someone for whom disorder has always had real consequences.
-
-McCoy gestures at the open seat.
+He's in full dress uniform — the only one at the table who is. He reads the room in approximately half a second and knows he got it wrong.
 
 ---
 
 **McCOY**
-Sit down. The jacket was the right instinct, the execution needed work.
+Lose the jacket and sit down.
+
+Hummer removes the jacket. Folds it over a chair back with the precision of someone for whom disorder has always had real consequences. Sits.
 
 ---
 
 **HUMMER**
-*(sitting)*
-I wasn't sure of the register.
+I wasn't sure of the agenda.
 
 ---
 
 **McCOY**
-The register is: four people, one bottle, no agenda.
+The agenda is: table for four, one bottle, informal, no agenda.
 
 Kirk leans forward and pours for Hummer.
 
