@@ -51,7 +51,7 @@ He looks at his bridge. His crew. The tactical station.
 
 HUMMER.
 
-Hummer who has been quieter since the ready room conversation. Working. Listening to everything. Running calculations that he then sets aside and looks at the connsole with instead of into it.
+Hummer who has been quieter since the ready room conversation. Working. Listening to everything. Running calculations that he then sets aside and looks at the console with instead of into it.
 
 Rebuilding.
 
