@@ -17,14 +17,14 @@ She doesn't raise her voice.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 The Emergency Disclosure window was open for thirty-eight seconds.
 
 Kirk says nothing.
 
 ---
 
-**VOSS** *(CONT'D)*
+**ADMIRAL VOSS** *(CONT'D)*
 Your tactical officer had a valid sensor reading at the fourteen-second mark. Sufficient cause to invoke the protocol existed at the twenty-second mark. At the absolute latest.
 
 *(beat)*
@@ -38,14 +38,14 @@ The reading was fragmentary, Admiral. My officer was being thorough. The protoco
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 Captain.
 
 He stops.
 
 ---
 
-**VOSS** *(CONT'D)*
+**ADMIRAL VOSS** *(CONT'D)*
 We are now in a position where we are making accusations we cannot prove to people who are very good at appearing reasonable.
 
 *(beat)*
@@ -56,7 +56,7 @@ A silence.
 
 ---
 
-**VOSS** *(CONT'D)*
+**ADMIRAL VOSS** *(CONT'D)*
 Get your bridge in order.
 
 She closes the channel.

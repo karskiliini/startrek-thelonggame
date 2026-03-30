@@ -32,7 +32,7 @@ A small advantage of my position.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 It's very good.
 
 ---
@@ -70,7 +70,7 @@ He pauses. Chooses his next words with the care of a man who knows exactly how t
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 The colonial administration filed a preliminary report. The investigation is ongoing.
 
 ---
@@ -98,7 +98,7 @@ SORAK has been quiet. He has been quiet in the specific way of someone who is li
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 You're asking for a combined security mandate. Cardassian military police operating under Cardassian jurisdiction on Federation colonial territory.
 
 ---
@@ -162,7 +162,7 @@ Sorak registers it. Files it. Says nothing.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 The Council's position on the humanitarian mission remains supportive. The security request is — I understand the urgency. I'll take it back.
 
 ---
@@ -237,7 +237,7 @@ She looks at him.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 I wonder sometimes how you find time to sleep.
 
 ---
@@ -254,7 +254,7 @@ The corridor utilization isn't supply chain.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 I know.
 
 ---
@@ -264,7 +264,7 @@ The construction timeline I've estimated puts the installation at operational ca
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 *(measured)*
 Your installation. You've presented estimated coordinates to the Council. They've reviewed the intelligence.
 
@@ -275,7 +275,7 @@ And?
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 The evidence for military construction is circumstantial. The humanitarian metrics are documented and independently verified. The economic consequences of a hostile posture toward Cardassia would be — significant.
 
 ---
@@ -285,7 +285,7 @@ How significant.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 Destabilizing. Six independent worlds currently in Cardassian economic alignment. Trade routes that twenty Federation member worlds depend on. The Council is not wrong to weigh that.
 
 ---
@@ -297,7 +297,7 @@ A silence.
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 What do you need?
 
 ---
@@ -307,7 +307,7 @@ A ship. In that system. A captain with sufficient judgment to act when the momen
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 You have someone in mind.
 
 It isn't a question.
@@ -321,21 +321,21 @@ Voss looks at him for a moment. She has been here before — not this room, but 
 
 ---
 
-**VOSS**
+**ADMIRAL VOSS**
 I'll review the assignment roster.
 
 She moves toward the door. Stops. Turns back. Something in her face that has been there since Marek left and hasn't found the right moment until now.
 
 ---
 
-**VOSS** *(CONT'D)*
+**ADMIRAL VOSS** *(CONT'D)*
 Sorak.
 
 He looks at her.
 
 ---
 
-**VOSS** *(CONT'D)*
+**ADMIRAL VOSS** *(CONT'D)*
 Marek knew you'd be here tonight. He accepted the invitation specifically because you'd be here.
 
 *(beat)*
