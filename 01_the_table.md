@@ -11,7 +11,15 @@ GUL MAREK is cooking.
 
 Not supervising. Not warming something prepared elsewhere. Cooking — hands moving between a cutting surface and a heat source with the unhurried precision of a man who has done this many times and considers it important. A Cardassian root vegetable sliced thin. Oil in a pan. The specific sound of something being built from raw materials by someone who knows what the finished product should taste like.
 
-He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure of his species giving him the particular quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform. Over the civilian clothes, an apron. The apron does not diminish him. It is another uniform.
+He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure of his species giving him the particular quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
+
+Over the civilian clothes — an apron. Cardassian leather. Heavy. The kind of weight that settles on the shoulders like authority. It is not new. The leather is dark with age and use, the surface carrying the particular patina of something that has been wiped clean a thousand times without ever quite losing what was on it before. Stains that might be wine. Might be oil. Might be older than either. The history of the apron is not discussed and does not need to be.
+
+The knives are not on the counter. They are in sheaths built into the apron itself — three of them, different sizes, each in its own leather pocket along the front panel. Marek draws them and returns them with the absent familiarity of a man reaching for tools that have always been exactly where they are. The gesture is not theatrical. It is the opposite of theatrical. It is a man using his grandfather's knives the way his grandfather used them.
+
+The apron has been in the Marek family since before anyone in the family entered politics. Or — more precisely — since the family decided that politics and cooking were the same discipline. Both require preparation. Both require knowing what temperature to apply and for how long. Both require the patience to let something reduce until only the essential remains.
+
+The apron does not diminish him. It is his oldest uniform.
 
 ADMIRAL VOSS sits at the counter with a glass of Cardassian Kanar, dark and slightly luminescent. She is precisely what she appears to be: blonde, immaculate, the kind of composed that takes twenty years to build and looks effortless once built. She accepted the Kanar because refusing it would have been a statement, and she is not here to make statements.
 
@@ -245,7 +253,11 @@ I look forward to it.
 
 He doesn't mean it. Marek knows he doesn't mean it. The exchange is perfect.
 
-Marek unties his apron. Folds it with the care of a man who respects his tools. Sets it on the counter. Leaves through the main door.
+Marek unties the apron. Returns each knife to its sheath — one, two, three — with the same absent precision he used all evening. Then folds the leather. Slowly. The fold lines are worn into the material from generations of the same gesture. He does not set it on the counter. He holds it for a moment — the weight of it in his hands — and then places it inside the case he brought it in. The case goes under his arm.
+
+The apron leaves with him. The knives leave with him. The kitchen remains, but the tools that made it his are gone.
+
+He leaves through the main door.
 
 The kitchen becomes a different room.
 
