@@ -345,7 +345,7 @@ His role at the dinner table is specific: lower Hummer's guard completely. Self-
 
 He is the film's moral compass in its plainest form. He sees what Kirk carries and says the right thing at the right moment without explaining why it's right.
 
-> "You're going to get him killed." / "Probably." / "He'll be fine."
+> "You're gonna get him killed." / Kirk turns his glass. "He'll be alright."
 
 ---
 
@@ -525,7 +525,7 @@ Changes the subject. Before leaving Hummer offers to fix the water filtration ba
 
 After. Kirk and McCoy alone.
 
-> "I like him." / "You're going to get him killed." / "Probably." / "He'll be fine."
+> "I like him." / "You're gonna get him killed." / Kirk turns his glass. "He'll be alright."
 
 One look exchanged with Spock before he departed — Kirk understanding exactly what Spock did tonight. The question built around a canyon they haven't reached yet. The seed planted in the only soil where it would grow. Memory.
 

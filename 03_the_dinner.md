@@ -583,19 +583,14 @@ Kirk says nothing. Turns his empty glass slowly on the table. Looking at it.
 ---
 
 **McCOY** *(CONT'D)*
-You're going to get him killed, you know.
+You're gonna get him killed.
+
+Kirk looks at his glass. Picks it up. Turns it slowly in his hand — the grey water catching what light there is. The particular gesture of a man weighing something that doesn't fit in a glass.
 
 ---
 
 **KIRK**
-Probably.
-
-A long pause. The ship sounds around them. The particular alive-quiet of a vessel at warp.
-
----
-
-**McCOY**
-He'll be fine.
+He'll be alright.
 
 Kirk looks up. Toward the door Hummer left through. He doesn't say anything.
 
