@@ -258,7 +258,7 @@ She raised the hesitation incident. She put it on the record. She is one of the 
 ---
 
 ## COMMANDER K'TAGH — Klingon Commander
-### Commanding officer, IKS vessel at Kerata IV. The mad dog. Cast placeholder: Stallone (Judge Dredd 1995) — the older, heavier, uncompromising force against Urban's younger Hummer.
+### Commanding officer, IKS vessel at Kerata IV. The mad dog. Cast placeholder: Stallone energy — raw, physical, uncompromising.
 
 Volatile. Blunt. Dangerous in the way that a man with nothing left to calculate is dangerous. K'Tagh is the Klingon the other Klingons send when they need someone who doesn't flinch — and the one they regret sending when he stops taking orders.
 
@@ -346,7 +346,7 @@ He is the film's moral compass in its plainest form. He sees what Kirk carries a
 ---
 
 ## CAPTAIN CANDIDATE HUMMER — The American Dream Arc
-### Tactical Officer, USS Enterprise-A. From Vega Colony. Space miner. Nobody's son. Cast: Karl Urban (young — 25-year-old energy). Stallone (Judge Dredd 1995) as K'Tagh is his mirror opponent.
+### Tactical Officer, USS Enterprise-A. From Vega Colony. Space miner. Nobody's son. Cast: Karl Urban (young — 25-year-old energy).
 
 Not a name that announces greatness. Utilitarian. Unglamorous. Built for rough terrain. Left Vega Colony at sixteen on a freight hauler. Worked two years in the Kerata asteroid belt to save for Academy fees. Built a survival mechanism: never answer until certain, never commit until you can't be wrong. It worked. It got him here. And here it will kill people.
 
