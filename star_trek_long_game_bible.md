@@ -297,7 +297,7 @@ Not the weight of a traitor. The weight of a weapon that was aimed and fired and
 ---
 
 ## GUL MAREK — Cardassian Military Officer
-### Senior officer, Cardassian vessel at Kerata IV. Working name.
+### Senior officer, Cardassian vessel at Kerata IV. Cast: Charles Dance.
 
 Not a dissident. Not a traitor. A genuine Cardassian patriot who watched the Klingon alliance compress a careful fifty-year operation into a dangerous five-year scramble.
 
