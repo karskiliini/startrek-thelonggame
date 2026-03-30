@@ -725,6 +725,12 @@ Kirk listens. He knows exactly what he's hearing. The mad dog doctrine in action
 
 A lie. But how do you prove it? How do you prove that the leash was designed to break?
 
+The Federation chooses to believe it. Not because they are fooled — because the alternative is war. The Khitomer Accords hold because both sides decide, every single day, that the peace is worth the price of swallowing lies they can see through. Kirk knows the ambassador is lying. The ambassador knows Kirk knows. The peace survives because everyone agrees not to say it out loud.
+
+This is what the long game costs. Not battles. Not treaties. The slow daily act of choosing the lie that keeps the table open over the truth that flips it.
+
+**Timeline: set after Star Trek VI.** The Khitomer Accords are in force. The Klingon-Cardassian alliance operates in the grey space that the peace treaty doesn't cover. K'Tagh's attack does not break the accords because everyone agrees it didn't happen the way it happened. Grey water.
+
 The review board. Five officers. Admiral Voss at the center. Hummer's file. Board Member Chen raises the hesitation incident. Kirk stands.
 
 > *"I've seen officers freeze under pressure and never recover. I've seen officers who never froze but never truly led either. This man froze once, understood exactly why, and then did something most officers never manage. He learned to trust himself more than his fear. In the same engagement he acted on instinct, found the instinct incomplete, and had the presence to correct course without losing a single second of momentum. He gave orders he couldn't yet confirm were right because he was already thinking three moves past them. That is not a liability. That is the only quality that matters when everything else fails. Give him a ship."*
