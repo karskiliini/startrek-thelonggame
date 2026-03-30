@@ -13,7 +13,7 @@ But he knows this belt. And he knows where you can't hide a warbird — not in t
 
 That leaves three corridors. Deep. Slow. The ancient inner-ring paths where the rocks are continent-sized and the spaces between them are quiet enough to hide in.
 
-He used those corridors himself. Fourteen years ago. Night shifts in a shuttle with no running lights.
+He used those corridors himself. Twelve years ago. Night shifts in a shuttle with no running lights.
 
 ---
 
@@ -605,7 +605,7 @@ Hummer looks at the viewer. The dust still churning where the Vor'nak was. Ninet
 ---
 
 **HUMMER**
-I used it myself. Fourteen years ago. Coming back from a night shift in a shuttle with no running lights because the power cell was failing.
+I used it myself. Twelve years ago. Coming back from a night shift in a shuttle with no running lights because the power cell was failing.
 
 *(beat)*
 

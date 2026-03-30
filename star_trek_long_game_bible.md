@@ -414,7 +414,7 @@ Channel to the two Federation support vessels running silent: *"Delta formation.
 
 ## The Calculation
 
-Three large asteroids on trajectories creating in ninety seconds the only clean pursuit corridor through the ring. The path Klingon pursuit doctrine would instinctively use. He knows this path — he used it himself fourteen years ago coming back from a night shift in a shuttle with no running lights because the power cell was failing.
+Three large asteroids on trajectories creating in ninety seconds the only clean pursuit corridor through the ring. The path Klingon pursuit doctrine would instinctively use. He knows this path — he used it himself twelve years ago coming back from a night shift in a shuttle with no running lights because the power cell was failing.
 
 Three precise calving shots. Three debris walls closing the corridor at forty, sixty, and seventy seconds. Not trying to hit anything. Closing the geometry. Building immobility from physics and memory simultaneously.
 

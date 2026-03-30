@@ -13,7 +13,7 @@ HUMMER, at the tactical station, stops what he's doing.
 
 He looks at the viewer.
 
-He's been here before. Fourteen years ago. In a shuttle with bad lights and a failing power cell. He cut rock out of that belt for two years. He ate bad food in a colony that was falling apart. He left when he could.
+He's been here before. Twelve years ago. In a shuttle with bad lights and a failing power cell. He cut rock out of that belt for two years. He ate bad food in a colony that was falling apart. He left when he could.
 
 Now the colony is flourishing. From orbit you can see the organized geometry of infrastructure that works — roads, power distribution, the clean lines of something someone invested in.
 

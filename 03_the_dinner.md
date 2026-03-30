@@ -322,7 +322,7 @@ Every payday. Sometimes between paydays. Miners, mostly. People who'd been cutti
 
 *(beat)*
 
-I was sixteen. I handled it.
+I was eighteen. I handled it.
 
 He says it without bravado. The voice of a man stating the weather.
 
