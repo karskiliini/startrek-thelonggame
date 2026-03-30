@@ -263,59 +263,33 @@ Regenerated after chapter edit ($num_chunks chunks).
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
     git push
     echo "Pushed: $mp3 at $(date)"
-done
 
-# Combine all chapters into full screenplay MP3 (story order)
-echo ""
-echo "=== Combining all chapters ==="
-
-all_chapters=(
-    00_opening_credits
-    01_the_table
-    02_orders
-    03_the_dinner
-    04_grey_water
-    05_the_incident
-    06_the_call
-    07_the_cook
-    08_ready_room
-    09_sorak_hand
-    10_ktagh
-    11_the_canyon
-    12_the_conn
-    13_kobayashi_maru
-    14_anyones_to_win
-)
-
-all_exist=true
-for ch in "${all_chapters[@]}"; do
-    if [[ ! -f "audio/${ch}.mp3" ]]; then
-        echo "MISSING: audio/${ch}.mp3 — skipping combined file"
-        all_exist=false
-        break
-    fi
-done
-
-if $all_exist; then
-    concat_list=$(mktemp)
+    # Rebuild full MP3 after each scene
+    all_chapters=(
+        00_opening_credits 01_the_table 02_orders 03_the_dinner
+        04_grey_water 05_the_incident 06_the_call 07_the_cook
+        08_ready_room 09_sorak_hand 10_ktagh 11_the_canyon
+        12_the_conn 13_kobayashi_maru 14_anyones_to_win
+    )
+    all_exist=true
     for ch in "${all_chapters[@]}"; do
-        echo "file '$(pwd)/audio/${ch}.mp3'" >> "$concat_list"
+        [[ ! -f "audio/${ch}.mp3" ]] && all_exist=false && break
     done
-
-    ffmpeg -y -f concat -safe 0 -i "$concat_list" -codec:a libmp3lame -qscale:a 2 audio/star_trek_the_long_game_full.mp3 2>/dev/null
-    rm "$concat_list"
-
-    echo "Created: audio/star_trek_the_long_game_full.mp3"
-
-    git add audio/star_trek_the_long_game_full.mp3
-    git commit -m "Update combined audio: star_trek_the_long_game_full.mp3
-
-All chapters concatenated in story order.
+    if $all_exist; then
+        concat_list=$(mktemp)
+        for ch in "${all_chapters[@]}"; do
+            echo "file '$(pwd)/audio/${ch}.mp3'" >> "$concat_list"
+        done
+        ffmpeg -y -f concat -safe 0 -i "$concat_list" -codec:a libmp3lame -qscale:a 2 audio/star_trek_the_long_game_full.mp3 2>/dev/null
+        rm "$concat_list"
+        git add audio/star_trek_the_long_game_full.mp3
+        git commit -m "Update full audio (after ${base}.mp3)
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
-    git push
-    echo "Pushed: combined MP3 at $(date)"
-fi
+        git push
+        echo "Updated full MP3 at $(date)"
+    fi
+done
 
 echo ""
 echo "=== Done at $(date) ==="
