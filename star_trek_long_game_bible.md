@@ -256,19 +256,33 @@ He doesn't speak to Kirk like a diplomat. He speaks to Kirk like a man who has a
 
 This is what makes him terrifying. And this is what makes him honest.
 
-**The Discovery**
+**The Mad Dog Doctrine**
+
+K'Tagh is not an aberration. He is policy. The Klingon High Command systematically assigns volatile, aggressive commanders to forward positions — officers who will attack at the slightest provocation, often without authorization. This is deliberate:
+
+- If the attack succeeds → the Empire gains territory, resources, position
+- If the attack fails → "he acted against strict orders, all other captains have been warned"
+- Deniability every time — until the day it isn't needed anymore
+
+K'Tagh knows he is a loaded weapon pointed at someone else's target. He may even know he is expendable. It changes nothing. His honor demands that he fire.
+
+**The Discovery (Scene 8)**
 
 Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. His faction was brought here as a distraction.
 
-A more cautious officer would have verified. Consulted. Waited. K'Tagh opens a private channel to Kirk and tells him everything. Because the gap between his conclusion and his action is zero.
+A more cautious officer would have verified. Consulted. Waited. K'Tagh opens a private channel to Kirk and tells him everything. Because the gap between his conclusion and his action is zero. This is not alliance. This is rage — directed at the Cardassians who used him, not sympathy for the Federation.
 
-**Why He Tells Kirk**
+**Why He Attacks (Scenes 9-10)**
 
-Not sympathy for the Federation. Not strategy. Because he will not be Cardassian muscle. For K'Tagh that is not a calculation. That is a wound. His fury is entirely Klingon and entirely Russian simultaneously — the rage of a warrior who discovers he was brought along as decoration.
+Kirk succeeds in preventing war. The diplomatic solution works. K'Tagh watches the opportunity evaporate — not the Cardassian deception, but the war itself. The war he was sent here to help start, whether his superiors admit it or not.
+
+And across the system sits Kirk. The name every Klingon knows. The man who humiliated them at Organia, at Genesis, at Khitomer. The ikiaikainen verivihollinen — the eternal blood enemy. If K'Tagh destroys Kirk, he will be remembered for a thousand years. His name sung in the halls of Sto-vo-kor.
+
+He has been officially ordered not to provoke. He attacks anyway. Because he is a mad dog. Because that is what mad dogs do. Because the High Command put him here knowing exactly what he would do and needing exactly the deniability his disobedience provides.
 
 **The Weight He Carries**
 
-The vindication of everything Kirk believed when he made the hardest peace of his life. A Klingon breaking from his faction not out of reason but out of raw insulted honor. The mad dog that bites the hand that leashed it.
+Not the weight of a traitor. The weight of a weapon that was aimed and fired and missed. K'Tagh attacked the Federation flagship against orders, in a system where peace was being negotiated, and failed. He is either a rogue officer who acted alone — or the proof that the Klingon Empire is not negotiating in good faith. The Empire will choose the first interpretation. Every time.
 
 ---
 
@@ -585,87 +599,51 @@ The Kobayashi Maru assembling around Kirk in real time. Sorak has accounted for 
 
 ## SCENE 8 — "K'TAGH"
 
-The most important scene in the film. Two commanders on a private channel. No weapons. No ships. Just the truth moving between two people who have been watching each other carefully for days.
+Two commanders on a private channel. No weapons. No ships. Just the truth moving between two people — except one of them is a loaded weapon.
 
 K'Tagh has figured out he's been used. Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. His faction was brought here as a distraction.
 
-She tells Kirk not out of sympathy for the Federation. Because she will not be Cardassian muscle. That fury is entirely Klingon and entirely Russian simultaneously.
-
-She tells him one specific thing — the true scope of the installation, the construction timeline, what controlling that corridor means for fifty years — and closes the channel.
+He tells Kirk not out of sympathy for the Federation. Because he will not be Cardassian muscle. That fury is entirely Klingon. He tells Kirk the true scope of the installation, the construction timeline, what controlling that corridor means for fifty years — and closes the channel. Not an alliance. A grenade thrown at the Cardassians through Kirk's hands.
 
 Kirk sits alone. Everything has changed shape. He sees Sorak's Kobayashi Maru for the first time. He understands it. He even agrees it's probably right. He starts thinking about whether it's the only move. He starts thinking about Marek.
 
 ---
 
-## SCENE 9 — "THE CANYON"
+## SCENES 9–11 — THE PARALLEL CRISIS
 
-The manufactured incident forces both ships into the deep canyon system of Kerata's moon. Dense ionized rock. Sensor range forty kilometers. Communications fragmenting. This is the submarine. Passive sensors only.
+These three scenes intercut. Two simultaneous operations. One ship, two fronts.
 
-The Cardassian vessel moving toward the corridor entrance. The Klingon warbird somewhere in the ring, cloaked, position unknown. Both governments screaming for action. The clock running.
+**SURFACE: Kirk and Marek (Scene 11 — "KOBAYASHI MARU")**
 
-Kirk has to go to the surface. To Marek. Personally. Now. While the ship is most vulnerable. He walks to the tactical station. Stands next to Hummer. Looking at the same readouts. Hummer briefs him on two candidate positions for the cloaked Klingon ship. Kirk looks at the zones. Then at Hummer.
+Kirk has to go to the surface. To Marek. Personally. While the ship is most vulnerable. He walks to the tactical station. Stands next to Hummer. Looks at the same readouts. Doesn't say anything about what's coming. Just looks at his tactical officer for one moment — the look of a man placing a bet.
 
-He doesn't say anything about the ready room. He doesn't say anything about what's coming. He just looks at his tactical officer for one moment — the look of a man placing a carefully calculated bet.
+> "You have the conn."
 
-Then, clearly, for the bridge:
+On the surface: Marek hands over the data chip. Original construction orders. Classification level four above his clearance. Then Marek sees the full scope — ten times what he believed. His face is not a plan being executed. It's a man discovering he was also deceived.
 
-> "You have the con."
+> *"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
 
-Walks to the turbolift. The doors close. A Lieutenant Commander at the helm — senior to Hummer by two grades — turns in his seat. Says nothing. Hummer doesn't look back at him. He's already reading.
+Kirk holds the chip. Finds the unmapped door: documentation disclosed publicly, every neutral world watching, Cardassian position made politically untenable. No war. A diplomatic catastrophe that sets their timeline back fifteen years.
 
----
+**ORBIT: K'Tagh attacks (Scenes 9-10 — "THE CANYON" / "THE CONN")**
 
-## SCENE 10 — "THE CON"
+K'Tagh watches the diplomatic solution unfold. The war evaporating. The opportunity dying. And across the system — Kirk. The eternal blood enemy. The name every Klingon knows.
 
-**THE GUT MOVE**
+He has been officially ordered not to provoke. He attacks anyway.
 
-Enterprise into aggressive posture — he knows what it looks like to Klingon commanders. He knows what fear does to a commander. He described it at a dinner table over grey water and wine.
+Enterprise is alone. Kirk on the surface. Hummer has the conn. The mad dog is coming.
 
-Channel to the two Federation support vessels running silent: *"Delta formation. If you detect any vessels decloaking at our stern within the next forty seconds — you know what to do. Don't wait for confirmation. Move on contact."* Closes the channel. Fear gone. Space opens.
+Hummer takes Enterprise into the asteroid ring. Hides inside an old mining cavity in an iron-rich asteroid — gut feeling that the hollow interior is big enough. Enterprise rolls 90 degrees to fit through the entrance. Cannot turn around inside. The asteroid rotates, sealing the opening before K'Tagh's warbird passes. The crew feels the gravitational tremor as the cloaked ship passes close. Kirk whispers: "The Klingon impulse drive."
 
-**THE CALCULATION**
+Then: Hummer strikes. Photon torpedoes at the corridor walls — not the ship. 15,000-meter spread. The asteroid walls fracture inward. Rocks cascade into the passage. On the Klingon bridge — the captain sees rocks filling his viewer. Two seconds of silence. "Shields up. SHIELDS UP!" Rocks hit an invisible hull. Stop in empty space. The shape of the cloaked ship traced in suspended stone. Decloak — forced or chosen. Kirk returns to the bridge. Phasers collapse the shields. The dust cloud swallows the warbird. Gone.
 
-He pulls up the orbital mechanics. He knows these rocks — not from charts, from memory. Two years of night shifts in this belt. Three large asteroids on trajectories creating in ninety seconds the only clean pursuit corridor. He finds them the way you find a face in a crowd — not by searching, by recognizing.
+**THE CONVERGENCE**
 
-Three precise calving shots. Three debris walls closing the corridor at forty, sixty, and seventy seconds. Not trying to hit anything. Closing the geometry. Building immobility from physics and memory simultaneously.
+Kirk returns from the surface with the diplomatic solution in motion. Returns to the bridge to find the tactical aftermath. Reads the record in silence.
 
-**THE FEAR MISTAKE ARRIVES**
+> "You gave those orders before you were certain." / "I knew enough."
 
-Klingon commanders face debris or decloak. They make the fear-move — decloak too early, exactly where Hummer told the support vessels to watch. The support vessels are already there. No direct shots fired at any Klingon ship.
-
-**AFTER**
-
-K'Tagh appears on screen. Looks at the tactical situation. Then at Hummer. Something in his face that isn't quite admiration and isn't quite surprise. He stands his ships down.
-
-Kirk returns. Reads the tactical record in silence. The gut move. The preemptive orders placed before the decloaks. The three calving shots. The geometry.
-
-> "You gave those orders before you knew." / "I knew enough."
-
-> **HUMMER** (to Park, who asks how he knew): *"I've been in that corridor. When you're trying not to be seen in that ring — that's the path you take. I knew because I used it myself. Fourteen years ago. Coming back from a night shift in a shuttle with no running lights because the power cell was failing. I knew which rocks to aim for because I cut them once and felt what happened."*
-
-Kirk turns away. The audience sees his face. He's thinking about the dinner table. He knew enough then too.
-
-> *"Well done."* Two words. The whole bridge feels them.
-
----
-
-## SCENE 11 — "KOBAYASHI MARU"
-
-Kirk on the surface. A maintenance corridor in a Cardassian-built facility — functional, utilitarian.
-
-Marek hands over the data chip without preamble. Original construction orders. Classification level four above his clearance. Obtained fourteen days ago from a source he will not name.
-
-Then Marek sees the full scope on those documents. His face is not the face of a man executing a plan. It's the face of a man discovering he was also deceived. Ten times what he believed. Ten times what anyone outside a very small circle knew. He has been here building it without knowing what he was building.
-
-> *"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — and if this continues, it will come — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
-
-He leaves. Back to his ship. He calculated the cost fourteen days ago and paid it then.
-
-Kirk holds the chip. He knows what Sorak needs him to do with it. He knows the Kobayashi Maru when he's in it. He finds the unmapped door instead: documentation disclosed publicly, in front of every neutral world watching, the Cardassian position made politically untenable. No war. A diplomatic catastrophe that sets their timeline back fifteen years.
-
-Somewhere Sorak watches it happen on a screen. A long pause. Not anger. Not surprise at Kirk. Surprise at himself.
-
-Then Kirk finds him. The room is quiet.
+Somewhere Sorak watches both operations resolve on a screen. A long pause. Not anger. Surprise at himself.
 
 > **SORAK:** "You've only postponed the inevitable by thirty years."
 >
@@ -679,7 +657,13 @@ Sorak says nothing. For long enough that the silence becomes the most eloquent t
 
 Aftermath. The political settlement imperfect, unresolved, alive. The Cardassian installation under Federation arbitration — a process that will take years and may resolve nothing cleanly. Nobody won cleanly. The grey water is still grey.
 
-K'Tagh and Kirk — one final private communication. Brief. Formal. Everything acknowledged underneath. Two commanders who saw each other clearly across a dark canyon and chose not to pull the trigger. He closes the channel first.
+A communication with the Klingon Ambassador. Smooth. Formal. Regretful in exactly the way that a prepared statement is regretful.
+
+Commander K'Tagh acted in direct violation of explicit orders from the Klingon High Command. All other fleet commanders in the sector have been formally reminded of the Empire's commitment to the diplomatic process. The Empire expresses its deepest concern regarding the incident and wishes to assure the Federation that the actions of one rogue officer do not reflect —
+
+Kirk listens. He knows exactly what he's hearing. The mad dog doctrine in action. K'Tagh was put there to attack. When he attacked, they disowned him. When the next K'Tagh attacks — and there will be a next one — they will disown him too. Until the day one of them succeeds, and the disavowal is no longer necessary.
+
+A lie. But how do you prove it? How do you prove that the leash was designed to break?
 
 The review board. Five officers. Admiral Voss at the center. Hummer's file. Board Member Chen raises the hesitation incident. Kirk stands.
 
