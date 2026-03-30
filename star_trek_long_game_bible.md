@@ -609,41 +609,77 @@ Kirk sits alone. Everything has changed shape. He sees Sorak's Kobayashi Maru fo
 
 ---
 
-## SCENES 9–11 — THE PARALLEL CRISIS
+## SCENES 9–11 — TIMELINE
 
-These three scenes intercut. Two simultaneous operations. One ship, two fronts.
+The third act plays out in five phases. Kirk must be back on Enterprise before the asteroid field.
 
-**SURFACE: Kirk and Marek (Scene 11 — "KOBAYASHI MARU")**
+---
 
-Kirk has to go to the surface. To Marek. Personally. While the ship is most vulnerable. He walks to the tactical station. Stands next to Hummer. Looks at the same readouts. Doesn't say anything about what's coming. Just looks at his tactical officer for one moment — the look of a man placing a bet.
+**PHASE 1 — KIRK ON THE SURFACE (Scene 11 — "KOBAYASHI MARU")**
 
-> "You have the conn."
-
-On the surface: Marek hands over the data chip. Original construction orders. Classification level four above his clearance. Then Marek sees the full scope — ten times what he believed. His face is not a plan being executed. It's a man discovering he was also deceived.
+Kirk goes to the surface. Meets Marek in a maintenance corridor. Marek hands over the data chip — original construction orders, classification level four above his clearance. Then Marek sees the full scope. Ten times what he believed. He has been here building it without knowing what he was building.
 
 > *"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
 
-Kirk holds the chip. Finds the unmapped door: documentation disclosed publicly, every neutral world watching, Cardassian position made politically untenable. No war. A diplomatic catastrophe that sets their timeline back fifteen years.
+Kirk holds the chip. Finds the unmapped door: data disclosed publicly, every neutral world watching, Cardassian position made politically untenable. No war. A diplomatic catastrophe that sets their timeline back fifteen years.
 
-**ORBIT: K'Tagh attacks (Scenes 9-10 — "THE CANYON" / "THE CONN")**
+Kirk boards a Cardassian diplomatic vessel to return to orbit — part of the diplomatic process, surrounded by Cardassian officials and neutral observers. The peace is happening.
 
-K'Tagh watches the diplomatic solution unfold. The war evaporating. The opportunity dying. And across the system — Kirk. The eternal blood enemy. The name every Klingon knows.
+---
 
-He has been officially ordered not to provoke. He attacks anyway.
+**PHASE 2 — K'TAGH SNAPS (Scene 9 — "THE CANYON")**
 
-Enterprise is alone. Kirk on the surface. Hummer has the conn. The mad dog is coming.
+K'Tagh watches the diplomatic solution unfold from his warbird. The war he was sent here to help start — evaporating. The Cardassians who used him as decoration — being protected by diplomacy. And Kirk — the eternal blood enemy — sailing home on a Cardassian shuttle surrounded by applause.
 
-Hummer takes Enterprise into the asteroid ring. Hides inside an old mining cavity in an iron-rich asteroid — gut feeling that the hollow interior is big enough. Enterprise rolls 90 degrees to fit through the entrance. Cannot turn around inside. The asteroid rotates, sealing the opening before K'Tagh's warbird passes. The crew feels the gravitational tremor as the cloaked ship passes close. Kirk whispers: "The Klingon impulse drive."
+The mad dog breaks its leash.
 
-Then: Hummer strikes. Photon torpedoes at the corridor walls — not the ship. 15,000-meter spread. The asteroid walls fracture inward. Rocks cascade into the passage. On the Klingon bridge — the captain sees rocks filling his viewer. Two seconds of silence. "Shields up. SHIELDS UP!" Rocks hit an invisible hull. Stop in empty space. The shape of the cloaked ship traced in suspended stone. Decloak — forced or chosen. Kirk returns to the bridge. Phasers collapse the shields. The dust cloud swallows the warbird. Gone.
+K'Tagh attacks the Cardassian diplomatic vessels first. Not Enterprise. The Cardassians. The ones who betrayed him. His fury is not strategic. It is the rage of a Klingon warrior who was used as furniture.
 
-**THE CONVERGENCE**
+---
 
-Kirk returns from the surface with the diplomatic solution in motion. Returns to the bridge to find the tactical aftermath. Reads the record in silence.
+**PHASE 3 — ENTERPRISE SHIELDS THE CARDASSIANS**
 
-> "You gave those orders before you were certain." / "I knew enough."
+Enterprise — under Hummer — moves to intercept. Interposes its hull between K'Tagh's disruptor fire and the Cardassian diplomatic ships. Kirk is on one of those ships.
 
-Somewhere Sorak watches both operations resolve on a screen. A long pause. Not anger. Surprise at himself.
+Enterprise takes hits meant for someone else. The shields absorb the first volley. The second. The third cracks them. Hull breaches on decks seven and twelve. Systems failing. The irony: the Federation flagship absorbing Klingon fire to protect Cardassian diplomats who were building a military installation to threaten the Federation.
+
+Hummer holds position. He cannot maneuver without exposing the diplomatic convoy. He cannot fire without escalating. He can only take it.
+
+---
+
+**PHASE 4 — KIRK RETURNS TO ENTERPRISE**
+
+A brief window. K'Tagh breaks off to reposition — a cloaked attack run. Hummer has seconds.
+
+> "Transporter room — lock onto Captain Kirk's signal. Now."
+
+Kirk materializes on the bridge mid-sentence — he was shouting orders on the Cardassian vessel. He takes in the damage reports, the tactical display, K'Tagh's warbird recloaking for another run.
+
+Kirk takes command. Enterprise is damaged. Shields compromised. K'Tagh is faster, better armed, and cloaked.
+
+> "Hummer — get us into the ring."
+
+---
+
+**PHASE 5 — THE ASTEROID FIELD (Scene 10 — "THE CONN")**
+
+Kirk gives the strategic decision. Hummer executes the tactics.
+
+Enterprise limps into the asteroid field — damaged, shields flickering. Hummer finds the asteroid with the iron discoloration. Gut feeling: the interior might be hollow. Enterprise rolls 90 degrees and slides into the old mining cavity. Cannot turn around. The asteroid rotates, sealing the opening.
+
+Silence. Stone on every side. The crew feels the gravitational tremor as K'Tagh's cloaked warbird passes close. Kirk whispers: *"The Klingon impulse drive."*
+
+The opening rotates back. Hummer strikes. Photon torpedoes at the corridor walls — 15,000-meter spread. Three impacts fracture the passage inward. Rocks cascade. On K'Tagh's bridge — rocks filling the viewer. Two seconds of silence. *"SHIELDS UP!"*
+
+Rocks hit an invisible hull. Stop in empty space. The cloaked ship's shape traced in suspended stone. Decloak. Green shields flash on. Kirk: *"Phasers. Fire."* Shields collapse. The dust cloud swallows the warbird. Gone.
+
+Ninety crew. The mad dog is dead.
+
+---
+
+**AFTERMATH**
+
+Somewhere Sorak watches both crises resolve on a screen. A long pause. Not anger. Surprise at himself.
 
 > **SORAK:** "You've only postponed the inevitable by thirty years."
 >
