@@ -3,113 +3,76 @@
 
 ---
 
-`INT. ENTERPRISE-A — BRIDGE — LATER`
+`INT. ENTERPRISE-A — BRIDGE — NIGHT WATCH`
 
-The shift has changed. Quieter now.
+The shift has changed. Quieter now. The bridge lights are dimmed to night cycle — the soft blue-grey that makes everything feel like it's underwater.
 
-HUMMER at tactical. The readings scrolling across his console. He's been running the same analysis for twenty minutes.
-
-The explosion happens before he can decide what it means.
-
-`CUT TO:`
+HUMMER at tactical. The readings scrolling across his console. He's been running the same analysis of the northern cluster for twenty minutes — the power consumption anomaly Spock flagged, the numbers that don't add up.
 
 ---
 
-`EXT. KERATA IV — COLONY SURFACE — CONTINUOUS`
+The explosion happens on the night side of the planet.
 
-A power distribution hub in the northern settlement cluster. The blast is not contained — not this time. This is bigger than the incident Marek described at the dinner. The impact pattern is wrong for a ground-level device. The crater is too clean. The thermal scarring radiates from a single point of origin above the structure — not below, not beside. Above.
-
-This was fired from orbit. A disruptor bank. Klingon.
-
-The dust is still in the air when the broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action.
-
-`CUT TO:`
+No visual confirmation — the detonation is below the horizon from Enterprise's current orbital position. What Hummer sees is data. A sudden thermal spike in the northern settlement cluster. Seismic displacement. Atmospheric particulate bloom consistent with a structural collapse.
 
 ---
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
-
----
-
-**COMMUNICATIONS OFFICER**
-Captain — both vessels are broadcasting on all frequencies. The Cardassians are claiming a Klingon provocation, the Klingons are claiming —
+**HUMMER**
+Captain — explosion on the surface. Northern settlement, night side. No visual — we're on the wrong orbital arc.
 
 ---
 
 **KIRK**
-On screen. Cardassian first.
-
-The broadcast. A CARDASSIAN OFFICIAL — smooth, but this time not quite as prepared. Something in his composure has cracked. This was not the plan. Whatever is happening, it wasn't coordinated with Cardassia:
-
----
-
-**CARDASSIAN OFFICIAL** *(ON SCREEN)*
-— unprovoked attack on civilian infrastructure. Federation elements have demonstrated clear hostile intent toward the development mission —
-
-Kirk is already at the tactical station.
-
----
-
-**KIRK**
-*(to Hummer, low)*
-What do you have?
-
-Hummer's hands move across the console. The readings from the explosion. The sensor analysis. His eyes moving fast.
+Source?
 
 ---
 
 **HUMMER**
 Working.
 
-His console scrolls.
+His hands move across the console. Energy residue analysis. Blast pattern reconstruction from the seismic data. Atmospheric spectrography.
 
-Debris field composition. Energy signature. Blast pattern.
-
-His eyes stop moving.
-
-There — in the energy residue analysis. A disruptor frequency signature. Faint. Fragmentary. But there.
+There — in the energy signature. A disruptor frequency trace. Faint. Fragmentary. But there.
 
 He knows that frequency.
 
-Every tactical officer learns the standard disruptor profiles at the Academy. Klingon military disruptors operate on a frequency band that is distinct from Cardassian, Romulan, or any civilian mining equipment. The signature in the crater residue is consistent with a ship-mounted disruptor bank. Not a hand weapon. Not a ground installation. A ship.
-
-The Bird of Prey in high orbit.
+Every tactical officer learns the standard disruptor profiles at the Academy. Klingon military disruptors operate on a frequency band that is distinct from Cardassian, Romulan, or any civilian mining equipment. The signature in the residue data is consistent with a ship-mounted disruptor bank. Not a hand weapon. Not a ground installation.
 
 He should say something.
 
 Right now. Out loud. To Kirk. Three words: *Klingon disruptor signature.*
 
-That's all it would take. Kirk would act. Kirk would know what to do with a fragmentary reading and a gut feeling. Kirk has been acting on fragmentary readings and gut feelings for thirty years.
+But something stops him. Not fear. Not uncertainty about the data — the data is clear enough. Something else. Something in the shape of the attack itself.
 
-But the reading is fragmentary. The trace is partial. And Hummer has built his entire career on never saying anything he can't defend. Never being wrong. Never putting his name on a conclusion that might collapse under scrutiny.
+Night side. No witnesses. A single precision strike on infrastructure. This is not how Klingons operate. Hummer worked alongside Klingon crews for two years. He watched them fight over card games. He saw what happened when a Klingon felt disrespected — the immediate, public, theatrical violence of a species that considers secrecy a form of cowardice.
 
-So he keeps calculating.
+K'Tagh threatened Kirk openly, on a channel everyone could hear. That is Klingon. A hidden strike on the night side of a planet while Enterprise can't see? That is something else.
 
-The Klingon warbird maintains its orbit. Weapons still hot — but they were hot when Enterprise arrived. That's not new evidence. That's Tuesday for a Klingon.
+The signature is Klingon. The behavior is not.
 
-He calculates. The disruptor frequency is fragmentary. Partial. The blast dispersed most of the signature. What's left could be a match — but could also be attributed to industrial equipment, mining charges, half a dozen alternative explanations that a good defense attorney would drive a shuttle through.
+He keeps calculating.
 
-He calculates.
+---
 
-K'Tagh's warbird begins a slow orbital adjustment. The movement takes it behind the planet's ionosphere for ninety seconds — enough to break Enterprise's continuous sensor lock on the vessel. When it re-emerges, the fresh data chain is broken. The disruptor signature in Hummer's buffer is now an isolated reading without a continuous sensor correlation to the vessel that may have fired it.
+The Klingon warbird is in a standard patrol orbit. As Hummer watches, it begins a slow orbital adjustment — the kind of minor correction any vessel makes a dozen times a day for fuel efficiency, thermal management, communications alignment. The movement takes it behind the planet's ionosphere for ninety seconds.
 
-He had it. He had it and he said nothing.
+When it re-emerges, the fresh data chain is broken. The disruptor signature in Hummer's buffer is now an isolated reading without a continuous sensor correlation to the vessel that may have fired it.
 
-He has a glass of grey water.
+If it fired it. If anyone fired it from orbit at all.
 
-He says nothing.
+He had a window. The window is closed.
 
 ---
 
 **KIRK**
-*(still watching the broadcast)*
+*(watching the surface data on the main viewer)*
 Hummer. Report.
 
 ---
 
 **HUMMER**
 *(a beat — a beat too long)*
-Explosion in the eastern residential sector. Civilian building. Casualty reports coming in from the surface — Federation citizens among the dead.
+Explosion in the northern settlement cluster. Power distribution hub. Casualty reports coming in from the surface.
 
 *(beat)*
 
@@ -129,13 +92,19 @@ Looks back at the screen.
 *(to communications)*
 Get me Starfleet Command. Priority channel.
 
-Then — separately, quietly, in a voice that doesn't carry past the tactical station:
+---
+
+The broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action. The Cardassian broadcast is polished but cracked — something in the composure has broken. This was not planned. Whatever is happening, it wasn't coordinated.
 
 ---
 
 **KIRK** *(CONT'D)*
-*(to Hummer)*
+*(separately, quietly, in a voice that doesn't carry past the tactical station)*
 When you're done analyzing — come see me.
+
+Hummer looks at his console. The fragmentary signature. The night side. The behavior that doesn't match the data.
+
+He is right about all of it. He will never know.
 
 `CUT TO:`
 

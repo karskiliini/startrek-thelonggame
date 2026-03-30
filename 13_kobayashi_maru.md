@@ -144,7 +144,7 @@ The one that leaves the future open.
 
 Sorak at his display.
 
-The tactical situation from Kerata system. The installation data. The political landscape.
+The tactical situation from Cordia system. The installation data. The political landscape.
 
 He is watching Kirk's solution emerge in real time.
 

@@ -9,7 +9,7 @@ Not a Starfleet facility. No insignia. No official architecture. The kind of roo
 
 SORAK stands at a display.
 
-The display shows the Kerata system. The explosion site. The Cardassian broadcast transcript. The tactical record from Enterprise's bridge — which he should not have access to and which he has had access to for the last forty minutes.
+The display shows the Cordia system. The explosion site. The Cardassian broadcast transcript. The tactical record from Enterprise's bridge — which he should not have access to and which he has had access to for the last forty minutes.
 
 An AIDE stands near the door.
 
@@ -44,7 +44,7 @@ The Cardassians will interpret the failure to invoke as confirmation that their 
 **AIDE**
 Is that — is that a problem?
 
-Sorak looks at the Kerata system on the display.
+Sorak looks at the Cordia system on the display.
 
 ---
 
@@ -84,7 +84,7 @@ Get your bridge in order, Captain.
 
 He closes the file.
 
-Outside — somewhere in the Kerata system — things are accelerating.
+Outside — somewhere in the Cordia system — things are accelerating.
 
 `CUT TO:`
 

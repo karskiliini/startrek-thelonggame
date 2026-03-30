@@ -17,7 +17,7 @@ He opens a channel. Encrypted. Private.
 
 `SPLIT SCREEN — MAREK / K'TAGH`
 
-K'Tagh appears. Behind him, his bridge. He is not sitting. He is standing — the posture of a man who has just done something and is pleased with it.
+K'Tagh appears. Behind him, his bridge. He is standing — but not with the posture of a man who has done something. With the posture of a man who has been woken by something he doesn't understand and is already angry about it.
 
 ---
 
@@ -31,155 +31,122 @@ Or what remains of it.
 ---
 
 **K'TAGH**
-Yes.
-
-He says it like a man expecting praise.
+I see it.
 
 ---
 
 **MAREK**
-Explain.
+The energy signature in the debris is consistent with a ship-mounted Klingon disruptor bank.
+
+A silence. K'Tagh's face changes — not guilt, not the careful blankness of a man caught. Something rawer. Confusion becoming fury.
 
 ---
 
 **K'TAGH**
-The Federation is stalling. Your diplomatic approach was given time — weeks — and the result is a single preliminary report gathering dust on an admiral's desk. They are not moving. They will not move. The corridor will remain open and uncontested for another year while you serve dinner parties.
-
-*(something between pride and contempt)*
-
-I moved.
+That is not mine.
 
 ---
 
 **MAREK**
-You moved.
-
-He says it the way someone repeats a diagnosis.
+The frequency signature is —
 
 ---
 
 **K'TAGH**
-The northern hub was a pressure point. Now the Federation cannot pretend the situation is stable. They will have to act. They will have to —
+I know what the frequency signature is. I am telling you: that is not mine. My weapons have not fired. My crew has not left this ship. Check my disruptor logs. Check my power consumption records. Check anything you want.
+
+He is too angry to be lying. Or he is exactly angry enough. Marek cannot tell. This is the problem with Klingons — their authentic emotions and their performed emotions are identical.
 
 ---
 
 **MAREK**
-Commander.
-
-K'Tagh stops. Not because the word was loud. Because it was quiet.
-
----
-
-**MAREK** *(CONT'D)*
-The first incident — eleven days ago — was ours. Designed. Targeted. Calibrated to produce a specific political outcome: a joint security mandate that would have placed Cardassian military police on Federation colonial territory with full jurisdictional authority.
-
-*(beat)*
-
-That outcome was achieved. Admiral Voss accepted the proposal in principle. The Federation Council was reviewing the framework. The authorization required one more meeting. One.
-
-He lets that word sit.
-
----
-
-**MAREK** *(CONT'D)*
-A signature. A rubber stamp. And we would have had boots on the ground — legally, permanently, with Federation consent. Do you understand what that means? Not an occupation. An invitation. The kind that cannot be rescinded without the host admitting they were wrong to extend it.
-
-*(beat)*
-
-That is what thirty years of work looks like, Commander. One meeting away from a legal framework that hands us jurisdiction over a Federation system without firing a shot.
-
----
-
-K'Tagh shifts. Something in his posture — not doubt, not yet, but the first awareness that the ground beneath him may not be what he thought it was.
-
----
-
-**MAREK** *(CONT'D)*
-And then you blew up a power hub.
+*(evenly)*
+Then who?
 
 ---
 
 **K'TAGH**
-The Federation was —
+Your Federation friends arrived this morning. By tonight your hub is rubble and someone is wearing Klingon frequencies. You tell me who.
 
 ---
 
 **MAREK**
-The Federation was doing exactly what I needed them to do. Nothing. They were doing nothing. They were looking the other way because looking the other way was cheaper than looking closely. That is how this works. That is how this has always worked. You do not win this game by forcing people to look at you. You win it by making sure they never have a reason to.
-
-He steps closer to the screen.
-
----
-
-**MAREK** *(CONT'D)*
-You have given them a reason. Every Federation analyst in three sectors is now studying this system. Every intelligence officer. Every diplomat with a committee seat. They are looking. At us. At you. At everything we spent thirty years making sure they would never examine.
+*(a pause — then, with the particular patience of a man explaining something to a child)*
+Commander. The Federation did not attack a Cardassian installation on Federation colonial territory. That is — I say this with genuine respect for the creativity of the suggestion — not how they operate. They don't have the stomach for it. They don't have the institutional will. They cannot keep their own flagship's water supply functioning. They are not going to commit an act of war against a civilian power hub on a planet they have spent four years pretending is fine.
 
 *(beat)*
 
-And when they look — they will find things. Not because we were careless. Because thirty years of construction at this scale leaves evidence that only survives because no one is looking for it.
+They eat from our hand. They have eaten from our hand for thirty years. They are grateful. Grateful people do not bomb their benefactors.
 
 ---
 
 **K'TAGH**
-My people were told that the Federation —
+Then explain the timing. The Enterprise arrives. Hours later —
 
 ---
 
 **MAREK**
-Your people were told what they needed to hear. As were mine.
+The timing is coincidental. Or it is not coincidental — but the simplest explanation is not a Federation conspiracy. The simplest explanation is a Klingon commander whose frustration exceeded his orders.
 
 ---
 
-K'Tagh's face changes. He opens his mouth.
-
----
-
-**MAREK** *(CONT'D)*
-Commander. I want to tell you something about yourself. And I want you to listen carefully, because I will only say this once.
-
-K'Tagh doesn't speak. Something in Marek's voice has taken the room.
-
----
-
-**MAREK** *(CONT'D)*
-You are the kind of officer your High Command sends to places they want disrupted. Not because you are their best. Because you are their most predictable. They know exactly what you will do when you are frustrated: you will act. Loudly. Visibly. Without consulting the partner who has spent thirty years building the ground you are standing on.
-
-*(beat)*
-
-They sent you here knowing you would do this. They sent you here because when it goes wrong — and it will go wrong — they will say you acted alone. Against orders. A rogue officer. An unfortunate incident. And every other Klingon commander in every other system will be quietly told to wait six months and try again.
-
-*(beat)*
-
-You are not a warrior, Commander. You are a tool. The Klingon High Command pointed you at this system and waited for you to go off. The only question they had was when.
-
-*(beat)*
-
-The answer, it turns out, was too soon.
-
----
-
-K'Tagh stares at him. His jaw is working. His hands are at his sides. Everything in his body wants to respond — to roar, to threaten, to assert what he is.
-
-He can't. Because nothing Marek said is wrong.
+K'Tagh's jaw works. His hands are fists at his sides.
 
 ---
 
 **K'TAGH**
-You —
+I did not do this.
 
 ---
 
 **MAREK**
-Now do as I tell you. Or I will have you trashed.
+*(quiet — almost gentle)*
+Commander. I want you to understand something. Whether you gave the order, or one of your officers acted independently, or your weapons system misfired during a calibration exercise — I do not care. The result is the same. My hub is destroyed. My people are dead. And the sensor record says Klingon.
 
-The word lands. *Trashed.* Not disciplined. Not court-martialed. Not killed in battle. Trashed. The word you use for a tool that stopped working.
-
-K'Tagh's face. The face of a man who has just been told what he is twice in ten seconds and cannot find the words to make either one untrue.
+He picks up a knife from the apron. Turns it in his hand — not threatening, just a man holding a tool while he thinks.
 
 ---
 
 **MAREK** *(CONT'D)*
-We're done.
+The Chronos Prime supply line runs through this system. Sixty percent of the refined ore your Empire requires for shipbuilding passes through infrastructure I built. Infrastructure that is, as of tonight, demonstrably vulnerable to attack.
+
+*(beat)*
+
+I will be conducting a full safety review of all transit facilities. Comprehensive. Thorough. These things take time. Months, perhaps. During the review period, no cargo transits will be authorized.
+
+The word *authorized* hangs in the air. Not a blockade — a bureaucratic inspection. The Cardassian way. The knife that looks like paperwork.
+
+---
+
+**K'TAGH**
+You would starve my people over something I did not do.
+
+---
+
+**MAREK**
+I would protect my infrastructure from further attack. By anyone. If the Klingon Empire wishes to expedite the review, I am certain we can find a framework for — cooperation.
+
+He says *cooperation* the way he said *reassuring* to Voss. A word that means its opposite and everyone in the room knows it.
+
+---
+
+**K'TAGH**
+*(very low — a voice that has stopped being loud because it has gone past loud into something worse)*
+Marek. I have served this alliance with honor. I cleared the shipping lanes. I kept your cargo moving. I stationed my ship here for three years watching your people build things while mine —
+
+He stops. The sentence he was about to finish — *while mine live in darkness* — is too close to something he has never said aloud.
+
+---
+
+**MAREK**
+While yours what, Commander?
+
+K'Tagh says nothing. His face is the face of a man who has been accused, threatened, and now invited to humiliate himself. Every Klingon instinct demands he roar. But roaring proves nothing. And Marek knows it.
+
+---
+
+**MAREK** *(CONT'D)*
+We're done. For now.
 
 He closes the channel.
 
@@ -207,4 +174,4 @@ He doesn't pick it up.
 
 ---
 
-*End of Scene 5C*
+*End of Scene 7*

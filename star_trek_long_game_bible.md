@@ -34,7 +34,7 @@ The Star Trek prefix carries fifty years of promise — the Federation at its be
 
 The film is built on the same foundation that made Star Trek II: The Wrath of Khan the greatest entry in the franchise. The submarine feeling. Ships that are imperfect, aging, and damaged. Combat that strips away technological advantage and reduces everything to nerve, experience, and the quality of the person in the chair.
 
-The Mutara Nebula equalized both ships in Wrath of Khan. Our equivalent is the asteroid ring canyon system of Kerata's moon: dense ionized rock, sensor range forty kilometers, communications fragmenting, two ships close enough to see each other's running lights. The audience knows these rocks from the opening credits — their scale, their patience, their physics. When Hummer uses them in the battle it feels inevitable rather than invented.
+The Mutara Nebula equalized both ships in Wrath of Khan. Our equivalent is the asteroid ring canyon system of Cordia's moon: dense ionized rock, sensor range forty kilometers, communications fragmenting, two ships close enough to see each other's running lights. The audience knows these rocks from the opening credits — their scale, their patience, their physics. When Hummer uses them in the battle it feels inevitable rather than invented.
 
 Star Trek VI: The Undiscovered Country is the structural template. Approximately twelve major scenes, each doing plot, character, and theme simultaneously. One major scene every eight to ten minutes. The dinner scene as the engine of character revelation. Politics as the ocean the ships sail on. The space fight as the storm that finally hits.
 
@@ -93,18 +93,18 @@ This exchange reframes the entire title. The Long Game isn't Sorak's operation o
 
 | Real World | Star Trek | Role | Key Characteristic |
 |---|---|---|---|
-| China | Cardassians | Senior partner — architects | Belt and Road = Kerata IV. Patient. Bureaucratic. 30-year infrastructure operation. Civilizing mission mentality. |
+| China | Cardassians | Senior partner — architects | Belt and Road = Cordia IV. Patient. Bureaucratic. 30-year infrastructure operation. Civilizing mission mentality. |
 | Russia | Klingons | Junior partner — military muscle | Loud, proud, wounded empire. Honor culture that fractures from within. Their impatience triggers the entire film. |
 | USA / West | Federation | Complacent incumbent | Short election cycles. Economically entangled. Responds to loud threats and misses slow structural ones. |
-| Taiwan / Crimea | Kerata IV and colony | The strategic chokepoint | The corridor not the colony. Population divided. Flourishing under Cardassian investment. The referendum already written. |
+| Taiwan / Crimea | Cordia IV and colony | The strategic chokepoint | The corridor not the colony. Population divided. Flourishing under Cardassian investment. The referendum already written. |
 
 ## Why Cardassians = China is Precise
 
-The thirty-year infrastructure operation on Kerata IV is Belt and Road. Exactly. Invest in developing worlds. Build their schools, hospitals, power systems. Create economic dependency so deep that by the time anyone notices the world doesn't want to leave. That's not Klingon — Klingons don't have the patience for thirty years of invisible operation. That's Cardassian: bureaucratic, meticulous, civilizing mission mentality. The occupation of Bajor reframed as foreign investment.
+The thirty-year infrastructure operation on Cordia IV is Belt and Road. Exactly. Invest in developing worlds. Build their schools, hospitals, power systems. Create economic dependency so deep that by the time anyone notices the world doesn't want to leave. That's not Klingon — Klingons don't have the patience for thirty years of invisible operation. That's Cardassian: bureaucratic, meticulous, civilizing mission mentality. The occupation of Bajor reframed as foreign investment.
 
 ## How It Started — The Invitation the Federation Wrote Itself
 
-The Cardassians didn't invade the Kerata system. They were invited. But they weren't the first.
+The Cardassians didn't invade the Cordia system. They were invited. But they weren't the first.
 
 The Federation needed cheap mining labor for the asteroid belt — the work was dangerous, remote, and no Federation member world wanted to do it at Federation labor rates. The Klingons came first. Cheap, strong, willing to work in conditions no one else would tolerate. It was a reasonable arrangement on paper.
 
@@ -116,11 +116,11 @@ Once inside the system, the Cardassians saw what the Federation didn't and the K
 
 Marek is the architect of this transition. Not the mining phase — that was before his time. The phase where investment became influence. Where influence became authority. Where authority became, piece by piece, sovereignty in everything but name. He has been cooking this meal for thirty years. He is now serving it — personally, from his own hands — to the people who will eat it and call it diplomacy.
 
-The Federation didn't lose the Kerata system in a battle. They outsourced it.
+The Federation didn't lose the Cordia system in a battle. They outsourced it.
 
 ## Why Klingons = Russia is Precise
 
-Klingons are loud, proud, reactive, and emotionally driven. A wounded empire that remembers greatness and wants it back. Their honor culture means they can fracture from within when leadership acts dishonorably. It is Klingon impatience that triggers this entire film. The Cardassians needed five more years of invisible operation. The Klingon faction moved a warbird to Kerata IV to make a visible show of strength. That move forced the Federation to send Kirk. The junior partner's pride nearly ruined the thirty-year operation.
+Klingons are loud, proud, reactive, and emotionally driven. A wounded empire that remembers greatness and wants it back. Their honor culture means they can fracture from within when leadership acts dishonorably. It is Klingon impatience that triggers this entire film. The Cardassians needed five more years of invisible operation. The Klingon faction moved a warbird to Cordia IV to make a visible show of strength. That move forced the Federation to send Kirk. The junior partner's pride nearly ruined the thirty-year operation.
 
 K'Tagh was the leader of the original Klingon mining operation in the belt. What Marek is now, K'Tagh was then — head of external labor, the man who built the infrastructure with his own hands, who bled for every ton of ore extracted from those rocks. When the Klingons were replaced by Cardassians, K'Tagh didn't lose a contract. He lost his purpose. The role that defined him was handed to someone who did it better, quieter, and with less breakage. His reassignment to "escort and security operations" is a uniform wrapped around a demotion. Every day Marek runs the operation efficiently is proof that K'Tagh wasn't good enough.
 
@@ -136,9 +136,9 @@ But within the facade: the Cardassians — patient, meticulous, playing the fift
 
 K'Tagh despises Marek — but understands him. Marek has an agenda and pursues it openly. That is a language K'Tagh speaks. The Federation, by contrast, talks about cooperation and arrives with starships. Marek loathes the Klingon chaos — but respects their directness. The Federation smiles and says "partnership" when it means "submission."
 
-On Kerata, Marek and K'Tagh sit at the same table, drink together, speak of shared interests. Behind the curtain Marek builds infrastructure designed to make Klingons obsolete, and K'Tagh looks for evidence to justify a military takeover. Each reports a completely different story to their own high command. The Dinner scene is this theater at its most refined — two men who hate each other performing civilization.
+On Cordia, Marek and K'Tagh sit at the same table, drink together, speak of shared interests. Behind the curtain Marek builds infrastructure designed to make Klingons obsolete, and K'Tagh looks for evidence to justify a military takeover. Each reports a completely different story to their own high command. The Dinner scene is this theater at its most refined — two men who hate each other performing civilization.
 
-And Kirk walks into this. He should see through the facade — but the uncomfortable truth is that his own government benefits from these two keeping each other busy on the periphery. The Federation doesn't want to solve the Kerata situation. It wants it to stay manageable.
+And Kirk walks into this. He should see through the facade — but the uncomfortable truth is that his own government benefits from these two keeping each other busy on the periphery. The Federation doesn't want to solve the Cordia situation. It wants it to stay manageable.
 
 K'Tagh discovers in Scene 8 that his faction has been used as Cardassian muscle. For a Klingon that is not a strategic calculation. That is a matter of honor. His fury is entirely Klingon and entirely Russian simultaneously.
 
@@ -148,7 +148,7 @@ K'Tagh discovers in Scene 8 that his faction has been used as Cardassian muscle.
 
 ## The Colony — Hummer's Origin
 
-The colony neighbouring Kerata IV is in the same system as Vega Colony where Hummer grew up. He left at sixteen on a freight hauler. Before saving enough for the Academy he spent two years working as a space miner in the asteroid belt of this system — the same belt that rings Kerata's moon.
+The colony neighbouring Cordia IV is in the same system as Vega Colony where Hummer grew up. He left at sixteen on a freight hauler. Before saving enough for the Academy he spent two years working as a space miner in the asteroid belt of this system — the same belt that rings Cordia's moon.
 
 When he worked those rocks the colony was in rags. Marginal. The kind of place people left when they got the chance. He left. Now it is flourishing — schools that work, medical facilities that work, clean water, infrastructure that makes nearby Federation colonies look embarrassed. The Cardassians built this. Genuinely. Real investment, real results.
 
@@ -180,15 +180,15 @@ Not from charts. From memory. Two years of night shifts. He knows which asteroid
 
 Spock knew this when he constructed the dinner question. He didn't give Hummer a tactical problem. He gave him a way home. When Hummer answers Spock's hypothetical something in the details feels familiar without him knowing why. Because it is home. Spock planted the seed in the most fertile soil available: memory.
 
-## Kerata IV — The Crimea
+## Cordia IV — The Crimea
 
-Kerata IV sits at the mouth of a natural corridor — the only fast, sheltered, undetectable route for fleet movements between Cardassian territory and Federation core systems. Thirty years of patient cultural and economic investment built a democratically legitimate Cardassian-aligned local government. This is Crimea. The referendum is already written before Enterprise arrives.
+Cordia IV sits at the mouth of a natural corridor — the only fast, sheltered, undetectable route for fleet movements between Cardassian territory and Federation core systems. Thirty years of patient cultural and economic investment built a democratically legitimate Cardassian-aligned local government. This is Crimea. The referendum is already written before Enterprise arrives.
 
 ## The Military Installation — Ten Times Larger
 
 Compartmentalized above Marek's clearance. Above K'Tagh's briefings. Above Sorak's fifteen years of intelligence work. Marek's shock when he pulled those files fourteen days before the film's present action is genuine — he has been here building it without knowing what he was building.
 
-The document he hands Kirk doesn't just expose Kerata IV. It forces every world in the Cardassian economic sphere to ask: what else is cover? No war needed. A diplomatic catastrophe that sets their timeline back fifteen years.
+The document he hands Kirk doesn't just expose Cordia IV. It forces every world in the Cardassian economic sphere to ask: what else is cover? No war needed. A diplomatic catastrophe that sets their timeline back fifteen years.
 
 ---
 
@@ -201,7 +201,7 @@ Enterprise-A has no replicators. The crew eats synthesized food. The colony has 
 | Crew / junior officers | Synthesized food. Grey water. Gets the job done. Always has. |
 | Senior officers in orbit | Replicated food from the colony. A known privilege. Quietly resented. |
 | Kirk / admirals | Real meat. Biological. Something that had a life. Hummer notices in half a second and says nothing. Kirk notices him notice. |
-| Kerata IV colonists | Cardassian-spec replicators. Better than the flagship. The thirty-year operation in one image. |
+| Cordia IV colonists | Cardassian-spec replicators. Better than the flagship. The thirty-year operation in one image. |
 | Sorak | Extraordinary food wherever he meets. The privileges of operating at this level have stopped feeling like privileges. |
 | Voss and Marek at dinner | Real food, Cardassian Kanar. The best room on the starbase. The long game played over an excellent meal. |
 
@@ -248,9 +248,19 @@ From Sorak's believer to independent actor. Beats the Kobayashi Maru not by bein
 
 Not a villain. Completely right about the threat and completely wrong about his right to fight it alone. The Federation's CIA — the Cigarette Smoking Man, a benevolent Emperor. He has all the intelligence. He stopped asking permission fifteen years ago.
 
+**The False Flag Architect**
+
+Sorak orchestrated both attacks on the colony. The first — eleven days before the film's present action, six dead including two children — was designed to provoke Marek into requesting Cardassian military police, which in turn gave Sorak the institutional justification to send Enterprise to the system. The second — timed after Enterprise's arrival, on the planet's night side with no witnesses — was designed to escalate the crisis beyond diplomatic containment. Both used Klingon-frequency disruptor signatures, fabricated to implicate K'Tagh.
+
+The attacks serve a single strategic purpose: force the Federation to see what Sorak has been warning them about for fifteen years. He does not need the Federation to believe his intelligence reports. He needs them to watch Marek's reaction to each crisis — the immediate, practiced, perfectly calibrated response of a man converting every emergency into expanded authority. Each Marek response proves Sorak's thesis: this man is building a state inside the Federation.
+
+Sorak killed six people — two of them children — because his probability models indicated this was the minimum intervention required to prevent a future conflict that would kill millions. He is not wrong about the math. He is wrong about his right to do the math alone.
+
+In Scene 1 he sits at Marek's table and listens to Marek describe the first attack — the attack Sorak himself ordered. His "mild attention of someone cataloguing a specimen" is literally true. He is watching his own operation's results unfold in real time.
+
 **Hummer — The Piece He Placed First**
 
-Before the ship. Before Kirk. Before the dinner on Starbase 12. Sorak identified the Kerata system as the flashpoint and calculated backward: who would need to be on the tactical station of the ship he sent there? He found Hummer's record — Vega Colony, freight hauler, two years in the Kerata belt, Academy scores that said *capable*. He moved one name on one assignment roster. The first move in the game, and nobody saw it. By the time Voss agrees to "review the assignment roster" for the ship, Sorak has already staffed it with the asset he needs.
+Before the ship. Before Kirk. Before the dinner on Starbase 12. Sorak identified the Cordia system as the flashpoint and calculated backward: who would need to be on the tactical station of the ship he sent there? He found Hummer's record — Vega Colony, freight hauler, two years in the Cordia belt, Academy scores that said *capable*. He moved one name on one assignment roster. The first move in the game, and nobody saw it. By the time Voss agrees to "review the assignment roster" for the ship, Sorak has already staffed it with the asset he needs.
 
 **His Fatal Flaw**
 
@@ -296,7 +306,7 @@ She raised the hesitation incident. She put it on the record. She is one of the 
 ---
 
 ## COMMANDER K'TAGH — Klingon Commander
-### Commanding officer, IKS vessel at Kerata IV. The mad dog. Cast: Stallone (35y) — muscle, terrible slicked-back hair, raw physical threat.
+### Commanding officer, IKS vessel at Cordia IV. The mad dog. Cast: Stallone (35y) — muscle, terrible slicked-back hair, raw physical threat.
 
 Volatile. Blunt. Dangerous in the way that a man with nothing left to calculate is dangerous. K'Tagh is the Klingon the other Klingons send when they need someone who doesn't flinch — and the one they regret sending when he stops taking orders.
 
@@ -314,28 +324,52 @@ K'Tagh is not an aberration. He is policy. The Klingon High Command systematical
 
 K'Tagh knows he is a loaded weapon pointed at someone else's target. He may even know he is expendable. It changes nothing. His honor demands that he fire.
 
+**The Klingon Long Game — Hidden Infrastructure**
+
+The Klingons are not stupid. K'Tagh's years of "inefficiency" — broken equipment, ruined ore batches, terrible production numbers — were a cover story. While the Cardassians focused on visible colony-building and the Federation looked away, K'Tagh was building something inside the asteroid belt: military installations carved into the rock. Weapons caches. Sensor jamming stations. Supply depots. The poor production numbers explained where the resources went. The broken equipment explained the energy consumption.
+
+K'Tagh was not a failed mining foreman replaced by a better Cardassian. He was the architect of a parallel military operation — one that neither Marek nor the Federation nor even Sorak detected. The 15% lights in the Klingon settlements are not backwardness — energy is diverted elsewhere.
+
+This makes Marek's "you are a tool" insult deeply ironic. Marek believes K'Tagh is a crude instrument. K'Tagh has been running a long game of his own — cruder than Marek's, yes, but no less deliberate.
+
+**The False Accusation**
+
+K'Tagh did not attack the colony. He is accused of both explosions — the first (before Enterprise) and the second (after Enterprise arrives). The disruptor signatures are Klingon-frequency. Every piece of evidence points to him. Marek is certain. Kirk suspects it. The Federation assumes it.
+
+K'Tagh knows he didn't do it. He knows his crew didn't do it. His immediate conclusion: Enterprise is the bad omen. The Federation's flagship arrives and within hours there's an explosion — and they blame the Klingons. Classic Federation playbook: provoke, accuse, "peacekeep." He has seen it before.
+
+This makes him furious in a way that is different from his usual fury. Not the rage of a warrior denied battle — the rage of a man falsely accused. There is no Klingon insult worse than questioning a warrior's word. And every person in the system is questioning his word.
+
+**The Confrontation with Marek (Scene 7)**
+
+Marek accuses K'Tagh. K'Tagh denies it — genuinely, furiously. Marek does not believe him. In Marek's logic, the Federation attacking is laughable — they are spineless, they eat from Cardassian hands, they can't even keep their flagship's water clean. The Klingons are the only ones stupid and impulsive enough. It must be them.
+
+Marek threatens a trade embargo on Chronos Prime. The mining products that flow through the system are critical to the Klingon Empire. One signature, one "quality inspection" that lasts months, and the supply chain stops. The Klingon settlements — already living at fifteen percent — would be strangled.
+
+K'Tagh is trapped: accused of something he didn't do, threatened with punishment against his own people, and unable to prove his innocence because the fabricated evidence is Klingon-frequency. The hatara alliance fractures — not because of truth, but because neither side believes the other. Sorak didn't need to break them. He created the conditions for them to break themselves.
+
 **The Discovery (Scene 8)**
 
 Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. His faction was brought here as a distraction.
 
-A more cautious officer would have verified. Consulted. Waited. K'Tagh opens a private channel to Kirk and tells him everything. Because the gap between his conclusion and his action is zero. This is not alliance. This is rage — directed at the Cardassians who used him, not sympathy for the Federation.
+A more cautious officer would have verified. Consulted. Waited. K'Tagh opens a private channel to Kirk and tells him everything. Because the gap between his conclusion and his action is zero. This is not alliance. This is rage — directed at the Cardassians who used him, not sympathy for the Federation. And underneath: *"I didn't attack your colony. You didn't attack it. Who did?"*
 
 **Why He Attacks (Scenes 9-10)**
 
-Kirk succeeds in preventing war. The diplomatic solution works. K'Tagh watches the opportunity evaporate — not the Cardassian deception, but the war itself. The war he was sent here to help start, whether his superiors admit it or not.
+Marek's trade embargo threatens to strangle K'Tagh's entire operation. Without resource flow through the Cordia system, the Klingon asteroid installations lose their supply chain. Months of "safety inspection" and the hidden bases go dark — power systems fail, equipment degrades, years of secret construction wasted. K'Tagh cannot let that happen.
 
-And across the system sits Kirk. The name every Klingon knows. The man who humiliated them at Organia, at Genesis, at Khitomer. The ikiaikainen verivihollinen — the eternal blood enemy. If K'Tagh destroys Kirk, he will be remembered for a thousand years. His name sung in the halls of Sto-vo-kor.
+The only way to break the embargo is to remove Marek's command authority — which means destroying the Cardassian diplomatic vessel. Kirk has positioned Enterprise as the Cardassian ship's protector. Therefore Enterprise must be destroyed first — or simultaneously.
 
-He has been officially ordered not to provoke. He attacks anyway. Because he is a mad dog. Because that is what mad dogs do. Because the High Command put him here knowing exactly what he would do and needing exactly the deniability his disobedience provides.
+This is not rage. Not honor. Not a mad dog lunging. It is the last rational military option available to a commander whose hidden infrastructure is being suffocated by bureaucratic warfare. K'Tagh attacks because if he does not, everything he built dies quietly behind a wall of Cardassian paperwork. The mad dog doctrine is still in effect — the High Command sent him here knowing this moment would come — but the trigger is strategic, not emotional.
 
 **The Weight He Carries**
 
-Not the weight of a traitor. The weight of a weapon that was aimed and fired and missed. K'Tagh attacked the Federation flagship against orders, in a system where peace was being negotiated, and failed. He is either a rogue officer who acted alone — or the proof that the Klingon Empire is not negotiating in good faith. The Empire will choose the first interpretation. Every time.
+Not the weight of a traitor. The weight of a commander who gambled his crew and his hidden operation on a single engagement — and lost. K'Tagh attacked the Federation flagship to save his own long game, and the asteroid field he had spent years building into a fortress became his tomb. He is either a rogue officer who acted alone — or the proof that the Klingon Empire was running its own military operation inside a Federation system. The Empire will choose the first interpretation. Every time.
 
 ---
 
 ## GUL MAREK — Cardassian Military Officer
-### Senior officer, Cardassian vessel at Kerata IV. Cast: Charles Dance.
+### Senior officer, Cardassian vessel at Cordia IV. Cast: Charles Dance.
 
 Not a dissident. Not a traitor. A genuine Cardassian patriot who watched the Klingon alliance compress a careful fifty-year operation into a dangerous five-year scramble.
 
@@ -349,11 +383,13 @@ Fourteen days before the film's present action he pulled files classified four l
 
 **Why He Helps Kirk**
 
-The second explosion. The Klingon explosion. That is what breaks him — not the files, not the scale of the installation, not even what he discovered fourteen days ago. It is watching his alliance partner destroy a power distribution hub he spent three years building because they couldn't wait for the Cardassian timeline to deliver results.
+The second explosion. What Marek believes is a Klingon attack — the destruction of a power distribution hub he spent three years building. In reality it was Sorak's false flag, but Marek will never know that. To him this is proof: the Klingon alliance is destroying everything faster than the Federation ever could.
 
-Thirty years of patient, invisible work. Schools. Hospitals. Roads. A civilization built one contract at a time. And the Klingons blew up a piece of it because they wanted something to happen *now*.
+K'Tagh denied responsibility. Marek considered and dismissed the possibility — the Federation attacking is laughable, they are spineless, they eat from Cardassian hands, they benefit from the status quo. It must be the Klingons. It is always the Klingons. The only faction stupid enough and impulsive enough.
 
-Not nobility. The most ruthless Cardassian calculation available: the alliance with the Klingons will destroy Cardassia faster than the Federation ever could. He helps Kirk not because Kirk is right, but because the Klingons are ruining everything.
+Thirty years of patient, invisible work. Schools. Hospitals. Roads. A civilization built one contract at a time. And someone — Marek is certain it was the Klingons — blew up a piece of it because they couldn't wait for the Cardassian timeline to deliver results.
+
+Not nobility. The most ruthless Cardassian calculation available: the alliance with the Klingons will destroy Cardassia faster than the Federation ever could. He helps Kirk not because Kirk is right, but because the Klingons are ruining everything. He is wrong about who attacked. He is right about the conclusion.
 
 *"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — and if this continues, it will come — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
 
@@ -362,11 +398,11 @@ Not nobility. The most ruthless Cardassian calculation available: the alliance w
 ## SPOCK — First Officer
 ### The deepest player at the dinner table. Cast: Leonard Nimoy (Star Trek VI age).
 
-He has already run the full analysis of Kerata IV before the dinner — the canyon system, the asteroid ring, the orbital mechanics, Hummer's complete record and background. He calculated that this officer already carries the answer he will need.
+He has already run the full analysis of Cordia IV before the dinner — the canyon system, the asteroid ring, the orbital mechanics, Hummer's complete record and background. He calculated that this officer already carries the answer he will need.
 
 **The Dinner Question**
 
-Not a general tactical scenario. Built around the exact parameters of the Kerata moon environment, referencing the specific density gradients and calving characteristics of the belt Hummer worked for two years. By drawing the answer out rather than giving it Spock makes it Hummer's own. Not information received. Identity formed. When the moment comes in the canyon Hummer doesn't think *that dinner scenario.* He just thinks. And the answer is there — it feels like memory, because it is.
+Not a general tactical scenario. Built around the exact parameters of the Cordia moon environment, referencing the specific density gradients and calving characteristics of the belt Hummer worked for two years. By drawing the answer out rather than giving it Spock makes it Hummer's own. Not information received. Identity formed. When the moment comes in the canyon Hummer doesn't think *that dinner scenario.* He just thinks. And the answer is there — it feels like memory, because it is.
 
 **The Long Game Spock Plays**
 
@@ -390,13 +426,13 @@ He is the film's moral compass in its plainest form. He sees what Kirk carries a
 ## CAPTAIN CANDIDATE HUMMER — The American Dream Arc
 ### Tactical Officer, USS Enterprise-A. From Vega Colony. Space miner. Nobody's son. Cast: Karl Urban (young — 25-year-old energy).
 
-Not a name that announces greatness. Utilitarian. Unglamorous. Built for rough terrain. Left Vega Colony at sixteen on a freight hauler. Worked two years in the Kerata asteroid belt to save for Academy fees. Built a survival mechanism: never answer until certain, never commit until you can't be wrong. It worked. It got him here. And here it will kill people.
+Not a name that announces greatness. Utilitarian. Unglamorous. Built for rough terrain. Left Vega Colony at sixteen on a freight hauler. Worked two years in the Cordia asteroid belt to save for Academy fees. Built a survival mechanism: never answer until certain, never commit until you can't be wrong. It worked. It got him here. And here it will kill people.
 
 **The Assignment He Doesn't Understand**
 
 Hummer applied to multiple ships after the Academy. His scores were sufficient for Enterprise but so were dozens of candidates with better pedigrees, better connections, better names. Enterprise was the long shot. He doesn't know why he got it.
 
-Sorak knows. Sorak arranged it — quietly, invisibly, months before the dinner on Starbase 12. He had already identified the Kerata system as the flashpoint. He had already calculated that whoever held the tactical station on the ship he was sending there would need to know that specific asteroid belt from memory, not from charts. He found Hummer's record. Vega Colony. Freight hauler. Two years cutting rock in the Kerata belt. Academy scores that said *capable*. Background that said *knows the terrain*.
+Sorak knows. Sorak arranged it — quietly, invisibly, months before the dinner on Starbase 12. He had already identified the Cordia system as the flashpoint. He had already calculated that whoever held the tactical station on the ship he was sending there would need to know that specific asteroid belt from memory, not from charts. He found Hummer's record. Vega Colony. Freight hauler. Two years cutting rock in the Cordia belt. Academy scores that said *capable*. Background that said *knows the terrain*.
 
 Sorak moved one name on one assignment roster. Nobody noticed. Nobody was meant to. By the time Hummer sits at Kirk's dinner table he has already been a piece in Sorak's long game for months without knowing it. He thinks he got lucky. He got calculated.
 
@@ -406,9 +442,17 @@ His arc is the American Dream engine of the film — nobody's son learning that 
 
 A small brilliant tactical instinct nobody else catches. The slight hesitation before he speaks. It seems like thoroughness.
 
-**Stage 2 — The Failure (Scene 5)**
+**Stage 2 — The Hesitation (Scene 5)**
 
-Hull composition trace — Cardassian military construction. First instinct correct. Keeps calculating instead of speaking. The Cardassian vessel shifts orbit. The sensor geometry moves. The trace becomes unrecoverable. Says nothing.
+The second explosion. Night side of the planet, no witnesses. Hummer reads the sensor data: Klingon-frequency disruptor signature. Fragmentary but present. Every protocol says report it immediately.
+
+But something doesn't fit. Hummer's instinct — built from two years working alongside Klingon crews, from watching how they operate — tells him this is wrong. K'Tagh wouldn't attack a civilian target on the night side with no audience. Klingons don't hide. If K'Tagh struck, he'd want everyone to know. The evidence is real but the behavior is wrong.
+
+He hesitates. Not from cowardice — from the correct instinct that something about this evidence is fabricated. He is right. Sorak manufactured the disruptor signature to implicate K'Tagh. But Hummer cannot know that. He only knows it doesn't feel like Klingon work.
+
+While he calculates, K'Tagh's warbird passes behind the ionosphere — routine orbital adjustment or evasive maneuver, impossible to tell. The continuous sensor lock breaks. The signature becomes an isolated reading. The window closes.
+
+Nobody will ever tell Hummer his instinct was correct. Kirk reads the hesitation as failure. Voss records it as incompetence. The audience — once they learn about Sorak's false flag in Scene 9 — will understand that the young officer who was punished for hesitating was the only person in the room who sensed something was wrong.
 
 **Stage 3 — The Reprimand (Scene 6)**
 
@@ -454,13 +498,29 @@ Channel to the two Federation support vessels running silent: *"Delta formation.
 
 Three large asteroids on trajectories creating in ninety seconds the only clean pursuit corridor through the ring. The path Klingon pursuit doctrine would instinctively use. He knows this path — he used it himself twelve years ago coming back from a night shift in a shuttle with no running lights because the power cell was failing.
 
-Three precise calving shots. Three debris walls closing the corridor at forty, sixty, and seventy seconds. Not trying to hit anything. Closing the geometry. Building immobility from physics and memory simultaneously.
+Hummer fires photon torpedoes at the corridor walls — not at the cloaked ship, at the rocks themselves. The goal: collapse the corridor, force the cloaked vessel to decloak or be buried. Fire at the geometry, let physics do it. The dinner answer made real.
 
-## The Fear Mistake — Paid Off in Full
+## The Moment K'Tagh Sees
 
-Klingon commanders face debris or decloak. They make the fear-move — decloak too early, exactly where Hummer told the support vessels to watch. The support vessels are already there. No direct shots fired at any Klingon ship.
+One of the torpedoes is heading for an asteroid K'Tagh knows intimately. He built a base inside it. Weapons caches. Energy systems. Volatile materials that were never meant to take a photon torpedo impact.
+
+Close-up: K'Tagh's face. Not fear — *recognition*. The eyes widen. A man watching his own long game turn against him in a single second. He built the bomb. Someone else is lighting the fuse without knowing it exists.
+
+*"Shields up!"*
+
+Two words. The most tragic line in the film. A commander trying to save his crew from the consequences of his own secret. Too late — or just late enough. The torpedo strikes the asteroid. The base detonates. The chain reaction is an order of magnitude beyond what Hummer calculated — energy caches, weapons stores, everything K'Tagh hid in the rock amplifies the explosion into something catastrophic.
+
+Enterprise survives behind shields — Hummer anticipated debris, braced for impact. The Klingon warbird, too close to the detonation, too deep in the corridor, shields raised a fraction too late, does not.
+
+## What Nobody Planned
+
+Hummer does not know he hit a military installation. He fired at rock — rock he knew, rock he had cut with his own hands twelve years ago. The chain reaction surprises him as much as anyone. Only later, when salvage teams sift through the debris field, do they find the remains of Klingon military infrastructure that no one — not Sorak, not Marek, not Kirk — knew existed.
+
+K'Tagh's long game is revealed only in its destruction. The man who was dismissed as a crude tool, a failed foreman, an impulsive mad dog — had been running an operation sophisticated enough to hide from Cardassian intelligence and Federation sensors for years. And it killed him.
 
 *"You gave those orders before you knew." / "I knew enough."*
+
+Hummer knew enough about the rocks. He didn't know enough about what was inside them. Nobody did.
 
 ---
 
@@ -529,7 +589,7 @@ He adjusts his probability models by some small percentage. He does not know yet
 
 Kirk boards Enterprise. Aging. Tired. Under-resourced. A water dispenser in the corridor produces something grey and slightly cloudy — a crew member looks at it, uses it anyway. A crew member in the mess eating synthesized food stares out the viewport at nothing in particular.
 
-Kirk receives his official orders: Klingon warbird behaving unusually near Kerata IV, Cardassian diplomatic vessel in orbit three weeks without explanation. Routine investigation. Keep it diplomatic. Everything legitimate. Everything incomplete.
+Kirk receives his official orders: Klingon warbird behaving unusually near Cordia IV, Cardassian diplomatic vessel in orbit three weeks without explanation. Routine investigation. Keep it diplomatic. Everything legitimate. Everything incomplete.
 
 Spock: K'Tagh's distinguished record. The Cardassian vessel's encrypted communications volume — three hundred and forty percent above humanitarian coordination norms.
 
@@ -549,11 +609,11 @@ McCoy reaches for the water dispenser. Pours a glass. Holds it to the light. Gre
 
 The food stops Hummer for half a second. Real meat. He says nothing. Kirk notices him notice. McCoy explains the Cardassian-spec replicators on the colony — three hundred thousand Federation citizens eating better than the crew of this ship. Kirk: *"Don't tell the crew."* McCoy: *"They know. They always know."*
 
-Kirk draws Hummer out. Vega Colony. Freight hauler at sixteen. Space mining before the Academy. When Hummer mentions the asteroid belt — *it's actually this system, Kerata, same belt, the drift patterns looked familiar from the mission briefing* — something moves behind Kirk's eyes. He doesn't look at Spock.
+Kirk draws Hummer out. Vega Colony. Freight hauler at sixteen. Space mining before the Academy. When Hummer mentions the asteroid belt — *it's actually this system, Cordia, same belt, the drift patterns looked familiar from the mission briefing* — something moves behind Kirk's eyes. He doesn't look at Spock.
 
 McCoy's self-deprecating stories about his doctor's son background create the contrast that lets Hummer speak honestly about the colony — struggling when he worked there, people leaving when they could. He saw the current population figures in the mission briefing. They've tripled. The Cardassians built it.
 
-Spock says almost nothing for twenty minutes. Then asks one question — a tactical hypothetical built around the exact parameters of the Kerata moon environment, referencing the specific density gradients and calving characteristics of the belt Hummer worked for two years. Something in it feels almost familiar to Hummer without him knowing why. Because it is home.
+Spock says almost nothing for twenty minutes. Then asks one question — a tactical hypothetical built around the exact parameters of the Cordia moon environment, referencing the specific density gradients and calving characteristics of the belt Hummer worked for two years. Something in it feels almost familiar to Hummer without him knowing why. Because it is home.
 
 Hummer's answer sounds almost wrong — render everyone immobile, not just the enemy, fire at the geometry not the enemy, close the corridors, let physics do it. Kirk's face does the involuntary thing. Then the elaboration lands.
 
@@ -571,7 +631,7 @@ One look exchanged with Spock before he departed — Kirk understanding exactly 
 
 ## SCENE 4 — "GREY WATER"
 
-Enterprise arrives at Kerata IV. The planet prosperous — Cardassian investment visible everywhere. The neighbouring colony, visible from orbit, stops Hummer at his console for a moment. He grew up near those people. He worked alongside them. He says nothing. Kirk notices.
+Enterprise arrives at Cordia IV. The planet prosperous — Cardassian investment visible everywhere. The neighbouring colony, visible from orbit, stops Hummer at his console for a moment. He grew up near those people. He worked alongside them. He says nothing. Kirk notices.
 
 The population genuinely divided. Many have built good lives under thirty years of Cardassian economic presence and resent the implication that they need rescuing. The Federation never offered them anything comparable. Too much Cardassian personnel — specializations wrong, security infrastructure serving no civilian purpose — but the humanitarian work is real. Both things are true. The film never resolves them.
 
@@ -803,7 +863,7 @@ STAR TREK: THE LONG GAME. Grey Water as subtitle. Not subject to further revisio
 
 ## The Canonical Mapping — Do Not Reverse
 
-Cardassians = China. Klingons = Russia. Foundational to every scene and every character motivation. The Klingon impatience that triggers the film is Russian impatience. The Cardassian patience that built Kerata IV is Chinese patience.
+Cardassians = China. Klingons = Russia. Foundational to every scene and every character motivation. The Klingon impatience that triggers the film is Russian impatience. The Cardassian patience that built Cordia IV is Chinese patience.
 
 ## The Theme — Final Statement
 

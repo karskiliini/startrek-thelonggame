@@ -52,7 +52,7 @@ User communicates in Finnish and English interchangeably. Respond in the languag
 ## Hummer Timeline
 - 16: leaves Vega Colony
 - 16-18: freight hauler
-- 18-20: asteroid mining in Kerata belt
+- 18-20: asteroid mining in Cordia belt
 - 20-24: Starfleet Academy
 - 24-28: service on other ships
 - ~28: transferred to Enterprise (arranged by Sorak via Voss)

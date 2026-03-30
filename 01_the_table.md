@@ -81,7 +81,7 @@ He sets down his knife. The gesture is small but deliberate — the universal si
 ---
 
 **MAREK** *(CONT'D)*
-Eleven days ago, a device detonated in the eastern residential block of the Kerata IV settlement. A Cardassian block. Forty-three injured. Six dead. Two of them children.
+Eleven days ago, a device detonated in the eastern residential block of the Cordia IV settlement. A Cardassian block. Forty-three injured. Six dead. Two of them children.
 
 A silence.
 
@@ -113,7 +113,7 @@ He lets the word sit.
 ---
 
 **MAREK** *(CONT'D)*
-Admiral, I am not here to assign blame. I am here because fourteen thousand Cardassian nationals live on Kerata IV and the current security framework does not protect them. We need the right to investigate. Not to replace your authorities — to supplement them. Cardassian police working alongside the colonial administration. And given the military nature of the weapons involved —
+Admiral, I am not here to assign blame. I am here because fourteen thousand Cardassian nationals live on Cordia IV and the current security framework does not protect them. We need the right to investigate. Not to replace your authorities — to supplement them. Cardassian police working alongside the colonial administration. And given the military nature of the weapons involved —
 
 *(a beat — the precise calibration of reluctance, as though he wished he didn't have to say this)*
 
@@ -140,7 +140,7 @@ He picks up his knife again. Resumes eating. The gesture says: *this is reasonab
 ---
 
 **SORAK**
-The logistics corridor through the Kerata approach — I noticed the shipping lane utilization has increased significantly in the last eighteen months.
+The logistics corridor through the Cordia approach — I noticed the shipping lane utilization has increased significantly in the last eighteen months.
 
 A pause. Very small. Marek's knife pauses for perhaps a quarter of a second against his plate before continuing.
 
@@ -174,7 +174,7 @@ When I took over from my Klingon colleague — when we assumed responsibility fo
 
 *(the slightest pause — the pride of a man presenting his life's work)*
 
-Since then, violent crime has dropped by sixty percent. Mortality is at Federation standard. The number of families on Kerata IV has increased twenty-seven-fold.
+Since then, violent crime has dropped by sixty percent. Mortality is at Federation standard. The number of families on Cordia IV has increased twenty-seven-fold.
 
 He picks up his glass. A small gesture — celebratory, almost.
 
@@ -187,12 +187,12 @@ The schools serve everyone. The hospitals serve everyone. The cities are beginni
 
 And I believe the Federation has been pleased with the results. Your colonial affairs office described our contribution as — what was the phrase — *a model of cross-cultural development*. We were very proud of that.
 
-He says it with genuine warmth. The warmth of a man who has successfully convinced his host that the guest is doing the hosting a favour. The Federation thinks it invited civilisation to Kerata IV. The Cardassians let them think that. The flattery runs in one direction — upward, toward the power that must be kept comfortable — while the infrastructure runs in the other.
+He says it with genuine warmth. The warmth of a man who has successfully convinced his host that the guest is doing the hosting a favour. The Federation thinks it invited civilisation to Cordia IV. The Cardassians let them think that. The flattery runs in one direction — upward, toward the power that must be kept comfortable — while the infrastructure runs in the other.
 
 ---
 
 **MAREK** *(CONT'D)*
-We have three hundred Cardassian medical personnel on Kerata IV. Running hospitals we built. When a licensing dispute arises — a procedural question, a complaint — it is adjudicated under Federation colonial law by administrators who have never seen a Cardassian medical facility from the inside. Last month a surgical team was suspended for three days over a documentation discrepancy. Three days. The ward they serve handles sixty patients a day.
+We have three hundred Cardassian medical personnel on Cordia IV. Running hospitals we built. When a licensing dispute arises — a procedural question, a complaint — it is adjudicated under Federation colonial law by administrators who have never seen a Cardassian medical facility from the inside. Last month a surgical team was suspended for three days over a documentation discrepancy. Three days. The ward they serve handles sixty patients a day.
 
 *(quieter now — the voice of a man who is simply tired)*
 

@@ -7,7 +7,7 @@
 
 The canyon below.
 
-On the viewer — Kerata's moon, the dark wound of the canyon system visible.
+On the viewer — Cordia's moon, the dark wound of the canyon system visible.
 
 The situation has been pushed there by degrees — small incidents, positioning moves, the Cardassian vessel claiming sensor interference that requires them to move closer to the moon while the installation on the surface continues.
 

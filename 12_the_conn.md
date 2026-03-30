@@ -359,36 +359,52 @@ Not an explosion in the way a weapon creates an explosion. An explosion in the w
 
 Two seconds later — the middle torpedo. Another face. Another calve. Closer now. The debris field thickening.
 
-Two seconds after that — the nearest. The corridor wall fracturing inward from three points simultaneously. Hundreds of thousands of tons of rock — boulders the size of buildings, gravel fields a kilometer wide, dust clouds dense enough to blind — cascading into the passage from three directions.
-
-A slow-motion avalanche closing around something that isn't there.
-
 ---
 
 `INT. KLINGON WARBIRD — BRIDGE — CONTINUOUS`
 
-The KLINGON CAPTAIN sees it on his viewer before his sensors register it.
+K'TAGH sees the third torpedo on his tactical display. Its trajectory. Its target.
 
-Rock. Filling the corridor ahead. Moving toward them with the patient inevitability of physics.
+He knows that asteroid. He built a base inside it. Weapons caches. Energy cells. Three years of volatile materials stored in chambers carved into the iron-rich core — the same iron deposits that create the discoloration patterns Hummer learned to read as a miner.
 
-His face.
-
-Two seconds of absolute silence.
-
-The face of a man watching a trap close around him and understanding, in the space between heartbeats, that he has already lost.
+Close-up: K'Tagh's face. The eyes widen. Not fear — *recognition*. A man watching his own long game turn against him in a single heartbeat. He built the bomb. Someone else is lighting the fuse without knowing it exists.
 
 ---
 
-**KLINGON CAPTAIN**
+**K'TAGH**
+*(eyes wide — the voice of a man who sees the end of everything he built)*
 Shields up.
 
-Nothing happens fast enough.
+---
+
+The torpedo strikes.
+
+The asteroid does not calve. It detonates.
+
+The hidden base — energy stores, weapons caches, volatile mining compounds repurposed for military use — amplifies the photon torpedo impact by an order of magnitude. What should have been a landslide becomes an eruption. The asteroid splits open from within, the iron core blazing white, and the blast wave carries not just rock but the shrapnel of a military installation no one knew was there.
+
+The corridor wall doesn't fracture inward from three points. It fractures inward from two — and explodes outward from one. Hundreds of thousands of tons of rock, metal, and burning ordnance cascading into the passage in a chain reaction that dwarfs anything Hummer calculated.
 
 ---
 
-**KLINGON CAPTAIN** *(CONT'D)*
-*(roaring)*
-SHIELDS UP!
+`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+
+Enterprise shudders. Hard. Not the tremor of nearby debris — a shockwave. Consoles flicker. A conduit blows sparks from an overhead panel.
+
+Hummer grabs his station. His face: the expression of a man who fired at a rock and hit something else entirely.
+
+---
+
+**PARK**
+What the —
+
+---
+
+**HUMMER**
+*(staring at the readings)*
+That's not right. That yield is — that's not just rock.
+
+He doesn't understand yet. He won't understand until the salvage teams find the remains.
 
 ---
 
@@ -486,13 +502,15 @@ The debris wall — still moving, still cascading from the three points of impac
 
 The warbird disappears.
 
-Not dramatically. Not in a fireball. Just — gone. Swallowed by the rock it was hiding in.
+Not in a fireball. In something worse — the chain reaction from the hidden base tearing through the hull from three directions simultaneously while the debris field buries what remains. Metal and rock and fire and silence, all at once.
+
+K'Tagh's last order was *shields up*. Two words. A commander trying to save his crew from the consequences of his own secret. The shields came up. They were not enough.
 
 ---
 
 The bridge is silent.
 
-On the viewer — dust. Slowly churning. Occasionally a larger rock tumbles through the frame. The debris field settling into its new orbital pattern.
+On the viewer — dust. Slowly churning. Occasionally a larger rock tumbles through the frame. The debris field settling into its new orbital pattern. Among the rocks — fragments that are too regular, too metallic. Pieces of something that was not asteroid.
 
 Nothing else.
 
@@ -511,83 +529,13 @@ No.
 
 He says it without triumph. Without satisfaction. Just the certainty of a man who knows what happens to an unshielded hull in a debris field that dense.
 
-The bridge is quiet for a long time.
-
----
-
-Hail Commander K'Tagh.
-
-`CUT TO:`
-
----
-
-`INT. ENTERPRISE-A — VIEWSCREEN`
-
-K'Tagh appears.
-
-He has already seen it. His display still showing the debris field where his warbird was. The dust still settling.
-
-He looks at Hummer. Then at Kirk, standing behind him.
-
-His face is not the face of a man who has been defeated. It is the face of a man deciding whether this changes the calculation he already made in Scene 8 — or confirms it.
-
-A long silence.
-
----
-
-**K'TAGH**
-That was the IKS Vor'nak.
-
 *(beat)*
 
 Ninety crew.
 
----
-
 The weight of it on the bridge. Ninety people who were alive four minutes ago.
 
----
-
-**KIRK**
-Commander. I did not seek this engagement. Your vessel was on an attack vector toward this ship.
-
----
-
-K'Tagh looks at him. There is no argument in his face. Just the cold arithmetic of a warrior who understands exactly what happened and why.
-
----
-
-**K'TAGH**
-The corridor is closed.
-
-It isn't a question.
-
----
-
-**HUMMER**
-*(steady)*
-The corridor is closed. The Cardassian vessel will not reach the entrance before the political situation is resolved.
-
----
-
-K'Tagh looks at the debris field one more time on his display. Ninety crew. Rocks and dust and silence where a ship used to be.
-
-He makes a decision.
-
----
-
-**K'TAGH**
-Stand down. All vessels.
-
-*(beat — and here is where something very Klingon and very specific crosses his face)*
-
-Your tactical officer used the rocks.
-
-He says it the way a swordsman acknowledges a technique he has never seen before — not admiration exactly, not respect exactly. Recognition. The recognition of something that worked because it came from a place no Academy teaches.
-
-He closes the channel.
-
-On the bridge — nobody says anything for a moment.
+The bridge is quiet for a long time.
 
 Then PARK, very quietly:
 

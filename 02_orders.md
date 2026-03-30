@@ -53,7 +53,7 @@ He doesn't know about the dinner on the starbase. He doesn't know about the priv
 
 He knows what the orders say.
 
-A border incident near Kerata IV. A Klingon warbird making aggressive movements in the system. A Cardassian diplomatic vessel in orbit for three weeks without satisfactory explanation. Routine investigation. Keep it diplomatic.
+A border incident near Cordia IV. A Klingon warbird making aggressive movements in the system. A Cardassian diplomatic vessel in orbit for three weeks without satisfactory explanation. Routine investigation. Keep it diplomatic.
 
 The orders are signed by people he respects.
 
@@ -64,7 +64,7 @@ SPOCK approaches from the science station.
 ---
 
 **SPOCK**
-At maximum warp we would reach Kerata IV in approximately fourteen hours.
+At maximum warp we would reach Cordia IV in approximately fourteen hours.
 
 ---
 

@@ -229,7 +229,7 @@ Two years. Mining crew. It's —
 
 *(a small pause)*
 
-It's actually this system. Kerata. Same belt.
+It's actually this system. Cordia. Same belt.
 
 Something moves behind Kirk's eyes. Very briefly. He doesn't look at Spock.
 
