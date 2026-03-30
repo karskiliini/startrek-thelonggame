@@ -248,21 +248,27 @@ She raised the hesitation incident. She put it on the record. She is one of the 
 ---
 
 ## COMMANDER K'TAGH — Klingon Commander
-### Commanding officer, IKS vessel at Kerata IV. Working name.
+### Commanding officer, IKS vessel at Kerata IV. The mad dog.
 
-A true professional. Precise. Almost courteous. Sent as Klingon insurance on a Cardassian operation. Speaks to Kirk like she's already read everything about him. She has.
+Volatile. Blunt. Dangerous in the way that a man with nothing left to calculate is dangerous. K'Tagh is the Klingon the other Klingons send when they need someone who doesn't flinch — and the one they regret sending when he stops taking orders.
+
+He doesn't speak to Kirk like a diplomat. He speaks to Kirk like a man who has already decided what he's going to do and is telling you as a courtesy. Every conversation with K'Tagh feels like standing next to something about to detonate — not because he's irrational, but because his rationality has no patience in it. He sees the answer and he moves. The gap between his conclusion and his action is zero.
+
+This is what makes him terrifying. And this is what makes him honest.
 
 **The Discovery**
 
-Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. Her faction was brought here as a distraction.
+Three weeks reviewing construction projections against power consumption data readable from orbit. They are not the same projections. The installation is Cardassian military architecture requiring no Klingon presence to operate. His faction was brought here as a distraction.
 
-**Why She Tells Kirk**
+A more cautious officer would have verified. Consulted. Waited. K'Tagh opens a private channel to Kirk and tells him everything. Because the gap between his conclusion and his action is zero.
 
-Not sympathy for the Federation. Because she will not be Cardassian muscle. For a Klingon that is not a strategic calculation. That is a matter of honor. Her fury is entirely Klingon and entirely Russian simultaneously.
+**Why He Tells Kirk**
 
-**The Weight She Carries**
+Not sympathy for the Federation. Not strategy. Because he will not be Cardassian muscle. For K'Tagh that is not a calculation. That is a wound. His fury is entirely Klingon and entirely Russian simultaneously — the rage of a warrior who discovers he was brought along as decoration.
 
-The vindication of everything Kirk believed when he made the hardest peace of his life. A Klingon breaking from her faction out of honor. Arriving in the worst possible place at the worst possible moment.
+**The Weight He Carries**
+
+The vindication of everything Kirk believed when he made the hardest peace of his life. A Klingon breaking from his faction not out of reason but out of raw insulted honor. The mad dog that bites the hand that leashed it.
 
 ---
 
@@ -507,7 +513,7 @@ A Klingon warbird in the system: loud, visible, aggressive. Drawing every eye.
 
 A Cardassian diplomatic vessel in orbit. Twenty-second day of a two-day courtesy stop.
 
-First communication between Kirk and Commander K'Tagh. Precise. Almost courteous. He speaks to Kirk like he's already read everything about him.
+First communication between Kirk and Commander K'Tagh. Not courteous. Not hostile. Something worse — direct. He speaks to Kirk like a man who has already finished the conversation in his head and is giving Kirk a chance to catch up.
 
 > **K'TAGH:** "I've read your file, Captain. Your particular kind of not creating complications tends to be eventful."
 >
