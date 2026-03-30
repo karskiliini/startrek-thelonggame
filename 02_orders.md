@@ -5,9 +5,11 @@
 
 `EXT. SPACE — ENTERPRISE-A — ESTABLISHING`
 
-She's moving at warp. The familiar silhouette — but look closer and something is slightly off. Not dramatically. Just the specific texture of a vessel that has been doing its job on insufficient resources for too long. A running light on the secondary hull cycling at the wrong frequency. A repair plate on the port nacelle housing that doesn't quite match the surrounding paintwork. Small things. Real things.
+She's drifting. Impulse. Not going anywhere in particular — the slow cruise of a vessel between assignments, the specific lethargy of a ship that hasn't been told where to go yet. The stars aren't streaking. They're just there.
 
-The flagship of the Federation.
+The familiar silhouette — but look closer and something is slightly off. Not dramatically. Just the specific texture of a vessel that has been doing its job on insufficient resources for too long. A running light on the secondary hull cycling at the wrong frequency. A repair plate on the port nacelle housing that doesn't quite match the surrounding paintwork. Small things. Real things.
+
+The flagship of the Federation. Asleep.
 
 `CUT TO:`
 
@@ -37,7 +39,7 @@ A TABLE of junior officers eating. Synthesized food — nutritionally precise, t
 
 One of them is looking out the viewport.
 
-Nothing out there yet. Just stars and warp geometry. He's looking anyway.
+Nothing out there. Just stars. Stationary. He's looking anyway.
 
 The others eat. Nobody talks much.
 
@@ -55,7 +57,7 @@ He's reading the mission orders on a PADD. We can't see the screen but we can se
 
 He reads it twice. Sets the PADD down.
 
-Looks at the viewer. The star field at warp.
+Looks at the viewer. Stars. Still.
 
 He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that three months ago Sorak made sure the right admiral reviewed the assignment roster.
 
@@ -72,7 +74,7 @@ SPOCK approaches from the science station.
 ---
 
 **SPOCK**
-We'll reach Kerata IV in approximately fourteen hours.
+At maximum warp we would reach Kerata IV in approximately fourteen hours.
 
 ---
 
@@ -82,7 +84,7 @@ What do we know about the Klingon vessel?
 ---
 
 **SPOCK**
-IKS Rotarran-class. Commander K'Tagh. Her record is —
+IKS Rotarran-class. Commander K'Tagh. His record is —
 
 He pauses. The pause of a man selecting the correct word from several available.
 
