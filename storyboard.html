@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Star Trek: The Long Game — Storyboard</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #0a0a0a;
+    color: #ccc;
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+    line-height: 1.5;
+  }
+  header {
+    padding: 2rem 1.5rem 1rem;
+    border-bottom: 1px solid #222;
+    position: sticky;
+    top: 0;
+    background: #0a0a0a;
+    z-index: 10;
+  }
+  header h1 {
+    font-size: 1.1rem;
+    color: #e6d9b0;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  header p {
+    font-size: 0.75rem;
+    color: #555;
+    margin-top: 0.3rem;
+  }
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    padding: 0.8rem 1.5rem;
+    border-bottom: 1px solid #1a1a1a;
+    background: #0d0d0d;
+    position: sticky;
+    top: 4.5rem;
+    z-index: 9;
+  }
+  nav a {
+    color: #666;
+    text-decoration: none;
+    font-size: 0.65rem;
+    padding: 0.3rem 0.5rem;
+    border: 1px solid #222;
+    border-radius: 3px;
+    transition: all 0.2s;
+  }
+  nav a:hover, nav a.active {
+    color: #e6d9b0;
+    border-color: #e6d9b0;
+  }
+  .scene {
+    padding: 1.5rem;
+    border-bottom: 2px solid #1a1a1a;
+  }
+  .scene-header {
+    margin-bottom: 1rem;
+  }
+  .scene-header h2 {
+    font-size: 0.9rem;
+    color: #e6d9b0;
+    letter-spacing: 0.08em;
+  }
+  .scene-header .location {
+    font-size: 0.7rem;
+    color: #555;
+    margin-top: 0.2rem;
+  }
+  .shots {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1rem;
+  }
+  .shot {
+    background: #141414;
+    border: 1px solid #222;
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .shot-image {
+    aspect-ratio: 16/9;
+    background: #1a1a1e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .shot-image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .shot-type {
+    font-size: 0.65rem;
+    color: #444;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+  .shot-image .camera-icon {
+    position: absolute;
+    bottom: 0.4rem;
+    right: 0.4rem;
+    font-size: 0.6rem;
+    color: #333;
+    background: #0a0a0a99;
+    padding: 0.15rem 0.4rem;
+    border-radius: 2px;
+  }
+  .shot-info {
+    padding: 0.8rem;
+  }
+  .shot-number {
+    font-size: 0.65rem;
+    color: #e6a832;
+    font-weight: bold;
+    margin-bottom: 0.3rem;
+  }
+  .shot-camera {
+    font-size: 0.6rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+  .shot-action {
+    font-size: 0.75rem;
+    color: #999;
+    margin-bottom: 0.5rem;
+  }
+  .shot-dialogue {
+    font-size: 0.75rem;
+    color: #7ab87a;
+    border-top: 1px solid #222;
+    padding-top: 0.5rem;
+    white-space: pre-line;
+  }
+  .shot-dialogue .speaker {
+    color: #5a9a5a;
+    font-weight: bold;
+  }
+  .character-note {
+    font-size: 0.65rem;
+    color: #555;
+    font-style: italic;
+    margin-top: 0.3rem;
+  }
+  .audio-player {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #111;
+    border-top: 1px solid #333;
+    padding: 0.5rem 1rem;
+    z-index: 20;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+  }
+  .audio-player label {
+    font-size: 0.65rem;
+    color: #e6d9b0;
+    white-space: nowrap;
+  }
+  .audio-player audio {
+    flex: 1;
+    height: 32px;
+    min-width: 0;
+  }
+  .audio-player select {
+    background: #222;
+    color: #ccc;
+    border: 1px solid #333;
+    border-radius: 3px;
+    font-size: 0.65rem;
+    padding: 0.2rem;
+    font-family: inherit;
+  }
+  body { padding-bottom: 60px; }
+  @media (max-width: 600px) {
+    .shots { grid-template-columns: 1fr; }
+    header h1 { font-size: 0.9rem; }
+    nav { top: 3.5rem; }
+    nav a { font-size: 0.6rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Star Trek: The Long Game</h1>
+  <p>Grey Water — Visual Storyboard</p>
+</header>
+
+<nav id="scene-nav"></nav>
+
+<main id="storyboard"></main>
+
+<div class="audio-player">
+  <label>AUDIO</label>
+  <select id="audio-select">
+    <option value="audio/star_trek_the_long_game_full.mp3">Full Screenplay</option>
+    <option value="audio/00_opening_credits.mp3">00 Opening Credits</option>
+    <option value="audio/01_the_table.mp3">01 The Table</option>
+    <option value="audio/02_orders.mp3">02 Orders</option>
+    <option value="audio/03_the_dinner.mp3">03 The Dinner</option>
+    <option value="audio/04_grey_water.mp3">04 Grey Water</option>
+    <option value="audio/05_the_incident.mp3">05 The Incident</option>
+    <option value="audio/06_the_call.mp3">06 The Call</option>
+    <option value="audio/07_the_cook.mp3">07 The Cook</option>
+    <option value="audio/08_ready_room.mp3">08 Ready Room</option>
+    <option value="audio/09_sorak_hand.mp3">09 Sorak's Hand</option>
+    <option value="audio/10_ktagh.mp3">10 K'Tagh</option>
+    <option value="audio/11_the_canyon.mp3">11 The Canyon</option>
+    <option value="audio/12_the_conn.mp3">12 The Conn</option>
+    <option value="audio/13_kobayashi_maru.mp3">13 Kobayashi Maru</option>
+    <option value="audio/14_anyones_to_win.mp3">14 Anyone's to Win</option>
+  </select>
+  <audio id="audio-element" controls preload="none"></audio>
+</div>
+
+<script>
+const scenes = [
+  {
+    id: "00",
+    title: "Opening Credits — THE ROCKS",
+    location: "EXT. ASTEROID BELT — KERATA SYSTEM — SPACE",
+    shots: [
+      { type: "EXTREME WIDE", camera: "Static, slow pull back", action: "Silence. Stars. A single asteroid filling the frame. No sense of scale. Just texture and slow turning.", dialogue: null },
+      { type: "WIDE — BELT", camera: "Slow drift through belt", action: "Hundreds of asteroids. Mining shuttles — battered, patched. Phasers cutting rock. Now we understand scale: shuttle is thumbnail-sized against city-sized rock.", dialogue: null },
+      { type: "WIDE — RISING", camera: "Camera rises through belt", action: "Up past the outermost rocks. Moon below — canyon system visible, dark wound in pale rock. Camera keeps rising.", dialogue: null },
+      { type: "WIDE — PLANET", camera: "Static hold, one long breath", action: "The planet. Green, blue, alive. Infrastructure visible from orbit. On the dark side of the terminator — a flash. A point of light. A quarter of a city cluster goes dark.", dialogue: null },
+    ]
+  },
+  {
+    id: "01",
+    title: "Scene 1 — THE TABLE",
+    location: "INT. PRIVATE KITCHEN — STARBASE 12 — NIGHT",
+    shots: [
+      { type: "MEDIUM — KITCHEN", camera: "Warm light, steam, close quarters", action: "Marek cooking. Cardassian leather apron, knives in sheaths. Cutting root vegetables with unhurried precision. Not supervising — his hands.", dialogue: null },
+      { type: "MEDIUM — COUNTER", camera: "Over Marek's shoulder toward guests", action: "Voss and Sorak at the counter. Kanar in hand (Voss), untouched (Sorak). Watching him cook. He plates, serves, sits.", dialogue: null },
+      { type: "CLOSE-UP — MAREK", camera: "Eye level, warm", action: "Marek discusses the terrorist attack. 11 days ago. 6 dead. 2 children. Military-grade weapons. He wants police AND military police with jurisdictional authority.", dialogue: "MAREK: Eleven days ago, a device detonated in the eastern residential block. Forty-three injured. Six dead. Two of them children." },
+      { type: "MEDIUM — TABLE", camera: "Three-shot, tension visible", action: "Sorak quiet, filing every deflection. Voss calculating whether saying yes commits her to the next three asks. The room has changed temperature.", dialogue: "MAREK: Cardassian military police. With the jurisdictional authority to follow the evidence wherever it leads." },
+      { type: "CLOSE-UP — TASKA", camera: "Insert, tight on meat", action: "Marek gestures at the plates. 'Transported live from Cardassia Prime. Slaughtered aboard my vessel this morning.' The sentence contains a starship with cargo capacity for a single animal.", dialogue: "MAREK: The taska was transported live from Cardassia Prime." },
+      { type: "MEDIUM — MAREK LEAVING", camera: "Marek standing, apron being removed", action: "Marek returns each knife to its sheath — one, two, three. Folds the leather along generation-old fold lines. Places it in its case. 'Consider this your house tonight.' Leaves.", dialogue: "MAREK: But please — stay. Consider this your house tonight." },
+      { type: "TWO-SHOT — VOSS & SORAK", camera: "Empty kitchen, two people, his smell still in the air", action: "Voss: 'He left us in his kitchen.' Sorak: 'He left us in our kitchen. That is the point.' Sorak refills the Kanar he didn't drink during dinner.", dialogue: "SORAK: He left us in our kitchen. That is the point." },
+    ]
+  },
+  {
+    id: "02",
+    title: "Scene 2 — ORDERS",
+    location: "INT./EXT. ENTERPRISE-A — ORBIT",
+    shots: [
+      { type: "WIDE — ENTERPRISE", camera: "Slow establishing, static", action: "Enterprise in orbit. Forgettable planet. Repair plates, wrong-frequency running light. Khitomer scars. The flagship waiting to be put down. Asleep.", dialogue: null },
+      { type: "MEDIUM — MESS", camera: "Eye level, junior officers", action: "Rectangular food blocks on rectangular trays. Half new faces. One looking out viewport at nothing. This is Tuesday.", dialogue: null },
+      { type: "MEDIUM — BRIDGE", camera: "Kirk at viewer, PADD in hand", action: "Kirk reading orders. Tired — the weariness of a man who's been doing this too long. Decommission orders were rescinded by someone he doesn't know.", dialogue: null },
+      { type: "TWO-SHOT — KIRK & SPOCK", camera: "Bridge, formal", action: "Spock reports: K'Tagh's record is 'distinguished.' Cardassian encrypted traffic up 340%. Kirk invites the new tactical officer to dinner.", dialogue: "KIRK: And the new tactical officer. Hummer.\nSPOCK: He arrived with the last rotation. Three weeks aboard." },
+    ]
+  },
+  {
+    id: "03",
+    title: "Scene 3 — THE DINNER",
+    location: "INT. ENTERPRISE-A — CAPTAIN'S QUARTERS — NIGHT",
+    shots: [
+      { type: "WIDE — TABLE", camera: "Static, warm light, intimate", action: "Small room, table for four. Kirk jacket off. McCoy pouring wine, mid-laugh. Spock with untouched water. Door chimes.", dialogue: "KIRK: Come." },
+      { type: "MEDIUM — DOOR", camera: "Over Kirk's shoulder", action: "Hummer enters in full dress. Only one dressed formally. Reads room in half a second — wrong.", dialogue: "McCOY: Lose the jacket and sit down." },
+      { type: "CLOSE-UP — HANDS", camera: "Tight on Kirk pouring wine", action: "Kirk pours for Hummer. Brief eye contact.", dialogue: "KIRK: We're off duty." },
+      { type: "INSERT — TABLE", camera: "Tight on food, Hummer's hand", action: "Real meat. Hummer pauses half a second. Says nothing. Picks up fork. Kirk notices.", dialogue: null },
+      { type: "MEDIUM — TABLE", camera: "Profile, McCoy and Hummer", action: "Grey water discussion. McCoy holds glass to light. Hummer recognizes filtration membrane failure. Offers calcium trick.", dialogue: "McCOY: The crew is drinking fog.\nHUMMER: Filtration membrane degradation?" },
+      { type: "CLOSE-UP — HUMMER", camera: "Tight, soft light", action: "Colony stories. No services, no law, violence every payday. 'A town that doesn't have a name yet.' He was eighteen.", dialogue: "HUMMER: It was like the old frontier stories. The ones where the town doesn't have a name yet." },
+      { type: "WIDE — TABLE", camera: "Low angle, Spock far end", action: "Spock poses the hypothetical. Contested system, 40km sensors, asteroid ring, hostile vessel. The room shifts.", dialogue: "SPOCK: A hypothetical." },
+      { type: "CLOSE-UP — HUMMER", camera: "Tight, decision visible", action: "Hummer's answer: render every ship unable to move. Including his own. Gesture with hands — debris, vectors.", dialogue: "HUMMER: I would render every ship in the system unable to move.\nMcCOY: Including yours?\nHUMMER: Including mine." },
+      { type: "CLOSE-UP — KIRK", camera: "Reaction shot", action: "Kirk's face tightens briefly. 'That would absolutely never work.' Beat. 'Except that it would.' Tops up Hummer's glass.", dialogue: "KIRK: That would absolutely never work.\n(beat)\nExcept that it would." },
+      { type: "MEDIUM — DOOR", camera: "Hummer at door, looking back", action: "Hummer offers to look at filtration membranes tomorrow. Ion exchange trick.", dialogue: "HUMMER: I'll take a look at them tomorrow." },
+      { type: "TWO-SHOT — KIRK & McCOY", camera: "Wide, empty table, low light", action: "Kirk and McCoy alone. McCoy: 'I like him. You're gonna get him killed.' Kirk turns his grey water glass slowly.", dialogue: "McCOY: You're gonna get him killed.\nKIRK: (turns glass)\nHe'll be alright." },
+    ]
+  },
+  {
+    id: "03b",
+    title: "Scene 3B — THE LEASH",
+    location: "INT. KLINGON WARBIRD / INT. CARDASSIAN VESSEL",
+    shots: [
+      { type: "MEDIUM — KLINGON BRIDGE", camera: "Handheld, aggressive", action: "K'Tagh pacing. 22 days of nothing. Terrorizes an officer running diagnostics. Hand on console — too close. 'Do I need to demonstrate it?'", dialogue: "K'TAGH: When I say combat readiness, I mean the weapons are ready. Not being examined. Ready." },
+      { type: "MEDIUM — K'TAGH'S QUARTERS", camera: "Spare, bat'leth on wall", action: "Encrypted call from Marek. K'Tagh goes to quarters. Bare room, bed never slept in.", dialogue: null },
+      { type: "SPLIT SCREEN", camera: "K'Tagh metal quarters / Marek warm kitchen", action: "Marek cooking while talking. Knife rhythm steady. Tells K'Tagh the Federation is paralyzed — committees, reports, consensus. That's good. Patience.", dialogue: "MAREK: Patience is a Cardassian word for winning without fighting.\nK'TAGH: Patience is a Cardassian word for cowardice." },
+      { type: "CLOSE-UP — MAREK", camera: "Knife catches light", action: "Marek warns: if they send someone to look closely, the calculus changes. 'We show them the schools and the hospitals and let them conclude there is nothing here worth fighting over.'", dialogue: "MAREK: If they send a ship — you will do nothing until I tell you otherwise." },
+      { type: "CLOSE-UP — K'TAGH", camera: "Tight, jaw working", action: "K'Tagh: 'We will see.' Closes channel. Marek looks at dark screen. Goes back to cooking. The tool he's most worried about is not the one in his hand.", dialogue: "K'TAGH: If the Federation sends a ship — I will respond as I see fit." },
+    ]
+  },
+  {
+    id: "04",
+    title: "Scene 4 — GREY WATER",
+    location: "EXT./INT. KERATA SYSTEM — ENTERPRISE BRIDGE",
+    shots: [
+      { type: "WIDE — ENTERPRISE", camera: "Ship dropping out of warp", action: "Enterprise arrives. System spreads on viewer — planet, moon, asteroid belt. Hummer stops. Looks. 'That's not the same place.'", dialogue: null },
+      { type: "CLOSE-UP — HUMMER", camera: "Tight, recognition", action: "Hummer staring at the colony he left 12 years ago. Now flourishing. Schools, roads, infrastructure. Built by Cardassians.", dialogue: "HUMMER: That's not the same place." },
+      { type: "WIDE — VIEWSCREEN", camera: "K'Tagh fills the screen", action: "K'Tagh too close to screen. Teeth, ridges, intensity. 'We are here on a humanitarian mission. Peacekeeping.' A crew member flinches behind him.", dialogue: "K'TAGH: We are here on a humanitarian mission. Peacekeeping." },
+      { type: "CLOSE-UP — K'TAGH", camera: "Face filling frame", action: "K'Tagh reads Kirk's file. The laugh — then stops like a switch. 'I am not going to be surprised, Kirk.'", dialogue: "K'TAGH: I am not going to be surprised, Kirk." },
+      { type: "MEDIUM — BRIDGE", camera: "Kirk at viewer, planet below", action: "Silence after K'Tagh closes channel. Kirk to Spock: power consumption 11x higher than agricultural processing. 'And fix the water.'", dialogue: "SPOCK: The power consumption readings are inconsistent with agricultural processing. By a factor of approximately eleven." },
+    ]
+  },
+  {
+    id: "05",
+    title: "Scene 5 — THE INCIDENT",
+    location: "EXT. KERATA IV / INT. ENTERPRISE BRIDGE",
+    shots: [
+      { type: "WIDE — COLONY", camera: "From orbit, then surface", action: "Power distribution hub explodes. Not contained — bigger, cruder than the first incident. Disruptor blast from orbit. Klingon work.", dialogue: null },
+      { type: "CLOSE-UP — HUMMER'S CONSOLE", camera: "Tight on readings", action: "Disruptor frequency signature in the crater. Ship-mounted, not ground-level. He knows the frequency. The Bird of Prey in high orbit. He should say something.", dialogue: null },
+      { type: "CLOSE-UP — HUMMER", camera: "Face, internal struggle", action: "He keeps calculating instead of speaking. The warbird moves behind the ionosphere. Sensor correlation breaks. He had it. He said nothing.", dialogue: "KIRK: Hummer. Report.\nHUMMER: Blast pattern is... I'm still analyzing, sir." },
+      { type: "CLOSE-UP — KIRK", camera: "The look", action: "Kirk knows 'still analyzing' means something was there and is now gone. Quiet: 'When you're done analyzing — come see me.'", dialogue: "KIRK: When you're done analyzing — come see me." },
+    ]
+  },
+  {
+    id: "06",
+    title: "Scene 6 — THE CALL",
+    location: "INT. ENTERPRISE — CAPTAIN'S READY ROOM",
+    shots: [
+      { type: "TWO-SHOT — KIRK & VOSS", camera: "Kirk sitting, Voss on screen", action: "Voss has reviewed the tactical record. Klingon disruptor signature — time-stamped, not reported. The warbird moved behind the ionosphere 40 seconds later.", dialogue: "ADMIRAL VOSS: He had something. He said nothing. And now we have nothing." },
+      { type: "CLOSE-UP — VOSS", camera: "Screen, severe bun, steel", action: "'That position has a name. It's called losing.' Closes channel.", dialogue: "ADMIRAL VOSS: That position has a name. It's called losing.\nGet your bridge in order." },
+    ]
+  },
+  {
+    id: "07",
+    title: "Scene 7 — THE COOK",
+    location: "INT. CARDASSIAN VESSEL — MAREK'S QUARTERS / KLINGON BRIDGE",
+    shots: [
+      { type: "MEDIUM — MAREK", camera: "Apron on, half-prepared meal", action: "Marek standing very still. His hub — 3 years of work — is rubble. Opens encrypted channel to K'Tagh.", dialogue: null },
+      { type: "SPLIT SCREEN", camera: "Marek cold / K'Tagh proud", action: "K'Tagh proud of the attack. 'I moved.' Marek: 'You moved.' Like repeating a diagnosis.", dialogue: "K'TAGH: The Federation is stalling. I moved.\nMAREK: You moved." },
+      { type: "CLOSE-UP — MAREK", camera: "Ice cold, knife still", action: "Marek explains: one meeting away from legal jurisdiction. Boots on the ground with Federation consent. K'Tagh destroyed it.", dialogue: "MAREK: A signature. A rubber stamp. And we would have had boots on the ground — legally, permanently, with Federation consent." },
+      { type: "CLOSE-UP — MAREK", camera: "Stepping closer to screen", action: "'You are not a warrior, Commander. You are a tool.' Then: 'Do as I tell you. Or I will have you trashed.'", dialogue: "MAREK: You are not a warrior, Commander. You are a tool.\nNow do as I tell you. Or I will have you trashed." },
+      { type: "CLOSE-UP — K'TAGH", camera: "Face. Cannot respond.", action: "K'Tagh's face. Told what he is twice in ten seconds. Can't find words to make either one untrue.", dialogue: null },
+      { type: "MEDIUM — MAREK ALONE", camera: "Wide, empty quarters", action: "Dark screen. Marek pulls off the leather apron. Throws it hard across the room. Knives rattle. 30 years on the floor.", dialogue: null },
+    ]
+  },
+  {
+    id: "08",
+    title: "Scene 8 — READY ROOM",
+    location: "INT. ENTERPRISE — CAPTAIN'S READY ROOM",
+    shots: [
+      { type: "TWO-SHOT — KIRK & HUMMER", camera: "Kirk standing, Hummer sitting", action: "Kirk diagnoses the problem: Hummer's entire career built on never being wrong. 'I need you to act before you're certain.'", dialogue: "KIRK: Wrong that moves fast I can recover from. But if you hesitate..." },
+      { type: "CLOSE-UP — KIRK", camera: "Warm, direct", action: "'You deserve to be here. Now stop proving it and just be here.' Walks to the door.", dialogue: "KIRK: You deserve to be here. Now stop proving it and just be here." },
+    ]
+  },
+  {
+    id: "10",
+    title: "Scene 10 — K'TAGH",
+    location: "INT. ENTERPRISE — READY ROOM / VIEWSCREEN",
+    shots: [
+      { type: "MEDIUM — VIEWSCREEN", camera: "K'Tagh on private channel", action: "K'Tagh on unlogged channel. Not courteous — direct. Three weeks reviewing construction projections vs power consumption. Not the same. The installation is Cardassian military only.", dialogue: "K'TAGH: My faction was brought here as a distraction. Our ship. My crew." },
+      { type: "CLOSE-UP — K'TAGH", camera: "Something Klingon in his face", action: "'I will not be Cardassian muscle.' Closes channel.", dialogue: "K'TAGH: Because I will not be Cardassian muscle." },
+      { type: "CLOSE-UP — KIRK", camera: "Alone, everything changed shape", action: "Kirk sees Sorak's architecture for the first time. Understands it. Agrees it's probably right. Starts thinking about whether it's the only move.", dialogue: null },
+    ]
+  },
+  {
+    id: "11",
+    title: "Scene 11 — THE CANYON",
+    location: "INT. ENTERPRISE — BRIDGE",
+    shots: [
+      { type: "WIDE — BRIDGE", camera: "Tension, calcified standoff", action: "Dense ionized rock. 40km sensor range. Klingon warbird cloaked somewhere. Cardassian vessel moving toward corridor. Clock running.", dialogue: null },
+      { type: "TWO-SHOT — KIRK & HUMMER", camera: "Tactical station, close", action: "Kirk looks at Hummer. The look of a man placing a bet. 'You have the conn.' Walks to turbolift.", dialogue: "KIRK: You have the conn." },
+      { type: "MEDIUM — BRIDGE", camera: "Lt. Commander turns, looks at Hummer", action: "Senior officer looks at the tactical station. Says nothing. Hummer doesn't look back. Already reading.", dialogue: "HUMMER: Maintain current position. Passive sensors only." },
+    ]
+  },
+  {
+    id: "12",
+    title: "Scene 12 — THE CONN",
+    location: "INT./EXT. ENTERPRISE — ASTEROID FIELD",
+    shots: [
+      { type: "WIDE — ENTERPRISE", camera: "Ship entering asteroid ring", action: "Enterprise rolls 90 degrees. Slides into old mining cavity. Walls of rock on every side. Cannot turn around.", dialogue: "HUMMER: There's an old mining calve... the cavity might be big enough." },
+      { type: "CLOSE-UP — BRIDGE", camera: "Emergency red, stone through viewport", action: "Silence. Stone coffin. Helm officer's hands still shaking. Aft viewer: the opening narrows as asteroid rotates. Seals shut.", dialogue: "PARK: We're blind.\nHUMMER: So are they." },
+      { type: "INSERT — AFT VIEWER", camera: "Keyhole closing", action: "Through the shrinking opening — a distortion slides past. Stars shimmer. The cloaked warbird passes. Four seconds. The hull trembles — gravitational displacement.", dialogue: "KIRK: (whispered) The Klingon impulse drive." },
+      { type: "MEDIUM — BRIDGE", camera: "Hummer at tactical", action: "Opening rotates back. Hummer: 'Photon torpedoes — 15,000 meter spread.' Not at the ship. At the corridor walls.", dialogue: "HUMMER: Targeting the corridor walls. Fire." },
+      { type: "WIDE — ASTEROID FIELD", camera: "VFX — three impacts", action: "Three torpedo impacts fracture the passage inward. Rocks cascade. City-block debris tumbling in silence.", dialogue: null },
+      { type: "CLOSE-UP — KLINGON CAPTAIN", camera: "Tight on face, 2 seconds silence", action: "Rocks filling the viewer. Two seconds of absolute silence. Then: 'SHIELDS UP!'", dialogue: "KLINGON CAPTAIN: Shields up. SHIELDS UP!" },
+      { type: "MEDIUM — ENTERPRISE VIEWER", camera: "Magnified, rocks stopping in space", action: "Some rocks stop. Hang motionless. Hit invisible hull. Shape traced in suspended stone. Decloak — green shields flash.", dialogue: "HUMMER: There.\nPARK: I can see the shape —" },
+      { type: "MEDIUM — BRIDGE", camera: "Kirk and Hummer", action: "Kirk: 'Phasers. Fire.' Shields collapse. Dust cloud swallows the warbird. Gone. 90 crew.", dialogue: "KIRK: Phasers.\nHUMMER: Locked.\nKIRK: Fire." },
+    ]
+  },
+  {
+    id: "13",
+    title: "Scene 13 — KOBAYASHI MARU",
+    location: "EXT. COLONY SURFACE / INT. ENTERPRISE",
+    shots: [
+      { type: "MEDIUM — CORRIDOR", camera: "Utilitarian, Cardassian-built", action: "Kirk and Marek. Data chip handed over. Marek sees the full scope — ten times what he believed. His face changes.", dialogue: "MAREK: Because I remember what we looked like after the Dominion War. And because the Klingons don't." },
+      { type: "MEDIUM — KIRK ALONE", camera: "Holding the chip", action: "Kirk finds the unmapped door: public disclosure. Every neutral world watching. No war. A diplomatic catastrophe that sets Cardassia back 15 years.", dialogue: null },
+      { type: "TWO-SHOT — KIRK & SORAK", camera: "Quiet room", action: "Sorak watches it happen. Not anger. Surprise at himself. The silence is the most eloquent thing he's said in 15 years.", dialogue: "SORAK: You've only postponed the inevitable by thirty years.\nKIRK: It's up to the next generation to postpone by another thirty." },
+    ]
+  },
+  {
+    id: "14",
+    title: "Scene 14 — ANYONE'S TO WIN",
+    location: "INT. ENTERPRISE / INT. STARFLEET COMMAND / INT. USS CENTAUR",
+    shots: [
+      { type: "MEDIUM — VIEWSCREEN", camera: "Klingon Ambassador, formal", action: "Ambassador: K'Tagh acted against explicit orders. All captains warned. A lie. Kirk knows it. Ambassador knows Kirk knows.", dialogue: "AMBASSADOR: The actions of one rogue officer do not reflect..." },
+      { type: "WIDE — REVIEW BOARD", camera: "Formal room, five officers", action: "Voss at center. Hummer's file. Kirk stands: 'Give him a ship.' Voss signs. No comment.", dialogue: "KIRK: That is the only quality that matters when everything else fails. Give him a ship." },
+      { type: "TWO-SHOT — KIRK & McCOY", camera: "Enterprise bridge, two glasses", action: "Two old friends. Grey water. 'Still foggy.' / 'At least it's not red.' Kirk looks at Spock: 'How about a scotch?'", dialogue: "McCOY: Still foggy.\nKIRK: At least it's not red." },
+      { type: "WIDE — USS CENTAUR BRIDGE", camera: "Small ship, young crew", action: "Hummer walks onto his bridge. His chair. Pours a glass of water. Grey. Drinks it. Turns to his console. Begins.", dialogue: null },
+    ]
+  },
+];
+
+// Build navigation
+const nav = document.getElementById('scene-nav');
+scenes.forEach(s => {
+  const a = document.createElement('a');
+  a.href = `#scene-${s.id}`;
+  a.textContent = s.id;
+  a.title = s.title;
+  nav.appendChild(a);
+});
+
+// Build storyboard
+const main = document.getElementById('storyboard');
+scenes.forEach(scene => {
+  const section = document.createElement('section');
+  section.className = 'scene';
+  section.id = `scene-${scene.id}`;
+
+  const header = document.createElement('div');
+  header.className = 'scene-header';
+  header.innerHTML = `<h2>${scene.title}</h2><div class="location">${scene.location}</div>`;
+  section.appendChild(header);
+
+  const grid = document.createElement('div');
+  grid.className = 'shots';
+
+  scene.shots.forEach((shot, i) => {
+    const card = document.createElement('div');
+    card.className = 'shot';
+
+    let dialogueHtml = '';
+    if (shot.dialogue) {
+      const lines = shot.dialogue.split('\n').map(line => {
+        const match = line.match(/^([A-Z\s']+?):\s*(.*)$/);
+        if (match) {
+          return `<span class="speaker">${match[1]}:</span> ${match[2]}`;
+        }
+        return line;
+      }).join('\n');
+      dialogueHtml = `<div class="shot-dialogue">${lines}</div>`;
+    }
+
+    card.innerHTML = `
+      <div class="shot-image">
+        <span class="shot-type">${shot.type}</span>
+        <span class="camera-icon">${shot.camera}</span>
+      </div>
+      <div class="shot-info">
+        <div class="shot-number">#${i + 1}</div>
+        <div class="shot-action">${shot.action}</div>
+        ${dialogueHtml}
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+
+  section.appendChild(grid);
+  main.appendChild(section);
+});
+
+// Highlight active nav on scroll
+const observer = new IntersectionObserver(entries => {
+  entries.forEach(e => {
+    if (e.isIntersecting) {
+      nav.querySelectorAll('a').forEach(a => a.classList.remove('active'));
+      const active = nav.querySelector(`a[href="#${e.target.id}"]`);
+      if (active) active.classList.add('active');
+    }
+  });
+}, { threshold: 0.3 });
+document.querySelectorAll('.scene').forEach(s => observer.observe(s));
+
+// Audio player
+const audioSelect = document.getElementById('audio-select');
+const audioElement = document.getElementById('audio-element');
+audioSelect.addEventListener('change', () => {
+  audioElement.src = audioSelect.value;
+  audioElement.play();
+});
+// Default to full
+audioElement.src = audioSelect.value;
+</script>
+
+</body>
+</html>
