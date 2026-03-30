@@ -44,6 +44,21 @@ The harvest on Lakar Province this year was exceptional. I had this set aside be
 
 A small advantage of my position.
 
+He gestures at the plates. The meat.
+
+---
+
+**MAREK** *(CONT'D)*
+The taska was transported live from Cardassia Prime. Slaughtered aboard my vessel this morning. It does not survive replication well — the texture changes, something in the protein structure. So.
+
+He says it lightly. Conversationally. The way someone might mention that they picked up fresh bread on the way.
+
+But the sentence contains a starship with cargo capacity allocated to a single animal, a supply chain that stretches across two sectors for one meal, and the implicit authority to requisition both without anyone questioning it. A Gul does not have that authority. Someone considerably above a Gul does.
+
+Sorak registers this. Files it. It is either the first mistake Marek has made all evening — a flash of vanity, a man who could not resist showing the size of the machine behind him — or it is deliberate. A signal dressed as a slip. *I have friends in places you haven't mapped yet.*
+
+The question of which it is will occupy Sorak for the rest of the night.
+
 ---
 
 **ADMIRAL VOSS**
@@ -244,6 +259,17 @@ Thank you, Gul. The meal was exceptional.
 
 **MAREK**
 *(to Sorak)*
+I'll have a case of the Kanar sent to your office. The sixty-eight — the same vintage.
+
+*(a beat — the warmth again, and underneath it something precise)*
+
+I have a friend in the export ministry who owes me a favour. These things are easier to arrange than you might think.
+
+There it is again. The casual disclosure of a network that reaches into Cardassian ministerial offices. Said as though it were nothing. Said immediately after the taska — the starship, the live animal, the two-sector supply chain. Two data points in five minutes. Either Marek is losing control of his performance, or the performance now requires that Sorak understand exactly how large the operation behind this kitchen actually is.
+
+---
+
+**MAREK** *(CONT'D)*
 We should do this again.
 
 ---
@@ -251,7 +277,7 @@ We should do this again.
 **SORAK**
 I look forward to it.
 
-He doesn't mean it. Marek knows he doesn't mean it. The exchange is perfect.
+He doesn't mean it. Marek knows he doesn't mean it. But the case of Kanar will arrive at Sorak's office within the week. That is not a social gesture. That is a demonstration of logistics — proof that Marek's supply chain reaches into Federation facilities as easily as his cooking reaches into Federation stomachs. The exchange is perfect.
 
 Marek unties the apron. Returns each knife to its sheath — one, two, three — with the same absent precision he used all evening. Then folds the leather. Slowly. The fold lines are worn into the material from generations of the same gesture. He does not set it on the counter. He holds it for a moment — the weight of it in his hands — and then places it inside the case he brought it in. The case goes under his arm.
 
