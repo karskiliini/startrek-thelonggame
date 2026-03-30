@@ -717,7 +717,7 @@ Sorak says nothing. For long enough that the silence becomes the most eloquent t
 
 Aftermath. The political settlement imperfect, unresolved, alive. The Cardassian installation under Federation arbitration — a process that will take years and may resolve nothing cleanly. Nobody won cleanly. The grey water is still grey.
 
-A communication with the Klingon Ambassador. Smooth. Formal. Regretful in exactly the way that a prepared statement is regretful.
+A communication with the Klingon Ambassador (Cast: Javier Bardem). Smooth. Formal. Regretful in exactly the way that a prepared statement is regretful.
 
 Commander K'Tagh acted in direct violation of explicit orders from the Klingon High Command. All other fleet commanders in the sector have been formally reminded of the Empire's commitment to the diplomatic process. The Empire expresses its deepest concern regarding the incident and wishes to assure the Federation that the actions of one rogue officer do not reflect —
 
