@@ -205,51 +205,63 @@ He is mapping the exact shape of every request. He is calculating where the next
 
 `AT THE END OF THE MEAL —`
 
-Marek touches a napkin to his lips and sets it on the table with the finality of a man who has accomplished what he came here to accomplish.
+Marek sets down his napkin. Not the gesture of a man who has finished eating — the gesture of a man who has finished serving.
+
+He stands. Begins clearing the plates himself — the same hands that cooked the food now removing it. Host to the last.
 
 ---
 
 **MAREK**
-Admiral. I wonder if I might have a moment.
+I'm afraid my duties call me elsewhere.
 
-He glances at Sorak — not unkindly, not rudely, just the universal gesture of a man requesting a private word.
-
----
-
-**SORAK**
-*(standing)*
-Of course. The Kanar was exceptional, Gul.
+He says it with genuine warmth. Then — a gesture that takes in the kitchen, the remaining Kanar, the warmth of the room he built from nothing on someone else's starbase.
 
 ---
 
-**MAREK**
-I'll have a case sent to your office.
+**MAREK** *(CONT'D)*
+But please — stay. As long as you wish. The kitchen is yours. There is more Kanar in the cabinet, and I believe the dessert course will hold for another hour.
 
-*(a beat — something precise in the warmth)*
+*(a beat — the smile of a man who understands exactly what he is doing)*
 
-We should do this again.
+Consider this your house tonight.
 
-Sorak nods. He leaves.
-
-Marek moves to the corner of the room with Voss — low voices, the brief choreography of diplomatic courtesy. Whatever passes between them is too quiet to hear.
-
-Two minutes. Then Marek leaves. Through the main door.
-
-The room becomes a different room.
-
-Voss turns. Sorak has come back in through the side entrance he never actually left through.
-
-She looks at him.
+The irony hangs in the air like the smell of the meal. A Cardassian guest telling Federation officers to make themselves at home — in a Federation facility — in a room he requisitioned, furnished, and cooked in as though it were his own. He is giving them permission to stay in their own house. And the permission feels genuine. That is the most unsettling part.
 
 ---
 
 **ADMIRAL VOSS**
-I wonder sometimes how you find time to sleep.
+Thank you, Gul. The meal was exceptional.
+
+---
+
+**MAREK**
+*(to Sorak)*
+We should do this again.
 
 ---
 
 **SORAK**
-I don't require very much.
+I look forward to it.
+
+He doesn't mean it. Marek knows he doesn't mean it. The exchange is perfect.
+
+Marek unties his apron. Folds it with the care of a man who respects his tools. Sets it on the counter. Leaves through the main door.
+
+The kitchen becomes a different room.
+
+The smell of his cooking is still in the air. The Kanar he opened is still on the table. The meal he made is still in their stomachs. He is gone and he is everywhere.
+
+Voss looks at Sorak.
+
+---
+
+**ADMIRAL VOSS**
+He left us in his kitchen.
+
+---
+
+**SORAK**
+He left us in our kitchen. That is the point.
 
 He goes to the table. Refills his glass — the Kanar he didn't drink during dinner. Considers the bottle for a moment.
 
