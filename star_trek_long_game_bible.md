@@ -189,7 +189,7 @@ The Enterprise water dispenser produces grey, slightly cloudy water throughout t
 ---
 
 ## KIRK — The Protagonist
-### Captain, USS Enterprise-A. From Iowa. Nobody's son.
+### Captain, USS Enterprise-A. From Iowa. Cast: William Shatner (Star Trek VI age).
 
 Completely aligned with Sorak at the film's opening. Believes in the long game. Frustrated by the Council's four-year thinking. Thinks Sorak is the only adult in the room. He is mostly right.
 
@@ -318,7 +318,7 @@ Not nobility. The most ruthless Cardassian calculation available: buying his civ
 ---
 
 ## SPOCK — First Officer
-### The deepest player at the dinner table.
+### The deepest player at the dinner table. Cast: Leonard Nimoy (Star Trek VI age).
 
 He has already run the full analysis of Kerata IV before the dinner — the canyon system, the asteroid ring, the orbital mechanics, Hummer's complete record and background. He calculated that this officer already carries the answer he will need.
 
@@ -335,7 +335,7 @@ The only player whose long game is purely selfless. Plants a seed in a young off
 ---
 
 ## DR. McCOY — Chief Medical Officer
-### The humanizing force. Kirk's emotional barometer.
+### The humanizing force. Kirk's emotional barometer. Cast: DeForest Kelley (Star Trek VI age).
 
 His role at the dinner table is specific: lower Hummer's guard completely. Self-deprecating stories about his privileged background create the contrast that lets Hummer speak honestly about Vega Colony and the freight hauler and two years cutting rock in the dark.
 
