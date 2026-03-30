@@ -3,23 +3,29 @@
 
 ---
 
-`INT. PRIVATE DINING ROOM — STARBASE 12 — NIGHT`
+`INT. PRIVATE KITCHEN — STARBASE 12 — NIGHT`
 
-The room is small and excellent. Not official — there are no Federation seals, no Starfleet insignia. The kind of room that exists in the grey space between diplomatic courtesy and plausible deniability.
+The kitchen is not large. It is, however, excellent — the kind of space that exists on a starbase because someone with influence requested it, and the kind that no one questions because questioning it would require acknowledging it exists.
 
-The food on the table is real. Not replicated — actual biological preparation, the kind that requires a kitchen and time and access. Three place settings. Three glasses. A bottle of Cardassian Kanar, dark and slightly luminescent, that sits at the center of the table like an exhibit.
+GUL MAREK is cooking.
+
+Not supervising. Not warming something prepared elsewhere. Cooking — hands moving between a cutting surface and a heat source with the unhurried precision of a man who has done this many times and considers it important. A Cardassian root vegetable sliced thin. Oil in a pan. The specific sound of something being built from raw materials by someone who knows what the finished product should taste like.
+
+He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure of his species giving him the particular quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform. Over the civilian clothes, an apron. The apron does not diminish him. It is another uniform.
+
+ADMIRAL VOSS sits at the counter with a glass of Cardassian Kanar, dark and slightly luminescent. She is precisely what she appears to be: blonde, immaculate, the kind of composed that takes twenty years to build and looks effortless once built. She accepted the Kanar because refusing it would have been a statement, and she is not here to make statements.
+
+SORAK sits with his glass and does not drink from it. He is somewhere between fifty and ageless. He watches Marek cook with the mild attention of someone cataloguing a specimen.
+
+Marek plates the first course. Sets it in front of Voss. Then Sorak. Then himself. The movements of a host, not a guest. He is feeding them — literally, personally, from his own hands — on a Federation starbase. As though this were his kitchen. His table. His house.
+
+Which, in every way that matters, it is. Because Marek has been cooking this situation for thirty years.
+
+---
+
+A bottle of Kanar at the center of the table like an exhibit. Three place settings. Real food prepared by the man who is about to ask for something.
 
 GUL MAREK pours.
-
-He does it with the ease of a man completely comfortable in this space — which is, itself, information. This is not his starbase. This is not his room. He is pouring wine in a Federation facility as though he owns it, because he has been doing this long enough that the distinction has become academic.
-
-Marek is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure of his species giving him the particular quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
-
-ADMIRAL VOSS accepts her glass. She is precisely what she appears to be: blonde, immaculate, the kind of composed that takes twenty years to build and looks effortless once built. She accepted the Kanar because refusing it would have been a statement, and she is not here to make statements.
-
-SORAK takes his glass and does not drink from it.
-
-He is somewhere between fifty and ageless. He has the look of a man who has been in too many rooms like this one and found all of them slightly insufficient. He watches Marek pour with the mild attention of someone cataloguing a specimen.
 
 ---
 

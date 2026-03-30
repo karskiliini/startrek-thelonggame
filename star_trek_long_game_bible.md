@@ -102,6 +102,16 @@ This exchange reframes the entire title. The Long Game isn't Sorak's operation o
 
 The thirty-year infrastructure operation on Kerata IV is Belt and Road. Exactly. Invest in developing worlds. Build their schools, hospitals, power systems. Create economic dependency so deep that by the time anyone notices the world doesn't want to leave. That's not Klingon — Klingons don't have the patience for thirty years of invisible operation. That's Cardassian: bureaucratic, meticulous, civilizing mission mentality. The occupation of Bajor reframed as foreign investment.
 
+## How It Started — The Invitation the Federation Wrote Itself
+
+The Cardassians didn't invade the Kerata system. They were invited. The Federation needed cheap mining labor for the asteroid belt — the work was dangerous, remote, and no Federation member world wanted to do it at Federation labor rates. Cardassian contractors bid lower. Cardassian mining crews moved in. Legal. Welcomed. A market solution to a market problem.
+
+Once inside the system, the Cardassians saw what the Federation didn't: a strategic corridor, a marginal colony with no loyalty to anyone, and a host power too complacent to notice what was being built underneath the mining contracts. The infrastructure investment followed — schools, hospitals, roads — all genuine, all creating dependency, all invisible to a Federation that was grateful someone else was paying for development it couldn't fund.
+
+Marek is the architect of this transition. Not the mining phase — that was before his time. The phase where investment became influence. Where influence became authority. Where authority became, piece by piece, sovereignty in everything but name. He has been cooking this meal for thirty years. He is now serving it — personally, from his own hands — to the people who will eat it and call it diplomacy.
+
+The Federation didn't lose the Kerata system in a battle. They outsourced it.
+
 ## Why Klingons = Russia is Precise
 
 Klingons are loud, proud, reactive, and emotionally driven. A wounded empire that remembers greatness and wants it back. Their honor culture means they can fracture from within when leadership acts dishonorably. It is Klingon impatience that triggers this entire film. The Cardassians needed five more years of invisible operation. The Klingon faction moved a warbird to Kerata IV to make a visible show of strength. That move forced the Federation to send Kirk. The junior partner's pride nearly ruined the thirty-year operation.
