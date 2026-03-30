@@ -235,7 +235,7 @@ He watches Kirk's solution emerge on a screen. A long pause. Not anger. Not surp
 ---
 
 ## ADMIRAL VOSS — The Institutional Authority
-### Starfleet Admiral. Blonde. Precise. Immaculately official.
+### Starfleet Admiral. Blonde. Precise. Immaculately official. Cast: Rosamund Pike or Robin Wright. Slight build — her power is not physical. Severe bun, not a hair out of place.
 
 The Nechayev archetype. Genuinely competent, genuinely committed to the Federation. Operates within institutional boundaries. Finds Sorak's methods distasteful even while finding his results useful.
 
