@@ -152,6 +152,32 @@ She signs it.
 
 ---
 
+`INT. ENTERPRISE-A — BRIDGE — LATER`
+
+The ship is quiet. The post-crisis quiet of a vessel that has been through something and is still counting the cost.
+
+KIRK in the command chair. McCOY standing beside him. Neither looking at the other. Looking at the viewer. Stars.
+
+McCoy has a glass of water. He holds it up. The light catches it. Still grey.
+
+---
+
+**McCOY**
+Still foggy.
+
+---
+
+**KIRK**
+At least it's not red.
+
+McCoy glances at him. Kirk doesn't look back. Neither of them smiles. It wasn't a joke. It was the truest thing either of them has said all week.
+
+McCoy drinks the grey water. Kirk turns back to his console.
+
+`CUT TO:`
+
+---
+
 `INT. USS CENTAUR — BRIDGE — LATER`
 
 Small. Slightly battered. The specific dignity of a vessel that knows what it is and doesn't apologize.
