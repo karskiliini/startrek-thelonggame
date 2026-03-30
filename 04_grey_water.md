@@ -32,6 +32,17 @@ Kirk, from the command chair, notices the pause. Files it. Says nothing.
 ---
 
 **SPOCK**
+Captain. The last Constitution-class vessel to enter this system was the USS Exeter — four years ago.
+
+*(a beat — the procedural tone of a man who knows exactly what he is doing)*
+
+Standard protocol requires a full sensor sweep of Federation colonial territories when a capital ship is present. It has been some time since one was conducted.
+
+Kirk nods. The nod of a man who understands that Spock is not asking permission — he is creating a paper trail. If anyone later asks why Enterprise ran a full sweep of a colony the Federation considers friendly, the answer will be: procedure. It was simply overdue.
+
+---
+
+**SPOCK** *(CONT'D)*
 *(reading his console — the tone of pure data)*
 Captain. The colony registry lists the population as predominantly human and Federation-origin. Current biosensor readings indicate sixty-one percent of residents are Cardassian nationals.
 
