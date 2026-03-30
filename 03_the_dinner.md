@@ -318,11 +318,15 @@ And the violence?
 ---
 
 **HUMMER**
-Every payday. Sometimes between paydays. Miners, mostly. People who'd been cutting rock for fourteen hours and needed somewhere to put it. There was no security, so you handled it yourself or you didn't handle it.
+Every payday. Sometimes between paydays. Half the crews were Klingon back then — they had their own approach to shift changes.
+
+*(a careful pause — choosing his words)*
+
+Good workers when they wanted to be. Equipment didn't always survive the enthusiasm.
 
 *(beat)*
 
-I was eighteen. I handled it.
+There was no security, so you handled it yourself or you didn't handle it. I was eighteen. I handled it.
 
 He says it without bravado. The voice of a man stating the weather.
 

@@ -17,6 +17,8 @@ He's been here before. Twelve years ago. In a shuttle with bad lights and a fail
 
 Now the colony is flourishing. From orbit you can see the organized geometry of infrastructure that works — roads, power distribution, the clean lines of something someone invested in.
 
+And at the edges — dimmer. A cluster of settlements to the northwest where the light grid thins to almost nothing. The same planet, the same night side, but the brightness drops like a border drawn in electricity. Fifteen percent of the output of the Cardassian zones. Scattered. Unplanned. The Klingon settlements — functional, not abandoned, but visibly a different civilization's work.
+
 He looks at it for a long moment. Too long for a tactical officer on duty.
 
 ---
@@ -26,6 +28,21 @@ He looks at it for a long moment. Too long for a tactical officer on duty.
 That's not the same place.
 
 Kirk, from the command chair, notices the pause. Files it. Says nothing.
+
+---
+
+**SPOCK**
+*(reading his console — the tone of pure data)*
+Captain. The colony registry lists the population as predominantly human and Federation-origin. Current biosensor readings indicate sixty-one percent of residents are Cardassian nationals.
+
+A beat. Nobody responds. The number sits in the air.
+
+---
+
+**SPOCK** *(CONT'D)*
+The settlement naming conventions on the northern and eastern grids are Cardassian. The commercial frequencies are predominantly Cardassian. The twenty-seven-fold population growth reported by the colonial administration appears to be — accurately described. The composition of that growth was not included in the report.
+
+He says it without emphasis. Spock never editorialises. But the sentence structure does it for him — *accurately described* followed by *not included* is the Vulcan equivalent of an accusation.
 
 ---
 

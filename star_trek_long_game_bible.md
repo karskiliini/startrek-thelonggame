@@ -104,9 +104,15 @@ The thirty-year infrastructure operation on Kerata IV is Belt and Road. Exactly.
 
 ## How It Started — The Invitation the Federation Wrote Itself
 
-The Cardassians didn't invade the Kerata system. They were invited. The Federation needed cheap mining labor for the asteroid belt — the work was dangerous, remote, and no Federation member world wanted to do it at Federation labor rates. Cardassian contractors bid lower. Cardassian mining crews moved in. Legal. Welcomed. A market solution to a market problem.
+The Cardassians didn't invade the Kerata system. They were invited. But they weren't the first.
 
-Once inside the system, the Cardassians saw what the Federation didn't: a strategic corridor, a marginal colony with no loyalty to anyone, and a host power too complacent to notice what was being built underneath the mining contracts. The infrastructure investment followed — schools, hospitals, roads — all genuine, all creating dependency, all invisible to a Federation that was grateful someone else was paying for development it couldn't fund.
+The Federation needed cheap mining labor for the asteroid belt — the work was dangerous, remote, and no Federation member world wanted to do it at Federation labor rates. The Klingons came first. Cheap, strong, willing to work in conditions no one else would tolerate. It was a reasonable arrangement on paper.
+
+It was a disaster in practice. Klingon work crews were undisciplined, volatile, and destructive. Equipment broke. Ore batches were contaminated. Fights shut down entire shifts. Safety incidents piled up. The Klingons treated the belt like a military posting — something to endure with brute force — not an industrial operation requiring precision and consistency. The Federation needed labor, not warriors pretending to be miners.
+
+Cardassian contractors bid on the replacement contract. Lower rates, higher discipline, guaranteed output. The transition was bureaucratic and quiet. Cardassian mining crews moved in. The Klingon crews were reassigned — officially to "security and escort operations" in the sector. Protecting trade routes from pirate activity near the system. A real enough role. A humiliating one.
+
+Once inside the system, the Cardassians saw what the Federation didn't and the Klingons never looked for: a strategic corridor, a marginal colony with no loyalty to anyone, and a host power too complacent to notice what was being built underneath the mining contracts. The infrastructure investment followed — schools, hospitals, roads — all genuine, all creating dependency, all invisible to a Federation that was grateful someone else was paying for development it couldn't fund.
 
 Marek is the architect of this transition. Not the mining phase — that was before his time. The phase where investment became influence. Where influence became authority. Where authority became, piece by piece, sovereignty in everything but name. He has been cooking this meal for thirty years. He is now serving it — personally, from his own hands — to the people who will eat it and call it diplomacy.
 
@@ -116,9 +122,23 @@ The Federation didn't lose the Kerata system in a battle. They outsourced it.
 
 Klingons are loud, proud, reactive, and emotionally driven. A wounded empire that remembers greatness and wants it back. Their honor culture means they can fracture from within when leadership acts dishonorably. It is Klingon impatience that triggers this entire film. The Cardassians needed five more years of invisible operation. The Klingon faction moved a warbird to Kerata IV to make a visible show of strength. That move forced the Federation to send Kirk. The junior partner's pride nearly ruined the thirty-year operation.
 
+K'Tagh was the leader of the original Klingon mining operation in the belt. What Marek is now, K'Tagh was then — head of external labor, the man who built the infrastructure with his own hands, who bled for every ton of ore extracted from those rocks. When the Klingons were replaced by Cardassians, K'Tagh didn't lose a contract. He lost his purpose. The role that defined him was handed to someone who did it better, quieter, and with less breakage. His reassignment to "escort and security operations" is a uniform wrapped around a demotion. Every day Marek runs the operation efficiently is proof that K'Tagh wasn't good enough.
+
+His obsessive "quality control" visits, his insistence on inspecting Cardassian shipments, his refusal to leave the system — none of it is strategic. It is a man looking for evidence that his replacement is failing. Because if Marek fails, it means the Klingons were never the problem. K'Tagh's fury is not political. It is the most personal thing in the film.
+
 ## The Alliance Internal Tension
 
-The Cardassians — patient, meticulous, playing the fifty-year game — are constantly frustrated by their Klingon partners who keep wanting to do something visible. China wants Russia to stop making noise while China quietly reshapes the world. Russia wants to be seen as powerful today, visibly, now. This tension runs through every scene involving both factions.
+The Cardassians and Klingons are not allies. They are not even partners. They are two powers locked in forced coexistence — each viewing the other as a necessary evil, both smiling through clenched teeth because the alternative is worse.
+
+Both consider the Federation their true enemy. Too large, too rich, too idealistic — a civilization that swallows cultures whole and calls it peace. Against that shared threat they maintain the facade of cooperation. If the Federation sees cracks between them, it intervenes. If it intervenes, both lose. The shared enemy is the only glue.
+
+But within the facade: the Cardassians — patient, meticulous, playing the fifty-year game — are constantly frustrated by their Klingon partners who keep wanting to do something visible. China wants Russia to stop making noise while China quietly reshapes the world. Russia wants to be seen as powerful today, visibly, now. This tension runs through every scene involving both factions.
+
+K'Tagh despises Marek — but understands him. Marek has an agenda and pursues it openly. That is a language K'Tagh speaks. The Federation, by contrast, talks about cooperation and arrives with starships. Marek loathes the Klingon chaos — but respects their directness. The Federation smiles and says "partnership" when it means "submission."
+
+On Kerata, Marek and K'Tagh sit at the same table, drink together, speak of shared interests. Behind the curtain Marek builds infrastructure designed to make Klingons obsolete, and K'Tagh looks for evidence to justify a military takeover. Each reports a completely different story to their own high command. The Dinner scene is this theater at its most refined — two men who hate each other performing civilization.
+
+And Kirk walks into this. He should see through the facade — but the uncomfortable truth is that his own government benefits from these two keeping each other busy on the periphery. The Federation doesn't want to solve the Kerata situation. It wants it to stay manageable.
 
 K'Tagh discovers in Scene 8 that his faction has been used as Cardassian muscle. For a Klingon that is not a strategic calculation. That is a matter of honor. His fury is entirely Klingon and entirely Russian simultaneously.
 
@@ -135,6 +155,24 @@ When he worked those rocks the colony was in rags. Marginal. The kind of place p
 And too much personnel. The specializations are wrong. Security infrastructure serving no civilian purpose. A military operation wearing a humanitarian uniform — but the humanitarian work is real. That is what makes it so morally difficult. The colonists aren't deluded. They received something genuine. The Federation never offered them anything comparable.
 
 *"The thing being dismantled today achieved real things for real people. Both truths coexist. The film never resolves them. Neither should the audience."*
+
+## The Settlement Geography — Visible From Orbit
+
+The colony is not one settlement. It is three worlds layered on top of each other.
+
+The Cardassian-built zones are modern, clean, efficient — transit networks, residential blocks, commercial infrastructure that works. The lights from orbit are dense, even, designed. The human and Federation-origin population lives here alongside Cardassians, integrated into a functioning society. This is the showcase. This is what Marek points to when he says the colony is flourishing.
+
+The Klingon settlements are visible from orbit for what they lack. Roughly fifteen percent of the light output of the Cardassian zones. From a shuttle window the contrast is immediate and silent — a bright grid fading into scattered dim clusters at the edges. The Klingon towns have remained primitive. Not squalid, not starving — the Cardassians built them a colony too, basic infrastructure, functional housing, adequate supply chains. But the Klingons never developed beyond what was given to them. No commercial growth. No cultural institutions. No integration with the wider settlement. A North Korean satellite photograph in miniature: the same planet, the same resources, a different civilization's output.
+
+The Klingons live mostly among themselves. They have what they need. They don't have what the Cardassians built for everyone else. Nobody discusses this. It is simply visible.
+
+## Hummer Remembers the Klingon Crews
+
+Hummer worked alongside Klingon mining crews in the belt before the Cardassians came. He remembers them clearly. Not with hatred — with the practiced wariness of someone who learned to keep his distance.
+
+*"I remember the Klingon crews. Half the equipment was wrecked before the end of the first rotation. Not sabotage — they just didn't care. If it broke they hit it harder."*
+
+The tone is not openly contemptuous. It is the understated dismissiveness of a man who cleaned up after them. The slight pause before choosing a polite word. The implication that he could say more and is choosing not to. Hummer doesn't hate Klingons. He categorizes them — the way a professional categorizes amateurs. It tells the audience everything about why the Cardassians were brought in without anyone having to explain the politics.
 
 ## Hummer's Knowledge of the Belt
 

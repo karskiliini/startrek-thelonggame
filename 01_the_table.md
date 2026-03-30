@@ -170,6 +170,28 @@ He pauses again. The warmth returns, but now it carries something else — a car
 ---
 
 **MAREK** *(CONT'D)*
+When I took over from my Klingon colleague — when we assumed responsibility for development operations — the colony mortality rate was four times the Federation baseline. Crime was endemic. There were no families. No one brought children to that place.
+
+*(the slightest pause — the pride of a man presenting his life's work)*
+
+Since then, violent crime has dropped by sixty percent. Mortality is at Federation standard. The number of families on Kerata IV has increased twenty-seven-fold.
+
+He picks up his glass. A small gesture — celebratory, almost.
+
+---
+
+**MAREK** *(CONT'D)*
+The schools serve everyone. The hospitals serve everyone. The cities are beginning to — flourish is not too strong a word.
+
+*(to Voss, warmly)*
+
+And I believe the Federation has been pleased with the results. Your colonial affairs office described our contribution as — what was the phrase — *a model of cross-cultural development*. We were very proud of that.
+
+He says it with genuine warmth. The warmth of a man who has successfully convinced his host that the guest is doing the hosting a favour. The Federation thinks it invited civilisation to Kerata IV. The Cardassians let them think that. The flattery runs in one direction — upward, toward the power that must be kept comfortable — while the infrastructure runs in the other.
+
+---
+
+**MAREK** *(CONT'D)*
 We have three hundred Cardassian medical personnel on Kerata IV. Running hospitals we built. When a licensing dispute arises — a procedural question, a complaint — it is adjudicated under Federation colonial law by administrators who have never seen a Cardassian medical facility from the inside. Last month a surgical team was suspended for three days over a documentation discrepancy. Three days. The ward they serve handles sixty patients a day.
 
 *(quieter now — the voice of a man who is simply tired)*
