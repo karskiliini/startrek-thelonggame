@@ -350,7 +350,7 @@ Hull composition trace — Cardassian military construction. First instinct corr
 
 Goes quiet. Listens more. Kirk watches from a distance. Once, passing on the bridge: *"Better."* One word.
 
-**Stage 5 — The Con (Scene 10)**
+**Stage 5 — The Conn (Scene 10)**
 
 Gut and calculation running simultaneously because the fear is gone and the space opens up. The asteroid immobility strategy — planted by Spock, grown from memory, fired from certainty. The dinner answer made real in the canyon.
 
