@@ -51,24 +51,14 @@ That changes the temperature on the bridge.
 ---
 
 **HUMMER** *(CONT'D)*
-Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation. Colony surface reads normal — no obvious military movement.
+Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation.
 
-He hesitates.
+He runs the standard sweep. Reads the results. Something in the numbers makes him slow down.
 
 ---
 
 **HUMMER** *(CONT'D)*
-Personnel density in the northern settlement cluster reads higher than the population registry suggests. Could be data lag.
-
----
-
-**KIRK**
-Or not.
-
----
-
-**HUMMER**
-Or not.
+Population reads thirty-two percent above registry. Subsurface geological profile shows extensive non-natural formations in the northern plateau. Cargo transit volume consistent with a colony twice this size. Subspace traffic is very active.
 
 ---
 
