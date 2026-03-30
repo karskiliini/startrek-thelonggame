@@ -25,7 +25,7 @@ Kirk says nothing.
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-Your tactical officer had a sensor reading. Cardassian military construction signature in the debris field. Fragmentary — yes. Partial — yes. But it was there. In the log. Time-stamped.
+Your tactical officer had a sensor reading. Klingon disruptor signature in the blast crater. Ship-mounted, not ground-level. Fragmentary — yes. Partial — yes. But it was there. In the log. Time-stamped.
 
 *(beat)*
 
@@ -43,7 +43,7 @@ Your officer was being careful. I understand careful. I've built a career on car
 
 *(beat)*
 
-But careful has a cost, Captain. The Cardassian vessel shifted orbit forty seconds after that reading appeared. The sensor geometry moved. The trace is now unrecoverable. Your officer had something. He said nothing. And now we have nothing.
+But careful has a cost, Captain. The Klingon warbird moved behind the ionosphere forty seconds after that reading appeared. The continuous sensor correlation broke. The trace is now unrecoverable as standalone evidence. Your officer had something. He said nothing. And now we have nothing.
 
 ---
 

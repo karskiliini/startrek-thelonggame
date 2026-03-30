@@ -17,9 +17,9 @@ The explosion happens before he can decide what it means.
 
 `EXT. KERATA IV — COLONY SURFACE — CONTINUOUS`
 
-A power distribution hub in the northern settlement cluster. The blast is not contained — not this time. This is bigger than the incident Marek described at the dinner. Cruder. The explosive yield is wrong for a precision operation — too much force, too little control. The particular signature of someone who wanted results more than they wanted subtlety.
+A power distribution hub in the northern settlement cluster. The blast is not contained — not this time. This is bigger than the incident Marek described at the dinner. The impact pattern is wrong for a ground-level device. The crater is too clean. The thermal scarring radiates from a single point of origin above the structure — not below, not beside. Above.
 
-Not Cardassian work. Cardassians don't make this kind of mess.
+This was fired from orbit. A disruptor bank. Klingon.
 
 The dust is still in the air when the broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action.
 
@@ -67,15 +67,17 @@ Debris field composition. Energy signature. Blast pattern.
 
 His eyes stop moving.
 
-There — in the debris field readings. A hull composition trace. Faint. Fragmentary. But there.
+There — in the energy residue analysis. A disruptor frequency signature. Faint. Fragmentary. But there.
 
-He knows that trace.
+He knows that frequency.
 
-He has seen it before in a different intelligence context — a contractor profile in a Starfleet security assessment. Cardassian military construction specification. Not civilian. Military.
+Every tactical officer learns the standard disruptor profiles at the Academy. Klingon military disruptors operate on a frequency band that is distinct from Cardassian, Romulan, or any civilian mining equipment. The signature in the crater residue is consistent with a ship-mounted disruptor bank. Not a hand weapon. Not a ground installation. A ship.
+
+The Bird of Prey in high orbit.
 
 He should say something.
 
-Right now. Out loud. To Kirk. Three words: *Cardassian military signature.*
+Right now. Out loud. To Kirk. Three words: *Klingon disruptor signature.*
 
 That's all it would take. Kirk would act. Kirk would know what to do with a fragmentary reading and a gut feeling. Kirk has been acting on fragmentary readings and gut feelings for thirty years.
 
@@ -83,17 +85,13 @@ But the reading is fragmentary. The trace is partial. And Hummer has built his e
 
 So he keeps calculating.
 
-The Cardassian vessel maintains its orbit.
+The Klingon warbird maintains its orbit. Weapons still hot — but they were hot when Enterprise arrived. That's not new evidence. That's Tuesday for a Klingon.
+
+He calculates. The disruptor frequency is fragmentary. Partial. The blast dispersed most of the signature. What's left could be a match — but could also be attributed to industrial equipment, mining charges, half a dozen alternative explanations that a good defense attorney would drive a shuttle through.
 
 He calculates.
 
-On the screen the broadcast continues. Smooth. Prepared.
-
-He calculates.
-
-The Cardassian vessel begins a routine orbital correction. Shifts its position by three degrees. The sensor angle changes. The debris field is still there but the geometry that gave him that trace — the specific alignment of Enterprise's lateral array and the blast site — is gone.
-
-The reading is still in his buffer. But it's orphaned now. A data point without context. A conclusion without the evidence chain that would make it actionable.
+K'Tagh's warbird begins a slow orbital adjustment. The movement takes it behind the planet's ionosphere for ninety seconds — enough to break Enterprise's continuous sensor lock on the vessel. When it re-emerges, the fresh data chain is broken. The disruptor signature in Hummer's buffer is now an isolated reading without a continuous sensor correlation to the vessel that may have fired it.
 
 He had it. He had it and he said nothing.
 
