@@ -170,6 +170,15 @@ You —
 ---
 
 **MAREK**
+Now do as I tell you. Or I will have you trashed.
+
+The word lands. *Trashed.* Not disciplined. Not court-martialed. Not killed in battle. Trashed. The word you use for a tool that stopped working.
+
+K'Tagh's face. The face of a man who has just been told what he is twice in ten seconds and cannot find the words to make either one untrue.
+
+---
+
+**MAREK** *(CONT'D)*
 We're done.
 
 He closes the channel.
