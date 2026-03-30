@@ -18,23 +18,37 @@ She doesn't raise her voice.
 ---
 
 **ADMIRAL VOSS**
-The Emergency Disclosure window was open for thirty-eight seconds.
+I've reviewed the tactical record.
 
 Kirk says nothing.
 
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-Your tactical officer had a valid sensor reading at the fourteen-second mark. Sufficient cause to invoke the protocol existed at the twenty-second mark. At the absolute latest.
+Your tactical officer had a sensor reading. Cardassian military construction signature in the debris field. Fragmentary — yes. Partial — yes. But it was there. In the log. Time-stamped.
 
 *(beat)*
 
-He invoked nothing. He said nothing. The window closed.
+He didn't report it.
 
 ---
 
 **KIRK**
-The reading was fragmentary, Admiral. My officer was being thorough. The protocol carries significant diplomatic consequences if invoked without —
+The reading was inconclusive, Admiral. My officer was —
+
+---
+
+**ADMIRAL VOSS**
+Your officer was being careful. I understand careful. I've built a career on careful.
+
+*(beat)*
+
+But careful has a cost, Captain. The Cardassian vessel shifted orbit forty seconds after that reading appeared. The sensor geometry moved. The trace is now unrecoverable. Your officer had something. He said nothing. And now we have nothing.
+
+---
+
+**KIRK**
+He was trying to verify before —
 
 ---
 

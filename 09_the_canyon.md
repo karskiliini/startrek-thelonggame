@@ -35,7 +35,21 @@ He and SPOCK exchange a look. Quiet. Private.
 
 **KIRK**
 *(low — not for the bridge)*
-The surface. I have to go.
+The surface. Marek. I need to talk to him before this closes completely.
+
+---
+
+**SPOCK**
+You believe he will cooperate.
+
+---
+
+**KIRK**
+I believe he brought a family heirloom to a starbase dinner and cooked for three people he doesn't trust. That's not a man who's comfortable with what he's building.
+
+*(beat)*
+
+And if I'm wrong — I need to know that too.
 
 ---
 
@@ -45,7 +59,7 @@ The timing is — suboptimal.
 ---
 
 **KIRK**
-I know.
+It always is.
 
 He looks at his bridge. His crew. The tactical station.
 

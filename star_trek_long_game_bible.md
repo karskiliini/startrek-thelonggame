@@ -18,7 +18,7 @@ The Star Trek prefix carries fifty years of promise — the Federation at its be
 
 **THE LONG GAME** names the civilizational scale. The geopolitical chess. The thirty-year operation and the fifteen-year counter-operation and the career-long arc of every character.
 
-**Grey Water** names the texture of what those characters actually live in. Not the grand strategy. The murky imperfect daily reality of performing duty with broken tools in conditions that are never clean. The flagship drinking fog. The evidence that evaporates in thirty-eight seconds. The grey water everyone gets used to because complaining doesn't fix it.
+**Grey Water** names the texture of what those characters actually live in. Not the grand strategy. The murky imperfect daily reality of performing duty with broken tools in conditions that are never clean. The flagship drinking fog. The sensor reading that was there and then wasn't. The grey water everyone gets used to because complaining doesn't fix it.
 
 *The Long Game is what they're playing. Grey Water is what they're playing it in.*
 
@@ -253,7 +253,7 @@ Reviews the tactical record. Thirty-eight seconds. Sufficient cause at twenty-tw
 
 **Scene 12 — The Review Board**
 
-She raised the hesitation incident. She put it on the record. She is one of the five board members. She looks at Kirk throughout his speech. Then looks at Hummer's file. Thinks about the dining room. Cardassian wine. The thirty-eight second window. The number ten times larger than anything she told Sorak was sufficient evidence to act on. Picks up her PADD. Signs. No comment. She wasn't wrong about anything. The lead did get away. That is also true. She signs it.
+She raised the hesitation incident. She put it on the record. She is one of the five board members. She looks at Kirk throughout his speech. Then looks at Hummer's file. Thinks about the dining room. Cardassian wine. The reading Hummer didn't report. The number ten times larger than anything she told Sorak was sufficient evidence to act on. Picks up her PADD. Signs. No comment. She wasn't wrong about anything. The lead did get away. That is also true. She signs it.
 
 ---
 
@@ -366,7 +366,7 @@ A small brilliant tactical instinct nobody else catches. The slight hesitation b
 
 **Stage 2 — The Failure (Scene 5)**
 
-Hull composition trace — Cardassian military construction. First instinct correct. Calculates again. Window closes at thirty-eight seconds. Says nothing.
+Hull composition trace — Cardassian military construction. First instinct correct. Keeps calculating instead of speaking. The Cardassian vessel shifts orbit. The sensor geometry moves. The trace becomes unrecoverable. Says nothing.
 
 **Stage 3 — The Reprimand (Scene 6)**
 
@@ -553,7 +553,7 @@ An explosion on the colony surface. Casualties. Federation citizens among the de
 
 Kirk and K'Tagh receive incompatible versions from their governments simultaneously. Neither believes their version entirely.
 
-Hummer reads the explosion's sensor signature. Hull composition trace — Cardassian military construction. His first instinct is correct. The Emergency Disclosure window is open. He calculates whether the reading is sufficient cause to invoke the protocol. Calculates again. The Cardassian vessel begins a routine orbital correction. The vessel moves. The sensor geometry shifts. The thirty-eight second window closes.
+Hummer reads the explosion's sensor signature. Hull composition trace — Cardassian military construction. His first instinct is correct. He should say it out loud. Three words to Kirk: *Cardassian military signature.* Instead he keeps calculating — verifying, cross-referencing, building the case no one asked him to build. The Cardassian vessel begins a routine orbital correction. The sensor geometry shifts. The trace becomes unrecoverable. He had it. He said nothing.
 
 He has the reading. He has nothing that will hold up. He says nothing.
 
@@ -565,7 +565,7 @@ Kirk looks at him — the specific look of a man who knows when *still analyzing
 
 Kirk alone in his ready room. Admiral Voss on the screen. She has reviewed the tactical record. She doesn't raise her voice. She never raises her voice.
 
-> *"The Emergency Disclosure window was open for thirty-eight seconds. Your tactical officer had a valid sensor reading at the fourteen-second mark. Sufficient cause to invoke the protocol existed at the twenty-second mark. At the absolute latest. He invoked nothing. He said nothing. The window closed."*
+> *"Your tactical officer had a sensor reading. Cardassian military construction signature. It was there. In the log. Time-stamped. He didn't report it. The Cardassian vessel shifted orbit forty seconds later. The trace is now unrecoverable. He had something. He said nothing. And now we have nothing."*
 
 Kirk defends Hummer — the reading was fragmentary, the protocol carries diplomatic consequences. She stops him.
 
@@ -735,7 +735,7 @@ The review board. Five officers. Admiral Voss at the center. Hummer's file. Boar
 
 > *"I've seen officers freeze under pressure and never recover. I've seen officers who never froze but never truly led either. This man froze once, understood exactly why, and then did something most officers never manage. He learned to trust himself more than his fear. In the same engagement he acted on instinct, found the instinct incomplete, and had the presence to correct course without losing a single second of momentum. He gave orders he couldn't yet confirm were right because he was already thinking three moves past them. That is not a liability. That is the only quality that matters when everything else fails. Give him a ship."*
 
-Voss looks at Kirk throughout the speech. Then at Hummer's file. Thinks about the dining room. Cardassian wine. The thirty-eight second window. The number ten times larger than anything she told Sorak was sufficient evidence to act on. Picks up her PADD. Signs the recommendation. No comment. She wasn't wrong about anything. The lead did get away. That is also true. She signs it.
+Voss looks at Kirk throughout the speech. Then at Hummer's file. Thinks about the dining room. Cardassian wine. The reading Hummer didn't report. The number ten times larger than anything she told Sorak was sufficient evidence to act on. Picks up her PADD. Signs the recommendation. No comment. She wasn't wrong about anything. The lead did get away. That is also true. She signs it.
 
 **FINAL SHOT:** Hummer on the bridge of a small, slightly battered Federation vessel — USS Centaur. His name on the duty roster. He looks at the viewscreen. Stars. The future. Unresolved. Arguable. Still anyone's to write.
 

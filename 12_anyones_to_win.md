@@ -86,7 +86,7 @@ BOARD MEMBER CHEN — earnest, procedural — has the hesitation incident open.
 ---
 
 **CHEN**
-The Emergency Disclosure window closed without action. The incident is on record. It cost the operation its primary evidentiary basis at a critical juncture.
+A valid sensor reading was logged but not reported. The Cardassian vessel shifted orbit before the reading could be acted on. It cost the operation its primary evidentiary basis at a critical juncture.
 
 *(to Kirk)*
 
@@ -134,7 +134,7 @@ Now she looks at Hummer's file.
 
 She thinks about a dining room on a starbase. Cardassian wine. A man who was charming and cultured and absolutely certain the Federation would not look closely enough.
 
-She thinks about the thirty-eight second window.
+She thinks about the reading Hummer didn't report.
 
 She thinks about what was in the documents. Ten times larger than anyone estimated. Ten times larger than anything she told Sorak was sufficient evidence to act on.
 

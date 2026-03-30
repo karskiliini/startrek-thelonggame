@@ -71,33 +71,29 @@ He knows that trace.
 
 He has seen it before in a different intelligence context — a contractor profile in a Starfleet security assessment. Cardassian military construction specification. Not civilian. Military.
 
-He starts calculating.
+He should say something.
 
-Is this reading sufficient cause to invoke the Emergency Disclosure Protocol?
+Right now. Out loud. To Kirk. Three words: *Cardassian military signature.*
 
-On the screen the Cardassian broadcast continues.
+That's all it would take. Kirk would act. Kirk would know what to do with a fragmentary reading and a gut feeling. Kirk has been acting on fragmentary readings and gut feelings for thirty years.
 
-Hummer calculates.
+But the reading is fragmentary. The trace is partial. And Hummer has built his entire career on never saying anything he can't defend. Never being wrong. Never putting his name on a conclusion that might collapse under scrutiny.
+
+So he keeps calculating.
 
 The Cardassian vessel maintains its orbit.
 
-Hummer calculates.
+He calculates.
 
-He pulls up the protocol specifications. Cross-references the reading against the evidentiary threshold. The reading is fragmentary. The trace is partial. Is it sufficient? Is it?
+On the screen the broadcast continues. Smooth. Prepared.
 
 He calculates.
 
-The Cardassian vessel begins a routine orbital correction.
+The Cardassian vessel begins a routine orbital correction. Shifts its position by three degrees. The sensor angle changes. The debris field is still there but the geometry that gave him that trace — the specific alignment of Enterprise's lateral array and the blast site — is gone.
 
-He calculates.
+The reading is still in his buffer. But it's orphaned now. A data point without context. A conclusion without the evidence chain that would make it actionable.
 
-The vessel moves.
-
-The sensor geometry shifts.
-
-The thirty-eight second window closes.
-
-He has the reading. He has the analysis. He has nothing that will hold up.
+He had it. He had it and he said nothing.
 
 He has a glass of grey water.
 
