@@ -152,32 +152,6 @@ She signs it.
 
 ---
 
-`INT. ENTERPRISE-A — BRIDGE — LATER`
-
-The ship is quiet. The post-crisis quiet of a vessel that has been through something and is still counting the cost.
-
-KIRK in the command chair. McCOY standing beside him. Neither looking at the other. Looking at the viewer. Stars.
-
-McCoy has a glass of water. He holds it up. The light catches it. Still grey.
-
----
-
-**McCOY**
-Still foggy.
-
----
-
-**KIRK**
-At least it's not red.
-
-McCoy glances at him. Kirk doesn't look back. Neither of them smiles. It wasn't a joke. It was the truest thing either of them has said all week.
-
-McCoy drinks the grey water. Kirk turns back to his console.
-
-`CUT TO:`
-
----
-
 `INT. USS CENTAUR — BRIDGE — LATER`
 
 Small. Slightly battered. The specific dignity of a vessel that knows what it is and doesn't apologize.
@@ -198,15 +172,41 @@ He goes to the command chair.
 
 Sits.
 
-Reaches — almost without thinking — for the water dispenser built into the chair's armrest.
+A voice from behind him.
 
-Pours a glass.
+---
 
-Holds it to the light.
+**McCOY**
+Thought I'd see the new ship before you scratch it.
 
-Grey. Slightly cloudy.
+Hummer turns. McCoy is standing in the doorway. Not in any official capacity. Just a doctor who came to check on someone. The way he does.
 
-He looks at it for a moment.
+McCoy walks to the chair. Looks around the bridge. Small. Battered. Real.
+
+---
+
+**McCOY** *(CONT'D)*
+Water any better on this one?
+
+Hummer reaches for the dispenser built into the chair's armrest. Pours two glasses. Hands one to McCoy.
+
+McCoy holds it to the light. Grey. Slightly cloudy.
+
+---
+
+**McCOY** *(CONT'D)*
+Still foggy.
+
+---
+
+**HUMMER**
+At least it's not red.
+
+McCoy glances at him. Hummer doesn't look back. Neither of them smiles. It wasn't a joke.
+
+McCoy drinks the grey water. Sets the glass down. Nods once — at Hummer, at the bridge, at something that doesn't need to be said. Leaves.
+
+Hummer looks at his glass for a moment.
 
 He drinks it.
 
