@@ -3,139 +3,172 @@
 
 ---
 
-`EXT. SPACE — KERATA SYSTEM — DAY`
+`EXT. SPACE — KERATA SYSTEM`
 
-Enterprise drops out of warp.
+Enterprise drops out of warp. The first time the ship has moved with purpose since we met her orbiting that forgettable planet.
 
-The system spreads across the viewer — the planet first, beautiful as it was from the opening sequence, and now we understand we've been here before. The moon with its canyon system. And the asteroid belt, which we know now in a way we didn't when we were watching the miners work.
+The system opens on the viewer. The planet — green and blue, the same one from the opening sequence, still beautiful, still looking cared for. The moon with its dark canyon wound. And beyond it, the asteroid belt. A river of ancient rock.
 
-`CUT TO:`
+HUMMER, at the tactical station, stops what he's doing.
 
----
+He looks at the viewer.
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+He's been here before. Fourteen years ago. In a shuttle with bad lights and a failing power cell. He cut rock out of that belt for two years. He ate bad food in a colony that was falling apart. He left when he could.
 
-On the bridge, HUMMER is at the tactical station. He looks at his readouts.
+Now the colony is flourishing. From orbit you can see the organized geometry of infrastructure that works — roads, power distribution, the clean lines of something someone invested in.
 
-Then he looks up at the viewer.
-
-The neighbouring colony is visible — the other inhabited world in the system, smaller, closer to the belt. From here it looks prosperous. Even from orbit you can see the organized geometry of infrastructure that works.
-
-He looks at it for a moment longer than he needs to.
-
-He grew up near those people. He worked alongside them. He says nothing.
-
-Kirk, from the command chair, notices.
-
-Then Hummer goes back to his console.
+He looks at it for a long moment. Too long for a tactical officer on duty.
 
 ---
 
 **HUMMER**
-*(quietly, to himself)*
-There it is.
+*(barely audible, to himself)*
+That's not the same place.
+
+Kirk, from the command chair, notices the pause. Files it. Says nothing.
 
 ---
 
 **KIRK**
 Report.
 
+Hummer snaps back. Professional. But something behind his eyes hasn't quite returned to the console.
+
 ---
 
 **HUMMER**
-Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding. Armed but weapons not hot.
+Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding.
 
-*(beat)*
+He pauses.
 
-Cardassian diplomatic vessel in standard orbit, same position they've held for twenty-two days. No deviation.
+---
 
-*(beat)*
+**HUMMER** *(CONT'D)*
+Weapons are hot, Captain.
 
-Colony surface — population distribution looks normal. No obvious military movement.
+That changes the temperature on the bridge.
 
-He hesitates a fraction of a second.
+---
+
+**HUMMER** *(CONT'D)*
+Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation. Colony surface reads normal — no obvious military movement.
+
+He hesitates.
 
 ---
 
 **HUMMER** *(CONT'D)*
 Personnel density in the northern settlement cluster reads higher than the population registry suggests. Could be data lag.
 
-Kirk files it. Doesn't comment on it.
+---
+
+**KIRK**
+Or not.
+
+---
+
+**HUMMER**
+Or not.
 
 ---
 
 **KIRK**
 Open a channel to the Klingon vessel.
 
+A beat. The communications officer looks at Kirk. Kirk nods.
+
 The viewscreen shifts.
+
+---
+
+`INT. ENTERPRISE-A — BRIDGE / INT. KLINGON WARBIRD — BRIDGE — SPLIT SCREEN`
 
 K'TAGH appears.
 
-She is not what the title 'Klingon Commander' typically prepares you for. She is precise. Almost courteous. Her posture carries authority the way architecture carries weight — structurally, completely, without apparent effort.
+He is standing too close to the screen. The face fills the viewer — the ridges, the teeth, the particular intensity of a man who is always three seconds from doing something. His bridge behind him is loud. Someone is shouting orders in Klingon. K'Tagh doesn't seem to notice or care.
 
-She looks at Kirk the way someone looks at a document they have already read.
+He looks at Kirk the way a dog looks at something that just walked into its yard.
 
 ---
 
 **K'TAGH**
-Captain Kirk. The Federation vessel is twelve minutes early.
+Kirk.
+
+Not Captain Kirk. Not a greeting. A sound. The sound of a name being bitten off.
+
+---
+
+**K'TAGH** *(CONT'D)*
+You brought a big ship to a small problem. That is either stupid or insulting. Which is it?
+
+A beat. The bridge is very quiet. Everyone has stopped moving.
 
 ---
 
 **KIRK**
-I didn't realize we had a scheduled arrival.
+Commander. My orders are observation and diplomatic —
 
 ---
 
 **K'TAGH**
-In my experience, when the Federation sends a starship to observe a situation, the situation has already been decided. It seemed reasonable to expect you.
+I know what your orders are. Your orders are a lie someone told you so you would come here and feel comfortable. You are not comfortable. I can see it.
 
-A beat. Kirk almost smiles.
-
----
-
-**KIRK**
-Commander. My orders are observation and diplomatic liaison. I'm not here to create complications.
+He grins. The grin of a man who enjoys watching people become uncomfortable.
 
 ---
 
-**K'TAGH**
-No. You are here because someone decided this situation requires your particular kind of not creating complications.
+**K'TAGH** *(CONT'D)*
+I know who you are, Kirk. I read your file. I read all of it. I read the parts they redacted and the parts they didn't bother to redact because nobody thought a Klingon would care enough to look.
+
+*(leaning closer to the screen — the face getting larger, the voice dropping)*
+
+You are the man who does not create complications. Until he does. And then everyone is surprised. Everyone is always very surprised.
 
 *(beat)*
 
-I've read your file, Captain. Your particular kind tends to be eventful.
+I am not going to be surprised, Kirk.
 
 ---
 
 **KIRK**
-I'll try to disappoint you.
+I'll do my best to keep things uneventful, Commander.
+
+K'Tagh laughs. Not warmth. The laugh of a man who has heard something funny and threatening at the same time and can't tell the difference.
 
 ---
 
 **K'TAGH**
-I doubt that very much.
+Uneventful! Yes. Uneventful.
 
-She closes the channel.
+The laugh stops. Instantly. Like a switch.
 
-On the bridge, a beat of silence.
+---
+
+**K'TAGH** *(CONT'D)*
+If you make a move toward that corridor — any move — I will know about it before your helmsman does.
+
+He closes the channel. Hard.
+
+On the bridge, a long silence.
+
+Hummer is looking at his console. His hands have stopped. He has just met the man he will fight in a dark corridor between asteroids he used to cut for a living.
 
 ---
 
 **McCOY**
-*(quietly)*
-I like her.
+*(very quietly)*
+Jim.
 
 ---
 
 **KIRK**
-Don't.
+I know.
 
-Kirk stands. Goes to the viewer. Looks at Kerata IV. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that nobody is officially talking about.
+He stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a man just threatened to kill him over.
 
 ---
 
-**KIRK**
+**KIRK** *(CONT'D)*
 *(to Spock, quietly)*
 The personnel density in the northern cluster.
 
@@ -161,25 +194,21 @@ Kirk looks at him.
 **SPOCK** *(CONT'D)*
 The power consumption readings are inconsistent with agricultural processing. By a factor of approximately eleven.
 
-Kirk looks back at the planet. The planet that looks cared for.
-
-`CUT TO:`
+Kirk looks back at the planet.
 
 ---
 
-`EXT. KERATA IV — COLONY SURFACE — DAY`
+**KIRK**
+*(to the bridge, changing the subject with the particular authority of a man who has decided that what he just saw requires time to think about)*
+Standard orbit. All departments, full readiness. I want a senior staff briefing in one hour.
 
-A market. A real one — not a transporter waypoint or a diplomatic venue but a place where people buy food and talk to their neighbors. The colony is prosperous in the way of somewhere that has been given good tools and used them.
+*(beat — quieter, to no one in particular)*
 
-FEDERATION CITIZENS. Most of them look like they've been here a generation or more. They didn't choose to be Federation citizens on a Cardassian-aligned world — they were born into that particular complication.
+And fix the water.
 
-A CARDASSIAN ADMINISTRATOR moves through the market with the ease of someone who has been here long enough to know people by name. He knows people by name. He calls out to a VENDOR. The vendor waves back.
+Nobody responds. Nobody can fix the water. The membranes are on backorder.
 
-This is not a performance.
-
-This is Tuesday for him too.
-
-In the background — in the direction of the northern settlement cluster — something that might be construction equipment. Or might be something else. From this angle you can't quite tell.
+But the order feels like something else. It feels like a man who has arrived somewhere that is going to cost him something, and wants one small thing to be right before it begins.
 
 `CUT TO:`
 
