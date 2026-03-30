@@ -206,7 +206,7 @@ From Sorak's believer to independent actor. Beats the Kobayashi Maru not by bein
 ---
 
 ## SORAK — The Shadow Emperor
-### The Federation's unauthorized long-game intelligence architect. Working name.
+### The Federation's unauthorized long-game intelligence architect. Cast: Hugo Weaving.
 
 Not a villain. Completely right about the threat and completely wrong about his right to fight it alone. The Federation's CIA — the Cigarette Smoking Man, a benevolent Emperor. He has all the intelligence. He stopped asking permission fifteen years ago.
 
