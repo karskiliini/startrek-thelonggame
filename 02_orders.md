@@ -67,7 +67,7 @@ He reads it twice. Sets the PADD down.
 
 Looks at the viewer. The planet below. Orbit fourteen.
 
-He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that Sorak arranged both the rescinded decommission and the assignment roster — that keeping Enterprise alive was the first move, and putting Hummer on it was the second.
+He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that Sorak spoke to Voss, and Voss spoke to the right people, and the decommission order was quietly reversed somewhere in the chain of command where nobody asks why. That keeping Enterprise alive was the first move, and putting Hummer on it was the second. Sorak didn't sign anything. Sorak never signs anything.
 
 He knows what the orders say.
 
