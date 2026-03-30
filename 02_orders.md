@@ -67,7 +67,7 @@ He reads it twice. Sets the PADD down.
 
 Looks at the viewer. The planet below. Orbit fourteen.
 
-He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that Sorak spoke to Voss, and Voss spoke to the right people, and the decommission order was quietly reversed somewhere in the chain of command where nobody asks why. That keeping Enterprise alive was the first move, and putting Hummer on it was the second. Sorak didn't sign anything. Sorak never signs anything.
+He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that the decommission order was quietly reversed somewhere in the chain of command where nobody asks why — that Sorak spoke to someone who spoke to someone who signed something. Voss was one conversation. There were others. Sorak has been running assets, contacts, and favors across Starfleet for fifteen years. He doesn't give orders. He doesn't need to. He places words in the right ears and the machine does the rest. Keeping Enterprise alive was the first move. Putting Hummer on it was the second. Sorak's name appears on nothing.
 
 He knows what the orders say.
 
