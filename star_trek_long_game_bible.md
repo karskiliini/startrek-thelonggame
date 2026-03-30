@@ -635,37 +635,51 @@ The mad dog breaks its leash.
 
 K'Tagh attacks the Cardassian diplomatic vessels first. Not Enterprise. The Cardassians. The ones who betrayed him. His fury is not strategic. It is the rage of a Klingon warrior who was used as furniture.
 
----
-
-**PHASE 3 — ENTERPRISE SHIELDS THE CARDASSIANS**
-
-Enterprise — under Hummer — moves to intercept. Interposes its hull between K'Tagh's disruptor fire and the Cardassian diplomatic ships. Kirk is on one of those ships.
-
-Enterprise takes hits meant for someone else. The shields absorb the first volley. The second. The third cracks them. Hull breaches on decks seven and twelve. Systems failing. The irony: the Federation flagship absorbing Klingon fire to protect Cardassian diplomats who were building a military installation to threaten the Federation.
-
-Hummer holds position. He cannot maneuver without exposing the diplomatic convoy. He cannot fire without escalating. He can only take it.
+The Cardassian diplomatic vessel — Kirk still aboard — flees into the asteroid field. Into a narrow passage between rocks, too tight for Enterprise to follow. Kirk is trapped inside the belt on a defenseless ship.
 
 ---
 
-**PHASE 4 — KIRK RETURNS TO ENTERPRISE**
+**PHASE 3 — THE CHASE AROUND THE PLANET**
 
-A brief window. K'Tagh breaks off to reposition — a cloaked attack run. Hummer has seconds.
+Enterprise — under Hummer — interposes itself between K'Tagh and the fleeing convoy. Shields absorb the first volley. The second. The third cracks them. Enterprise shields the Cardassians with its hull — the Federation flagship absorbing Klingon fire to protect the diplomats who were building a military installation to threaten the Federation.
 
-> "Transporter room — lock onto Captain Kirk's signal. Now."
+K'Tagh pursues. Enterprise circles behind the planet for cover. K'Tagh follows. Disruptor fire. Enterprise takes heavy damage — shields collapse and come back up, barely. Hull breaches. Systems failing.
 
-Kirk materializes on the bridge mid-sentence — he was shouting orders on the Cardassian vessel. He takes in the damage reports, the tactical display, K'Tagh's warbird recloaking for another run.
+Enterprise fires a photon torpedo from the aft tube. K'Tagh's shields absorb the hit — but it causes sparks on the Klingon bridge. The Klingons don't flinch. They get excited. The mad dog smells blood.
 
-Kirk takes command. Enterprise is damaged. Shields compromised. K'Tagh is faster, better armed, and cloaked.
-
-> "Hummer — get us into the ring."
+More disruptor fire. Enterprise is being torn apart.
 
 ---
 
-**PHASE 5 — THE ASTEROID FIELD (Scene 10 — "THE CONN")**
+**PHASE 4 — HUMMER FINDS THE ROUTE**
 
-Kirk gives the strategic decision. Hummer executes the tactics.
+Hummer sees it on the tactical display — an old miners' transit route into the asteroid belt. Not the narrow passage the Cardassian ship took. A different approach, wider, the kind of corridor the mining shuttles used to move between work sites. He knows these routes. He flew them.
 
-Enterprise limps into the asteroid field — damaged, shields flickering. Hummer finds the asteroid with the iron discoloration. Gut feeling: the interior might be hollow. Enterprise rolls 90 degrees and slides into the old mining cavity. Cannot turn around. The asteroid rotates, sealing the opening.
+> "Helm — bearing one-eight-seven mark four. The belt entrance. Full impulse."
+
+Enterprise breaks from the chase and runs for the asteroid field at full impulse. K'Tagh wasn't expecting this — a Constitution-class ship diving into an asteroid belt is not rational behavior. The warbird can't match the turn in time. Enterprise hits the belt entrance before K'Tagh can close the distance.
+
+K'Tagh cloaks. The warbird vanishes. They watch. They follow at half impulse — creeping into the belt, hunting.
+
+---
+
+**PHASE 5 — RESCUE AND HIDING (Scene 10 — "THE CONN")**
+
+Enterprise is inside the asteroid belt. Damaged. Shields flickering. A cloaked warbird somewhere behind them, crawling closer.
+
+But Kirk is in here too — on the Cardassian diplomatic vessel, somewhere in the belt, defenseless. Enterprise's sensors scan for his signal. Finding him is the mission. Everything else is survival.
+
+Hummer navigates deeper. Passive sensors locate Kirk's vessel — ten thousand meters ahead, sheltering behind a large rock. Enterprise creeps toward transporter range. Eight thousand meters. Six thousand. Five.
+
+> "Transporter room — lock onto Captain Kirk. Energize."
+
+Kirk materializes on the bridge. Takes in the damage. The tactical display. The cloaked warbird behind them.
+
+Takes command.
+
+> "Hummer — find us somewhere to hide. Now."
+
+Hummer finds the asteroid with the iron discoloration. Gut feeling: hollow interior. Enterprise rolls 90 degrees, slides into the old mining cavity. Cannot turn around. The asteroid rotates, sealing the opening.
 
 Silence. Stone on every side. The crew feels the gravitational tremor as K'Tagh's cloaked warbird passes close. Kirk whispers: *"The Klingon impulse drive."*
 
