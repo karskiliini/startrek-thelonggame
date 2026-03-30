@@ -99,6 +99,13 @@ Not Captain Kirk. Not a greeting. A sound. The sound of a name being bitten off.
 ---
 
 **K'TAGH** *(CONT'D)*
+We are here on a humanitarian mission. Peacekeeping. Stability operations in support of the Cardassian development program.
+
+He says the words like a man reading a menu in a language he doesn't speak. The sentence is correct. Everything else about him — the teeth, the posture, the weapons console flashing red behind him, the crew member who flinches when K'Tagh moves his hand too fast — says something entirely different.
+
+---
+
+**K'TAGH** *(CONT'D)*
 You brought a big ship to a small problem. That is either stupid or insulting. Which is it?
 
 A beat. The bridge is very quiet. Everyone has stopped moving.
