@@ -17,24 +17,6 @@ The flagship of the Federation. Waiting to be put down.
 
 ---
 
-`INT. ENTERPRISE-A — CORRIDOR — CONTINUOUS`
-
-A CREW MEMBER walking the corridor reaches a water dispenser. Pours a glass.
-
-Holds it up.
-
-Grey. Slightly cloudy.
-
-He looks at it for a moment.
-
-Drinks it.
-
-Keeps walking.
-
-`CUT TO:`
-
----
-
 `INT. ENTERPRISE-A — MESS — CONTINUOUS`
 
 A TABLE of junior officers eating. Synthesized food — nutritionally precise, texturally approximate. The kind of meal you stop tasting after a while.
