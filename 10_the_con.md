@@ -28,14 +28,61 @@ Sir — the ring? At this tonnage?
 ---
 
 **HUMMER**
-Enterprise is three hundred meters long. That asteroid —
+Helm — bearing two-two-four mark twelve. The large asteroid with the iron discoloration on the southern face.
 
-He points at the viewer. A rock filling a quarter of the screen, rotating with the geological patience of something that was old when the Federation was founded.
+He's studying it on the passive display. His gut is working faster than his mind.
 
 ---
 
 **HUMMER** *(CONT'D)*
-— is eleven kilometers across. We're a barnacle.
+The inner ring asteroids — the iron-rich ones with that discoloration pattern — they're often hollow. Partially. The iron deposits form around voids. The mining crews used to find cavities when they cut deep enough. Some of them big enough to park a shuttle in.
+
+*(beat)*
+
+Some of them bigger.
+
+---
+
+**PARK**
+You want to take Enterprise inside an asteroid.
+
+---
+
+**HUMMER**
+I want to try.
+
+---
+
+**LT. COMMANDER**
+Enterprise is three hundred meters long. If the cavity isn't big enough —
+
+---
+
+**HUMMER**
+Then we won't fit and we'll back out.
+
+*(beat)*
+
+If it is big enough — we might not be able to turn around inside. We go in forward, we come out in reverse. And if a cloaked warbird parks itself at the entrance —
+
+He doesn't finish the sentence. He doesn't need to.
+
+---
+
+**PARK**
+We'd be trapped. No shields, no weapons arc, no maneuvering room. Inside a rock.
+
+---
+
+**HUMMER**
+Yes.
+
+A silence. The specific silence of a bridge crew being asked to trust a gut feeling with four hundred lives.
+
+---
+
+**HUMMER** *(CONT'D)*
+But if we stay in open space they will find us. That's not a gut feeling. That's sensor math.
 
 *(to the bridge)*
 
@@ -53,13 +100,76 @@ Enterprise drifts into the asteroid ring like a ship entering fog.
 
 `EXT. ASTEROID RING — CONTINUOUS`
 
-Enterprise against the rock.
+The asteroid fills the screen. Eleven kilometers of ancient stone.
 
-The scale is wrong — or rather, the scale is finally right. The ship that fills a spacedock, that carries four hundred crew, that represents the engineering pinnacle of an interstellar civilization — is the size of a scratch on the face of this asteroid. A fleck of grey against eleven kilometers of ancient stone.
+Enterprise slides around its flank — past the iron discoloration — scanning the surface with nothing but the viewport and whatever light reaches them.
 
-She settles into the shadow of the rock. Thrusters firing in micro-corrections to match the asteroid's rotation. Riding it. The way a pilot fish rides a whale.
+The rock face scrolling past. Craters. Ridges. The monotony of geological time.
 
-From a distance — if you weren't looking — you wouldn't see her at all.
+Then — a shadow. Darker than the others. A crack in the surface that isn't a crack. An opening.
+
+---
+
+`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+
+---
+
+**HUMMER**
+There. Helm — hold position.
+
+On the viewer — the opening. A dark mouth in the asteroid's surface. No way to know how deep it goes. No way to know if it's wide enough. The passive sensors can give them the width of the entrance — approximately two hundred fifty meters — but nothing about what's inside.
+
+Enterprise is three hundred meters at the saucer. But the secondary hull is narrower.
+
+---
+
+**PARK**
+The saucer won't clear.
+
+---
+
+**HUMMER**
+We go in dorsal-down. Roll ninety degrees and enter on the vertical axis. The secondary hull and nacelle pylons will fit. The saucer —
+
+He looks at the opening.
+
+---
+
+**HUMMER** *(CONT'D)*
+— will be tight.
+
+---
+
+**LT. COMMANDER**
+*(very quietly)*
+Define tight.
+
+---
+
+**HUMMER**
+I'll tell you when we're inside.
+
+---
+
+`EXT. ASTEROID — CONTINUOUS`
+
+Enterprise rotates. Slowly. The great ship rolling onto her side — the saucer section turning from horizontal to vertical, the nacelles pivoting until the whole vessel presents her narrowest possible profile to the dark opening in the rock.
+
+She enters.
+
+The walls of stone slide past the viewport. Close. Too close. The saucer's edge passing the rock face with a margin that no engineer would approve and no regulation would permit.
+
+The helm officer's hands are not shaking now. They are past shaking. They are in the particular stillness of someone who has committed to something and is simply executing it, meter by meter, because stopping is no longer an option.
+
+Deeper. The cavity opens slightly — the void inside is larger than the entrance suggested. Not much larger. But enough. Enterprise slides into the interior of the asteroid like a blade into a sheath.
+
+Stone on every side. Above. Below. The faint grey of asteroid interior, lit only by the dim emergency lighting leaking from the hull.
+
+Through the viewport — rock. Close enough to see the grain of it. A wall of ancient stone where stars used to be.
+
+They cannot turn around.
+
+From outside — nothing. The asteroid looks like every other asteroid in the ring. The opening is a dark scar on a surface covered in dark scars. Nobody is looking for a starship inside a rock.
 
 ---
 
@@ -67,53 +177,114 @@ From a distance — if you weren't looking — you wouldn't see her at all.
 
 Silence.
 
-Not the operational quiet of a bridge running normally. The held-breath silence of people who understand that the ship is hiding.
+Not the operational quiet of a bridge running normally. The held-breath silence of people inside a stone coffin who cannot turn around and cannot fight and cannot do anything except wait and hope that nobody looks inside.
 
 HUMMER at tactical. Eyes on the passive gravitometric display. Waiting.
 
 PARK at the secondary console. Not moving. Barely breathing.
 
-The LIEUTENANT COMMANDER at the helm, hands resting on controls he has been told not to touch.
+The LIEUTENANT COMMANDER at the helm. His hands are on the controls. The controls are useless. There is nowhere to go except backward, slowly, into an opening that barely fit them on the way in.
+
+Through the forward viewport — rock. The grain of it visible. A dead end thirty meters ahead.
 
 Minutes pass.
 
-The asteroid rotates beneath them. Through the viewport — stars wheeling slowly as the rock turns. Then blackness as the mass of the asteroid itself fills the view. Then stars again.
+---
 
-Hummer watches the passive display. Gravitometric noise. Dust signatures. The natural chaos of a billion rocks in slow orbital motion.
+**HUMMER**
+Aft viewer.
+
+The screen switches. The view behind them — the narrow opening they entered through. A sliver of space visible at the far end of the cavity. Stars. The faint dust haze of the ring. The only window out.
+
+Hummer watches it. The only thing worth watching.
 
 Then — something.
 
-Not on the sensors. On the viewport.
+Not on the sensors. In the aft viewer.
+
+The sliver of space at the mouth of the cavity. Stars visible through the opening. And crossing that opening — slowly, taking perhaps four seconds to traverse the narrow gap — a distortion.
+
+Not a ship. Not anything visible. Just — a wrongness. The stars in the opening ripple slightly, as though seen through heat haze. A section of space approximately two hundred meters long that doesn't quite match what's behind it.
+
+The cloaked Klingon warbird.
+
+Passing the mouth of their hiding place. Three kilometers away. Maybe less. Moving on the exact corridor Hummer predicted — the deep slow path through the inner ring.
+
+Nobody on the bridge moves.
+
+Then — the sliver of space in the aft viewer narrows.
+
+The asteroid is rotating. The opening turning away from the corridor. The keyhole closing — not because anything is moving it, but because eleven kilometers of rock is slowly, patiently, turning its wound toward the wall.
+
+The sliver becomes a crack. The crack becomes a line. The line becomes nothing.
+
+Stone.
+
+The aft viewer shows stone. The forward viewport shows stone. Every direction shows stone. Enterprise is sealed inside a rotating rock with no view of anything.
 
 ---
 
 **PARK**
 *(barely audible)*
-Sir — three o'clock. Through the viewport.
+We're blind.
 
-Hummer looks up from his console.
+---
 
-Through the forward viewport — in the gap between their asteroid and the next — space. Stars. The faint dust haze of the ring.
+**HUMMER**
+So are they.
 
-And moving through it, very slowly, a distortion.
+Silence. Stone. Nothing on any display.
 
-Not a ship. Not anything visible. Just — a wrongness. A patch of stars that ripple slightly, as though seen through heat haze. A section of space approximately two hundred meters long that doesn't quite match what's behind it.
+Then the ship trembles.
 
-The cloaked Klingon warbird.
+Not an impact. Not an engine vibration. Something deeper — a shudder that passes through the hull like a low note through a tuning fork. The kind of vibration that has no mechanical source. Gravitational displacement. Something massive passing very close to something else.
 
-Passing between the asteroids. Three kilometers away. Maybe less. Moving on the exact corridor Hummer predicted — the deep slow path through the inner ring.
+Cups rattle on a console. A stylus rolls across a surface and falls. Park grabs the edge of his station.
 
-Nobody on the bridge moves.
+---
 
-The distortion slides across the viewport. Left to right. Silent. The stars behind it shimmering faintly as the cloak bends light around a hull that isn't supposed to be there.
+**KIRK**
+*(whispered)*
+The Klingon impulse drive.
 
-It takes approximately forty seconds to cross the viewport.
+---
 
-Forty seconds during which the entire bridge watches a ghost pass their window.
+The tremor builds — slowly, slowly — peaks — and then fades. Recedes. Like a wave passing under a boat.
 
-Then it's gone. The stars settle. Space looks normal again.
+It passed them.
+
+The opening didn't face the corridor when the warbird crossed. The rotation put the entrance on the far side — facing empty space, facing nothing, facing away from anything that was looking.
+
+Hummer knew it would. Not from certainty. From the rotation period he clocked when they approached — approximately nine minutes. He calculated how long they had from entry to occlusion. He calculated it would be enough.
+
+It was enough.
+
+---
 
 PARK exhales.
+
+The asteroid keeps turning. Minutes later — the opening rotates back into view. Stars again in the aft viewer. The corridor visible. Empty now.
+
+---
+
+**PARK** *(CONT'D)*
+How did you know the rotation would —
+
+---
+
+**HUMMER**
+I watched it for thirty seconds on approach. Nine-minute period. We entered when the opening faced the corridor. Four and a half minutes later it faces the other way.
+
+*(beat)*
+
+I needed them to pass us within that window.
+
+---
+
+**PARK**
+And if they'd been two minutes later?
+
+Hummer doesn't answer that.
 
 ---
 
