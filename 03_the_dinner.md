@@ -43,7 +43,14 @@ I wasn't sure of the agenda.
 **McCOY**
 The agenda is: table for four, one bottle, informal, no agenda.
 
-Kirk leans forward and pours for Hummer.
+Kirk leans forward and pours for Hummer. Catches his eyes for half a second.
+
+---
+
+**KIRK**
+We're off duty.
+
+Two words. The Shatner delivery — casual, warm, absolute. Not a suggestion. A command to stop being at attention.
 
 Hummer settles. Looks at the table. The food. And for just a moment — half a second, maybe less — he stops.
 
