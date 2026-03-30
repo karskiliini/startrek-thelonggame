@@ -45,7 +45,7 @@ You believe he will cooperate.
 ---
 
 **KIRK**
-I believe he brought a family heirloom to a starbase dinner and cooked for three people he doesn't trust. That's not a man who's comfortable with what he's building.
+I believe he brought a family heirloom to a starbase dinner and cooked for three people he doesn't trust. That's not a man who's comfortable with what's cooking.
 
 *(beat)*
 
