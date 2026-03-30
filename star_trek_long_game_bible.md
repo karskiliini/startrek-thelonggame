@@ -200,6 +200,10 @@ From Sorak's believer to independent actor. Beats the Kobayashi Maru not by bein
 
 Not a villain. Completely right about the threat and completely wrong about his right to fight it alone. The Federation's CIA — the Cigarette Smoking Man, a benevolent Emperor. He has all the intelligence. He stopped asking permission fifteen years ago.
 
+**Hummer — The Piece He Placed First**
+
+Before the ship. Before Kirk. Before the dinner on Starbase 12. Sorak identified the Kerata system as the flashpoint and calculated backward: who would need to be on the tactical station of the ship he sent there? He found Hummer's record — Vega Colony, freight hauler, two years in the Kerata belt, Academy scores that said *capable*. He moved one name on one assignment roster. The first move in the game, and nobody saw it. By the time Voss agrees to "review the assignment roster" for the ship, Sorak has already staffed it with the asset he needs.
+
 **His Fatal Flaw**
 
 He analyzes factions not people. Every Cardassian in his database is a data point representing Cardassian interests. The idea that a specific Cardassian military officer might not want this — that category does not exist in his model. Kirk walks in with no model at all and finds the one person Sorak's fifteen years couldn't see.
@@ -315,6 +319,14 @@ He is the film's moral compass in its plainest form. He sees what Kirk carries a
 ### Tactical Officer, USS Enterprise-A. From Vega Colony. Space miner. Nobody's son.
 
 Not a name that announces greatness. Utilitarian. Unglamorous. Built for rough terrain. Left Vega Colony at sixteen on a freight hauler. Worked two years in the Kerata asteroid belt to save for Academy fees. Built a survival mechanism: never answer until certain, never commit until you can't be wrong. It worked. It got him here. And here it will kill people.
+
+**The Assignment He Doesn't Understand**
+
+Hummer applied to multiple ships after the Academy. His scores were sufficient for Enterprise but so were dozens of candidates with better pedigrees, better connections, better names. Enterprise was the long shot. He doesn't know why he got it.
+
+Sorak knows. Sorak arranged it — quietly, invisibly, months before the dinner on Starbase 12. He had already identified the Kerata system as the flashpoint. He had already calculated that whoever held the tactical station on the ship he was sending there would need to know that specific asteroid belt from memory, not from charts. He found Hummer's record. Vega Colony. Freight hauler. Two years cutting rock in the Kerata belt. Academy scores that said *capable*. Background that said *knows the terrain*.
+
+Sorak moved one name on one assignment roster. Nobody noticed. Nobody was meant to. By the time Hummer sits at Kirk's dinner table he has already been a piece in Sorak's long game for months without knowing it. He thinks he got lucky. He got calculated.
 
 His arc is the American Dream engine of the film — nobody's son learning that the table was already his, that the only thing keeping him from it was the fear he carried from the floor.
 

@@ -89,12 +89,12 @@ Backorder. Three weeks and counting. Apparently someone decided the water supply
 ---
 
 **KIRK**
-We have the finest crew in the fleet.
+And the crew hasn't complained once.
 
 ---
 
 **McCOY**
-Drinking fog.
+The crew is drinking fog.
 
 ---
 
@@ -103,9 +103,63 @@ Federation priorities.
 
 Another beat. Something between Kirk and McCoy that isn't quite bitterness and isn't quite humor — the specific texture of men who have watched institutions they love make small foolish decisions for a long time and developed a private language for the feeling.
 
+Hummer looks at his glass. Holds it up to the light — the faint milky opacity of water that has passed through a membrane that isn't doing its job anymore.
+
+---
+
+**HUMMER**
+Filtration membrane degradation?
+
+McCoy turns. Slightly surprised.
+
 ---
 
 **McCOY**
+How would you know that?
+
+---
+
+**HUMMER**
+Vega Colony water looked like this for about four years. You get used to it.
+
+*(beat)*
+
+I just didn't expect to see it on a Constitution-class ship.
+
+A small silence. The specific silence of a man who has revealed something about where he came from without meaning to.
+
+---
+
+**HUMMER** *(CONT'D)*
+If you add a trace amount of calcium hypochlorite to the glass — just the glass, not the system — it binds to the particulate and precipitates out in about thirty seconds. You get one clear glass. The membrane residue settles to the —
+
+---
+
+**McCOY**
+— bottom as a calcium carbonate film.
+
+He stops. Stares at Hummer. Then at his own glass. The look of a man who has been a doctor for thirty years and has just been shown a field medic's trick that works better than his complaint.
+
+---
+
+**McCOY** *(CONT'D)*
+That's — yes. That's basic chemistry. I should have —
+
+---
+
+**HUMMER**
+It doesn't scale. You can't dose the whole ship's supply — the concentration would have to be maintained dynamically and the carbonate buildup would clog the secondary —
+
+---
+
+**McCOY**
+No, I know. I know why it doesn't scale. I'm annoyed that I didn't think of it for one glass.
+
+Kirk watches this exchange. Says nothing. Files something.
+
+---
+
+**McCOY** *(CONT'D)*
 *(to Hummer, changing the subject with the ease of a man who has been changing subjects his whole career)*
 Where are you from?
 
@@ -463,23 +517,19 @@ He retrieves his folded jacket. Pauses at the door.
 ---
 
 **HUMMER**
-The water filtration.
-
 *(to McCoy)*
 
-Engineering said backorder?
+The filtration membranes. I used to patch similar units on the haulers — there's a trick with the ion exchange layer that sometimes buys you a few more weeks. Doesn't fix them. But it might take the fog down a grade or two.
 
 ---
 
 **McCOY**
-Three weeks. No indication of movement.
-
-Hummer nods. Something decided in it. Not a performance — a small private commitment made out loud.
+It's worth a try.
 
 ---
 
 **HUMMER**
-I'll look into it.
+I'll take a look at them tomorrow.
 
 He leaves.
 
