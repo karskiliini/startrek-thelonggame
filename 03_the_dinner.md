@@ -300,10 +300,40 @@ The question lands somewhere unexpected. Hummer is quiet for a moment.
 ---
 
 **HUMMER**
-Struggling. Honestly. The soil wasn't producing. There was a medical facility but it was — basic. People left when they could.
+Rough.
+
+*(beat — deciding how much to say)*
+
+No services. No real law enforcement. The medical facility was a prefab unit with one doctor who was there because she owed someone a favor. There were no families — nobody brought children to that place. Everybody was there because they couldn't afford to be somewhere else. You worked the belt, you drank what they sold you, you tried not to get into a fight, and you saved up enough to leave.
+
+*(quieter)*
+
+It was like — the old frontier stories. The ones where the town doesn't have a name yet because nobody expects it to last long enough to need one.
+
+---
+
+**McCOY**
+And the violence?
+
+---
+
+**HUMMER**
+Every payday. Sometimes between paydays. Miners, mostly. People who'd been cutting rock for fourteen hours and needed somewhere to put it. There was no security, so you handled it yourself or you didn't handle it.
 
 *(beat)*
 
+I was sixteen. I handled it.
+
+He says it without bravado. The voice of a man stating the weather.
+
+---
+
+**KIRK**
+And now?
+
+---
+
+**HUMMER**
 I saw the current population figures in the mission briefing.
 
 ---
