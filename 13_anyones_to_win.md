@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 12 — "ANYONE'S TO WIN"
+## Scene 13 — "ANYONE'S TO WIN"
 
 ---
 

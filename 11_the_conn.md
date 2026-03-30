@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 10 — "THE CONN"
+## Scene 11 — "THE CONN"
 
 ---
 

@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 7 — "SORAK'S HAND"
+## Scene 8 — "SORAK'S HAND"
 
 ---
 

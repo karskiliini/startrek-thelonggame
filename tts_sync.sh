@@ -18,14 +18,14 @@ chapters=(
     04_grey_water
     05_the_incident
     05b_the_call
-    05c_the_call_marek
-    06_ready_room
-    07_sorak_hand
-    08_ktagh
-    09_the_canyon
-    10_the_conn
-    11_kobayashi_maru
-    12_anyones_to_win
+    06_the_cook
+    07_ready_room
+    08_sorak_hand
+    09_ktagh
+    10_the_canyon
+    11_the_conn
+    12_kobayashi_maru
+    13_anyones_to_win
     01_the_table
 )
 
@@ -277,14 +277,14 @@ all_chapters=(
     04_grey_water
     05_the_incident
     05b_the_call
-    05c_the_call_marek
-    06_ready_room
-    07_sorak_hand
-    08_ktagh
-    09_the_canyon
-    10_the_conn
-    11_kobayashi_maru
-    12_anyones_to_win
+    06_the_cook
+    07_ready_room
+    08_sorak_hand
+    09_ktagh
+    10_the_canyon
+    11_the_conn
+    12_kobayashi_maru
+    13_anyones_to_win
 )
 
 all_exist=true
