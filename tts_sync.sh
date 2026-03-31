@@ -9,6 +9,7 @@ cd /Users/marski/git/startrek-thelonggame
 CACHE=".cache"
 MANIFEST="$CACHE/manifest"
 MIN_MERGE=30
+MAX_CHUNK=300
 source VibeVoice/.venv/bin/activate
 mkdir -p audio "$CACHE/wav" "$CACHE/txt"
 
@@ -47,21 +48,60 @@ md_to_txt() {
         -e 's/\*\(([^)]+)\)\*/(\1)/g' \
         -e 's/\*\*//g' \
         -e 's/\*//g' \
-        -e 's/^---$/===SPLIT===/' \
+        -e '/^---$/d' \
         -e '/^`/d' \
         -e '/^>/ s/^>[[:space:]]*//' \
-        -e '/^[[:space:]]*$/d' \
         "$1"
 }
 
-# Split text at ===SPLIT=== markers, merge tiny paragraphs.
-# Writes hash-keyed txt files to $CACHE/txt/ and hash list to manifest.
+# Split text at blank lines into paragraph chunks.
+# Merges tiny adjacent paragraphs (< MIN_MERGE words), caps at MAX_CHUNK.
+# Writes hash-keyed txt files to $CACHE/txt/, hash list to manifest.
 split_paragraphs() {
     local infile="$1" scene="$2"
-    local total_words=$(wc -w < "$infile" | tr -d ' ')
+    local merged_chunks=()
+    local accum="" accum_words=0
+    local line_buf="" buf_words=0
 
-    if ! grep -q '===SPLIT===' "$infile" || [[ $total_words -le $MIN_MERGE ]]; then
-        local content=$(grep -v '===SPLIT===' "$infile")
+    while IFS= read -r line || [[ -n "$line" ]]; do
+        if [[ -z "$line" || "$line" =~ ^[[:space:]]*$ ]]; then
+            if [[ $buf_words -gt 0 ]]; then
+                if [[ $accum_words -gt 0 ]]; then
+                    accum="${accum}
+${line_buf}"
+                else
+                    accum="$line_buf"
+                fi
+                accum_words=$((accum_words + buf_words))
+                if [[ $accum_words -ge $MAX_CHUNK ]] || [[ $buf_words -ge $MIN_MERGE ]]; then
+                    merged_chunks+=("$accum")
+                    accum="" accum_words=0
+                fi
+                line_buf="" buf_words=0
+            fi
+        else
+            if [[ -n "$line_buf" ]]; then
+                line_buf="${line_buf}
+${line}"
+            else
+                line_buf="$line"
+            fi
+            local lw=$(echo "$line" | wc -w | tr -d ' ')
+            buf_words=$((buf_words + lw))
+        fi
+    done < "$infile"
+
+    # Flush remaining
+    if [[ $buf_words -gt 0 ]]; then
+        if [[ $accum_words -gt 0 ]]; then accum="${accum}
+${line_buf}"; else accum="$line_buf"; fi
+        accum_words=$((accum_words + buf_words))
+    fi
+    [[ $accum_words -gt 0 ]] && merged_chunks+=("$accum")
+
+    # Fallback
+    if [[ ${#merged_chunks[@]} -eq 0 ]]; then
+        local content=$(cat "$infile")
         local h=$(echo "$content" | md5)
         echo "$content" > "$CACHE/txt/${h}.txt"
         echo "$h" > "$MANIFEST/${scene}.hashes"
@@ -69,63 +109,12 @@ split_paragraphs() {
         return
     fi
 
-    local tmpdir=$(mktemp -d)
-    awk -v prefix="$tmpdir/raw_" '
-        BEGIN { chunk=1; outfile=prefix sprintf("%03d", chunk) ".txt" }
-        /^===SPLIT===$/ {
-            close(outfile)
-            chunk++
-            outfile=prefix sprintf("%03d", chunk) ".txt"
-            next
-        }
-        { print >> outfile }
-    ' "$infile"
-
-    local raw_files=("$tmpdir"/raw_[0-9][0-9][0-9].txt(N))
-    local merged_chunks=()
-    local accum=""
-    local accum_words=0
-
-    for rf in "${raw_files[@]}"; do
-        [[ ! -s "$rf" ]] && continue
-        local content=$(cat "$rf")
-        local wc=$(echo "$content" | wc -w | tr -d ' ')
-
-        if [[ $accum_words -gt 0 ]]; then
-            accum="${accum}
-${content}"
-            accum_words=$((accum_words + wc))
-        else
-            accum="$content"
-            accum_words=$wc
-        fi
-
-        if [[ $accum_words -ge $MIN_MERGE ]]; then
-            merged_chunks+=("$accum")
-            accum=""
-            accum_words=0
-        fi
-    done
-
-    if [[ $accum_words -gt 0 ]]; then
-        if [[ ${#merged_chunks[@]} -gt 0 ]]; then
-            local last_idx=${#merged_chunks[@]}
-            merged_chunks[$last_idx]="${merged_chunks[$last_idx]}
-${accum}"
-        else
-            merged_chunks+=("$accum")
-        fi
-    fi
-
-    # Write hash-keyed txt files and ordered hash list
     local hash_list=()
     for chunk_content in "${merged_chunks[@]}"; do
         local h=$(echo "$chunk_content" | md5)
         echo "$chunk_content" > "$CACHE/txt/${h}.txt"
         hash_list+=("$h")
     done
-
-    rm -rf "$tmpdir"
     printf '%s\n' "${hash_list[@]}" > "$MANIFEST/${scene}.hashes"
     echo ${#merged_chunks[@]}
 }
