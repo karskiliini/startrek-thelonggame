@@ -270,15 +270,35 @@ He analyzes factions not people. Every Cardassian in his database is a data poin
 
 He went from protecting the open table to becoming the house. Built a Kobayashi Maru around Kirk — correct strategically, arrogant philosophically. He forgot what the long game was for.
 
-**The Moment of Recognition**
+**The Exposure**
 
-He watches Kirk's solution emerge on a screen. A long pause. Not anger. Not surprise at Kirk. Surprise at himself — the recognition of what his own model couldn't see. The audience reads his face differently depending on who they are. Some see relief. Some see loss. Some see someone being reminded of who he used to be.
+Kirk publishes Sorak's false flag operations through the same diplomatic channels he uses to publish Marek's construction documents. Both long-game players exposed by the same gesture — the man who played openly and the man who played in the dark, revealed simultaneously. Marek's thirty-year infrastructure operation and Sorak's fifteen-year intelligence operation, both laid bare in a single diplomatic transmission.
+
+The forensic trail: asteroid field salvage reveals K'Tagh's hidden installations. Within the same debris, forensic analysis shows the colony disruptor signatures don't match K'Tagh's weapons — fabricated frequencies, planted evidence. K'Tagh told the truth. He didn't fire. Kirk remembers K'Tagh's words: *"I didn't attack your colony. You didn't attack it. Who did?"* He looks at Sorak and sees the answer.
+
+**The Confrontation — He Does Not Repent**
+
+Kirk confronts Sorak. Sorak does not deny it. He does not flinch. He explains the logic with the same cold precision he has brought to everything:
+
+> **SORAK:** "Six dead. Two children. The minimum intervention my models indicated was required to prevent a conflict that would kill millions. The math is not ambiguous."
+>
+> **KIRK:** "You killed children."
+>
+> **SORAK:** "I saved a quadrant."
+
+Kirk does not argue. He does not raise his voice. He nods to the security officer. Sorak is led away. His face as he leaves: not regret, not anger — the recognition that he is being punished for being right about the threat and wrong about his right to act alone. He believes he was correct. He will always believe he was correct. That is the most disturbing thing about him.
+
+**His Own Words Turn Against Him**
 
 > **SORAK:** "You've only postponed the inevitable by thirty years."
 >
 > **KIRK:** "It's up to the next generation to postpone by another thirty."
->
-> Sorak says nothing. The most he has ever admitted anyone was right about anything.
+
+The exchange reframes everything. Sorak's fifteen-year shadow operation was exactly what he accused others of doing: closing the future. Deciding alone. Removing the error-correction mechanism. He killed six people because his model said it was optimal — and his model had no input for the possibility that it might be wrong. He became the house. He forgot what the open table was for.
+
+He played the long game to end the long game. Kirk played it to keep it open. Sorak lost not because he was wrong about Cardassia — he was right — but because the method he chose was the same method he was fighting against. A future decided by one man's calculations is a closed future, regardless of which man holds the calculator.
+
+Voss signs the arrest order. No drama. Paperwork. The institutional machinery doing what it does. The same pen that reviewed the assignment roster now signs the detention warrant. Sorak is processed. His fifteen years of files are sealed. His network is dismantled. The Federation's shadow emperor removed by the same bureaucracy he spent his career circumventing.
 
 ---
 

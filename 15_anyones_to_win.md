@@ -9,63 +9,99 @@ Aftermath.
 
 The political settlement imperfect, unresolved, alive. The Cardassian installation exists but its legal status is contested — formally under Federation arbitration, practically a slow negotiation that will take years. Nobody won cleanly. The grey water is still grey.
 
-Kirk opens a private channel.
+SORAK stands in the room. Not restrained. Not under guard — not yet. He stands the way he has always stood: composed, precise, entirely certain of his own calculations.
 
-K'TAGH appears on screen. Behind him — his vessel, preparing to depart the system.
-
----
-
-**K'TAGH**
-Captain.
+Kirk holds a PADD. The same diplomatic channel he used to publish Marek's construction documents. The same mechanism. One transmission.
 
 ---
 
 **KIRK**
-Commander.
-
-A beat. Formal on the surface. Everything acknowledged underneath.
-
----
-
-**K'TAGH**
-The corridor remains open.
-
----
-
-**KIRK**
-For now.
-
----
-
-**K'TAGH**
-For now.
-
-She looks at him for a moment. Two commanders who saw each other clearly across a dark canyon and chose not to pull the trigger.
-
----
-
-**K'TAGH** *(CONT'D)*
-Your tactical officer.
-
----
-
-**KIRK**
-What about him.
-
----
-
-**K'TAGH**
-He knew where we'd be. Before we knew.
+The forensic analysis of the asteroid debris confirmed it. The disruptor signatures in both colony attacks don't match K'Tagh's weapons. They were fabricated. Klingon-frequency but wrong manufacture profile. Planted evidence.
 
 *(beat)*
 
-Give him a ship, Captain. Before someone with less judgment than you makes the decision for you.
+K'Tagh told me he didn't do it. I didn't believe him. He died with ninety crew in a battle that started because of a lie.
 
-She closes the channel first.
+He looks at Sorak.
 
-Kirk looks at the blank screen for a moment.
+---
 
-Lets it sit.
+**KIRK** *(CONT'D)*
+Your lie.
+
+---
+
+Sorak meets his eyes. No flinch. No performance of guilt. The face of a man who ran the numbers and stands by them.
+
+---
+
+**SORAK**
+Six dead. Two children. The minimum intervention my models indicated was required to prevent a conflict that would kill millions. The math is not ambiguous, Captain.
+
+---
+
+**KIRK**
+You killed children.
+
+---
+
+**SORAK**
+I saved a quadrant.
+
+---
+
+A silence. The specific silence of a room in which a man has just defended the murder of children with arithmetic.
+
+Kirk does not argue. Does not raise his voice. He nods to the security officer standing at the door.
+
+---
+
+**KIRK**
+The false flag operations have been transmitted through diplomatic channels. The same transmission that carried Marek's documents. Both long games — Cardassian and yours — exposed in the same file.
+
+Sorak registers this. The symmetry. The man who played in the open and the man who played in the dark, revealed by the same mechanism.
+
+---
+
+**SORAK**
+You've only postponed the inevitable by thirty years.
+
+---
+
+**KIRK**
+It's up to the next generation to postpone by another thirty.
+
+---
+
+Sorak says nothing.
+
+The security officer approaches. Sorak does not resist. He allows himself to be escorted out with the same composure he brought to the dinner table, to every briefing, to every calculation he ever made in the dark.
+
+His face as he leaves: not regret. Recognition. The recognition that he played the long game to end the long game — and that is exactly the thing he was fighting against.
+
+ADMIRAL VOSS watches from the far side of the room. She picks up a PADD. Signs the detention order. The same pen. The same institutional machinery. No comment.
+
+Kirk watches the door close behind Sorak.
+
+---
+
+**McCOY**
+*(very quietly, from the corner of the room)*
+Jim.
+
+Kirk doesn't respond.
+
+---
+
+**McCOY** *(CONT'D)*
+He was right about one thing. The threat was real.
+
+---
+
+**KIRK**
+The threat was real. The children were real too.
+
+McCoy says nothing more. There is nothing more to say.
 
 `CUT TO:`
 
@@ -246,4 +282,4 @@ Begins.
 
 ---
 
-*End of Scene 12 — End of Screenplay*
+*End of Scene 15 — End of Screenplay*
