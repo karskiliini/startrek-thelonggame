@@ -370,11 +370,33 @@ K'Tagh knows he is a loaded weapon pointed at someone else's target. He may even
 
 **The Klingon Long Game — Hidden Infrastructure**
 
-The Klingons are not stupid. K'Tagh's years of "inefficiency" — broken equipment, ruined ore batches, terrible production numbers — were a cover story. While the Cardassians focused on visible colony-building and the Federation looked away, K'Tagh was building something inside the asteroid belt: military installations carved into the rock. Weapons caches. Sensor jamming stations. Supply depots. The poor production numbers explained where the resources went. The broken equipment explained the energy consumption.
+The Klingons are not stupid. K'Tagh's years of "inefficiency" — broken equipment, ruined ore batches, terrible production numbers — were not incompetence. The Klingons are poor miners but excellent military engineers. They have built fortifications inside asteroids for centuries — it is basic Klingon military engineering. The same crews that couldn't process ore to spec were carving perfectly structured underground installations into the rock. Same tools, same asteroids, different purpose.
+
+The "broken equipment" was not broken — it was redirected. The "ruined ore batches" were resources diverted to construction. The poor production numbers explained where everything went without anyone asking questions. Nobody questioned why Klingon crews spent so much time inside asteroids, because that was their job. That the ore came out bad only confirmed what everyone already believed: Klingons can't do precision work.
+
+They can't do precision mining. They can do precision fortification. The distinction killed them.
 
 K'Tagh was not a failed mining foreman replaced by a better Cardassian. He was the architect of a parallel military operation — one that neither Marek nor the Federation nor even Sorak detected. The 15% lights in the Klingon settlements are not backwardness — energy is diverted elsewhere.
 
 This makes Marek's "you are a tool" insult deeply ironic. Marek believes K'Tagh is a crude instrument. K'Tagh has been running a long game of his own — cruder than Marek's, yes, but no less deliberate.
+
+**Hummer Discovers the Bases**
+
+Spock detects an anomaly from orbit — the asteroids are radiating more energy than natural rock should produce. Not dramatically, but enough for Constitution-class sensors to flag. The USS Exeter didn't look four years ago. Nobody has looked since.
+
+Kirk sends Hummer in a mining shuttle — a small ship that won't attract attention. Hummer knows these rocks. He knows what natural asteroid looks like up close. If something is wrong, he'll see it.
+
+He sees it. Not on sensors — with his eyes. The discoloration patterns on the surface are wrong. The stress fractures don't match natural geology. There are seams that should not be there. And then — a hatch. Not geological. Manufactured. The energy signature behind it is unmistakable.
+
+Hummer enters one of the installations. What he finds is vast. Chambers carved deep into the iron core. Weapons racks. Power systems. Sensor arrays. Military architecture built by people who know exactly how to turn a rock into a fortress.
+
+And in that moment something shifts in Hummer's understanding of the last twelve years. He told Kirk's dinner table that Klingon crews were incompetent — *"equipment didn't always survive the enthusiasm."* He categorized them as amateurs. He built part of his professional identity on being better than them.
+
+He was wrong. They weren't bad at mining. They were doing something else. The same rocks he cut for two years — they were building inside them, meters from where he worked, and he never knew. The man who prides himself on reading surfaces, on seeing what others miss — missed this.
+
+K'Tagh detects the shuttle too close to his installations. Hummer must escape. He fires at an asteroid — the exact stress point he knows from twelve years of cutting rock — and the controlled detonation creates a debris cloud that blinds K'Tagh's sensors long enough for the shuttle to reach Enterprise.
+
+Hummer reports to Kirk: the Klingons have military infrastructure throughout the belt. Everything changes.
 
 **The False Accusation**
 
@@ -536,9 +558,19 @@ Nobody will ever tell Hummer his instinct was correct. Kirk reads the hesitation
 
 Goes quiet. Listens more. Kirk watches from a distance. Once, passing on the bridge: *"Better."* One word.
 
-**Stage 5 — The Conn (Scene 10)**
+**Stage 5 — The Reconnaissance (Scene 12)**
 
-Gut and calculation running simultaneously because the fear is gone and the space opens up. The asteroid immobility strategy — planted by Spock, grown from memory, fired from certainty. The dinner answer made real in the canyon.
+Spock flags an energy anomaly in the belt. Kirk sends Hummer in a mining shuttle — the kind of ship he hasn't flown since he was eighteen. Back in the dark. Back in the rocks. Alone.
+
+He finds the Klingon installations. And in that moment, twelve years of certainty collapses. The crews he dismissed as amateurs — *"equipment didn't always survive the enthusiasm"* — were building fortresses inside the rocks he was cutting. He worked meters away and never saw it. The man who reads surfaces missed what was underneath.
+
+When K'Tagh detects him, Hummer escapes by firing at an asteroid's stress point — the exact geology he learned with his hands. A controlled detonation that blinds K'Tagh's sensors. Mining knowledge used as a weapon for the first time.
+
+**Stage 6 — The Battle (Scene 13)**
+
+Kirk commands Enterprise in the main engagement. Hummer's reconnaissance gave Kirk the tactical picture — where the bases are, what's inside the asteroids, where the corridors lead. Kirk uses this to position Enterprise. The battle is Kirk's to command, but the intelligence that makes it winnable is Hummer's.
+
+Gut and calculation running simultaneously because the fear is gone and the space opens up. The dinner answer made real in the canyon — not by Hummer alone, but by the combination of Hummer's knowledge and Kirk's command.
 
 **The Promotion (Scene 12)**
 
