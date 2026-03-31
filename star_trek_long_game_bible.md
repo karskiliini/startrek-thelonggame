@@ -207,6 +207,30 @@ Enterprise-A has no replicators. The crew eats synthesized food. The colony has 
 
 ---
 
+# THE FEDERATION'S CLASS GEOGRAPHY
+
+The Federation is not uniform. The further from Earth, the more it resembles the thing it claims to have transcended.
+
+| Zone | Real-World Parallel | People | Ships & Infrastructure |
+|---|---|---|---|
+| Earth orbit / Paris / San Francisco | Washington DC, Wall Street | Admirals, diplomats, Council members. Philosophize about peace. | State of the art. Everything works. |
+| Core worlds | US coasts | White collar, researchers, academics. Talk about values. | Well-maintained, modern |
+| Mid-range | Midwest | Engineers, doctors, teachers. Do the work. | Aging but functional |
+| Border worlds | Appalachia, factory towns | Miners, freight haulers, nobody's sons. Vega Colony. | Enterprise — the flagship drinking grey water |
+| Outer fringe | Central America, rural deep south | Survivors. No services. No law. Bad food. Payday fights. | Shuttles with failing power cells and no running lights |
+
+The hierarchy is never discussed in dialogue. It is visible in every frame.
+
+Enterprise is the proof. The Federation's finest ship, and its filtration membranes are on backorder. If the flagship drinks fog, what does the frontier drink? McCoy says it without saying it: *"Federation priorities."*
+
+Marek sees this and weaponizes the contrast. His colony has better hospitals than Federation border worlds. He doesn't need to lie — he just points. *"Three hundred thousand Federation citizens eating better than the crew of this ship."* The audience cannot argue with him.
+
+Hummer is the class geography made human. He climbed from the outer fringe (Vega Colony, freight hauler at sixteen) to the bridge of the flagship — and found the water grey there too. The American Dream delivered him to the top and the top was leaking. His entire arc is the question of whether the dream is real when the institution behind it can't keep its own house in order.
+
+The Klingon settlements at 15% lights are the Federation's mirror. The Federation doesn't have zones that dark — but the gradient from Earth to Vega Colony is the same structural problem in a different uniform. The center flourishes. The periphery endures. Nobody discusses it because discussing it would require admitting it.
+
+---
+
 # THE GREY WATER MOTIF
 
 The Enterprise water dispenser produces grey, slightly cloudy water throughout the film. Never explained. Never fixed. The Federation's great flagship serving fog. The political theme made physical before a political word is spoken.
