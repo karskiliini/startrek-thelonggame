@@ -35,7 +35,7 @@ mkdir -p "$MANIFEST"
 
 get_old_sum() {
     local f="$MANIFEST/${1}.md5"
-    [[ -f "$f" ]] && cat "$f"
+    if [[ -f "$f" ]]; then cat "$f"; else echo ""; fi
 }
 
 md_to_txt() {
@@ -180,7 +180,7 @@ for base in "${changed[@]}"; do
     mp3="audio/${base}.mp3"
 
     # Convert markdown to plain text
-    local scene_txt="$CACHE/txt/${base}_full.txt"
+    scene_txt="$CACHE/txt/${base}_full.txt"
     md_to_txt "$md" > "$scene_txt"
 
     word_count=$(wc -w < "$scene_txt" | tr -d ' ')
@@ -197,12 +197,12 @@ for base in "${changed[@]}"; do
     all_ok=true
     cached_count=0
     gen_count=0
-    local para_num=0
+    para_num=0
     while IFS= read -r h; do
         para_num=$((para_num + 1))
-        local txt_file="$CACHE/txt/${h}.txt"
-        local wav_file="$CACHE/wav/${h}.wav"
-        local chunk_words=$(wc -w < "$txt_file" | tr -d ' ')
+        txt_file="$CACHE/txt/${h}.txt"
+        wav_file="$CACHE/wav/${h}.wav"
+        chunk_words=$(wc -w < "$txt_file" | tr -d ' ')
 
         if [[ -f "$wav_file" ]]; then
             cached_count=$((cached_count + 1))
