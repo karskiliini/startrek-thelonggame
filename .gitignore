@@ -1,5 +1,6 @@
 VibeVoice/
 text_input/
+.cache/
 generate_audio.sh
 audio/*.wav
 audio/*.md5

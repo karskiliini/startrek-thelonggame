@@ -1,15 +1,16 @@
 #!/bin/zsh
-# TTS Sync — generates audio only for changed chapters
-# Splits any text over 500 words into ~500-word chunks for fast generation.
-# Produces per-chunk MP3s, per-scene merged MP3, and full screenplay MP3.
+# TTS Sync — paragraph-level caching
+# Splits at --- markers, merges tiny paragraphs (< 30 words).
+# Caches WAVs per paragraph — only regenerates changed paragraphs.
+# All intermediate files live in .cache/
 set -e
 cd /Users/marski/git/startrek-thelonggame
 
-CHECKSUM_FILE=".tts_checksums"
-MAX_WORDS=500
-RESPLIT_THRESHOLD=700
+CACHE=".cache"
+CHECKSUM_FILE="$CACHE/checksums"
+MIN_MERGE=30
 source VibeVoice/.venv/bin/activate
-mkdir -p audio text_input
+mkdir -p audio "$CACHE"
 
 chapters=(
     00_opening_credits
@@ -45,89 +46,92 @@ md_to_txt() {
         -e 's/\*\(([^)]+)\)\*/(\1)/g' \
         -e 's/\*\*//g' \
         -e 's/\*//g' \
-        -e '/^---$/d' \
+        -e 's/^---$/===SPLIT===/' \
         -e '/^`/d' \
         -e '/^>/ s/^>[[:space:]]*//' \
         -e '/^[[:space:]]*$/d' \
         "$1"
 }
 
-# Split a text file into ~MAX_WORDS chunks at short-line boundaries
-# Uses hysteresis: only re-splits if any existing chunk exceeds RESPLIT_THRESHOLD
-split_text() {
+# Split text at ===SPLIT=== markers into paragraph chunks
+# Merges adjacent tiny sections (< MIN_MERGE words) with next section
+split_paragraphs() {
     local infile="$1" prefix="$2"
     local total_words=$(wc -w < "$infile" | tr -d ' ')
 
-    # If total is under MAX_WORDS, no splitting needed
-    if [[ $total_words -le $MAX_WORDS ]]; then
-        cp "$infile" "${prefix}_001.txt"
+    if ! grep -q '===SPLIT===' "$infile" || [[ $total_words -le $MIN_MERGE ]]; then
+        grep -v '===SPLIT===' "$infile" > "${prefix}_001.txt"
         echo 1
         return
     fi
 
-    # Check if existing chunks are still usable (hysteresis)
-    local existing_chunks=("${prefix}"_[0-9][0-9][0-9].txt(N))
-    if [[ ${#existing_chunks[@]} -gt 0 ]]; then
-        local needs_resplit=false
-        for echunk in "${existing_chunks[@]}"; do
-            local cwords=$(wc -w < "$echunk" | tr -d ' ')
-            if [[ $cwords -gt $RESPLIT_THRESHOLD ]]; then
-                needs_resplit=true
-                break
-            fi
-        done
+    local tmpdir=$(mktemp -d)
+    awk -v prefix="$tmpdir/raw_" '
+        BEGIN { chunk=1; outfile=prefix sprintf("%03d", chunk) ".txt" }
+        /^===SPLIT===$/ {
+            close(outfile)
+            chunk++
+            outfile=prefix sprintf("%03d", chunk) ".txt"
+            next
+        }
+        { print >> outfile }
+    ' "$infile"
 
-        if ! $needs_resplit; then
-            # Re-distribute text into existing chunk structure
-            # (same number of chunks, same split points)
-            local nchunks=${#existing_chunks[@]}
-            local total_lines=$(wc -l < "$infile" | tr -d ' ')
-            local lines_per=$(( total_lines / nchunks ))
-            local chunk=1 start=1
+    local raw_files=("$tmpdir"/raw_[0-9][0-9][0-9].txt(N))
+    local merged_chunks=()
+    local accum=""
+    local accum_words=0
 
-            while [[ $chunk -le $nchunks ]]; do
-                if [[ $chunk -eq $nchunks ]]; then
-                    tail -n +"$start" "$infile" > "${prefix}_$(printf '%03d' $chunk).txt"
-                else
-                    local target_end=$(( start + lines_per - 1 ))
-                    local split_at=$(awk -v s="$((target_end - 15))" -v e="$((target_end + 15))" \
-                        'NR >= s && NR <= e && length($0) < 5 { last=NR } END { print last }' "$infile")
-                    [[ -z "$split_at" || "$split_at" -eq 0 ]] && split_at=$target_end
-                    sed -n "${start},${split_at}p" "$infile" > "${prefix}_$(printf '%03d' $chunk).txt"
-                    start=$((split_at + 1))
-                fi
-                chunk=$((chunk + 1))
-            done
-            echo $nchunks
-            return
+    for rf in "${raw_files[@]}"; do
+        [[ ! -s "$rf" ]] && continue
+        local content=$(cat "$rf")
+        local wc=$(echo "$content" | wc -w | tr -d ' ')
+
+        if [[ $accum_words -gt 0 ]]; then
+            accum="${accum}
+${content}"
+            accum_words=$((accum_words + wc))
+        else
+            accum="$content"
+            accum_words=$wc
         fi
 
-        # Needs resplit — clean old chunks and their WAV caches
-        echo "(resplitting — a chunk exceeded $RESPLIT_THRESHOLD words)" >&2
-        rm -f "${prefix}"_[0-9][0-9][0-9].txt
-        rm -f audio/$(basename "$prefix")_[0-9][0-9][0-9].wav
-        rm -f audio/$(basename "$prefix")_[0-9][0-9][0-9].md5
+        if [[ $accum_words -ge $MIN_MERGE ]]; then
+            merged_chunks+=("$accum")
+            accum=""
+            accum_words=0
+        fi
+    done
+
+    if [[ $accum_words -gt 0 ]]; then
+        if [[ ${#merged_chunks[@]} -gt 0 ]]; then
+            local last_idx=${#merged_chunks[@]}
+            merged_chunks[$last_idx]="${merged_chunks[$last_idx]}
+${accum}"
+        else
+            merged_chunks+=("$accum")
+        fi
     fi
 
-    # Fresh split at ~MAX_WORDS boundaries
-    local num_chunks=$(( (total_words + MAX_WORDS - 1) / MAX_WORDS ))
-    local total_lines=$(wc -l < "$infile" | tr -d ' ')
-    local lines_per_chunk=$(( total_lines / num_chunks ))
-    local chunk=1 start=1
-
-    while [[ $chunk -le $num_chunks ]]; do
-        if [[ $chunk -eq $num_chunks ]]; then
-            tail -n +"$start" "$infile" > "${prefix}_$(printf '%03d' $chunk).txt"
-        else
-            local target_end=$(( start + lines_per_chunk - 1 ))
-            local split_at=$(awk -v s="$((target_end - 15))" -v e="$((target_end + 15))" \
-                'NR >= s && NR <= e && length($0) < 5 { last=NR } END { print last }' "$infile")
-            [[ -z "$split_at" || "$split_at" -eq 0 ]] && split_at=$target_end
-            sed -n "${start},${split_at}p" "$infile" > "${prefix}_$(printf '%03d' $chunk).txt"
-            start=$((split_at + 1))
-        fi
-        chunk=$((chunk + 1))
+    local num_chunks=${#merged_chunks[@]}
+    local i=1
+    for chunk_content in "${merged_chunks[@]}"; do
+        echo "$chunk_content" > "${prefix}_$(printf '%03d' $i).txt"
+        i=$((i + 1))
     done
+
+    # Clean stale chunks beyond new count
+    local old_chunks=("${prefix}"_[0-9][0-9][0-9].txt(N))
+    for oc in "${old_chunks[@]}"; do
+        local num=$(basename "$oc" | sed -E 's/.*_([0-9]{3})\.txt/\1/')
+        if [[ $((10#$num)) -gt $num_chunks ]]; then
+            rm -f "$oc"
+            rm -f "${CACHE}/$(basename "${oc%.txt}").wav"
+            rm -f "${CACHE}/$(basename "${oc%.txt}").md5"
+        fi
+    done
+
+    rm -rf "$tmpdir"
     echo $num_chunks
 }
 
@@ -138,10 +142,9 @@ generate_wav() {
         --model_path microsoft/VibeVoice-Realtime-0.5B \
         --txt_path "$txt" \
         --speaker_name Carter \
-        --output_dir audio/ \
+        --output_dir "$CACHE/" \
         --device mps
-    # The script names output based on input filename
-    local auto_name="audio/$(basename "${txt%.txt}")_generated.wav"
+    local auto_name="${CACHE}/$(basename "${txt%.txt}")_generated.wav"
     if [[ -f "$auto_name" ]]; then
         mv "$auto_name" "$wav_out"
         return 0
@@ -179,7 +182,7 @@ echo ""
 
 for base in "${changed[@]}"; do
     md="${base}.md"
-    txt="text_input/${base}.txt"
+    txt="${CACHE}/${base}.txt"
     mp3="audio/${base}.mp3"
 
     # Convert markdown to plain text
@@ -190,50 +193,54 @@ for base in "${changed[@]}"; do
     echo "=== Generating: $base ($word_count words) ==="
     echo "Started at: $(date)"
 
-    # Split into chunks
-    num_chunks=$(split_text "$txt" "text_input/${base}")
-    echo "Chunks: $num_chunks"
+    # Split into paragraph chunks
+    num_chunks=$(split_paragraphs "$txt" "${CACHE}/${base}")
+    echo "Paragraphs: $num_chunks"
 
-    # Generate each chunk
+    # Generate each paragraph
     chunk_wavs=()
     all_ok=true
+    cached_count=0
+    gen_count=0
     for i in $(seq -f '%03g' 1 $num_chunks); do
-        chunk_txt="text_input/${base}_${i}.txt"
-        chunk_wav="audio/${base}_${i}.wav"
+        chunk_txt="${CACHE}/${base}_${i}.txt"
+        chunk_wav="${CACHE}/${base}_${i}.wav"
         chunk_words=$(wc -w < "$chunk_txt" | tr -d ' ')
 
         # Reuse existing WAV if the text hasn't changed
         if [[ -f "$chunk_wav" ]]; then
-            chunk_wav_sum=$(md5 -q "$chunk_txt")
-            chunk_wav_marker="audio/${base}_${i}.md5"
+            chunk_txt_sum=$(md5 -q "$chunk_txt")
+            chunk_md5="${CACHE}/${base}_${i}.md5"
             old_chunk_sum=""
-            [[ -f "$chunk_wav_marker" ]] && old_chunk_sum=$(cat "$chunk_wav_marker")
-            if [[ "$chunk_wav_sum" == "$old_chunk_sum" ]]; then
-                echo "--- Chunk $i ($chunk_words words) — cached ---"
+            [[ -f "$chunk_md5" ]] && old_chunk_sum=$(cat "$chunk_md5")
+            if [[ "$chunk_txt_sum" == "$old_chunk_sum" ]]; then
+                cached_count=$((cached_count + 1))
                 chunk_wavs+=("$chunk_wav")
                 continue
             fi
         fi
 
-        echo "--- Chunk $i ($chunk_words words) ---"
+        gen_count=$((gen_count + 1))
+        echo "--- Paragraph $i/$num_chunks ($chunk_words words) ---"
 
         if generate_wav "$chunk_txt" "$chunk_wav"; then
-            # Save checksum for this chunk's text
-            md5 -q "$chunk_txt" > "audio/${base}_${i}.md5"
+            md5 -q "$chunk_txt" > "${CACHE}/${base}_${i}.md5"
             chunk_wavs+=("$chunk_wav")
         else
-            echo "ERROR: chunk $i failed for $base"
+            echo "ERROR: paragraph $i failed for $base"
             all_ok=false
             break
         fi
     done
+
+    echo "Cached: $cached_count | Generated: $gen_count"
 
     if ! $all_ok; then
         echo "ERROR: skipping $base"
         continue
     fi
 
-    # Merge chunks into scene MP3
+    # Merge paragraph WAVs into scene MP3
     if [[ ${#chunk_wavs[@]} -eq 1 ]]; then
         ffmpeg -y -i "${chunk_wavs[1]}" -codec:a libmp3lame -qscale:a 2 "$mp3" 2>/dev/null
     else
@@ -245,11 +252,9 @@ for base in "${changed[@]}"; do
         rm "$concat_tmp"
     fi
 
-    # Keep chunk WAVs locally for reuse (not pushed to git)
-
     echo "Created: $mp3"
 
-    # Update checksum
+    # Update scene checksum
     new_sum=$(md5 -q "$md")
     grep -v "^${base}=" "$CHECKSUM_FILE" > "${CHECKSUM_FILE}.tmp" 2>/dev/null || true
     echo "${base}=${new_sum}" >> "${CHECKSUM_FILE}.tmp"
@@ -259,7 +264,7 @@ for base in "${changed[@]}"; do
     git add "$mp3"
     git commit -m "Update audio: ${base}.mp3
 
-Regenerated after chapter edit ($num_chunks chunks).
+Regenerated ($gen_count of $num_chunks paragraphs, $cached_count cached).
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
     git push
