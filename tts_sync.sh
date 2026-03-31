@@ -1,16 +1,16 @@
 #!/bin/zsh
-# TTS Sync — paragraph-level caching
-# Splits at --- markers, merges tiny paragraphs (< 30 words).
-# Caches WAVs per paragraph — only regenerates changed paragraphs.
+# TTS Sync — content-addressed paragraph caching
+# WAVs keyed purely by content hash — no scene prefix, no numbering.
+# .cache/manifest.json maps scenes → ordered hash lists.
 # All intermediate files live in .cache/
 set -e
 cd /Users/marski/git/startrek-thelonggame
 
 CACHE=".cache"
-CHECKSUM_FILE="$CACHE/checksums"
+MANIFEST="$CACHE/manifest"
 MIN_MERGE=30
 source VibeVoice/.venv/bin/activate
-mkdir -p audio "$CACHE"
+mkdir -p audio "$CACHE/wav" "$CACHE/txt"
 
 chapters=(
     00_opening_credits
@@ -31,10 +31,11 @@ chapters=(
     01_the_table
 )
 
-touch "$CHECKSUM_FILE"
+mkdir -p "$MANIFEST"
 
 get_old_sum() {
-    grep "^${1}=" "$CHECKSUM_FILE" 2>/dev/null | cut -d= -f2
+    local f="$MANIFEST/${1}.md5"
+    [[ -f "$f" ]] && cat "$f"
 }
 
 md_to_txt() {
@@ -53,14 +54,17 @@ md_to_txt() {
         "$1"
 }
 
-# Split text at ===SPLIT=== markers into paragraph chunks
-# Merges adjacent tiny sections (< MIN_MERGE words) with next section
+# Split text at ===SPLIT=== markers, merge tiny paragraphs.
+# Writes hash-keyed txt files to $CACHE/txt/ and hash list to manifest.
 split_paragraphs() {
-    local infile="$1" prefix="$2"
+    local infile="$1" scene="$2"
     local total_words=$(wc -w < "$infile" | tr -d ' ')
 
     if ! grep -q '===SPLIT===' "$infile" || [[ $total_words -le $MIN_MERGE ]]; then
-        grep -v '===SPLIT===' "$infile" > "${prefix}_001.txt"
+        local content=$(grep -v '===SPLIT===' "$infile")
+        local h=$(echo "$content" | md5)
+        echo "$content" > "$CACHE/txt/${h}.txt"
+        echo "$h" > "$MANIFEST/${scene}.hashes"
         echo 1
         return
     fi
@@ -113,19 +117,17 @@ ${accum}"
         fi
     fi
 
-    local num_chunks=${#merged_chunks[@]}
-    # Write hash-keyed txt files, output ordered hash list
+    # Write hash-keyed txt files and ordered hash list
     local hash_list=()
     for chunk_content in "${merged_chunks[@]}"; do
-        local chunk_hash=$(echo "$chunk_content" | md5)
-        echo "$chunk_content" > "${prefix}_${chunk_hash}.txt"
-        hash_list+=("$chunk_hash")
+        local h=$(echo "$chunk_content" | md5)
+        echo "$chunk_content" > "$CACHE/txt/${h}.txt"
+        hash_list+=("$h")
     done
 
     rm -rf "$tmpdir"
-    # Return num_chunks on stdout, write hash list to .hashes file
-    printf '%s\n' "${hash_list[@]}" > "${prefix}.hashes"
-    echo $num_chunks
+    printf '%s\n' "${hash_list[@]}" > "$MANIFEST/${scene}.hashes"
+    echo ${#merged_chunks[@]}
 }
 
 # Generate WAV from a text file
@@ -137,7 +139,7 @@ generate_wav() {
         --speaker_name Carter \
         --output_dir "$CACHE/" \
         --device mps
-    local auto_name="${CACHE}/$(basename "${txt%.txt}")_generated.wav"
+    local auto_name="$CACHE/$(basename "${txt%.txt}")_generated.wav"
     if [[ -f "$auto_name" ]]; then
         mv "$auto_name" "$wav_out"
         return 0
@@ -175,51 +177,50 @@ echo ""
 
 for base in "${changed[@]}"; do
     md="${base}.md"
-    txt="${CACHE}/${base}.txt"
     mp3="audio/${base}.mp3"
 
     # Convert markdown to plain text
-    md_to_txt "$md" > "$txt"
+    local scene_txt="$CACHE/txt/${base}_full.txt"
+    md_to_txt "$md" > "$scene_txt"
 
-    word_count=$(wc -w < "$txt" | tr -d ' ')
+    word_count=$(wc -w < "$scene_txt" | tr -d ' ')
     echo ""
     echo "=== Generating: $base ($word_count words) ==="
     echo "Started at: $(date)"
 
     # Split into paragraph chunks
-    num_chunks=$(split_paragraphs "$txt" "${CACHE}/${base}")
+    num_chunks=$(split_paragraphs "$scene_txt" "$base")
     echo "Paragraphs: $num_chunks"
 
-    # Generate each paragraph — keyed by content hash
+    # Generate each paragraph — keyed purely by content hash
     chunk_wavs=()
     all_ok=true
     cached_count=0
     gen_count=0
     local para_num=0
-    while IFS= read -r chunk_hash; do
+    while IFS= read -r h; do
         para_num=$((para_num + 1))
-        chunk_txt="${CACHE}/${base}_${chunk_hash}.txt"
-        chunk_wav="${CACHE}/${base}_${chunk_hash}.wav"
-        chunk_words=$(wc -w < "$chunk_txt" | tr -d ' ')
+        local txt_file="$CACHE/txt/${h}.txt"
+        local wav_file="$CACHE/wav/${h}.wav"
+        local chunk_words=$(wc -w < "$txt_file" | tr -d ' ')
 
-        # Reuse existing WAV if content matches (hash-keyed)
-        if [[ -f "$chunk_wav" ]]; then
+        if [[ -f "$wav_file" ]]; then
             cached_count=$((cached_count + 1))
-            chunk_wavs+=("$chunk_wav")
+            chunk_wavs+=("$wav_file")
             continue
         fi
 
         gen_count=$((gen_count + 1))
         echo "--- Paragraph $para_num/$num_chunks ($chunk_words words) ---"
 
-        if generate_wav "$chunk_txt" "$chunk_wav"; then
-            chunk_wavs+=("$chunk_wav")
+        if generate_wav "$txt_file" "$wav_file"; then
+            chunk_wavs+=("$wav_file")
         else
             echo "ERROR: paragraph $para_num failed for $base"
             all_ok=false
             break
         fi
-    done < "${CACHE}/${base}.hashes"
+    done < "$MANIFEST/${base}.hashes"
 
     echo "Cached: $cached_count | Generated: $gen_count"
 
@@ -243,10 +244,7 @@ for base in "${changed[@]}"; do
     echo "Created: $mp3"
 
     # Update scene checksum
-    new_sum=$(md5 -q "$md")
-    grep -v "^${base}=" "$CHECKSUM_FILE" > "${CHECKSUM_FILE}.tmp" 2>/dev/null || true
-    echo "${base}=${new_sum}" >> "${CHECKSUM_FILE}.tmp"
-    mv "${CHECKSUM_FILE}.tmp" "$CHECKSUM_FILE"
+    md5 -q "$md" > "$MANIFEST/${base}.md5"
 
     # Push
     git add "$mp3"
