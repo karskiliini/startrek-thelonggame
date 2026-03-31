@@ -107,6 +107,96 @@ McCoy says nothing more. There is nothing more to say.
 
 ---
 
+`INT. ENTERPRISE-A — OBSERVATION LOUNGE — LATER`
+
+MAREK stands at the viewport. Civilian clothes. No apron. No knives. He is looking at the colony below — his colony, in every way that matters except the one that would make it legal.
+
+KIRK enters.
+
+They stand in silence for a moment. Two men who have no reason to talk to each other and every reason.
+
+---
+
+**MAREK**
+I've been told I'm free to leave.
+
+---
+
+**KIRK**
+You are.
+
+---
+
+**MAREK**
+No charges. No expulsion. No restrictions on travel.
+
+---
+
+**KIRK**
+You didn't break any law. You know that better than I do.
+
+---
+
+Marek looks at the colony. The lights. The clean geometry of infrastructure that works. From up here it looks like a city on a core world — not a frontier settlement that was in rags twelve years ago.
+
+---
+
+**MAREK**
+Captain. You understand that everything I built was real.
+
+*(beat)*
+
+The schools work. The hospitals work. The children are educated. Three hundred thousand people live better today than they did before I arrived. The mortality rate is at Federation standard. The crime rate is lower than any comparable colony in this sector.
+
+*(he turns to face Kirk)*
+
+You're going to dismantle that?
+
+---
+
+Kirk looks at him. Looks at the colony. Looks back at Marek.
+
+He does not answer. Because he doesn't have a good answer.
+
+---
+
+**MAREK** *(CONT'D)*
+*(quiet — almost gentle)*
+I thought not.
+
+He straightens his jacket. The small precise gesture of a man who has finished his business and sees no reason to stay.
+
+---
+
+**MAREK** *(CONT'D)*
+The apron is still on the floor in my quarters. I left it there.
+
+*(beat)*
+
+If I were a different kind of man I would pick it up and start again somewhere else. But I think — I think I may have cooked my last meal for other people.
+
+He looks at Kirk one final time. Not warmth. Not hostility. The particular acknowledgment of one professional to another — the nod across the table that says *you played well* without saying whether the game was worth playing.
+
+---
+
+**MAREK** *(CONT'D)*
+Captain.
+
+---
+
+**KIRK**
+Gul.
+
+Marek leaves.
+
+Kirk stands alone at the viewport. The colony below. The lights still on. The schools still open. The hospitals still running. Three hundred thousand people still living in infrastructure built by a man who just walked free because he was careful enough never to break a law while breaking everything else.
+
+The grey water. Still grey.
+
+`CUT TO:`
+
+---
+
 `INT. STARFLEET COMMAND — REVIEW BOARD — DAY`
 
 A formal room. A long table. Five officers.

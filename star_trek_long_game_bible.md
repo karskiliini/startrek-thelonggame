@@ -413,6 +413,28 @@ Not nobility. The most ruthless Cardassian calculation available: the alliance w
 
 *"Because I remember what we looked like after the Dominion War. And because the Klingons don't. They are using us. When the war comes — and if this continues, it will come — Cardassia will fight it and the Klingons will watch us bleed and call it strategy. I will not let that happen again."*
 
+**Marek's Ending — He Walks Free**
+
+Marek committed no crime. He broke the spirit of every agreement the Federation and Cardassia ever signed — but not the letter. He came when invited. He built what was needed. He built more than was needed. Every school, every hospital, every road is real, functional, better than what the Federation provided. The 61% Cardassian population arrived legally. The infrastructure was funded transparently. The cultural integration was organic — or looked organic, which amounts to the same thing in law.
+
+The military installation was compartmentalized above his clearance. He discovered it fourteen days before the film. He handed the documents to Kirk. He is, in the strictly legal sense, a whistleblower.
+
+No arrest. No charges. No diplomatic expulsion. Marek walks free — and that is the most disturbing outcome in the film.
+
+**The Final Conversation with Kirk**
+
+Not enemies. Not friends. Two professionals at the end of an operation that cost both of them something.
+
+> **MAREK:** "You understand that everything I built was real. The schools work. The hospitals work. The children are educated. Three hundred thousand people live better than they did before I arrived. You're going to dismantle that?"
+>
+> Kirk does not answer. Because he doesn't have a good answer.
+>
+> **MAREK:** "I thought not."
+
+He leaves. The audience watches him go and cannot decide whether Kirk won or lost. The schools are still there. The hospitals are still there. The 61% is still there. Marek doesn't need to be present. The meal has been served. It is already in their stomachs.
+
+This is the grey water at its greyest: the right decision — exposing Marek's operation, stopping the military installation — comes at the cost of acknowledging that the man who was building a secret empire also built the best colony in the sector. You cannot separate the good from the purpose it served. And Marek knows it. And Kirk knows he knows.
+
 ---
 
 ## SPOCK — First Officer
