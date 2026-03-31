@@ -120,14 +120,12 @@ ${accum}"
         i=$((i + 1))
     done
 
-    # Clean stale chunks beyond new count
+    # Clean stale numbered txt chunks beyond new count
     local old_chunks=("${prefix}"_[0-9][0-9][0-9].txt(N))
     for oc in "${old_chunks[@]}"; do
         local num=$(basename "$oc" | sed -E 's/.*_([0-9]{3})\.txt/\1/')
         if [[ $((10#$num)) -gt $num_chunks ]]; then
             rm -f "$oc"
-            rm -f "${CACHE}/$(basename "${oc%.txt}").wav"
-            rm -f "${CACHE}/$(basename "${oc%.txt}").md5"
         fi
     done
 
@@ -197,34 +195,28 @@ for base in "${changed[@]}"; do
     num_chunks=$(split_paragraphs "$txt" "${CACHE}/${base}")
     echo "Paragraphs: $num_chunks"
 
-    # Generate each paragraph
+    # Generate each paragraph — keyed by content hash, not position
     chunk_wavs=()
     all_ok=true
     cached_count=0
     gen_count=0
     for i in $(seq -f '%03g' 1 $num_chunks); do
         chunk_txt="${CACHE}/${base}_${i}.txt"
-        chunk_wav="${CACHE}/${base}_${i}.wav"
         chunk_words=$(wc -w < "$chunk_txt" | tr -d ' ')
+        chunk_hash=$(md5 -q "$chunk_txt")
+        chunk_wav="${CACHE}/${base}_${chunk_hash}.wav"
 
-        # Reuse existing WAV if the text hasn't changed
+        # Reuse existing WAV if content matches (hash-keyed)
         if [[ -f "$chunk_wav" ]]; then
-            chunk_txt_sum=$(md5 -q "$chunk_txt")
-            chunk_md5="${CACHE}/${base}_${i}.md5"
-            old_chunk_sum=""
-            [[ -f "$chunk_md5" ]] && old_chunk_sum=$(cat "$chunk_md5")
-            if [[ "$chunk_txt_sum" == "$old_chunk_sum" ]]; then
-                cached_count=$((cached_count + 1))
-                chunk_wavs+=("$chunk_wav")
-                continue
-            fi
+            cached_count=$((cached_count + 1))
+            chunk_wavs+=("$chunk_wav")
+            continue
         fi
 
         gen_count=$((gen_count + 1))
         echo "--- Paragraph $i/$num_chunks ($chunk_words words) ---"
 
         if generate_wav "$chunk_txt" "$chunk_wav"; then
-            md5 -q "$chunk_txt" > "${CACHE}/${base}_${i}.md5"
             chunk_wavs+=("$chunk_wav")
         else
             echo "ERROR: paragraph $i failed for $base"
