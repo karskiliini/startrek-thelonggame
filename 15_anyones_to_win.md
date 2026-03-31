@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 14 — "ANYONE'S TO WIN"
+## Scene 15 — "ANYONE'S TO WIN"
 
 ---
 

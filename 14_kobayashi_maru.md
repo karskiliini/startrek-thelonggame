@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 13 — "KOBAYASHI MARU"
+## Scene 14 — "KOBAYASHI MARU"
 
 ---
 

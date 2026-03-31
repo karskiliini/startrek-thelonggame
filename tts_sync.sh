@@ -19,13 +19,14 @@ chapters=(
     05_the_incident
     06_the_call
     07_the_cook
-    08_ready_room
-    09_sorak_hand
-    10_ktagh
-    11_the_canyon
-    12_the_conn
-    13_kobayashi_maru
-    14_anyones_to_win
+    08_the_order
+    09_ready_room
+    10_sorak_hand
+    11_ktagh
+    12_the_canyon
+    13_the_conn
+    14_kobayashi_maru
+    15_anyones_to_win
     01_the_table
 )
 
@@ -268,8 +269,8 @@ Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
     all_chapters=(
         00_opening_credits 01_the_table 02_orders 03_the_dinner
         04_grey_water 05_the_incident 06_the_call 07_the_cook
-        08_ready_room 09_sorak_hand 10_ktagh 11_the_canyon
-        12_the_conn 13_kobayashi_maru 14_anyones_to_win
+        08_the_order 09_ready_room 10_sorak_hand 11_ktagh
+        12_the_canyon 13_the_conn 14_kobayashi_maru 15_anyones_to_win
     )
     all_exist=true
     for ch in "${all_chapters[@]}"; do
