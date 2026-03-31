@@ -419,6 +419,10 @@ Marek committed no crime. He broke the spirit of every agreement the Federation 
 
 The military installation was compartmentalized above his clearance. He discovered it fourteen days before the film. He handed the documents to Kirk. He is, in the strictly legal sense, a whistleblower.
 
+The most unsettling detail — visible to Spock, invisible to everyone else until too late: the Cardassian civilian population is not entirely civilian. The specializations are wrong. Too many engineers with military training profiles. Medical personnel whose skill sets match field surgery, not family practice. Teachers who carry themselves like officers. The 300,000 Cardassian residents are a dormant army in civilian clothes — lacking only weapons and a command structure to activate them. The military police mandate Marek requested in Scene 1 would have provided both. One signature from Voss and the colony's "civilian population" becomes an armed force, legally present, formally invited.
+
+Marek did not smuggle soldiers in. He relocated reservists as civilians. Every one of them arrived with a valid work permit and a genuine job to do. The dual-use nature of the population is not illegal — it is not even unusual for a Cardassian colony. It is simply invisible until someone with Spock's analytical precision notices that the demographic profile doesn't match a farming settlement.
+
 No arrest. No charges. No diplomatic expulsion. Marek walks free — and that is the most disturbing outcome in the film.
 
 **The Final Conversation with Kirk**
