@@ -191,7 +191,57 @@ Marek leaves.
 
 Kirk stands alone at the viewport. The colony below. The lights still on. The schools still open. The hospitals still running. Three hundred thousand people still living in infrastructure built by a man who just walked free because he was careful enough never to break a law while breaking everything else.
 
-The grey water. Still grey.
+The door opens behind him.
+
+ADMIRAL VOSS.
+
+She stands beside him at the viewport. Looks at the colony. The same lights. The same clean geometry.
+
+---
+
+**ADMIRAL VOSS**
+You're worried about what happens next.
+
+---
+
+Kirk doesn't answer. He doesn't need to.
+
+---
+
+**ADMIRAL VOSS** *(CONT'D)*
+The Cardassian funding stops. The colony has to sustain itself. The population starts asking why they're paying taxes to a government that never built them a school. A referendum. Independence. And then — vulnerability.
+
+*(beat)*
+
+You're not the first person to see that sequence, Captain.
+
+---
+
+Kirk looks at her.
+
+---
+
+**ADMIRAL VOSS** *(CONT'D)*
+The Federation is slow. We know that. We are frustrating, underfunded, and we lose good officers because we can't make decisions faster than the people who want to replace us.
+
+*(beat — the slightest edge in her voice)*
+
+But we are not asleep. We have never been asleep. We simply don't announce what we're doing while we're doing it.
+
+She looks at the colony one more time.
+
+---
+
+**ADMIRAL VOSS** *(CONT'D)*
+There are already people working on this. Not Sorak's people. Mine.
+
+She leaves.
+
+Kirk watches her go. The door closes.
+
+He looks at the colony below. The lights. Still on.
+
+For the first time in the film — the smallest thing that might be relief.
 
 `CUT TO:`
 
