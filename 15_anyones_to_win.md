@@ -209,35 +209,58 @@ Kirk doesn't answer. He doesn't need to.
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-Sorak believed the Federation couldn't see what was happening here. That we needed him to open our eyes. That without his — intervention — we would have slept through it.
-
-*(beat)*
-
-He was wrong about that. He was wrong about us.
+Thirty years. We had thirty years to see what was happening here. We didn't.
 
 ---
 
-Kirk looks at her.
+A silence. Kirk looks at her. This is not the speech he expected.
 
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-Thirty years of Cardassian investment. A colony with the wrong demographics. An installation ten times larger than estimated. You published all of it. Every analyst, every diplomat, every committee chair in the Federation is reading those files right now.
+Sorak saw it. Fifteen years ago. He told us. He brought evidence. He presented models. The Council reviewed his intelligence and decided the economic consequences of a hostile posture toward Cardassia were — I believe the word I used was *destabilizing*.
 
-*(the slightest edge in her voice)*
+*(beat — the particular stillness of a woman confronting her own complicity)*
 
-The Federation is slow, Captain. We know that. We are frustrating, underfunded, and we cannot keep a flagship's water supply functioning.
+He was right. About all of it. The threat, the scale, the timeline. He was right and we didn't act. And so he acted alone. And six people died. Two of them children.
+
+---
+
+**KIRK**
+That doesn't justify —
+
+---
+
+**ADMIRAL VOSS**
+No. It doesn't. But it explains.
 
 *(beat)*
 
-But now everyone is looking. And when everyone is looking — the system works. That is the difference between us and Sorak. He thought one man in the dark could do what a civilization in the open could not.
+The Federation failed here, Captain. Not Sorak. Not you. The institution. We were given the information and we chose comfort over action. Sorak's crime was born in that failure. He didn't trust us to do our job. He was correct not to trust us.
 
-She looks at the colony one more time.
+She looks at the colony.
 
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-He was right about the threat. He was wrong about the method. The Federation doesn't need shadow empires. It needs what you just gave it — daylight.
+Now everyone sees it. Every analyst, every diplomat, every committee chair is reading your files. The system is working — today. Because you forced it to work. Because Sorak forced you here. Because six people died to make us open our eyes.
+
+*(very quiet)*
+
+That is not a system that works, Captain. That is a system that was rescued by a man we are about to imprison for rescuing it.
+
+---
+
+Kirk says nothing. There is nothing to say.
+
+---
+
+**ADMIRAL VOSS** *(CONT'D)*
+The question is whether we learn from this. Whether the next time someone presents evidence of a thirty-year operation, we act before someone decides to act for us.
+
+*(beat)*
+
+I don't know the answer to that. I wish I did.
 
 She leaves.
 
