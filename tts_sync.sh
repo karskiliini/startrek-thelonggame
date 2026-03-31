@@ -114,22 +114,17 @@ ${accum}"
     fi
 
     local num_chunks=${#merged_chunks[@]}
-    local i=1
+    # Write hash-keyed txt files, output ordered hash list
+    local hash_list=()
     for chunk_content in "${merged_chunks[@]}"; do
-        echo "$chunk_content" > "${prefix}_$(printf '%03d' $i).txt"
-        i=$((i + 1))
-    done
-
-    # Clean stale numbered txt chunks beyond new count
-    local old_chunks=("${prefix}"_[0-9][0-9][0-9].txt(N))
-    for oc in "${old_chunks[@]}"; do
-        local num=$(basename "$oc" | sed -E 's/.*_([0-9]{3})\.txt/\1/')
-        if [[ $((10#$num)) -gt $num_chunks ]]; then
-            rm -f "$oc"
-        fi
+        local chunk_hash=$(echo "$chunk_content" | md5)
+        echo "$chunk_content" > "${prefix}_${chunk_hash}.txt"
+        hash_list+=("$chunk_hash")
     done
 
     rm -rf "$tmpdir"
+    # Return num_chunks on stdout, write hash list to .hashes file
+    printf '%s\n' "${hash_list[@]}" > "${prefix}.hashes"
     echo $num_chunks
 }
 
@@ -195,16 +190,17 @@ for base in "${changed[@]}"; do
     num_chunks=$(split_paragraphs "$txt" "${CACHE}/${base}")
     echo "Paragraphs: $num_chunks"
 
-    # Generate each paragraph — keyed by content hash, not position
+    # Generate each paragraph — keyed by content hash
     chunk_wavs=()
     all_ok=true
     cached_count=0
     gen_count=0
-    for i in $(seq -f '%03g' 1 $num_chunks); do
-        chunk_txt="${CACHE}/${base}_${i}.txt"
-        chunk_words=$(wc -w < "$chunk_txt" | tr -d ' ')
-        chunk_hash=$(md5 -q "$chunk_txt")
+    local para_num=0
+    while IFS= read -r chunk_hash; do
+        para_num=$((para_num + 1))
+        chunk_txt="${CACHE}/${base}_${chunk_hash}.txt"
         chunk_wav="${CACHE}/${base}_${chunk_hash}.wav"
+        chunk_words=$(wc -w < "$chunk_txt" | tr -d ' ')
 
         # Reuse existing WAV if content matches (hash-keyed)
         if [[ -f "$chunk_wav" ]]; then
@@ -214,16 +210,16 @@ for base in "${changed[@]}"; do
         fi
 
         gen_count=$((gen_count + 1))
-        echo "--- Paragraph $i/$num_chunks ($chunk_words words) ---"
+        echo "--- Paragraph $para_num/$num_chunks ($chunk_words words) ---"
 
         if generate_wav "$chunk_txt" "$chunk_wav"; then
             chunk_wavs+=("$chunk_wav")
         else
-            echo "ERROR: paragraph $i failed for $base"
+            echo "ERROR: paragraph $para_num failed for $base"
             all_ok=false
             break
         fi
-    done
+    done < "${CACHE}/${base}.hashes"
 
     echo "Cached: $cached_count | Generated: $gen_count"
 
