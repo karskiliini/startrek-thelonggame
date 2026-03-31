@@ -87,4 +87,4 @@ Goes to find Hummer.
 
 ---
 
-*End of Scene 5B*
+*End of Scene 6*

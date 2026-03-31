@@ -7,7 +7,7 @@
 
 ---
 
-`EXT. ASTEROID BELT — KERATA SYSTEM — SPACE`
+`EXT. ASTEROID BELT — CORDIA SYSTEM — SPACE`
 
 Silence.
 

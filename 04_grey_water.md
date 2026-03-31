@@ -3,7 +3,7 @@
 
 ---
 
-`EXT. SPACE — KERATA SYSTEM`
+`EXT. SPACE — CORDIA SYSTEM`
 
 Enterprise drops out of warp. The first time the ship has moved with purpose since we met her orbiting that forgettable planet.
 

@@ -3,7 +3,7 @@
 
 ---
 
-`EXT. KERATA IV — SURFACE — DAY`
+`EXT. CORDIA IV — SURFACE — DAY`
 
 Kirk materializes in a corridor.
 
@@ -260,4 +260,4 @@ Which is the most Sorak has ever admitted anyone was right about anything.
 
 ---
 
-*End of Scene 11*
+*End of Scene 14*
