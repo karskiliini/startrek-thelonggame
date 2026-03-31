@@ -209,11 +209,11 @@ Kirk doesn't answer. He doesn't need to.
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-The Cardassian funding stops. The colony has to sustain itself. The population starts asking why they're paying taxes to a government that never built them a school. A referendum. Independence. And then — vulnerability.
+Sorak believed the Federation couldn't see what was happening here. That we needed him to open our eyes. That without his — intervention — we would have slept through it.
 
 *(beat)*
 
-You're not the first person to see that sequence, Captain.
+He was wrong about that. He was wrong about us.
 
 ---
 
@@ -222,18 +222,22 @@ Kirk looks at her.
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-The Federation is slow. We know that. We are frustrating, underfunded, and we lose good officers because we can't make decisions faster than the people who want to replace us.
+Thirty years of Cardassian investment. A colony with the wrong demographics. An installation ten times larger than estimated. You published all of it. Every analyst, every diplomat, every committee chair in the Federation is reading those files right now.
 
-*(beat — the slightest edge in her voice)*
+*(the slightest edge in her voice)*
 
-But we are not asleep. We have never been asleep. We simply don't announce what we're doing while we're doing it.
+The Federation is slow, Captain. We know that. We are frustrating, underfunded, and we cannot keep a flagship's water supply functioning.
+
+*(beat)*
+
+But now everyone is looking. And when everyone is looking — the system works. That is the difference between us and Sorak. He thought one man in the dark could do what a civilization in the open could not.
 
 She looks at the colony one more time.
 
 ---
 
 **ADMIRAL VOSS** *(CONT'D)*
-There are already people working on this. Not Sorak's people. Mine.
+He was right about the threat. He was wrong about the method. The Federation doesn't need shadow empires. It needs what you just gave it — daylight.
 
 She leaves.
 
