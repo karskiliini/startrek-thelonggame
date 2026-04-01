@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Star Trek: The Long Game</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #0a0a0a;
+  color: #d4d4d4;
+  font-family: -apple-system, system-ui, sans-serif;
+  min-height: 100vh;
+  padding-bottom: 200px;
+}
+header {
+  text-align: center;
+  padding: 24px 16px 8px;
+  border-bottom: 1px solid #222;
+}
+header h1 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #e8e8e8;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+header h2 {
+  font-size: 13px;
+  color: #666;
+  font-style: italic;
+  margin-top: 4px;
+}
+.scenes {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 8px 16px;
+}
+.scene {
+  padding: 12px 0;
+  border-bottom: 1px solid #1a1a1a;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+.scene.active {
+  background: #111;
+  margin: 0 -16px;
+  padding: 12px 16px;
+  border-radius: 8px;
+  border-bottom: none;
+}
+.scene-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.scene-num {
+  font-size: 12px;
+  color: #555;
+  font-variant-numeric: tabular-nums;
+  min-width: 24px;
+}
+.scene-title {
+  font-size: 15px;
+  color: #999;
+  flex: 1;
+}
+.scene.active .scene-title {
+  color: #e8e8e8;
+}
+.scene.played .scene-title {
+  color: #666;
+}
+.scene-duration {
+  font-size: 12px;
+  color: #444;
+  font-variant-numeric: tabular-nums;
+}
+.now-playing {
+  font-size: 11px;
+  color: #4a9eff;
+  margin-left: 34px;
+  margin-top: 2px;
+}
+
+/* Fixed bottom player */
+.player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #111;
+  border-top: 1px solid #2a2a2a;
+  padding: 0 0 env(safe-area-inset-bottom);
+  z-index: 100;
+}
+.player-inner {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 12px 16px 16px;
+}
+.player-title {
+  font-size: 13px;
+  color: #e8e8e8;
+  text-align: center;
+  margin-bottom: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.slider-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+.slider-row .time {
+  font-size: 11px;
+  color: #666;
+  font-variant-numeric: tabular-nums;
+  min-width: 38px;
+}
+.slider-row .time.right {
+  text-align: right;
+}
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  flex: 1;
+  height: 4px;
+  background: #333;
+  border-radius: 2px;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  background: #4a9eff;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
+}
+.btn {
+  background: none;
+  border: none;
+  color: #d4d4d4;
+  cursor: pointer;
+  padding: 8px;
+  font-size: 20px;
+  line-height: 1;
+  -webkit-tap-highlight-color: transparent;
+}
+.btn:active { opacity: 0.5; }
+.btn-play { font-size: 28px; }
+.btn-skip { font-size: 16px; color: #888; }
+.btn-rw { font-size: 16px; color: #888; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Star Trek: The Long Game</h1>
+  <h2>Grey Water</h2>
+</header>
+
+<div class="scenes" id="scene-list"></div>
+
+<div class="player">
+  <div class="player-inner">
+    <div class="player-title" id="player-title">Select a scene</div>
+    <div class="slider-row">
+      <span class="time" id="time-current">0:00</span>
+      <input type="range" id="slider" min="0" max="100" value="0" step="0.1">
+      <span class="time right" id="time-total">0:00</span>
+    </div>
+    <div class="controls">
+      <button class="btn btn-rw" id="btn-rw" title="Back 15s">-15</button>
+      <button class="btn btn-skip" id="btn-prev" title="Previous scene">&#9198;</button>
+      <button class="btn btn-play" id="btn-play">&#9654;</button>
+      <button class="btn btn-skip" id="btn-next" title="Next scene">&#9197;</button>
+      <button class="btn btn-rw" id="btn-ff" title="Forward 15s">+15</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const BASE = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/audio/";
+const scenes = [
+  { file: BASE + "00_opening_credits.mp3", num: "00", title: "Opening Credits — The Rocks" },
+  { file: BASE + "01_the_table.mp3", num: "01", title: "The Table" },
+  { file: BASE + "02_orders.mp3", num: "02", title: "Orders" },
+  { file: BASE + "03_the_dinner.mp3", num: "03", title: "The Dinner" },
+  { file: BASE + "04_grey_water.mp3", num: "04", title: "Grey Water" },
+  { file: BASE + "05_the_incident.mp3", num: "05", title: "The Incident" },
+  { file: BASE + "06_the_call.mp3", num: "06", title: "The Call" },
+  { file: BASE + "07_the_cook.mp3", num: "07", title: "The Cook" },
+  { file: BASE + "08_the_order.mp3", num: "08", title: "The Order" },
+  { file: BASE + "09_ready_room.mp3", num: "09", title: "Ready Room" },
+  { file: BASE + "10_sorak_hand.mp3", num: "10", title: "Sorak's Hand" },
+  { file: BASE + "11_ktagh.mp3", num: "11", title: "K'Tagh" },
+  { file: BASE + "12_the_canyon.mp3", num: "12", title: "The Canyon" },
+  { file: BASE + "13_the_conn.mp3", num: "13", title: "The Conn" },
+  { file: BASE + "14_kobayashi_maru.mp3", num: "14", title: "Kobayashi Maru" },
+  { file: BASE + "15_anyones_to_win.mp3", num: "15", title: "Anyone's to Win" },
+];
+
+let currentIndex = -1;
+let isPlaying = false;
+const audio = new Audio();
+const slider = document.getElementById("slider");
+const timeCurrent = document.getElementById("time-current");
+const timeTotal = document.getElementById("time-total");
+const btnPlay = document.getElementById("btn-play");
+const playerTitle = document.getElementById("player-title");
+const sceneList = document.getElementById("scene-list");
+
+function fmt(s) {
+  if (isNaN(s)) return "0:00";
+  const m = Math.floor(s / 60);
+  const sec = Math.floor(s % 60);
+  return m + ":" + (sec < 10 ? "0" : "") + sec;
+}
+
+// Build scene list
+scenes.forEach((s, i) => {
+  const div = document.createElement("div");
+  div.className = "scene";
+  div.dataset.index = i;
+  div.innerHTML = `
+    <div class="scene-header">
+      <span class="scene-num">${s.num}</span>
+      <span class="scene-title">${s.title}</span>
+      <span class="scene-duration" id="dur-${i}"></span>
+    </div>
+  `;
+  div.addEventListener("click", () => playScene(i));
+  sceneList.appendChild(div);
+});
+
+function playScene(i) {
+  if (i < 0 || i >= scenes.length) return;
+  currentIndex = i;
+  audio.src = scenes[i].file;
+  audio.play();
+  isPlaying = true;
+  btnPlay.innerHTML = "&#9646;&#9646;";
+  playerTitle.textContent = `${scenes[i].num} — ${scenes[i].title}`;
+  updateActiveScene();
+}
+
+function updateActiveScene() {
+  document.querySelectorAll(".scene").forEach((el, i) => {
+    el.classList.remove("active", "played");
+    if (i === currentIndex) el.classList.add("active");
+    else if (i < currentIndex) el.classList.add("played");
+  });
+  // Scroll active into view
+  const active = document.querySelector(".scene.active");
+  if (active) active.scrollIntoView({ behavior: "smooth", block: "nearest" });
+}
+
+// Play/pause
+btnPlay.addEventListener("click", () => {
+  if (currentIndex === -1) { playScene(0); return; }
+  if (isPlaying) { audio.pause(); isPlaying = false; btnPlay.innerHTML = "&#9654;"; }
+  else { audio.play(); isPlaying = true; btnPlay.innerHTML = "&#9646;&#9646;"; }
+});
+
+// Skip
+document.getElementById("btn-prev").addEventListener("click", () => {
+  if (audio.currentTime > 3) { audio.currentTime = 0; }
+  else { playScene(currentIndex - 1); }
+});
+document.getElementById("btn-next").addEventListener("click", () => playScene(currentIndex + 1));
+
+// Rewind/FF
+document.getElementById("btn-rw").addEventListener("click", () => { audio.currentTime = Math.max(0, audio.currentTime - 15); });
+document.getElementById("btn-ff").addEventListener("click", () => { audio.currentTime = Math.min(audio.duration, audio.currentTime + 15); });
+
+// Slider
+let dragging = false;
+slider.addEventListener("input", () => { dragging = true; });
+slider.addEventListener("change", () => {
+  audio.currentTime = (slider.value / 100) * audio.duration;
+  dragging = false;
+});
+
+// Time update
+audio.addEventListener("timeupdate", () => {
+  if (!dragging) slider.value = (audio.currentTime / audio.duration) * 100;
+  timeCurrent.textContent = fmt(audio.currentTime);
+});
+
+audio.addEventListener("loadedmetadata", () => {
+  timeTotal.textContent = fmt(audio.duration);
+  const durEl = document.getElementById(`dur-${currentIndex}`);
+  if (durEl) durEl.textContent = fmt(audio.duration);
+});
+
+// Auto-advance
+audio.addEventListener("ended", () => {
+  if (currentIndex < scenes.length - 1) playScene(currentIndex + 1);
+  else { isPlaying = false; btnPlay.innerHTML = "&#9654;"; }
+});
+
+// Preload durations
+scenes.forEach((s, i) => {
+  const tmp = new Audio();
+  tmp.preload = "metadata";
+  tmp.src = s.file;
+  tmp.addEventListener("loadedmetadata", () => {
+    const el = document.getElementById(`dur-${i}`);
+    if (el) el.textContent = fmt(tmp.duration);
+  });
+});
+
+// Media session (lock screen controls)
+if ("mediaSession" in navigator) {
+  navigator.mediaSession.metadata = new MediaMetadata({
+    title: "The Long Game",
+    artist: "Star Trek",
+  });
+  navigator.mediaSession.setActionHandler("play", () => btnPlay.click());
+  navigator.mediaSession.setActionHandler("pause", () => btnPlay.click());
+  navigator.mediaSession.setActionHandler("previoustrack", () => document.getElementById("btn-prev").click());
+  navigator.mediaSession.setActionHandler("nexttrack", () => document.getElementById("btn-next").click());
+  navigator.mediaSession.setActionHandler("seekbackward", () => document.getElementById("btn-rw").click());
+  navigator.mediaSession.setActionHandler("seekforward", () => document.getElementById("btn-ff").click());
+
+  audio.addEventListener("timeupdate", () => {
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: scenes[currentIndex]?.title || "The Long Game",
+      artist: "Star Trek: The Long Game",
+      album: "Grey Water",
+    });
+  });
+}
+</script>
+</body>
+</html>
