@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 15 — "ANYONE'S TO WIN"
+## Scene 16 — "ANYONE'S TO WIN"
 
 ---
 
@@ -520,4 +520,4 @@ Begins.
 
 ---
 
-*End of Scene 15 — End of Screenplay*
+*End of Scene 16 — End of Screenplay*

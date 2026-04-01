@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 12 — "THE CANYON"
+## Scene 13 — "THE CANYON"
 
 ---
 
@@ -140,4 +140,4 @@ Begins.
 
 ---
 
-*End of Scene 9*
+*End of Scene 13*

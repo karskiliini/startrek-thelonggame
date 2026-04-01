@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 14 — "KOBAYASHI MARU"
+## Scene 15 — "KOBAYASHI MARU"
 
 ---
 
@@ -260,4 +260,4 @@ Which is the most Sorak has ever admitted anyone was right about anything.
 
 ---
 
-*End of Scene 14*
+*End of Scene 15*

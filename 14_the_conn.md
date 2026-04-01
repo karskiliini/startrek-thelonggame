@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 13 — "THE CONN"
+## Scene 14 — "THE CONN"
 
 ---
 
@@ -611,4 +611,4 @@ Everything is not finished yet.
 
 ---
 
-*End of Scene 13*
+*End of Scene 14*

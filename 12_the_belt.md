@@ -1,5 +1,5 @@
 # STAR TREK: THE LONG GAME
-## Scene 11B — "THE BELT"
+## Scene 12 — "THE BELT"
 
 ---
 
@@ -349,4 +349,4 @@ Everyone has been building something. The Cardassians built a colony. The Klingo
 
 ---
 
-*End of Scene 11B*
+*End of Scene 12*
