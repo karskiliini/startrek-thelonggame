@@ -9,7 +9,7 @@ The clock is running.
 
 K'Tagh's message was clear: Klingon reinforcements — the IKS Vor'nak — will arrive in thirty-six hours. After that, the system becomes a battlefield. Kirk has one day to understand what he's standing in the middle of before someone else decides for him.
 
-He cannot negotiate with Marek without knowing the full picture. He cannot confront the Klingons without knowing what they have. He cannot report to Starfleet without facts. And right now, the asteroid belt — the one piece of this system nobody has examined closely — is radiating energy it shouldn't have.
+He cannot negotiate with Marek without knowing the full picture. The colony is Cardassian. The infrastructure is Cardassian. The installation on the northern plateau is Cardassian. If Marek has hidden something else — in the one place nobody has examined closely — Kirk needs to know before he sits across from him. And right now, the asteroid belt is radiating energy it shouldn't have.
 
 SPOCK at his station. He has been running the same analysis since K'Tagh closed the channel — the full sensor sweep data cross-referenced against the geological survey database.
 
@@ -53,7 +53,7 @@ Mining operations. Industrial processing. Subsurface habitation.
 
 *(the pause of a man listing the innocent explanations before arriving at the one he actually means)*
 
-Or military installations.
+Or an extension of the Cardassian construction program. The colony. The northern installation. And now — potentially — the belt.
 
 ---
 
@@ -161,6 +161,12 @@ Then he sees the next one. Two hundred meters to the left. Another seam. Another
 
 He doesn't need to go inside. The rock is telling him everything.
 
+But something is wrong. He came looking for Cardassian construction — the clean, precise, bureaucratic engineering Marek brings to everything. What he's seeing is not that. The hatch work is crude. Functional but rough. The seams are welded, not bonded. The cutting marks on the rock face around the installation — he knows those marks.
+
+He has seen that cutting pattern before. Twelve years ago. Every day for two years.
+
+Klingon.
+
 ---
 
 **HUMMER**
@@ -169,11 +175,15 @@ You weren't mining.
 
 ---
 
+He came looking for Marek's secrets. He found K'Tagh's.
+
 Twelve years. He worked alongside Klingon crews for two years in this belt. He watched them break equipment. He watched them ruin ore batches. He categorized them as amateurs — people who couldn't do precision work, who hit things harder when they broke, who didn't have the patience for the job.
 
 They weren't mining. They were building. The broken equipment wasn't incompetence — it was resources diverted. The ruined ore wasn't carelessness — it was cover. They spent their shifts inside these rocks doing something else entirely, and nobody looked because everyone already knew the answer: Klingons can't mine.
 
 He was wrong. For twelve years he was wrong. The man who reads surfaces — who built his career on seeing what others miss — missed this. Because he wasn't looking. Because he already had his answer.
+
+And Kirk was wrong too. He sent Hummer looking for Cardassian infrastructure. There is a third player in this system that nobody accounted for.
 
 ---
 
@@ -214,36 +224,46 @@ KIRK turns from the viewer.
 ---
 
 **HUMMER**
-The Klingons have military installations inside the asteroid belt. At least four that I could identify visually. Hardened construction — hatches, power systems, shielded compartments. The scale is — significant.
+It's not Cardassian.
 
-*(beat)*
-
-They've been building for years. The energy signatures Spock flagged are leaking power from underground systems that were designed to be invisible.
+A beat. Kirk's face shifts. He sent Hummer looking for Marek's secrets.
 
 ---
 
 **KIRK**
-How did you identify them?
+Explain.
 
 ---
 
 **HUMMER**
-The rock told me. The surface geology is wrong — the iron deposits don't follow the crystal structure where the installations are. Natural geology doesn't make straight lines.
-
-*(quieter)*
-
-I worked fifty meters from one of those hatches for six months. Twelve years ago. I never saw it.
+The installations in the belt are Klingon. The construction is Klingon. The cutting patterns on the rock — I recognize the tool marks. I worked next to crews who made those marks for two years.
 
 *(beat)*
 
-Nobody saw it. Because nobody was looking. Because everyone already knew the Klingons couldn't do anything useful in that belt.
+At least four installations. Hardened. Hatches, power systems, shielded compartments. They've been there for years.
 
-He lets that sit. Kirk hears what he's not saying: *I was one of those people.*
+*(quieter)*
+
+I worked fifty meters from one of those hatches for six months. I never saw it. Because I already knew the Klingons couldn't build anything useful.
+
+---
+
+Kirk is very still.
+
+---
+
+**KIRK**
+K'Tagh didn't mention this.
+
+---
+
+**HUMMER**
+No sir. He didn't.
 
 ---
 
 **SPOCK**
-This is consistent with K'Tagh's communication. He stated the Klingon faction had been used as cover for Cardassian operations. It appears the Klingons were simultaneously conducting their own.
+K'Tagh informed us that the Klingon faction had been used as cover for Cardassian operations. It appears the Klingons were simultaneously conducting their own. Neither side knew what the other was building.
 
 ---
 
