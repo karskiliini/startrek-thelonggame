@@ -40,6 +40,7 @@ get_old_sum() {
 }
 
 md_to_txt() {
+    # Legacy single-voice conversion (unused in multi-voice mode)
     sed -E \
         -e 's/^#+[[:space:]]*//' \
         -e "s/^\*\*([A-Z ]+)\*\* \*\(CONT'D\)\*/\1 (continued):/g" \
@@ -56,6 +57,15 @@ md_to_txt() {
         -e 's/Kirk/Kurk/g' \
         -e 's/KIRK/KURK/g' \
         "$1"
+}
+
+# Parse screenplay into voice-tagged blocks using Python parser
+parse_voices() {
+    local md="$1" scene="$2"
+    # Python writes hash-keyed files directly and outputs hash list
+    python parse_voices.py "$md" "$CACHE/txt" "$MANIFEST/${scene}.hashes"
+    local count=$(wc -l < "$MANIFEST/${scene}.hashes" | tr -d ' ')
+    echo $count
 }
 
 # Split text at blank lines into paragraph chunks.
@@ -123,13 +133,13 @@ ${line_buf}"; else accum="$line_buf"; fi
     echo ${#merged_chunks[@]}
 }
 
-# Generate WAV from a text file
+# Generate WAV from a text file with specified voice
 generate_wav() {
-    local txt="$1" wav_out="$2"
+    local txt="$1" wav_out="$2" voice="${3:-Carter}"
     python VibeVoice/demo/realtime_model_inference_from_file.py \
         --model_path microsoft/VibeVoice-Realtime-0.5B \
         --txt_path "$txt" \
-        --speaker_name Carter \
+        --speaker_name "$voice" \
         --output_dir "$CACHE/" \
         --device mps
     local auto_name="$CACHE/$(basename "${txt%.txt}")_generated.wav"
@@ -172,20 +182,15 @@ for base in "${changed[@]}"; do
     md="${base}.md"
     mp3="audio/${base}.mp3"
 
-    # Convert markdown to plain text
-    scene_txt="$CACHE/txt/${base}_full.txt"
-    md_to_txt "$md" > "$scene_txt"
-
-    word_count=$(wc -w < "$scene_txt" | tr -d ' ')
     echo ""
-    echo "=== Generating: $base ($word_count words) ==="
+    echo "=== Generating: $base ==="
     echo "Started at: $(date)"
 
-    # Split into paragraph chunks
-    num_chunks=$(split_paragraphs "$scene_txt" "$base")
-    echo "Paragraphs: $num_chunks"
+    # Parse into voice-tagged blocks
+    num_chunks=$(parse_voices "$md" "$base")
+    echo "Voice blocks: $num_chunks"
 
-    # Generate each paragraph — keyed purely by content hash
+    # Generate each block with correct voice
     chunk_wavs=()
     all_ok=true
     cached_count=0
@@ -195,7 +200,9 @@ for base in "${changed[@]}"; do
         para_num=$((para_num + 1))
         txt_file="$CACHE/txt/${h}.txt"
         wav_file="$CACHE/wav/${h}.wav"
+        voice_file="$CACHE/txt/${h}.voice"
         chunk_words=$(wc -w < "$txt_file" | tr -d ' ')
+        voice=$(cat "$voice_file")
 
         if [[ -f "$wav_file" ]]; then
             cached_count=$((cached_count + 1))
@@ -204,12 +211,12 @@ for base in "${changed[@]}"; do
         fi
 
         gen_count=$((gen_count + 1))
-        echo "--- Paragraph $para_num/$num_chunks ($chunk_words words) ---"
+        echo "--- Block $para_num/$num_chunks ($chunk_words words, $voice) ---"
 
-        if generate_wav "$txt_file" "$wav_file"; then
+        if generate_wav "$txt_file" "$wav_file" "$voice"; then
             chunk_wavs+=("$wav_file")
         else
-            echo "ERROR: paragraph $para_num failed for $base"
+            echo "ERROR: block $para_num failed for $base"
             all_ok=false
             break
         fi
