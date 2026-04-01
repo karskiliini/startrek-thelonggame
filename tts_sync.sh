@@ -14,6 +14,7 @@ source VibeVoice/.venv/bin/activate
 mkdir -p audio "$CACHE/wav" "$CACHE/txt"
 
 chapters=(
+    01_the_table
     00_opening_credits
     02_orders
     03_the_dinner
@@ -29,7 +30,6 @@ chapters=(
     13_the_conn
     14_kobayashi_maru
     15_anyones_to_win
-    01_the_table
 )
 
 mkdir -p "$MANIFEST"
