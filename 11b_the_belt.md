@@ -103,17 +103,7 @@ A mining shuttle with one operator is invisible. Two is unusual. Three is suspic
 
 ---
 
-McCOY, who has been standing near the turbolift, looks at Kirk.
-
----
-
-**McCOY**
-*(very quiet)*
-Don't let him get himself killed.
-
----
-
-Kirk doesn't answer. McCoy doesn't expect him to.
+McCOY, who has been standing near the turbolift, says nothing. His face says everything.
 
 Kirk looks at Hummer for a long moment. The look of a man weighing the officer against the risk and finding the weight uneven.
 
