@@ -290,6 +290,59 @@ The ones I used to cut.
 
 Kirk looks at Hummer. Then at Spock. Then at the belt.
 
+---
+
+**KIRK**
+Why on earth would the Klingons build a military base inside an asteroid belt in the Cordia system?
+
+---
+
+**SPOCK**
+Several reasons, Captain. All of them logical.
+
+He moves to the tactical display. Pulls up the sector map.
+
+---
+
+**SPOCK** *(CONT'D)*
+Cordia sits at the intersection of three spheres of influence — Federation, Cardassian, and Klingon. The shipping corridors that pass through this system connect all three. Control of Cordia is control of the transit routes.
+
+*(beat)*
+
+The Cardassians understood this thirty years ago. Their infrastructure operation was never about the colony — it was about the corridor. The Klingons appear to have reached the same conclusion independently.
+
+---
+
+**KIRK**
+A choke point.
+
+---
+
+**SPOCK**
+Precisely. Whoever holds this system controls the flow of resources and fleet movements between three powers. The Cardassians chose to secure it through economic dependency. The Klingons chose to secure it through concealed military capability. Both arrived at the same strategic assessment. Both chose different instruments.
+
+*(beat)*
+
+There is a further consideration. The Cardassian trade embargo threatened by Marek — the mining products that flow through this system are critical to the Klingon Empire. If the Cardassians gain full control of Cordia, they gain the ability to strangle the Klingon supply chain at will. The installations Hummer discovered may be an insurance policy — a guarantee that even if the Cardassians control the surface, the Klingons retain the ability to contest the belt.
+
+---
+
+**KIRK**
+They built a fallback position inside the one place their allies controlled.
+
+---
+
+**SPOCK**
+The Klingons and Cardassians are not allies, Captain. They never were. They are two powers occupying the same strategic chokepoint, each building the means to deny it to the other while maintaining the appearance of cooperation.
+
+*(beat)*
+
+The Federation occupies the third position. We control none of it. We built none of it. And until today, we were unaware of what either side had constructed.
+
+---
+
+Kirk stares at the belt. Three factions. Three long games. One system. And Enterprise — the aging flagship with grey water and a backlogged parts list — is the only piece on the board that belongs to the Federation.
+
 Everyone has been building something. The Cardassians built a colony. The Klingons built a fortress. The Federation built nothing — and is now surrounded by what everyone else built while it wasn't looking.
 
 `CUT TO:`
