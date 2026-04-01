@@ -3,13 +3,13 @@
 
 ---
 
-`EXT. SPACE — ENTERPRISE-A — ESTABLISHING`
+`EXT. EARTH ORBIT — ENTERPRISE-A — ESTABLISHING`
 
-She's in orbit. Standard. The slow rotation of a ship that has been circling the same planet for days, waiting for the dockyards to have a berth ready. The stars aren't going anywhere. Neither is she.
+She's in orbit. Earth orbit. The slow rotation of a ship that has been circling home for weeks, waiting for the San Francisco Fleet Yards to have a berth ready. Below her — the Pacific, the coast, the city where Starfleet Command makes its decisions. The stars aren't going anywhere. Neither is she.
 
 The familiar silhouette — but look closer. A repair plate on the port nacelle housing that doesn't quite match the surrounding paintwork. Scoring along the secondary hull from the events at Khitomer that was patched but never properly refinished. A running light cycling at the wrong frequency. The decommission orders were filed, processed, and then — quietly, without explanation — rescinded. Someone decided Enterprise still had work to do. The crew wasn't told who or why.
 
-She should be in a museum. She should be in a scrapyard. Instead she's orbiting a planet nobody remembers the name of, running on replacement parts and stubbornness, crewed by people who are half new faces and half old hands who have been here too long.
+She should be in a museum. She should be in a scrapyard. Instead she's orbiting Earth, running on replacement parts and stubbornness, crewed by people who are half new faces and half old hands who have been here too long. Close enough to see the lights of San Francisco at night. Close enough to touch retirement.
 
 The flagship of the Federation. Waiting to be put down.
 
@@ -25,7 +25,7 @@ Half the faces are new. Transfer replacements. The particular discomfort of offi
 
 One of them is looking out the viewport.
 
-Nothing out there. A planet nobody talks about. He's looking anyway.
+Earth. The planet everyone talks about but nobody on this ship expects to see for long. He's looking anyway. Memorizing it, maybe.
 
 The others eat. Nobody talks much.
 
@@ -47,7 +47,7 @@ He's reading mission orders on a PADD. We can't see the screen but we can see hi
 
 He reads it twice. Sets the PADD down.
 
-Looks at the viewer. The planet below. Orbit fourteen.
+Looks at the viewer. Earth below. He can see the outline of North America. Iowa is down there somewhere. Home — if that word still means anything to a man who has spent thirty years making sure it doesn't have to.
 
 He doesn't know about the dinner on the starbase. He doesn't know about the private conversation after. He doesn't know that the decommission order was quietly reversed somewhere in the chain of command where nobody asks why — that Sorak spoke to someone who spoke to someone who signed something. Voss was one conversation. There were others. Sorak has been running assets, contacts, and favors across Starfleet for fifteen years. He doesn't give orders. He doesn't need to. He places words in the right ears and the machine does the rest. Keeping Enterprise alive was the first move. Putting Hummer on it was the second. Sorak's name appears on nothing.
 
