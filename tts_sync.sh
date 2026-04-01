@@ -14,8 +14,8 @@ source VibeVoice/.venv/bin/activate
 mkdir -p audio "$CACHE/wav" "$CACHE/txt"
 
 chapters=(
-    01_the_table
     00_opening_credits
+    01_the_table
     02_orders
     03_the_dinner
     04_grey_water
