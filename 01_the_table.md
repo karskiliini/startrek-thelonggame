@@ -3,43 +3,49 @@
 
 ---
 
-`INT. PRIVATE KITCHEN — STARBASE 12 — NIGHT`
+`BLACK SCREEN.`
 
-SORAK arrives first. The room is empty. A table set for three. A bottle of something dark at the center. He looks at the bottle. Looks at the table. Sits.
-
-He does not touch the bottle.
-
-ADMIRAL VOSS enters. Sees Sorak. Sees the bottle.
+A metallic clang. Heavy. Mechanical. The sound of something unlocking.
 
 ---
 
-**VOSS**
-He's not here yet?
+`EXT. STARBASE 12 — DOCKING BAY — NIGHT`
 
----
+The Federation insignia fills the frame. Massive. Polished metal on a gunmetal hull. For one second it looks ceremonial — a monument, an emblem on a wall.
 
-**SORAK**
-He's here. He's been here for two hours. He's in the kitchen.
+Then it moves. Down. The insignia is the outer face of a military shuttle's landing ramp, lowering on hydraulics. The emblem splits as the ramp opens — the Federation seal breaking apart to become a staircase.
 
----
+ADMIRAL VOSS steps out.
 
-**VOSS**
-Doing what?
+Young for an admiral. Blonde. Immaculate. The kind of composed that takes twenty years to build and looks effortless once built. The uniform fits her like it was designed for someone who would never need to adjust it. She descends the ramp with the precision of someone who is aware that arrivals are performances and has no interest in performing — which is, itself, the performance.
+
+SORAK is waiting at the bottom. He is somewhere between fifty and ageless. He stands the way intelligence officers stand — present without being noticeable, visible without being memorable.
 
 ---
 
 **SORAK**
-Cooking.
+Admiral. Welcome to Starbase 12.
 
 ---
 
 **VOSS**
-Cooking.
+Sorak.
+
+She doesn't break stride. He falls in beside her. They walk.
+
+---
+
+`INT. STARBASE 12 — CORRIDOR / TURBOLIFT — CONTINUOUS`
+
+---
+
+**VOSS**
+Brief me.
 
 ---
 
 **SORAK**
-He requested the kitchen six days ago. Had equipment shipped from his vessel. A cutting surface. A specific heat source. An apron.
+Gul Marek has been aboard for two days. He requested a private kitchen six days ago. Had equipment shipped from his vessel. A cutting surface. A specific heat source. An apron.
 
 ---
 
@@ -63,7 +69,7 @@ Because I know what a sixty-eight costs. And I know what it means when someone s
 
 ---
 
-A sound from the kitchen. Oil in a pan. Something being built.
+They reach the turbolift. The doors open. They step in.
 
 ---
 
@@ -97,42 +103,112 @@ You're here.
 
 ---
 
-Voss looks at him. Sorak looks at the bottle. Neither says what they're both thinking: that a man who has his forensic report ready before anyone else has started investigating is either extraordinarily competent or extraordinarily prepared. The distinction matters. Neither of them can tell which it is yet.
+Voss looks at him. The turbolift hums.
 
 ---
 
-The kitchen door opens.
-
-GUL MAREK enters carrying three plates. An apron — old, heavy, leather, knives in sheaths along the front. He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure giving him the quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
-
-He sets the plates down with the precision of a host, not a guest. He is feeding them — literally, personally, from his own hands — on a Federation starbase. As though this were his kitchen. His table. His house.
-
----
-
-**MAREK**
-Admiral. I apologize for the delay — the taska is temperamental. It requires a specific heat for the first four minutes or the protein seizes.
-
-*(to Sorak)*
-
-You haven't opened the Kanar.
+**VOSS**
+The corridor utilization numbers you flagged last month. The shipping lanes through Cordia approach.
 
 ---
 
 **SORAK**
-I was waiting for the host.
+Up forty percent in eighteen months. The volume is not consistent with civilian development. The construction timeline I've estimated puts the installation at operational capacity in eighteen months. Possibly less.
+
+---
+
+**VOSS**
+The Council reviewed your intelligence. The evidence for military construction is circumstantial. The humanitarian metrics are documented and independently verified.
+
+---
+
+**SORAK**
+The Council is not wrong to weigh the economics. The Council is wrong about what's on the other side of the scale.
+
+---
+
+**VOSS**
+What do you need?
+
+---
+
+**SORAK**
+A ship. In that system. A captain with sufficient judgment to act when the moment requires action without needing to be told what the moment is.
+
+---
+
+**VOSS**
+You have someone in mind.
+
+It isn't a question.
+
+---
+
+**SORAK**
+I have someone in mind.
+
+---
+
+The turbolift slows. Voss looks at Sorak for a moment — the look of a woman who has been here before. Not this turbolift, but this conversation. Sorak presenting just enough to get what he needs without presenting what she'd actually need to justify it officially.
+
+---
+
+**VOSS**
+I'll review the assignment roster.
+
+---
+
+The turbolift doors open.
+
+Not onto a corridor. Directly into a room.
+
+---
+
+`INT. GUL MAREK'S QUARTERS — STARBASE 12 — CONTINUOUS`
+
+The turbolift opens directly into a private dining space. No hallway. No anteroom. The doors part and they are *inside* — as though the station itself has been rearranged to eliminate the distance between arrival and audience.
+
+The first thing they smell is food. Real food. Oil and heat and something animal.
+
+A table set for three. A bottle of Kanar at the center like an exhibit — dark, slightly luminescent. Three place settings. The room is warm. The room has been warm for hours.
+
+GUL MAREK stands at the far end, carrying a plate. An apron — old, heavy, leather, knives in sheaths along the front. He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure giving him the quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
+
+He sets the plate down and looks up. The warmth is immediate. Genuine. The smile of a host who has been waiting for exactly this moment.
 
 ---
 
 **MAREK**
-*(pouring)*
-You were cataloguing the bottle. There's a difference.
+Admiral. Welcome to my home.
 
-He sits. The apron stays on. The knives stay in their sheaths.
+---
+
+The word *home*. On a Federation starbase. In quarters he requisitioned, furnished, and cooked in as though they were his kitchen, his table, his house. He has a turbolift that opens directly into his private space — the kind of architectural privilege that requires either extraordinary rank or extraordinary influence. A Gul does not have that rank. Someone considerably above a Gul arranged this.
+
+Sorak registers it. Files it. The turbolift is either a convenience or a signal. A man who controls the architecture of a Federation station controls more than the architecture.
 
 ---
 
 **MAREK** *(CONT'D)*
+I apologize for the delay — the taska is temperamental. It requires a specific heat for the first four minutes or the protein seizes.
+
+*(to Sorak)*
+
+You're early. I expected five more minutes.
+
+---
+
+**SORAK**
+The Admiral's shuttle was ahead of schedule.
+
+---
+
+**MAREK**
+*(setting plates — three, precisely positioned)*
+Then the timing is perfect.
+
 *(to Voss)*
+
 The taska was transported live from Cardassia Prime. It does not survive replication — something in the protein structure. I have a friend in the agricultural ministry who arranges these things.
 
 ---
@@ -145,7 +221,7 @@ That's a long supply chain for one meal.
 **MAREK**
 Everything worth eating requires a long supply chain, Admiral. That is as true for civilizations as it is for dinner.
 
-He picks up his knife. Begins eating. The gesture says: *we are social now. The business comes later. And I will decide when later begins.*
+He gestures for them to sit. Pours the Kanar. The movements of a host, not a guest. He is feeding them — literally, personally, from his own hands — on a Federation starbase.
 
 ---
 
@@ -296,29 +372,6 @@ He means something slightly different by that word than she does. She knows it. 
 
 ---
 
-**SORAK**
-The logistics corridor through the Cordia approach — I noticed the shipping lane utilization has increased significantly in the last eighteen months.
-
-A pause. Very small. Marek's knife pauses for perhaps a quarter of a second against his plate before continuing.
-
----
-
-**MAREK**
-Development at that scale generates supply chain requirements that are — yes, significant. Medical equipment. Construction materials. Personnel transport.
-
-*(pleasantly)*
-
-When you build a civilization you need a great deal of cargo.
-
----
-
-**SORAK**
-Of course.
-
-He takes a small sip of Kanar. Files the quarter-second pause. Says nothing more about the corridor.
-
----
-
 The dinner continues.
 
 Marek is extraordinary company — stories about Cardassian art, genuine curiosity about Federation colony programs, a self-deprecating anecdote about a diplomatic incident on Romulus that makes Voss almost smile. Almost.
@@ -342,7 +395,7 @@ He stands. Begins clearing the plates himself — the same hands that cooked the
 **MAREK**
 I'm afraid my duties call me elsewhere.
 
-He says it with genuine warmth. Then — a gesture that takes in the kitchen, the remaining Kanar, the warmth of the room he built from nothing on someone else's starbase.
+He says it with genuine warmth. Then — a gesture that takes in the room, the remaining Kanar, the warmth of the space he built from nothing on someone else's starbase.
 
 ---
 
@@ -353,7 +406,7 @@ But please — stay. As long as you wish. The kitchen is yours. There is more Ka
 
 Consider this your house tonight.
 
-The irony hangs in the air like the smell of the meal. A Cardassian guest telling Federation officers to make themselves at home — in a Federation facility — in a room he requisitioned, furnished, and cooked in as though it were his own. He is giving them permission to stay in their own house. And the permission feels genuine. That is the most unsettling part.
+The irony hangs in the air like the smell of the meal. A Cardassian guest telling Federation officers to make themselves at home — in a Federation facility — in a room with a private turbolift he shouldn't have access to. He is giving them permission to stay in their own house. And the permission feels genuine. That is the most unsettling part.
 
 ---
 
@@ -384,11 +437,11 @@ I look forward to it.
 
 Marek unties the apron. Returns each knife to its sheath — one, two, three — with the same absent precision he used all evening. Then folds the leather. Slowly. The fold lines are worn into the material from generations of the same gesture. He does not set it on the counter. He holds it for a moment — the weight of it in his hands — and then places it inside the case he brought it in. The case goes under his arm.
 
-The apron leaves with him. The knives leave with him. The kitchen remains, but the tools that made it his are gone.
+The apron leaves with him. The knives leave with him. The room remains, but the tools that made it his are gone.
 
-He leaves through the main door.
+He leaves — not through the turbolift. Through a door on the far side. His own corridor. His own route. The turbolift is for guests.
 
-The kitchen becomes a different room.
+The room becomes a different room.
 
 The smell of his cooking is still in the air. The Kanar he opened is still on the table. The meal he made is still in their stomachs. He is gone and he is everywhere.
 
@@ -397,117 +450,33 @@ Voss looks at Sorak.
 ---
 
 **VOSS**
-He left us in his kitchen.
+He has a private turbolift.
 
 ---
 
 **SORAK**
+He has a private turbolift, a kitchen, and a supply chain that stretches across two sectors for one animal.
+
+*(beat)*
+
 He left us in our kitchen. That is the point.
 
 He goes to the table. Refills his glass — the Kanar he didn't drink during dinner. Considers the bottle for a moment.
 
 ---
 
-**SORAK** *(CONT'D)*
-The corridor utilization isn't supply chain.
-
----
-
 **VOSS**
-I know.
+*(quieter — the conversation they couldn't have while Marek was in the room)*
 
----
-
-**SORAK**
-The construction timeline I've estimated puts the installation at operational capacity in eighteen months. Possibly less.
-
----
-
-**VOSS**
-*(measured)*
-Your installation. You've presented estimated coordinates to the Council. They've reviewed the intelligence.
-
----
-
-**SORAK**
-And?
-
----
-
-**VOSS**
-The evidence for military construction is circumstantial. The humanitarian metrics are documented and independently verified. The economic consequences of a hostile posture toward Cardassia would be — significant.
-
----
-
-**SORAK**
-How significant.
-
----
-
-**VOSS**
-Destabilizing. Six independent worlds currently in Cardassian economic alignment. Trade routes that twenty Federation member worlds depend on. The Council is not wrong to weigh that.
-
----
-
-**SORAK**
-The Council is not wrong to weigh it. The Council is wrong about what's on the other side of the scale.
-
-A silence.
-
----
-
-**VOSS**
-What do you need?
-
----
-
-**SORAK**
-A ship. In that system. A captain with sufficient judgment to act when the moment requires action without needing to be told what the moment is.
-
----
-
-**VOSS**
-You have someone in mind.
-
-It isn't a question.
-
----
-
-**SORAK**
-I have someone in mind.
-
-Voss looks at him for a moment. She has been here before — not this room, but this conversation. Sorak presenting just enough to get what he needs without presenting what she'd actually need to justify it officially.
-
----
-
-**VOSS**
-I'll review the assignment roster.
-
-She moves toward the door. Stops. Turns back. Something in her face that has been there since Marek left and hasn't found the right moment until now.
-
----
-
-**VOSS** *(CONT'D)*
-Sorak.
-
-He looks at her.
-
----
-
-**VOSS** *(CONT'D)*
-Marek knew you'd be here tonight. He accepted the invitation specifically because you'd be here.
+Sorak. Marek knew you'd be here tonight. He accepted the invitation specifically because you'd be here.
 
 *(beat)*
 
 Whatever you think you learned this evening — consider that he may have come here to teach it to you.
 
-She leaves.
+---
 
-The door closes.
-
-Sorak stands alone in the room with a glass of Cardassian wine and the remains of an excellent meal.
-
-He looks at the bottle for a long moment.
+Sorak looks at the bottle for a long moment.
 
 He adjusts his probability models by some small percentage.
 
