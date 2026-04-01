@@ -11,7 +11,6 @@ body {
   color: #d4d4d4;
   font-family: -apple-system, system-ui, sans-serif;
   min-height: 100vh;
-  padding-bottom: 200px;
 }
 header {
   text-align: center;
@@ -31,10 +30,34 @@ header h2 {
   font-style: italic;
   margin-top: 4px;
 }
+
+/* Tabs */
+.tabs {
+  display: flex;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #222;
+}
+.tab {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  font-size: 13px;
+  color: #666;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  -webkit-tap-highlight-color: transparent;
+}
+.tab.active {
+  color: #4a9eff;
+  border-bottom-color: #4a9eff;
+}
+
+/* Scene list */
 .scenes {
   max-width: 600px;
   margin: 0 auto;
-  padding: 8px 16px;
+  padding: 8px 16px 180px;
 }
 .scene {
   padding: 12px 0;
@@ -65,22 +88,71 @@ header h2 {
   color: #999;
   flex: 1;
 }
-.scene.active .scene-title {
-  color: #e8e8e8;
-}
-.scene.played .scene-title {
-  color: #666;
-}
+.scene.active .scene-title { color: #e8e8e8; }
+.scene.played .scene-title { color: #666; }
 .scene-duration {
   font-size: 12px;
   color: #444;
   font-variant-numeric: tabular-nums;
 }
-.now-playing {
-  font-size: 11px;
+
+/* Text view */
+.text-view {
+  display: none;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 16px 180px;
+}
+.text-view.visible { display: block; }
+.text-scene-title {
+  font-size: 16px;
+  color: #e8e8e8;
+  text-align: center;
+  padding: 16px 0 12px;
+  border-bottom: 1px solid #1a1a1a;
+  margin-bottom: 16px;
+}
+.text-content {
+  font-size: 14px;
+  line-height: 1.7;
+  color: #bbb;
+}
+.text-content .direction {
+  color: #666;
+  font-style: italic;
+  margin: 12px 0;
+}
+.text-content .character {
   color: #4a9eff;
-  margin-left: 34px;
-  margin-top: 2px;
+  font-weight: 600;
+  margin-top: 16px;
+  margin-bottom: 2px;
+}
+.text-content .dialogue {
+  margin-bottom: 8px;
+}
+.text-content .parenthetical {
+  color: #888;
+  font-style: italic;
+  font-size: 13px;
+}
+.text-content .separator {
+  border: none;
+  border-top: 1px solid #1a1a1a;
+  margin: 16px 0;
+}
+.text-content .scene-heading {
+  color: #555;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin: 16px 0 8px;
+}
+.scroll-indicator {
+  text-align: center;
+  padding: 20px;
+  color: #333;
+  font-size: 12px;
 }
 
 /* Fixed bottom player */
@@ -120,9 +192,7 @@ header h2 {
   font-variant-numeric: tabular-nums;
   min-width: 38px;
 }
-.slider-row .time.right {
-  text-align: right;
-}
+.slider-row .time.right { text-align: right; }
 input[type="range"] {
   -webkit-appearance: none;
   appearance: none;
@@ -170,7 +240,18 @@ input[type="range"]::-webkit-slider-thumb {
   <h2>Grey Water</h2>
 </header>
 
+<div class="tabs">
+  <div class="tab active" id="tab-scenes">Scenes</div>
+  <div class="tab" id="tab-text">Text</div>
+</div>
+
 <div class="scenes" id="scene-list"></div>
+
+<div class="text-view" id="text-view">
+  <div class="text-scene-title" id="text-scene-title">Select a scene</div>
+  <div class="text-content" id="text-content"></div>
+  <div class="scroll-indicator" id="scroll-end"></div>
+</div>
 
 <div class="player">
   <div class="player-inner">
@@ -191,28 +272,34 @@ input[type="range"]::-webkit-slider-thumb {
 </div>
 
 <script>
-const BASE = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/audio/";
+const BASE_AUDIO = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/audio/";
+const BASE_TEXT = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/";
 const scenes = [
-  { file: BASE + "00_opening_credits.mp3", num: "00", title: "Opening Credits — The Rocks" },
-  { file: BASE + "01_the_table.mp3", num: "01", title: "The Table" },
-  { file: BASE + "02_orders.mp3", num: "02", title: "Orders" },
-  { file: BASE + "03_the_dinner.mp3", num: "03", title: "The Dinner" },
-  { file: BASE + "04_grey_water.mp3", num: "04", title: "Grey Water" },
-  { file: BASE + "05_the_incident.mp3", num: "05", title: "The Incident" },
-  { file: BASE + "06_the_call.mp3", num: "06", title: "The Call" },
-  { file: BASE + "07_the_cook.mp3", num: "07", title: "The Cook" },
-  { file: BASE + "08_the_order.mp3", num: "08", title: "The Order" },
-  { file: BASE + "09_ready_room.mp3", num: "09", title: "Ready Room" },
-  { file: BASE + "10_sorak_hand.mp3", num: "10", title: "Sorak's Hand" },
-  { file: BASE + "11_ktagh.mp3", num: "11", title: "K'Tagh" },
-  { file: BASE + "12_the_canyon.mp3", num: "12", title: "The Canyon" },
-  { file: BASE + "13_the_conn.mp3", num: "13", title: "The Conn" },
-  { file: BASE + "14_kobayashi_maru.mp3", num: "14", title: "Kobayashi Maru" },
-  { file: BASE + "15_anyones_to_win.mp3", num: "15", title: "Anyone's to Win" },
+  { file: "00_opening_credits", num: "00", title: "Opening Credits — The Rocks" },
+  { file: "01_the_table", num: "01", title: "The Table" },
+  { file: "02_orders", num: "02", title: "Orders" },
+  { file: "03_the_dinner", num: "03", title: "The Dinner" },
+  { file: "04_grey_water", num: "04", title: "Grey Water" },
+  { file: "05_the_incident", num: "05", title: "The Incident" },
+  { file: "06_the_call", num: "06", title: "The Call" },
+  { file: "07_the_cook", num: "07", title: "The Cook" },
+  { file: "08_the_order", num: "08", title: "The Order" },
+  { file: "09_ready_room", num: "09", title: "Ready Room" },
+  { file: "10_sorak_hand", num: "10", title: "Sorak's Hand" },
+  { file: "11_ktagh", num: "11", title: "K'Tagh" },
+  { file: "12_the_canyon", num: "12", title: "The Canyon" },
+  { file: "13_the_conn", num: "13", title: "The Conn" },
+  { file: "14_kobayashi_maru", num: "14", title: "Kobayashi Maru" },
+  { file: "15_anyones_to_win", num: "15", title: "Anyone's to Win" },
 ];
 
 let currentIndex = -1;
 let isPlaying = false;
+let userScrolled = false;
+let scrollTimeout = null;
+let activeTab = "scenes";
+const textCache = {};
+
 const audio = new Audio();
 const slider = document.getElementById("slider");
 const timeCurrent = document.getElementById("time-current");
@@ -220,6 +307,9 @@ const timeTotal = document.getElementById("time-total");
 const btnPlay = document.getElementById("btn-play");
 const playerTitle = document.getElementById("player-title");
 const sceneList = document.getElementById("scene-list");
+const textView = document.getElementById("text-view");
+const textContent = document.getElementById("text-content");
+const textSceneTitle = document.getElementById("text-scene-title");
 
 function fmt(s) {
   if (isNaN(s)) return "0:00";
@@ -227,6 +317,123 @@ function fmt(s) {
   const sec = Math.floor(s % 60);
   return m + ":" + (sec < 10 ? "0" : "") + sec;
 }
+
+// Tabs
+document.getElementById("tab-scenes").addEventListener("click", () => switchTab("scenes"));
+document.getElementById("tab-text").addEventListener("click", () => switchTab("text"));
+
+function switchTab(tab) {
+  activeTab = tab;
+  document.getElementById("tab-scenes").classList.toggle("active", tab === "scenes");
+  document.getElementById("tab-text").classList.toggle("active", tab === "text");
+  sceneList.style.display = tab === "scenes" ? "block" : "none";
+  textView.classList.toggle("visible", tab === "text");
+  if (tab === "text" && currentIndex >= 0) loadText(currentIndex);
+}
+
+// Markdown to HTML
+function mdToHtml(md) {
+  const lines = md.split("\n");
+  let html = "";
+  for (let line of lines) {
+    line = line.trimEnd();
+    // Skip top-level headers (scene title already shown)
+    if (/^#{1,2}\s/.test(line)) continue;
+    // Scene headings (backtick lines)
+    if (/^`.*`$/.test(line)) {
+      html += `<div class="scene-heading">${line.replace(/`/g, "")}</div>`;
+      continue;
+    }
+    // Horizontal rules
+    if (/^---$/.test(line)) {
+      html += `<hr class="separator">`;
+      continue;
+    }
+    // Character names (bold uppercase)
+    const charMatch = line.match(/^\*\*([A-Z][A-Z '\-]+(?:\s*\*\(CONT'D\)\*)?)\*\*$/);
+    if (charMatch) {
+      html += `<div class="character">${charMatch[1].replace(/\*/g, "")}</div>`;
+      continue;
+    }
+    // Parentheticals
+    if (/^\*\(.*\)\*$/.test(line)) {
+      html += `<div class="parenthetical">${line.replace(/\*/g, "")}</div>`;
+      continue;
+    }
+    // Empty lines
+    if (line.trim() === "") {
+      continue;
+    }
+    // Stage directions (italics - full line)
+    if (/^\*[^*]/.test(line) && line.endsWith("*")) {
+      html += `<div class="direction">${line.replace(/\*/g, "")}</div>`;
+      continue;
+    }
+    // Regular text — could be direction or dialogue
+    // Strip remaining markdown formatting
+    let clean = line
+      .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+      .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+    html += `<div class="dialogue">${clean}</div>`;
+  }
+  return html;
+}
+
+// Load scene text
+async function loadText(i) {
+  if (textCache[i]) {
+    textContent.innerHTML = textCache[i];
+    textSceneTitle.textContent = `${scenes[i].num} — ${scenes[i].title}`;
+    userScrolled = false;
+    return;
+  }
+  textSceneTitle.textContent = `${scenes[i].num} — ${scenes[i].title}`;
+  textContent.innerHTML = `<div class="direction">Loading...</div>`;
+  try {
+    const resp = await fetch(BASE_TEXT + scenes[i].file + ".md");
+    const md = await resp.text();
+    const html = mdToHtml(md);
+    textCache[i] = html;
+    textContent.innerHTML = html;
+    userScrolled = false;
+  } catch (e) {
+    textContent.innerHTML = `<div class="direction">Failed to load text</div>`;
+  }
+}
+
+// Auto-scroll sync with audio
+function autoScroll() {
+  if (activeTab !== "text" || !isPlaying || userScrolled) return;
+  if (!audio.duration || audio.duration === 0) return;
+
+  const progress = audio.currentTime / (audio.duration * 0.95); // finish scroll at 95%
+  const clamped = Math.min(1, Math.max(0, progress));
+
+  const docHeight = document.documentElement.scrollHeight;
+  const winHeight = window.innerHeight;
+  const playerHeight = 140;
+  const maxScroll = docHeight - winHeight;
+
+  if (maxScroll <= 0) return;
+
+  window.scrollTo({
+    top: clamped * maxScroll,
+    behavior: "auto"
+  });
+}
+
+// Detect user manual scroll
+window.addEventListener("touchstart", () => {
+  userScrolled = true;
+  clearTimeout(scrollTimeout);
+  scrollTimeout = setTimeout(() => { userScrolled = false; }, 5000);
+}, { passive: true });
+
+window.addEventListener("wheel", () => {
+  userScrolled = true;
+  clearTimeout(scrollTimeout);
+  scrollTimeout = setTimeout(() => { userScrolled = false; }, 5000);
+}, { passive: true });
 
 // Build scene list
 scenes.forEach((s, i) => {
@@ -247,12 +454,17 @@ scenes.forEach((s, i) => {
 function playScene(i) {
   if (i < 0 || i >= scenes.length) return;
   currentIndex = i;
-  audio.src = scenes[i].file;
+  audio.src = BASE_AUDIO + scenes[i].file + ".mp3";
   audio.play();
   isPlaying = true;
+  userScrolled = false;
   btnPlay.innerHTML = "&#9646;&#9646;";
   playerTitle.textContent = `${scenes[i].num} — ${scenes[i].title}`;
   updateActiveScene();
+  if (activeTab === "text") {
+    loadText(i);
+    window.scrollTo({ top: 0, behavior: "auto" });
+  }
 }
 
 function updateActiveScene() {
@@ -261,9 +473,10 @@ function updateActiveScene() {
     if (i === currentIndex) el.classList.add("active");
     else if (i < currentIndex) el.classList.add("played");
   });
-  // Scroll active into view
-  const active = document.querySelector(".scene.active");
-  if (active) active.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  if (activeTab === "scenes") {
+    const active = document.querySelector(".scene.active");
+    if (active) active.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  }
 }
 
 // Play/pause
@@ -275,7 +488,7 @@ btnPlay.addEventListener("click", () => {
 
 // Skip
 document.getElementById("btn-prev").addEventListener("click", () => {
-  if (audio.currentTime > 3) { audio.currentTime = 0; }
+  if (audio.currentTime > 3) { audio.currentTime = 0; window.scrollTo({ top: 0 }); userScrolled = false; }
   else { playScene(currentIndex - 1); }
 });
 document.getElementById("btn-next").addEventListener("click", () => playScene(currentIndex + 1));
@@ -290,12 +503,14 @@ slider.addEventListener("input", () => { dragging = true; });
 slider.addEventListener("change", () => {
   audio.currentTime = (slider.value / 100) * audio.duration;
   dragging = false;
+  userScrolled = false; // resume auto-scroll after seeking
 });
 
 // Time update
 audio.addEventListener("timeupdate", () => {
   if (!dragging) slider.value = (audio.currentTime / audio.duration) * 100;
   timeCurrent.textContent = fmt(audio.currentTime);
+  autoScroll();
 });
 
 audio.addEventListener("loadedmetadata", () => {
@@ -314,7 +529,7 @@ audio.addEventListener("ended", () => {
 scenes.forEach((s, i) => {
   const tmp = new Audio();
   tmp.preload = "metadata";
-  tmp.src = s.file;
+  tmp.src = BASE_AUDIO + s.file + ".mp3";
   tmp.addEventListener("loadedmetadata", () => {
     const el = document.getElementById(`dur-${i}`);
     if (el) el.textContent = fmt(tmp.duration);
@@ -335,11 +550,13 @@ if ("mediaSession" in navigator) {
   navigator.mediaSession.setActionHandler("seekforward", () => document.getElementById("btn-ff").click());
 
   audio.addEventListener("timeupdate", () => {
-    navigator.mediaSession.metadata = new MediaMetadata({
-      title: scenes[currentIndex]?.title || "The Long Game",
-      artist: "Star Trek: The Long Game",
-      album: "Grey Water",
-    });
+    if (currentIndex >= 0) {
+      navigator.mediaSession.metadata = new MediaMetadata({
+        title: scenes[currentIndex].title,
+        artist: "Star Trek: The Long Game",
+        album: "Grey Water",
+      });
+    }
   });
 }
 </script>
