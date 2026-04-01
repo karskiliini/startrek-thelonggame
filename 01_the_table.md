@@ -7,13 +7,15 @@
 
 A metallic clang. Heavy. Mechanical. The sound of something unlocking.
 
+A hiss. White vapour curls into the frame from below — pressurized steam venting from hydraulic seals. The hiss builds, then settles into a steady exhale. Something large is decompressing.
+
 ---
 
 `EXT. STARBASE 12 — DOCKING BAY — NIGHT`
 
-The Federation insignia fills the frame. Massive. Polished metal on a gunmetal hull. For one second it looks ceremonial — a monument, an emblem on a wall.
+Through the dissipating steam, the Federation insignia fills the frame. Massive. Polished metal on a gunmetal hull. For one second it looks ceremonial — a monument, an emblem on a wall.
 
-Then it moves. Down. The insignia is the outer face of a military shuttle's landing ramp, lowering on hydraulics. The emblem splits as the ramp opens — the Federation seal breaking apart to become a staircase.
+Then it moves. Down. The insignia is the outer face of a military shuttle's landing ramp, lowering on hydraulics through the last wisps of vapour. The emblem splits as the ramp opens — the Federation seal breaking apart to become a staircase.
 
 ADMIRAL VOSS steps out.
 
