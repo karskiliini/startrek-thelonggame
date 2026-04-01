@@ -5,7 +5,13 @@
 
 `INT. ENTERPRISE-A — BRIDGE — LATER`
 
-SPOCK at his station. He has been running the same analysis for an hour — the full sensor sweep data from their arrival, cross-referenced against the geological survey database.
+The clock is running.
+
+K'Tagh's message was clear: Klingon reinforcements — the IKS Vor'nak — will arrive in thirty-six hours. After that, the system becomes a battlefield. Kirk has one day to understand what he's standing in the middle of before someone else decides for him.
+
+He cannot negotiate with Marek without knowing the full picture. He cannot confront the Klingons without knowing what they have. He cannot report to Starfleet without facts. And right now, the asteroid belt — the one piece of this system nobody has examined closely — is radiating energy it shouldn't have.
+
+SPOCK at his station. He has been running the same analysis since K'Tagh closed the channel — the full sensor sweep data cross-referenced against the geological survey database.
 
 Something doesn't fit.
 
@@ -105,7 +111,7 @@ A mining shuttle with one operator is invisible. Two is unusual. Three is suspic
 
 McCOY, who has been standing near the turbolift, says nothing. His face says everything.
 
-Kirk looks at Hummer for a long moment. The look of a man weighing the officer against the risk and finding the weight uneven.
+Kirk looks at Hummer for a long moment. Thirty-four hours until the Vor'nak arrives. He needs to know what's in that belt before he goes to the surface.
 
 ---
 
