@@ -5,63 +5,151 @@
 
 `INT. PRIVATE KITCHEN — STARBASE 12 — NIGHT`
 
-The kitchen is not large. It is, however, excellent — the kind of space that exists on a starbase because someone with influence requested it, and the kind that no one questions because questioning it would require acknowledging it exists.
+SORAK arrives first. The room is empty. A table set for three. A bottle of something dark at the center. He looks at the bottle. Looks at the table. Sits.
 
-GUL MAREK is cooking.
+He does not touch the bottle.
 
-Not supervising. Not warming something prepared elsewhere. Cooking — hands moving between a cutting surface and a heat source with the unhurried precision of a man who has done this many times and considers it important. A Cardassian root vegetable sliced thin. Oil in a pan. The specific sound of something being built from raw materials by someone who knows what the finished product should taste like.
-
-He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure of his species giving him the particular quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
-
-Over the civilian clothes — an apron. Cardassian leather. Heavy. The kind of weight that settles on the shoulders like authority. It is not new. The leather is dark with age and use, the surface carrying the particular patina of something that has been wiped clean a thousand times without ever quite losing what was on it before. Stains that might be wine. Might be oil. Might be older than either. The history of the apron is not discussed and does not need to be.
-
-The knives are not on the counter. They are in sheaths built into the apron itself — three of them, different sizes, each in its own leather pocket along the front panel. Marek draws them and returns them with the absent familiarity of a man reaching for tools that have always been exactly where they are. The gesture is not theatrical. It is the opposite of theatrical. It is a man using his grandfather's knives the way his grandfather used them.
-
-The apron has been in the Marek family since before anyone in the family entered politics. Or — more precisely — since the family decided that politics and cooking were the same discipline. Both require preparation. Both require knowing what temperature to apply and for how long. Both require the patience to let something reduce until only the essential remains.
-
-The apron does not diminish him. It is his oldest uniform.
-
-ADMIRAL VOSS sits at the counter with a glass of Cardassian Kanar, dark and slightly luminescent. She is precisely what she appears to be: blonde, immaculate, the kind of composed that takes twenty years to build and looks effortless once built. She accepted the Kanar because refusing it would have been a statement, and she is not here to make statements.
-
-SORAK sits with his glass and does not drink from it. He is somewhere between fifty and ageless. He watches Marek cook with the mild attention of someone cataloguing a specimen.
-
-Marek plates the first course. Sets it in front of Voss. Then Sorak. Then himself. The movements of a host, not a guest. He is feeding them — literally, personally, from his own hands — on a Federation starbase. As though this were his kitchen. His table. His house.
-
-Which, in every way that matters, it is. Because Marek has been cooking this situation for thirty years.
+ADMIRAL VOSS enters. Sees Sorak. Sees the bottle.
 
 ---
 
-A bottle of Kanar at the center of the table like an exhibit. Three place settings. Real food prepared by the man who is about to ask for something.
+**VOSS**
+He's not here yet?
 
-GUL MAREK pours.
+---
+
+**SORAK**
+He's here. He's been here for two hours. He's in the kitchen.
+
+---
+
+**VOSS**
+Doing what?
+
+---
+
+**SORAK**
+Cooking.
+
+---
+
+**VOSS**
+Cooking.
+
+---
+
+**SORAK**
+He requested the kitchen six days ago. Had equipment shipped from his vessel. A cutting surface. A specific heat source. An apron.
+
+---
+
+**VOSS**
+He brought an apron to a starbase.
+
+---
+
+**SORAK**
+He brought an apron, three knives, a live animal, and a case of Kanar. The animal was slaughtered aboard his ship this morning. The Kanar is a sixty-eight vintage.
+
+---
+
+**VOSS**
+How do you know the vintage?
+
+---
+
+**SORAK**
+Because I know what a sixty-eight costs. And I know what it means when someone spends that on people he's about to ask a favour from.
+
+---
+
+A sound from the kitchen. Oil in a pan. Something being built.
+
+---
+
+**VOSS**
+What's he going to ask for?
+
+---
+
+**SORAK**
+Boots on the ground. Military police. Cardassian jurisdiction on Federation colonial territory.
+
+---
+
+**VOSS**
+On what basis?
+
+---
+
+**SORAK**
+Six dead. Two children. Eleven days ago. Military-grade device in a residential block. He's had the forensics ready since day three. He's been waiting for the right dinner.
+
+---
+
+**VOSS**
+And this is the right dinner.
+
+---
+
+**SORAK**
+You're here.
+
+---
+
+Voss looks at him. Sorak looks at the bottle. Neither says what they're both thinking: that a man who has his forensic report ready before anyone else has started investigating is either extraordinarily competent or extraordinarily prepared. The distinction matters. Neither of them can tell which it is yet.
+
+---
+
+The kitchen door opens.
+
+GUL MAREK enters carrying three plates. An apron — old, heavy, leather, knives in sheaths along the front. He is somewhere in his fifties. A Cardassian of the old school — the neck ridges and bone structure giving him the quality of looking simultaneously civilian and military regardless of what he wears. He wears civilian clothes tonight. They fit him like a uniform.
+
+He sets the plates down with the precision of a host, not a guest. He is feeding them — literally, personally, from his own hands — on a Federation starbase. As though this were his kitchen. His table. His house.
 
 ---
 
 **MAREK**
-The harvest on Lakar Province this year was exceptional. I had this set aside before the export allocation was finalized.
+Admiral. I apologize for the delay — the taska is temperamental. It requires a specific heat for the first four minutes or the protein seizes.
 
-*(to Voss)*
+*(to Sorak)*
 
-A small advantage of my position.
+You haven't opened the Kanar.
 
-He gestures at the plates. The meat.
+---
+
+**SORAK**
+I was waiting for the host.
+
+---
+
+**MAREK**
+*(pouring)*
+You were cataloguing the bottle. There's a difference.
+
+He sits. The apron stays on. The knives stay in their sheaths.
 
 ---
 
 **MAREK** *(CONT'D)*
-The taska was transported live from Cardassia Prime. Slaughtered aboard my vessel this morning. It does not survive replication well — the texture changes, something in the protein structure. So.
-
-He says it lightly. Conversationally. The way someone might mention that they picked up fresh bread on the way.
-
-But the sentence contains a starship with cargo capacity allocated to a single animal, a supply chain that stretches across two sectors for one meal, and the implicit authority to requisition both without anyone questioning it. A Gul does not have that authority. Someone considerably above a Gul does.
-
-Sorak registers this. Files it. It is either the first mistake Marek has made all evening — a flash of vanity, a man who could not resist showing the size of the machine behind him — or it is deliberate. A signal dressed as a slip. *I have friends in places you haven't mapped yet.*
-
-The question of which it is will occupy Sorak for the rest of the night.
+*(to Voss)*
+The taska was transported live from Cardassia Prime. It does not survive replication — something in the protein structure. I have a friend in the agricultural ministry who arranges these things.
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
+That's a long supply chain for one meal.
+
+---
+
+**MAREK**
+Everything worth eating requires a long supply chain, Admiral. That is as true for civilizations as it is for dinner.
+
+He picks up his knife. Begins eating. The gesture says: *we are social now. The business comes later. And I will decide when later begins.*
+
+---
+
+**VOSS**
 It's very good.
 
 ---
@@ -69,7 +157,7 @@ It's very good.
 **MAREK**
 Everything on Cardassia Prime is better than it was ten years ago. This is not patriotism. It is simply a fact.
 
-He sits. Settles into his chair — not with ease, exactly, but with the controlled comfort of a man who has prepared for this meal the way other men prepare for battle.
+He settles into his chair — not with ease, exactly, but with the controlled comfort of a man who has prepared for this meal the way other men prepare for battle.
 
 ---
 
@@ -83,7 +171,18 @@ He sets down his knife. The gesture is small but deliberate — the universal si
 **MAREK** *(CONT'D)*
 Eleven days ago, a device detonated in the eastern residential block of the Cordia IV settlement. A Cardassian block. Forty-three injured. Six dead. Two of them children.
 
-A silence.
+---
+
+**VOSS**
+The colonial administration filed a preliminary report. The investigation is ongoing.
+
+---
+
+**MAREK**
+*(evenly)*
+Preliminary. Eleven days, six dead, two children, and the word the Federation chose was — preliminary.
+
+He lets the word sit.
 
 ---
 
@@ -99,93 +198,56 @@ He pauses. Chooses his next words with the care of a man who knows exactly how t
 
 ---
 
-**ADMIRAL VOSS**
-The colonial administration filed a preliminary report. The investigation is ongoing.
-
----
-
-**MAREK**
-*(evenly)*
-The colonial administration filed a preliminary report eleven days after six Cardassian citizens — including two children — were killed by military-grade weapons. Preliminary.
-
-He lets the word sit.
-
----
-
 **MAREK** *(CONT'D)*
-Admiral, I am not here to assign blame. I am here because fourteen thousand Cardassian nationals live on Cordia IV and the current security framework does not protect them. We need the right to investigate. Not to replace your authorities — to supplement them. Cardassian police working alongside the colonial administration. And given the military nature of the weapons involved —
+I'm not here to assign blame. I'm here because fourteen thousand Cardassian nationals live on Cordia IV and the current security framework does not protect them. I need the right to investigate alongside your authorities. Cardassian police. And given the military nature of the weapons involved —
 
-*(a beat — the precise calibration of reluctance, as though he wished he didn't have to say this)*
+*(the practiced reluctance — as though he wished he didn't have to say this)*
 
 — Cardassian military police. With the jurisdictional authority to follow the evidence wherever it leads.
 
 ---
 
-The room has changed temperature.
-
-SORAK has been quiet. He has been quiet in the specific way of someone who is listening to everything including the things not being said. He has heard the phrase *supplement, not replace* before. He knows what follows it. He knows what military police with jurisdictional authority look like on the ground twenty-four months after they arrive.
-
----
-
-**ADMIRAL VOSS**
+**VOSS**
 You're asking for a combined security mandate. Cardassian military police operating under Cardassian jurisdiction on Federation colonial territory.
 
 ---
 
-**MAREK**
-I'm asking for the minimum necessary to protect Cardassian lives. If the Federation investigation were further along — if there were arrests, if there were leads — I would not be sitting here. But eleven days, Admiral. Six dead. And preliminary.
+**SORAK**
+Supplement.
 
-He picks up his knife again. Resumes eating. The gesture says: *this is reasonable and you know it and we both know that the longer you wait the worse it looks.*
+One word. The way he says it contains twenty years of watching the word *supplement* become *replace* on six different worlds.
+
+---
+
+**MAREK**
+*(to Sorak, warmly)*
+You don't trust me.
 
 ---
 
 **SORAK**
-The logistics corridor through the Cordia approach — I noticed the shipping lane utilization has increased significantly in the last eighteen months.
-
-A pause. Very small. Marek's knife pauses for perhaps a quarter of a second against his plate before continuing.
+I don't trust anyone who brings a sixty-eight to a policy dinner. It suggests the outcome has already been decided and the wine is a courtesy.
 
 ---
 
 **MAREK**
-Development at that scale generates supply chain requirements that are — yes, significant. Medical equipment. Construction materials. Personnel transport.
-
-*(pleasantly)*
-
-When you build a civilization you need a great deal of cargo.
+*(smiling)*
+The wine is excellent. That is all it is.
 
 ---
 
-**SORAK**
-Of course.
+It is not all it is. Everyone at the table knows it is not all it is.
 
-He takes a small sip of wine. Files the quarter-second pause. Says nothing more about the corridor.
-
----
-
-**MAREK**
-And while we are discussing practical matters — I hesitate to raise this alongside a security concern, but it speaks to the same underlying issue.
-
-He pauses again. The warmth returns, but now it carries something else — a carefully performed weariness. The face of a man carrying too many burdens.
+Marek picks up his knife. Resumes eating.
 
 ---
 
 **MAREK** *(CONT'D)*
-When I took over from my Klingon colleague — when we assumed responsibility for development operations — the colony mortality rate was four times the Federation baseline. Crime was endemic. There were no families. No one brought children to that place.
+When I took over from my Klingon colleague — when we assumed responsibility for development operations — the mortality rate was four times the Federation baseline. Since then, violent crime has dropped sixty percent. Families have increased twenty-seven-fold. The schools serve everyone. The hospitals serve everyone.
 
-*(the slightest pause — the pride of a man presenting his life's work)*
+*(to Voss)*
 
-Since then, violent crime has dropped by sixty percent. Mortality is at Federation standard. The number of families on Cordia IV has increased twenty-seven-fold.
-
-He picks up his glass. A small gesture — celebratory, almost.
-
----
-
-**MAREK** *(CONT'D)*
-The schools serve everyone. The hospitals serve everyone. The cities are beginning to — flourish is not too strong a word.
-
-*(to Voss, warmly)*
-
-And I believe the Federation has been pleased with the results. Your colonial affairs office described our contribution as — what was the phrase — *a model of cross-cultural development*. We were very proud of that.
+Your colonial affairs office described our contribution as a model of cross-cultural development. We were proud of that.
 
 He says it with genuine warmth. The warmth of a man who has successfully convinced his host that the guest is doing the hosting a favour. The Federation thinks it invited civilisation to Cordia IV. The Cardassians let them think that. The flattery runs in one direction — upward, toward the power that must be kept comfortable — while the infrastructure runs in the other.
 
@@ -209,11 +271,9 @@ You can see how this feels from our side.
 
 The word *our* does a great deal of work in that sentence. It contains fourteen thousand people and thirty years of infrastructure and every school and road and hospital — and it draws a line around all of it and puts it on the other side of the table from the Federation.
 
-Sorak registers it. Files it. Says nothing.
-
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 The Council's position on the humanitarian mission remains supportive. The security request is — I understand the urgency. I'll take it back.
 
 ---
@@ -233,6 +293,29 @@ He seems to search briefly for the word.
 Reassuring.
 
 He means something slightly different by that word than she does. She knows it. He knows she knows it. This is the specific texture of a conversation in which everyone is too sophisticated to pretend otherwise.
+
+---
+
+**SORAK**
+The logistics corridor through the Cordia approach — I noticed the shipping lane utilization has increased significantly in the last eighteen months.
+
+A pause. Very small. Marek's knife pauses for perhaps a quarter of a second against his plate before continuing.
+
+---
+
+**MAREK**
+Development at that scale generates supply chain requirements that are — yes, significant. Medical equipment. Construction materials. Personnel transport.
+
+*(pleasantly)*
+
+When you build a civilization you need a great deal of cargo.
+
+---
+
+**SORAK**
+Of course.
+
+He takes a small sip of Kanar. Files the quarter-second pause. Says nothing more about the corridor.
 
 ---
 
@@ -274,7 +357,7 @@ The irony hangs in the air like the smell of the meal. A Cardassian guest tellin
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 Thank you, Gul. The meal was exceptional.
 
 ---
@@ -287,19 +370,17 @@ I'll have a case of the Kanar sent to your office. The sixty-eight — the same 
 
 I have a friend in the export ministry who owes me a favour. These things are easier to arrange than you might think.
 
-There it is again. The casual disclosure of a network that reaches into Cardassian ministerial offices. Said as though it were nothing. Said immediately after the taska — the starship, the live animal, the two-sector supply chain. Two data points in five minutes. Either Marek is losing control of his performance, or the performance now requires that Sorak understand exactly how large the operation behind this kitchen actually is.
-
 ---
 
-**MAREK** *(CONT'D)*
+**SORAK**
 We should do this again.
 
 ---
 
-**SORAK**
+**MAREK**
 I look forward to it.
 
-He doesn't mean it. Marek knows he doesn't mean it. But the case of Kanar will arrive at Sorak's office within the week. That is not a social gesture. That is a demonstration of logistics — proof that Marek's supply chain reaches into Federation facilities as easily as his cooking reaches into Federation stomachs. The exchange is perfect.
+---
 
 Marek unties the apron. Returns each knife to its sheath — one, two, three — with the same absent precision he used all evening. Then folds the leather. Slowly. The fold lines are worn into the material from generations of the same gesture. He does not set it on the counter. He holds it for a moment — the weight of it in his hands — and then places it inside the case he brought it in. The case goes under his arm.
 
@@ -315,7 +396,7 @@ Voss looks at Sorak.
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 He left us in his kitchen.
 
 ---
@@ -332,7 +413,7 @@ The corridor utilization isn't supply chain.
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 I know.
 
 ---
@@ -342,7 +423,7 @@ The construction timeline I've estimated puts the installation at operational ca
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 *(measured)*
 Your installation. You've presented estimated coordinates to the Council. They've reviewed the intelligence.
 
@@ -353,7 +434,7 @@ And?
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 The evidence for military construction is circumstantial. The humanitarian metrics are documented and independently verified. The economic consequences of a hostile posture toward Cardassia would be — significant.
 
 ---
@@ -363,7 +444,7 @@ How significant.
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 Destabilizing. Six independent worlds currently in Cardassian economic alignment. Trade routes that twenty Federation member worlds depend on. The Council is not wrong to weigh that.
 
 ---
@@ -375,7 +456,7 @@ A silence.
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 What do you need?
 
 ---
@@ -385,7 +466,7 @@ A ship. In that system. A captain with sufficient judgment to act when the momen
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 You have someone in mind.
 
 It isn't a question.
@@ -399,21 +480,21 @@ Voss looks at him for a moment. She has been here before — not this room, but 
 
 ---
 
-**ADMIRAL VOSS**
+**VOSS**
 I'll review the assignment roster.
 
 She moves toward the door. Stops. Turns back. Something in her face that has been there since Marek left and hasn't found the right moment until now.
 
 ---
 
-**ADMIRAL VOSS** *(CONT'D)*
+**VOSS** *(CONT'D)*
 Sorak.
 
 He looks at her.
 
 ---
 
-**ADMIRAL VOSS** *(CONT'D)*
+**VOSS** *(CONT'D)*
 Marek knew you'd be here tonight. He accepted the invitation specifically because you'd be here.
 
 *(beat)*
