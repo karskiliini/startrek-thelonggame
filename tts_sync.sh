@@ -51,6 +51,10 @@ md_to_txt() {
         -e '/^---$/d' \
         -e '/^`/d' \
         -e '/^>/ s/^>[[:space:]]*//' \
+        -e 's/Voss/Vawss/g' \
+        -e 's/VOSS/VAWSS/g' \
+        -e 's/Kirk/Kurk/g' \
+        -e 's/KIRK/KURK/g' \
         "$1"
 }
 
