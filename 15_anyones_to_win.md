@@ -31,35 +31,106 @@ Your lie.
 
 ---
 
-Sorak meets his eyes. No flinch. No performance of guilt. The face of a man who ran the numbers and stands by them.
+Sorak meets his eyes. No flinch. No performance of guilt. The face of a man who has been waiting for this conversation.
 
 ---
 
 **SORAK**
-Six dead. Two children. The minimum intervention my models indicated was required to prevent a conflict that would kill millions. The math is not ambiguous, Captain.
+You were never in danger, Captain. I made certain of that.
 
 ---
 
 **KIRK**
-You killed children.
+Ensign Torres was in danger. Ensign Torres is dead.
 
 ---
 
 **SORAK**
-I saved a quadrant.
+Yes.
+
+He says it without flinching. Then — something Kirk did not expect. Sorak sits. The gesture of a man who has something to say that will take longer than a sentence.
 
 ---
 
-A silence. The specific silence of a room in which a man has just defended the murder of children with arithmetic.
+**SORAK** *(CONT'D)*
+In 2278 I submitted my first report on the Cordia demographic shift. The Senate read it. Filed it.
 
-Kirk does not argue. Does not raise his voice. He nods to the security officer standing at the door.
+In 2281 I documented the Klingon energy anomalies in the asteroid belt. The report was acknowledged.
+
+In 2284 I presented a complete analysis to the Council. Cardassian infrastructure. Klingon installations. Timeline. Threat assessment.
+
+*(beat)*
+
+The Council thanked me. And explained that the Federation had just purchased a peace with the Klingon Empire it could barely afford. That Starfleet was rebuilding. That Cardassian investment was keeping border colonies alive the Federation could not fund. That the economic consequences of a hostile posture toward Cardassia would be — their word — destabilizing.
 
 ---
 
 **KIRK**
-The false flag operations have been transmitted through diplomatic channels. The same transmission that carried Marek's documents. Both long games — Cardassian and yours — exposed in the same file.
+They weren't wrong about the economics.
 
-Sorak registers this. The symmetry. The man who played in the open and the man who played in the dark, revealed by the same mechanism.
+---
+
+**SORAK**
+No. They weren't wrong about the economics. They were wrong about the timeline.
+
+*(beat)*
+
+I presented the same analysis in 2286. Again in 2288. Again in 2290. Each time the same answer: not now. We can't afford it. The Cardassians are paying for schools we can't build. Why antagonize them?
+
+*(very quiet)*
+
+Fifteen years, Captain. Fifteen years of being right. Fifteen years of watching the threat grow while the institution that should have acted explained, correctly, that it was too broke and too tired to do anything about it.
+
+---
+
+**KIRK**
+So you killed six Cardassians. Two children. And one of my officers.
+
+---
+
+**SORAK**
+I tried every legitimate channel available to me. Official. Unofficial. Diplomatic. Personal. Fifteen years of correct process producing zero result — not because the system was blind, but because the system was exhausted and had just bought a peace it couldn't afford to jeopardize.
+
+*(beat)*
+
+Seven dead. The minimum intervention required to prevent a conflict that will kill millions. I know exactly what I did, Captain. I also know exactly what happens if I hadn't.
+
+---
+
+A long silence.
+
+---
+
+**KIRK**
+You planted the Klingon signatures knowing I'd see through them. You wanted me to blame the Cardassians.
+
+---
+
+**SORAK**
+I wanted you to reach the correct conclusion by what appeared to be your own reasoning. The Cardassians are the threat. The Klingon signatures were designed to be transparent — to you. To K'Tagh they were designed to look like Cardassian betrayal. Each party seeing what they needed to see.
+
+---
+
+**KIRK**
+And Torres? Was that designed too?
+
+---
+
+**SORAK**
+Ensign Torres was positioned at the blast site. You were forty meters away. The yield was calibrated to be lethal at his position and non-lethal at yours. I needed you alive and angry. I needed you to take the Cardassian threat personally. A dead crewman makes it personal.
+
+*(beat)*
+
+I am not asking for your understanding, Captain. I am telling you what happened so that when you make your decision you make it with complete information. That is more than the Council ever gave me.
+
+---
+
+Kirk looks at him for a long time.
+
+---
+
+**KIRK**
+The false flag operations have been transmitted through diplomatic channels. The same file that carried Marek's construction documents. Both long games — Cardassian and yours — in the same transmission.
 
 ---
 
@@ -73,7 +144,7 @@ It's up to the next generation to postpone by another thirty.
 
 ---
 
-Sorak says nothing.
+Sorak says nothing. The most he has ever admitted anyone was right about anything.
 
 The security officer approaches. Sorak does not resist. He allows himself to be escorted out with the same composure he brought to the dinner table, to every briefing, to every calculation he ever made in the dark.
 

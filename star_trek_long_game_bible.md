@@ -272,15 +272,37 @@ From Sorak's believer to independent actor. Beats the Kobayashi Maru not by bein
 
 Not a villain. Completely right about the threat and completely wrong about his right to fight it alone. The Federation's CIA — the Cigarette Smoking Man, a benevolent Emperor. He has all the intelligence. He stopped asking permission fifteen years ago.
 
+**Fifteen Years of Being Right**
+
+Sorak has known about the Cardassian operation for fifteen years. He has known about the Klingon installations in the asteroid belt for nearly as long. He documented everything. He presented it — formally, informally, through every channel available to him.
+
+The Federation listened. Understood. And chose not to act.
+
+Not because the evidence was insufficient — because the Federation was exhausted. The war with the Klingon Empire consumed a generation. Khitomer bought peace — but peace on credit. Starfleet is rebuilding. The economy is stretched. The Senate has no appetite for another confrontation, least of all with a power they just signed treaties alongside. Cardassian investment in the border regions is keeping Federation colonies alive that Starfleet cannot afford to support. The threat is real but the cost of confronting it is higher than the cost of ignoring it. For now. Always for now.
+
+Sorak watched this for fifteen years. Every annual review: "the situation is being monitored." Every budget cycle: "resources are not available at this time." Every change of government: the new council inherits the file, reads it, and makes the same calculation as the last one. Too expensive. Too risky. And besides — the Cardassians are paying for schools the Federation can't fund. Why antagonize them?
+
+He tried everything legitimate first. Official channels. Unofficial channels. Diplomatic pressure. Intelligence community escalation. Personal appeals to admirals he trusted. Fifteen years of correct process producing zero result — not because the system was blind, but because the system was broke and tired and had just bought a peace it couldn't afford to jeopardize.
+
+Then he acted.
+
 **The False Flag Architect**
 
-Sorak orchestrated both attacks on the colony. The first — eleven days before the film's present action, six dead including two children — was designed to provoke Marek into requesting Cardassian military police, which in turn gave Sorak the institutional justification to send Enterprise to the system. The second — timed after Enterprise's arrival, on the planet's night side with no witnesses — was designed to escalate the crisis beyond diplomatic containment. Both used Klingon-frequency disruptor signatures, fabricated to implicate K'Tagh.
+Sorak orchestrated both attacks on the colony.
 
-The attacks serve a single strategic purpose: force the Federation to see what Sorak has been warning them about for fifteen years. He does not need the Federation to believe his intelligence reports. He needs them to watch Marek's reaction to each crisis — the immediate, practiced, perfectly calibrated response of a man converting every emergency into expanded authority. Each Marek response proves Sorak's thesis: this man is building a state inside the Federation.
+The first — eleven days before the film's present action, six dead including two children in a Cardassian residential block — was designed to provoke Marek into requesting Cardassian military police, which in turn gave Sorak the institutional justification to send Enterprise to the system.
 
-Sorak killed six people — two of them children — because his probability models indicated this was the minimum intervention required to prevent a future conflict that would kill millions. He is not wrong about the math. He is wrong about his right to do the math alone.
+The second — after Enterprise's arrival — was targeted at Federation personnel. Kirk was on the surface. A young officer — one of Enterprise's new crew, a red shirt — was killed. Kirk survived because Sorak calculated his position and ensured the blast radius would miss him. The attack was designed to make Kirk take the Cardassian threat personally. A dead crewman makes it personal. An attack near Kirk himself makes it existential.
 
-In Scene 1 he sits at Marek's table and listens to Marek describe the first attack — the attack Sorak himself ordered. His "mild attention of someone cataloguing a specimen" is literally true. He is watching his own operation's results unfold in real time.
+Both attacks used Klingon-frequency disruptor signatures. Not to fool Kirk — Sorak knows Kirk is too smart to believe K'Tagh would attack so clumsily. The Klingon signature is planted so that Kirk will see through it and conclude: the Cardassians are framing the Klingons. This is the conclusion Sorak wants Kirk to reach. Kirk feels clever for seeing through the frame. He doesn't realize the frame was designed to be seen through.
+
+Simultaneously, K'Tagh sees the Klingon signatures and concludes: the Cardassians are framing us. His fury toward Marek intensifies. The alliance fractures.
+
+Sorak's endgame is not exposure — it is war. Cardassian-Klingon conflict, ideally. Federation-Cardassian confrontation, if necessary. Any combination that destroys the Cardassian operation before it reaches operational capacity. A war now, while Cardassia is still building, costs thousands. A war in eighteen months, after the installation is complete, costs millions. The math is clear.
+
+He knows the Federation won't start the war. But Kirk, enraged by the death of his officer, will investigate aggressively enough to find the installation. And the Klingons, convinced the Cardassians betrayed them, will provide the military pressure. Sorak doesn't need to fire a shot. He needs to arrange the conditions under which others fire theirs.
+
+In Scene 1 he sits at Marek's table and listens to Marek describe the first attack — the attack Sorak himself ordered. He watches his own operation's results unfold in real time.
 
 **Hummer — The Piece He Placed First**
 
