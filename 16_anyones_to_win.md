@@ -2,303 +2,246 @@
 ## Scene 16 — "ANYONE'S TO WIN"
 
 
-INT. ENTERPRISE-A — CAPTAIN'S READY ROOM — LATER
+EXT. STARBASE 12 — DOCKING BAY — DAY
 
 
-Aftermath.
+Enterprise slides into the docking bay the way a horse walks into a stable after a long ride — slowly, unevenly, with the particular dignity of something that kept moving when it should have stopped.
 
-The political settlement imperfect, unresolved, alive. The Cardassian installation exists but its legal status is contested — formally under Federation arbitration, practically a slow negotiation that will take years. Nobody won cleanly. The grey water is still grey.
+The damage is visible from every angle. The port nacelle pylon bent. Hull plating scarred by a hundred impacts. A cracked viewport on deck four, patched with emergency sealant. The warp engines dark. She came here on impulse power — one engine — across two sectors. It took eleven days.
 
-SORAK stands in the room. Not restrained. Not under guard — not yet. He stands the way he has always stood: composed, precise, entirely certain of his own calculations.
-
-Kirk holds a PADD. The same diplomatic channel he used to publish Marek's construction documents. The same mechanism. One transmission.
+The docking clamps engage. The ship settles. Steam vents from hydraulic seals — the same sound, the same station, that opened the film.
 
 
-                         KIRK
-          The forensic analysis of the asteroid debris confirmed it. The disruptor signatures in both colony attacks don't match K'Tagh's weapons. They were fabricated. Klingon-frequency but wrong manufacture profile. Planted evidence.
-
-               (beat)
-
-          K'Tagh told me he didn't do it. I didn't believe him. He died with ninety crew in a battle that started because of a lie.
-
-He looks at Sorak.
+INT. STARBASE 12 — DOCKING CORRIDOR — CONTINUOUS
 
 
-                         KIRK (CONT'D)
-          Your lie.
+KIRK steps off the gangway. He looks the way a man looks after eleven days on one impulse engine — not exhausted, exactly, but reduced. The particular thinness of a man who has been thinking too hard and sleeping too little.
 
+SORAK is waiting at the bottom.
 
-Sorak meets his eyes. No flinch. No performance of guilt. The face of a man who has been waiting for this conversation.
+He stands the way he stood in Scene 1 — present without being noticeable, visible without being memorable. The same corridor. The same station. A symmetry that would look deliberate if anyone were watching.
 
 
                          SORAK
-          You were never in danger, Captain. I made certain of that.
+          Captain. Welcome back.
 
-
-                         KIRK
-          Ensign Torres was in danger. Ensign Torres is dead.
-
-
-                         SORAK
-          Yes.
-
-He says it without flinching. Then — something Kirk did not expect. Sorak sits. The gesture of a man who has something to say that will take longer than a sentence.
+Kirk nods. Doesn't break stride. Sorak falls in beside him. They walk — the same corridor, the same direction. A conversation that mirrors the one Sorak had with Voss at the beginning of the film, in the same location, with a different officer.
 
 
                          SORAK (CONT'D)
-          In 2278 I submitted my first report on the Cordia demographic shift. The Senate read it. Filed it.
+          I've read the preliminary reports. The Cardassian vessel —
 
-          In 2281 I documented the Klingon energy anomalies in the asteroid belt. The report was acknowledged.
+               (a pause — choosing his words)
 
-          In 2284 I presented a complete analysis to the Council. Cardassian infrastructure. Klingon installations. Timeline. Threat assessment.
-
-               (beat)
-
-          The Council thanked me. And explained that the Federation had just purchased a peace with the Klingon Empire it could barely afford. That Starfleet was rebuilding. That Cardassian investment was keeping border colonies alive the Federation could not fund. That the economic consequences of a hostile posture toward Cardassia would be — their word — destabilizing.
+          Gul Marek's ship. Was it confirmed?
 
 
                          KIRK
-          They weren't wrong about the economics.
+          Confirmed. Two disruptor hits. No survivors.
+
+Sorak is quiet for a moment. The particular quiet of a man performing grief. He does it well. He has had practice.
 
 
                          SORAK
-          No. They weren't wrong about the economics. They were wrong about the timeline.
+          Marek was — he was a complicated man. But there was a genuine quality to him that I —
 
                (beat)
 
-          I presented the same analysis in 2286. Again in 2288. Again in 2290. Each time the same answer: not now. We can't afford it. The Cardassians are paying for schools we can't build. Why antagonize them?
+          I'm sorry to hear it.
 
-               (very quiet)
+Kirk says nothing. Keeps walking.
 
-          Fifteen years, Captain. Fifteen years of being right. Fifteen years of watching the threat grow while the institution that should have acted explained, correctly, that it was too broke and too tired to do anything about it.
+Sorak's face, for anyone who knows what to look for, contains something other than grief. Relief. The one person who could trace the false flag operations back to their source — the fabricated disruptor signatures, the planted evidence, the colony attacks — is now debris in an asteroid field. The forensic trail dies with him. The database that might have contained inconvenient correlations between Sorak's movements and the timing of the attacks — gone with the ship.
+
+Kirk knows this. He has known it since the Cardassian vessel came apart on the viewer. He watched Sorak's carefully constructed safety margin expand in real time — four seconds of disruptor fire creating exactly the silence Sorak needed.
+
+He says nothing about it.
+
+They reach the turbolift. Step in. The doors close.
 
 
                          KIRK
-          So you killed six Cardassians. Two children. And one of my officers.
+          I need a secure channel to Admiral Voss. Priority.
 
 
                          SORAK
-          I tried every legitimate channel available to me. Official. Unofficial. Diplomatic. Personal. Fifteen years of correct process producing zero result — not because the system was blind, but because the system was exhausted and had just bought a peace it couldn't afford to jeopardize.
+          I'll arrange it.
 
-               (beat)
 
-          Seven dead. The minimum intervention required to prevent a conflict that will kill millions. I know exactly what I did, Captain. I also know exactly what happens if I hadn't.
+INT. GUL MAREK'S QUARTERS — STARBASE 12 — CONTINUOUS
 
 
-A long silence.
+The same room. The same private dining space where the film began. The turbolift that opens directly into it. The table set for no one.
 
+The kitchen is cold. The heat source is off. The cutting surface is clean — wiped down, put away, the particular tidiness of a space that someone has already been through. Marek's personal effects are gone. The Kanar is gone. The apron is gone — it was on the ship.
 
-                         KIRK
-          You planted the Klingon signatures knowing I'd see through them. You wanted me to blame the Cardassians.
+Sorak is using the room. Whether he requisitioned it through official channels or simply walked in and began — it doesn't matter. The room has a secure communications terminal. It has a private turbolift. It has everything an intelligence officer needs to work quietly while a starbase processes the aftermath of an incident.
 
+He has already made it his.
 
-                         SORAK
-          I wanted you to reach the correct conclusion by what appeared to be your own reasoning. The Cardassians are the threat. The Klingon signatures were designed to be transparent — to you. To K'Tagh they were designed to look like Cardassian betrayal. Each party seeing what they needed to see.
+The table where Marek served three people a meal he prepared with his own hands — a lifetime ago, a week ago — now holds a communications display. ADMIRAL VOSS on the screen.
 
+Kirk stands across from Sorak. The table between them. The same table.
 
-                         KIRK
-          And Torres? Was that designed too?
-
-
-                         SORAK
-          Ensign Torres was positioned at the blast site. You were forty meters away. The yield was calibrated to be lethal at his position and non-lethal at yours. I needed you alive and angry. I needed you to take the Cardassian threat personally. A dead crewman makes it personal.
-
-               (beat)
-
-          I am not asking for your understanding, Captain. I am telling you what happened so that when you make your decision you make it with complete information. That is more than the Council ever gave me.
-
-
-Kirk looks at him for a long time.
-
-
-                         KIRK
-          The false flag operations have been transmitted through diplomatic channels. The same file that carried Marek's construction documents. Both long games — Cardassian and yours — in the same transmission.
-
-
-                         SORAK
-          You've only postponed the inevitable by thirty years.
-
-
-                         KIRK
-          It's up to the next generation to postpone by another thirty.
-
-
-Sorak says nothing. The most he has ever admitted anyone was right about anything.
-
-The security officer approaches. Sorak does not resist. He allows himself to be escorted out with the same composure he brought to the dinner table, to every briefing, to every calculation he ever made in the dark.
-
-His face as he leaves: not regret. Recognition. The recognition that he played the long game to end the long game — and that is exactly the thing he was fighting against.
-
-ADMIRAL VOSS watches from the far side of the room. She picks up a PADD. Signs the detention order. The same pen. The same institutional machinery. No comment.
-
-Kirk watches the door close behind Sorak.
-
-
-                         McCOY
-               (very quietly, from the corner of the room)
-          Jim.
-
-Kirk doesn't respond.
-
-
-                         McCOY (CONT'D)
-          He was right about one thing. The threat was real.
-
-
-                         KIRK
-          The threat was real. The children were real too.
-
-McCoy says nothing more. There is nothing more to say.
-
-
-CUT TO:
-
-
-INT. ENTERPRISE-A — OBSERVATION LOUNGE — LATER
-
-
-MAREK stands at the viewport. Civilian clothes. No apron. No knives. He is looking at the colony below — his colony, in every way that matters except the one that would make it legal.
-
-KIRK enters.
-
-They stand in silence for a moment. Two men who have no reason to talk to each other and every reason.
-
-
-                         MAREK
-          I've been told I'm free to leave.
-
-
-                         KIRK
-          You are.
-
-
-                         MAREK
-          No charges. No expulsion. No restrictions on travel.
-
-
-                         KIRK
-          You didn't break any law. You know that better than I do.
-
-
-Marek looks at the colony. The lights. The clean geometry of infrastructure that works. From up here it looks like a city on a core world — not a frontier settlement that was in rags twelve years ago.
-
-
-                         MAREK
-          Captain. You understand that everything I built was real.
-
-               (beat)
-
-          The schools work. The hospitals work. The children are educated. Three hundred thousand people live better today than they did before I arrived. The mortality rate is at Federation standard. The crime rate is lower than any comparable colony in this sector.
-
-               (he turns to face Kirk)
-
-          You're going to dismantle that?
-
-
-Kirk looks at him. Looks at the colony. Looks back at Marek.
-
-He does not answer. Because he doesn't have a good answer.
-
-
-                         MAREK (CONT'D)
-               (quiet — almost gentle)
-          I thought not.
-
-He straightens his jacket. The small precise gesture of a man who has finished his business and sees no reason to stay.
-
-
-                         MAREK (CONT'D)
-          The apron is still on the floor in my quarters. I left it there.
-
-               (beat)
-
-          If I were a different kind of man I would pick it up and start again somewhere else. But I think — I think I may have cooked my last meal for other people.
-
-He looks at Kirk one final time. Not warmth. Not hostility. The particular acknowledgment of one professional to another — the nod across the table that says you played well without saying whether the game was worth playing.
-
-
-                         MAREK (CONT'D)
-          Captain.
-
-
-                         KIRK
-          Gul.
-
-Marek leaves.
-
-Kirk stands alone at the viewport. The colony below. The lights still on. The schools still open. The hospitals still running. Three hundred thousand people still living in infrastructure built by a man who just walked free because he was careful enough never to break a law while breaking everything else.
-
-The door opens behind him.
-
-ADMIRAL VOSS.
-
-She stands beside him at the viewport. Looks at the colony. The same lights. The same clean geometry.
+She has read everything. Her face shows nothing. The clinical stillness of a woman who has been processing bad news since before the channel opened.
 
 
                          ADMIRAL VOSS
-          You're worried about what happens next.
-
-
-Kirk doesn't answer. He doesn't need to.
-
-
-                         ADMIRAL VOSS (CONT'D)
-          Thirty years. We had thirty years to see what was happening here. We didn't.
-
-
-A silence. Kirk looks at her. This is not the speech he expected.
-
-
-                         ADMIRAL VOSS (CONT'D)
-          Sorak saw it. Fifteen years ago. He told us. He brought evidence. He presented models. The Council reviewed his intelligence and decided the economic consequences of a hostile posture toward Cardassia were — I believe the word I used was destabilizing.
-
-               (beat — the particular stillness of a woman confronting her own complicity)
-
-          He was right. About all of it. The threat, the scale, the timeline. He was right and we didn't act. And so he acted alone. And six people died. Two of them children.
+          The Klingon High Command has already issued a statement. Commander Toral acted without authorization. An overzealous officer pursuing a personal vendetta against a Cardassian presence he considered — their word — provocative.
 
 
                          KIRK
-          That doesn't justify —
+          The mad dog doctrine.
 
 
                          ADMIRAL VOSS
-          No. It doesn't. But it explains.
+          Precisely. They'll disavow Toral. Condemn the destruction of a diplomatic vessel. Express deep concern. Offer reparations to the Cardassian government for the loss of Gul Marek and his crew.
 
                (beat)
 
-          The Federation failed here, Captain. Not Sorak. Not you. The institution. We were given the information and we chose comfort over action. Sorak's crime was born in that failure. He didn't trust us to do our job. He was correct not to trust us.
-
-She looks at the colony.
+          None of which is sincere. All of which is sufficient to prevent a formal casus belli.
 
 
-                         ADMIRAL VOSS (CONT'D)
-          Now everyone sees it. Every analyst, every diplomat, every committee chair is reading your files. The system is working — today. Because you forced it to work. Because Sorak forced you here. Because six people died to make us open our eyes.
-
-               (very quiet)
-
-          That is not a system that works, Captain. That is a system that was rescued by a man we are about to imprison for rescuing it.
+                         KIRK
+          And the Vor'nak?
 
 
-Kirk says nothing. There is nothing to say.
-
-
-                         ADMIRAL VOSS (CONT'D)
-          The question is whether we learn from this. Whether the next time someone presents evidence of a thirty-year operation, we act before someone decides to act for us.
+                         ADMIRAL VOSS
+          Disabled. Not destroyed. The Klingons will retrieve it. They will call it a regrettable incident. Toral will be — reassigned. Quietly. To a posting where his particular talents are useful and his face is not visible.
 
                (beat)
 
-          I don't know the answer to that. I wish I did.
-
-She leaves.
-
-Kirk watches her go. The door closes.
-
-He looks at the colony below. The lights. Still on.
-
-For the first time in the film — the smallest thing that might be relief.
+          He will not be punished. He will be promoted in a way that looks like punishment.
 
 
-CUT TO:
+                         KIRK
+          And K'Tagh?
+
+
+                         ADMIRAL VOSS
+          Commander K'Tagh's warbird has been retrieved by a Klingon recovery vessel. He is alive. His ship is not repairable. He will return to the Empire with a crew, a story, and no command.
+
+               (beat)
+
+          A Klingon without a ship is a Klingon waiting for the next war to give him one.
+
+She looks at a display off-screen. Scrolling through data.
+
+
+                         ADMIRAL VOSS (CONT'D)
+          The system remains under Federation jurisdiction. I'm dispatching two ships — the Potemkin and the Hood — to establish a defensive perimeter. Two additional vessels are being assigned to mine the primary approach vectors. Precautionary.
+
+               (beat)
+
+          The Cardassian infrastructure on the surface is intact. The colony is intact. Three hundred thousand people are still there. The schools are still open. The hospitals are still running. The installation on the northern plateau is still operational and is now formally under Federation arbitration.
+
+               (beat)
+
+          Nobody won. The situation is stable. Stability is what we can afford.
+
+She turns her attention to Sorak.
+
+
+                         ADMIRAL VOSS (CONT'D)
+          Sorak. I'm sorry about Marek.
+
+A pause. The tone is professional but not cold — the particular warmth of a woman acknowledging a loss that she understands is, for Sorak, partly personal.
+
+
+                         ADMIRAL VOSS (CONT'D)
+          I know you weren't close. But you knew each other. That dinner on this station — it wasn't so long ago.
+
+
+                         SORAK
+          Thank you, Admiral. Marek was —
+
+He begins the sentence. The same careful construction of a man arranging words that will sound like feeling.
+
+
+                         KIRK
+          Admiral.
+
+Sorak stops. Kirk is holding something.
+
+A small glass cube. Perhaps three centimeters on each side. A data crystal — Cardassian manufacture, the particular blue-grey opacity of a storage medium designed to survive the kind of environment that destroys everything else.
+
+Kirk holds it in his palm. Not presenting it. Not hiding it. Just holding it — the way a man holds a card he hasn't decided whether to play.
+
+
+                         KIRK (CONT'D)
+          Gul Marek gave me this during my visit to the colony surface. Before the battle.
+
+He turns the crystal in his hand. The light catches the facets.
+
+
+                         KIRK (CONT'D)
+          He said it contained his own research. His private investigation into certain — irregularities in the Cordia system. Anomalies he'd identified over the past several months. Patterns he found troubling.
+
+He looks at Sorak.
+
+Not accusation. Not yet. Something worse — the neutral, steady gaze of a man who knows what's on the crystal and is choosing to describe it in the vaguest possible terms. Letting the silence do the work.
+
+
+                         KIRK (CONT'D)
+          I haven't had time to review the contents in full. But from what Marek told me — and he was quite specific —
+
+               (beat)
+
+          I believe it would be advisable for you to remain within this system, Sorak. Until the embassy has had an opportunity to review the material and determine its — relevance.
+
+The room is very quiet.
+
+Sorak looks at the crystal. Looks at Kirk. His face does not change. The composure is absolute. Fifteen years of intelligence work have built a face that gives nothing away under any circumstances.
+
+But his probability models are adjusting.
+
+By a great deal more than some small percentage.
+
+
+                         ADMIRAL VOSS
+          Sorak. You'll remain on Starbase 12 pending review.
+
+She says it without inflection. Without surprise. The pen that signed Marek's security clearance, that approved Sorak's operational budgets, that authorized the Enterprise's deployment — now signing something else.
+
+
+                         SORAK
+          Of course, Admiral.
+
+Three words. Perfectly calm. The composure of a man who has run every scenario and is now running the one he missed.
+
+Kirk puts the crystal down on the table. Carefully. The small click of glass on metal.
+
+He leaves the room without looking back.
+
+The turbolift doors close.
+
+Sorak stands alone. The room is quiet. The room where Marek cooked. The table where Marek served. The kitchen where Marek's hands moved with the unhurried precision of a man who believed that feeding people was a form of power and a form of love and could not always tell the difference.
+
+Sorak looks at the crystal on the table.
+
+He looks at the cold kitchen. The empty counter. The clean cutting surface.
+
+Then — in the corner. On the floor.
+
+The apron.
+
+It is where Marek threw it. Scene 7. The night he learned the truth about what he had been building. The night his composure broke for the first and last time. He threw it across the room — the heavy leather crumpling against the deck, the knives rattling in their sheaths — and he did not pick it up.
+
+Nobody picked it up.
+
+It has been on the floor this entire time. Through everything that followed — the battle, the death, the politics. The leather apron with the knives in their sheaths, lying in a heap in the corner of a room that has changed owners twice since the man who wore it left it there.
+
+Sorak looks at it.
+
+The knives are still in the sheaths. Three of them. The blades that Marek used to slice, to carve, to prepare. The blades that he folded away at the end of every meal with the absent precision of generations.
+
+Sorak looks at the knives for a long time.
+
+The camera does not tell us what he is thinking. The camera does not need to.
+
+The crystal is on the table. The apron is on the floor. The room is quiet. The turbolift is behind him. The knives are in front of him.
+
+Sorak stands in Marek's kitchen and considers his options.
 
 
 INT. STARFLEET COMMAND — REVIEW BOARD — DAY
@@ -316,11 +259,11 @@ BOARD MEMBER CHEN — earnest, procedural — has the hesitation incident open.
 
 
                          CHEN
-          A valid sensor reading was logged but not reported. The Cardassian vessel shifted orbit before the reading could be acted on. It cost the operation its primary evidentiary basis at a critical juncture.
+          The tactical record from the initial engagement shows a sensor reading that was logged but not acted upon within the required window. The Cardassian vessel shifted orbit before the reading could be verified. This cost the operation its primary evidentiary basis at a critical juncture.
 
                (to Kirk)
 
-          Captain. Given this record — the hesitation under pressure, the failure to act within the required window — can you speak to this officer's suitability for independent command?
+          Captain. Given this record — the hesitation under pressure — can you speak to this officer's suitability for independent command?
 
 Kirk looks at the board. Then at Hummer's file. Then at the board again.
 
@@ -334,13 +277,15 @@ Kirk looks at the board. Then at Hummer's file. Then at the board again.
 
                (beat)
 
-          This officer froze once. He understood exactly why. And then he did something most officers never manage.
+          This officer hesitated once. He understood exactly why. And then he did something most officers never manage.
 
-He learned to trust himself more than his fear.
+          He learned to trust himself more than his fear.
 
-In the same engagement — the same engagement where the hesitation incident occurred — he acted on instinct before confirmation, found the instinct incomplete mid-execution, and corrected course without losing a single second of momentum.
+          In the same campaign — the same campaign where the hesitation incident occurred — he hid a Constitution-class starship inside a hollow asteroid. He identified concealed military installations that two survey missions had missed. He used a mining phaser to collapse an asteroid and escape a warbird in a shuttle with no weapons and no shields.
 
-He gave orders he couldn't yet confirm were right because he was already thinking three moves past them.
+               (beat)
+
+          And when a Klingon cruiser had us dead — shields down, weapons spent, one engine — he found the one move on the board that nobody else could see. Because he spent two years in that belt learning things no Academy teaches. And he trusted what he knew.
 
 He looks at the board.
 
@@ -364,7 +309,7 @@ She thinks about a dining room on a starbase. Cardassian wine. A man who was cha
 
 She thinks about the reading Hummer didn't report.
 
-She thinks about what was in the documents. Ten times larger than anyone estimated. Ten times larger than anything she told Sorak was sufficient evidence to act on.
+She thinks about the crystal Kirk placed on the table. The data she has not yet reviewed. The review she has already authorized.
 
 She picks up her PADD.
 
@@ -372,20 +317,15 @@ Signs the recommendation.
 
 No comment. No acknowledgment that anything was wrong or right or different from what she expected.
 
-She wasn't wrong about anything. The lead did get away. That is also true.
-
 She signs it.
-
-
-CUT TO:
 
 
 INT. ENTERPRISE-A — BRIDGE — LATER
 
 
-The ship is quiet. The post-crisis quiet of a vessel still counting the cost.
+The ship is quiet. The post-crisis quiet of a vessel in dock, half her systems offline, half her crew on shore leave, the other half making repairs they'll be making for months.
 
-KIRK in the command chair. McCOY beside him. Neither looking at the other. Just the viewer. Stars.
+KIRK in the command chair. McCOY beside him. Neither looking at the other. Just the viewport. The interior of the docking bay. Not stars. Not space. A ceiling.
 
 McCoy pours two glasses of water. Hands one to Kirk. Holds his own up to the light.
 
@@ -405,14 +345,11 @@ McCoy drinks the grey water.
 
 Kirk drinks the grey water.
 
-Kirk looks at Spock.
+Kirk looks at Spock, who is standing at his station running a diagnostic on systems that will take weeks to repair.
 
 
                          KIRK
           How about a scotch?
-
-
-CUT TO:
 
 
 INT. USS CENTAUR — BRIDGE — LATER
@@ -430,7 +367,7 @@ Hummer looks at them.
 
 Looks at the viewscreen.
 
-Stars. And somewhere in them — the future. Unresolved. Arguable. Still anyone's to write.
+Stars. And somewhere in them — the Cordia system. The belt. The rocks he cut for two years and fought in for two days. The colony that was in rags when he left and is still standing now — imperfect, contested, alive.
 
 He goes to the command chair.
 
@@ -444,7 +381,7 @@ Holds it to the light.
 
 Grey. Slightly cloudy.
 
-He looks at it for a moment.
+He looks at it for a moment. The particular expression of a man who has been drinking grey water his entire life — on Vega Colony, on freight haulers, on mining shuttles, on the Enterprise — and has finally stopped waiting for it to clear.
 
 He drinks it.
 
@@ -456,16 +393,11 @@ Begins.
 FADE TO BLACK.
 
 
+STAR TREK: THE LONG GAME
+Grey Water
+
+
 THE FUTURE IS ANYONE'S TO WIN.
 
 
 FADE OUT.
-
-
-# THE END
-
-
-STAR TREK: THE LONG GAME
-Grey Water
-
-Written by [Author]
