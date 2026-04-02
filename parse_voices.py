@@ -134,7 +134,12 @@ def parse_screenplay(filepath):
 
         # Parenthetical (15 spaces, starts with '(')
         if indent >= PAREN_INDENT and content.startswith('('):
-            # Parentheticals stay with current speaker block
+            # (beat) and (pause) are not spoken — they create a natural pause
+            # by splitting the text block (the TTS treats separate blocks as pauses)
+            if content.strip('() ').lower() in ('beat', 'pause', 'beat — '):
+                flush()
+                continue
+            # Other parentheticals (stage directions) stay with current speaker
             current_text.append(content)
             continue
 
