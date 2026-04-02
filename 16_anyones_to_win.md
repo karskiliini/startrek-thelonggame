@@ -211,9 +211,31 @@ Three words. Perfectly calm. The composure of a man who has run every scenario a
 
 Kirk puts the crystal down on the table. Carefully. The small click of glass on metal.
 
-He leaves the room without looking back.
+He stands. Walks to the turbolift. The doors open.
 
-The turbolift doors close.
+
+                         SORAK
+          Captain.
+
+Kirk stops. One foot in the turbolift. He doesn't turn around.
+
+
+                         SORAK (CONT'D)
+          You've only postponed the inevitable. You know that.
+
+Now Kirk turns. Looks at Sorak across the room. The table between them. The crystal on it. The cold kitchen behind the man who is about to lose everything and is still, even now, running the calculation.
+
+
+                         KIRK
+          It's up to the next generation to postpone next.
+
+               (beat)
+
+          That's the job.
+
+He steps into the turbolift.
+
+The doors close.
 
 Sorak stands alone. The room is quiet. The room where Marek cooked. The table where Marek served. The kitchen where Marek's hands moved with the unhurried precision of a man who believed that feeding people was a form of power and a form of love and could not always tell the difference.
 
@@ -320,74 +342,84 @@ No comment. No acknowledgment that anything was wrong or right or different from
 She signs it.
 
 
-INT. ENTERPRISE-A — BRIDGE — LATER
+INT. ENTERPRISE-A — CAPTAIN'S QUARTERS — LATER
 
 
-The ship is quiet. The post-crisis quiet of a vessel in dock, half her systems offline, half her crew on shore leave, the other half making repairs they'll be making for months.
+The same room. The same table. Set for three — the same number as Marek's dinner at the beginning of the film.
 
-KIRK in the command chair. McCOY beside him. Neither looking at the other. Just the viewport. The interior of the docking bay. Not stars. Not space. A ceiling.
+KIRK, McCOY and HUMMER. Hummer is not in dress uniform this time. He knows better now.
 
-McCoy pours two glasses of water. Hands one to Kirk. Holds his own up to the light.
+Kirk reaches under the table. Produces a bottle.
 
-Grey.
+Kanar. Dark. Slightly luminescent. The label is Cardassian — an old vintage. Not the sixty-eight. But close.
 
-
-                         McCOY
-          Still foggy.
+He sets it on the table between them.
 
 
                          KIRK
-          At least it's not red.
+          Gul Marek had a case of this sent to Sorak's office after the dinner. Sorak won't be needing it.
 
-McCoy glances at him. Kirk doesn't look back. Neither of them smiles.
+               (beat)
+
+          Congratulations, Captain.
+
+He pours three glasses. The Kanar is dark and thick — alien, beautiful, the specific weight of something that was made to be shared.
+
+Hummer looks at the glass. Then at Kirk. The particular silence of a man receiving something he has not yet learned to accept gracefully.
+
+
+                         HUMMER
+          Thank you, sir.
+
+
+                         KIRK
+          Don't call me sir. You have your own ship. You call me Jim or you call me nothing.
+
+Hummer almost smiles. Not quite. He's not there yet. But closer than he was.
+
+He turns to McCoy.
+
+
+                         HUMMER
+          I'm sorry I never got around to fixing the water filters. I said I would.
+
+               (beat)
+
+          The water's still grey.
+
+McCoy looks at his glass. The Kanar, not the water. He picks up the water glass anyway — the grey, cloudy water from the same failing membrane that has been failing since the first scene of the film.
+
+He holds it to the light.
+
+
+                         McCOY
+          For us, the water is always grey.
+
+Kirk picks up his glass. The water, not the Kanar. Holds it up. Looks at it. The same gesture. The same grey.
+
+
+                         KIRK
+          But at least it's not red.
+
+Nobody smiles. Nobody needs to.
 
 McCoy drinks the grey water.
 
 Kirk drinks the grey water.
 
-Kirk looks at Spock, who is standing at his station running a diagnostic on systems that will take weeks to repair.
+Hummer drinks the grey water.
+
+Then Kirk reaches for the Kanar.
 
 
-                         KIRK
-          How about a scotch?
+                         KIRK (CONT'D)
+          Now. How about something that's supposed to be dark.
 
+He pours. They drink. The taste of something a dead man made for people he was trying to manipulate and ended up feeding anyway.
 
-INT. USS CENTAUR — BRIDGE — LATER
+The three of them at the table. The ship in dock. The repairs that will take months. The future that is not resolved and not ruined and not clear.
 
-
-Small. Slightly battered. The specific dignity of a vessel that knows what it is and doesn't apologize.
-
-HUMMER walks onto the bridge.
-
-His bridge.
-
-The crew turns. Young faces, mostly. A lieutenant commander at the helm who looks like she got here the same way Hummer did — freight hauler, probably. Something in the way she stands.
-
-Hummer looks at them.
-
-Looks at the viewscreen.
-
-Stars. And somewhere in them — the Cordia system. The belt. The rocks he cut for two years and fought in for two days. The colony that was in rags when he left and is still standing now — imperfect, contested, alive.
-
-He goes to the command chair.
-
-Sits.
-
-Reaches — almost without thinking — for the water dispenser built into the chair's armrest.
-
-Pours a glass.
-
-Holds it to the light.
-
-Grey. Slightly cloudy.
-
-He looks at it for a moment. The particular expression of a man who has been drinking grey water his entire life — on Vega Colony, on freight haulers, on mining shuttles, on the Enterprise — and has finally stopped waiting for it to clear.
-
-He drinks it.
-
-Turns to his console.
-
-Begins.
+Grey.
 
 
 FADE TO BLACK.
