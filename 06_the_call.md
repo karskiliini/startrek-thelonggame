@@ -1,9 +1,9 @@
 # STAR TREK: THE LONG GAME
 ## Scene 6 — "THE CALL"
 
----
 
-`INT. ENTERPRISE-A — CAPTAIN'S READY ROOM — LATER`
+INT. ENTERPRISE-A — CAPTAIN'S READY ROOM — LATER
+
 
 Kirk alone.
 
@@ -15,63 +15,55 @@ She has reviewed the tactical record.
 
 She doesn't raise her voice.
 
----
 
-**ADMIRAL VOSS**
-I've reviewed the tactical record.
+                         ADMIRAL VOSS
+          I've reviewed the tactical record.
 
 Kirk says nothing.
 
----
 
-**ADMIRAL VOSS** *(CONT'D)*
-Your tactical officer had a sensor reading. Klingon disruptor signature in the blast crater. Ship-mounted, not ground-level. Fragmentary — yes. Partial — yes. But it was there. In the log. Time-stamped.
+                         ADMIRAL VOSS (CONT'D)
+          Your tactical officer had a sensor reading. Klingon disruptor signature in the blast crater. Ship-mounted, not ground-level. Fragmentary — yes. Partial — yes. But it was there. In the log. Time-stamped.
 
-*(beat)*
+               (beat)
 
-He didn't report it.
+          He didn't report it.
 
----
 
-**KIRK**
-The reading was inconclusive, Admiral. My officer was —
+                         KIRK
+          The reading was inconclusive, Admiral. My officer was —
 
----
 
-**ADMIRAL VOSS**
-Your officer was being careful. I understand careful. I've built a career on careful.
+                         ADMIRAL VOSS
+          Your officer was being careful. I understand careful. I've built a career on careful.
 
-*(beat)*
+               (beat)
 
-But careful has a cost, Captain. The Klingon warbird moved behind the ionosphere forty seconds after that reading appeared. The continuous sensor correlation broke. The trace is now unrecoverable as standalone evidence. Your officer had something. He said nothing. And now we have nothing.
+          But careful has a cost, Captain. The Klingon warbird moved behind the ionosphere forty seconds after that reading appeared. The continuous sensor correlation broke. The trace is now unrecoverable as standalone evidence. Your officer had something. He said nothing. And now we have nothing.
 
----
 
-**KIRK**
-He was trying to verify before —
+                         KIRK
+          He was trying to verify before —
 
----
 
-**ADMIRAL VOSS**
-Captain.
+                         ADMIRAL VOSS
+          Captain.
 
 He stops.
 
----
 
-**ADMIRAL VOSS** *(CONT'D)*
-We are now in a position where we are making accusations we cannot prove to people who are very good at appearing reasonable.
+                         ADMIRAL VOSS (CONT'D)
+          We are now in a position where we are making accusations we cannot prove to people who are very good at appearing reasonable.
 
-*(beat)*
+               (beat)
 
-That position has a name. It's called losing.
+          That position has a name. It's called losing.
 
 A silence.
 
----
 
-**ADMIRAL VOSS** *(CONT'D)*
-Get your bridge in order.
+                         ADMIRAL VOSS (CONT'D)
+          Get your bridge in order.
 
 She closes the channel.
 
@@ -83,8 +75,5 @@ Then he stands.
 
 Goes to find Hummer.
 
-`CUT TO:`
 
----
-
-*End of Scene 6*
+CUT TO:

@@ -1,13 +1,12 @@
 # STAR TREK: THE LONG GAME
 ## *Grey Water*
 
----
 
 # OPENING CREDITS — "THE ROCKS"
 
----
 
-`EXT. ASTEROID BELT — CORDIA SYSTEM — SPACE`
+EXT. ASTEROID BELT — CORDIA SYSTEM — SPACE
+
 
 Silence.
 
@@ -41,8 +40,8 @@ This work is measured in years.
 
 A TITLE CARD appears. Simple. White on black.
 
-> **STAR TREK: THE LONG GAME**
-> *Grey Water*
+STAR TREK: THE LONG GAME
+Grey Water
 
 The credits begin. Unhurried. The work continues underneath them.
 
@@ -80,8 +79,5 @@ The camera doesn't move. Doesn't zoom. Doesn't acknowledge it.
 
 We don't know yet what we're looking at.
 
-`CUT TO:`
 
----
-
-*End of Opening Credits*
+CUT TO:

@@ -1,9 +1,9 @@
 # STAR TREK: THE LONG GAME
 ## Scene 4 — "GREY WATER"
 
----
 
-`EXT. SPACE — CORDIA SYSTEM`
+EXT. SPACE — CORDIA SYSTEM
+
 
 Enterprise drops out of warp. The first time the ship has moved with purpose since we met her orbiting that forgettable planet.
 
@@ -21,85 +21,75 @@ And at the edges — dimmer. A cluster of settlements to the northwest where the
 
 He looks at it for a long moment. Too long for a tactical officer on duty.
 
----
 
-**HUMMER**
-*(barely audible, to himself)*
-That's not the same place.
+                         HUMMER
+               (barely audible, to himself)
+          That's not the same place.
 
 Kirk, from the command chair, notices the pause. Files it. Says nothing.
 
----
 
-**SPOCK**
-Captain. The last Constitution-class vessel to enter this system was the USS Exeter — four years ago.
+                         SPOCK
+          Captain. The last Constitution-class vessel to enter this system was the USS Exeter — four years ago.
 
-*(a beat — the procedural tone of a man who knows exactly what he is doing)*
+               (a beat — the procedural tone of a man who knows exactly what he is doing)
 
-Standard protocol requires a full sensor sweep of Federation colonial territories when a capital ship is present. It has been some time since one was conducted.
+          Standard protocol requires a full sensor sweep of Federation colonial territories when a capital ship is present. It has been some time since one was conducted.
 
 Kirk nods. The nod of a man who understands that Spock is not asking permission — he is creating a paper trail. If anyone later asks why Enterprise ran a full sweep of a colony the Federation considers friendly, the answer will be: procedure. It was simply overdue.
 
----
 
-**SPOCK** *(CONT'D)*
-*(reading his console — the tone of pure data)*
-Captain. The colony registry lists the population as predominantly human and Federation-origin. Current biosensor readings indicate sixty-one percent of residents are Cardassian nationals.
+                         SPOCK (CONT'D)
+               (reading his console — the tone of pure data)
+          Captain. The colony registry lists the population as predominantly human and Federation-origin. Current biosensor readings indicate sixty-one percent of residents are Cardassian nationals.
 
 A beat. Nobody responds. The number sits in the air.
 
----
 
-**SPOCK** *(CONT'D)*
-The settlement naming conventions on the northern and eastern grids are Cardassian. The commercial frequencies are predominantly Cardassian. The twenty-seven-fold population growth reported by the colonial administration appears to be — accurately described. The composition of that growth was not included in the report.
+                         SPOCK (CONT'D)
+          The settlement naming conventions on the northern and eastern grids are Cardassian. The commercial frequencies are predominantly Cardassian. The twenty-seven-fold population growth reported by the colonial administration appears to be — accurately described. The composition of that growth was not included in the report.
 
-He says it without emphasis. Spock never editorialises. But the sentence structure does it for him — *accurately described* followed by *not included* is the Vulcan equivalent of an accusation.
+He says it without emphasis. Spock never editorialises. But the sentence structure does it for him — accurately described followed by not included is the Vulcan equivalent of an accusation.
 
----
 
-**KIRK**
-Report.
+                         KIRK
+          Report.
 
 Hummer snaps back. Professional. But something behind his eyes hasn't quite returned to the console.
 
----
 
-**HUMMER**
-Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding.
+                         HUMMER
+          Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding.
 
 He pauses.
 
----
 
-**HUMMER** *(CONT'D)*
-Weapons are hot, Captain.
+                         HUMMER (CONT'D)
+          Weapons are hot, Captain.
 
-That changes the temperature on the bridge.
+          That changes the temperature on the bridge.
 
----
 
-**HUMMER** *(CONT'D)*
-Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation.
+                         HUMMER (CONT'D)
+          Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation.
 
 He runs the standard sweep. Reads the results. Something in the numbers makes him slow down.
 
----
 
-**HUMMER** *(CONT'D)*
-Population reads thirty-two percent above registry. Subsurface geological profile shows extensive non-natural formations in the northern plateau. Cargo transit volume consistent with a colony twice this size. Subspace traffic is very active.
+                         HUMMER (CONT'D)
+          Population reads thirty-two percent above registry. Subsurface geological profile shows extensive non-natural formations in the northern plateau. Cargo transit volume consistent with a colony twice this size. Subspace traffic is very active.
 
----
 
-**KIRK**
-Open a channel to the Klingon vessel.
+                         KIRK
+          Open a channel to the Klingon vessel.
 
 A beat. The communications officer looks at Kirk. Kirk nods.
 
 The viewscreen shifts.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE / INT. KLINGON WARBIRD — BRIDGE — SPLIT SCREEN`
+INT. ENTERPRISE-A — BRIDGE / INT. KLINGON WARBIRD — BRIDGE — SPLIT SCREEN
+
 
 K'TAGH appears.
 
@@ -107,70 +97,61 @@ He is standing too close to the screen. The face fills the viewer — the ridges
 
 He looks at Kirk the way a dog looks at something that just walked into its yard.
 
----
 
-**K'TAGH**
-Kirk.
+                         K'TAGH
+          Kirk.
 
 Not Captain Kirk. Not a greeting. A sound. The sound of a name being bitten off.
 
----
 
-**K'TAGH** *(CONT'D)*
-We are here on a humanitarian mission. Peacekeeping. Stability operations in support of the Cardassian development program.
+                         K'TAGH (CONT'D)
+          We are here on a humanitarian mission. Peacekeeping. Stability operations in support of the Cardassian development program.
 
 He says the words like a man reading a menu in a language he doesn't speak. The sentence is correct. Everything else about him — the teeth, the posture, the weapons console flashing red behind him, the crew member who flinches when K'Tagh moves his hand too fast — says something entirely different.
 
----
 
-**K'TAGH** *(CONT'D)*
-You brought a big ship to a small problem. That is either stupid or insulting. Which is it?
+                         K'TAGH (CONT'D)
+          You brought a big ship to a small problem. That is either stupid or insulting. Which is it?
 
 A beat. The bridge is very quiet. Everyone has stopped moving.
 
----
 
-**KIRK**
-Commander. My orders are observation and diplomatic —
+                         KIRK
+          Commander. My orders are observation and diplomatic —
 
----
 
-**K'TAGH**
-I know what your orders are. Your orders are a lie someone told you so you would come here and feel comfortable. You are not comfortable. I can see it.
+                         K'TAGH
+          I know what your orders are. Your orders are a lie someone told you so you would come here and feel comfortable. You are not comfortable. I can see it.
 
 He grins. The grin of a man who enjoys watching people become uncomfortable.
 
----
 
-**K'TAGH** *(CONT'D)*
-I know who you are, Kirk. I read your file. I read all of it. I read the parts they redacted and the parts they didn't bother to redact because nobody thought a Klingon would care enough to look.
+                         K'TAGH (CONT'D)
+          I know who you are, Kirk. I read your file. I read all of it. I read the parts they redacted and the parts they didn't bother to redact because nobody thought a Klingon would care enough to look.
 
-*(leaning closer to the screen — the face getting larger, the voice dropping)*
+               (leaning closer to the screen — the face getting larger, the voice dropping)
 
-You are the man who does not create complications. Until he does. And then everyone is surprised. Everyone is always very surprised.
+          You are the man who does not create complications. Until he does. And then everyone is surprised. Everyone is always very surprised.
 
-*(beat)*
+               (beat)
 
-I am not going to be surprised, Kirk.
+          I am not going to be surprised, Kirk.
 
----
 
-**KIRK**
-I'll do my best to keep things uneventful, Commander.
+                         KIRK
+          I'll do my best to keep things uneventful, Commander.
 
 K'Tagh laughs. Not warmth. The laugh of a man who has heard something funny and threatening at the same time and can't tell the difference.
 
----
 
-**K'TAGH**
-Uneventful! Yes. Uneventful.
+                         K'TAGH
+          Uneventful! Yes. Uneventful.
 
 The laugh stops. Instantly. Like a switch.
 
----
 
-**K'TAGH** *(CONT'D)*
-If you make a move toward that corridor — any move — I will know about it before your helmsman does.
+                         K'TAGH (CONT'D)
+          If you make a move toward that corridor — any move — I will know about it before your helmsman does.
 
 He closes the channel. Hard.
 
@@ -178,65 +159,54 @@ On the bridge, a long silence.
 
 Hummer is looking at his console. His hands have stopped. He has just met the man he will fight in a dark corridor between asteroids he used to cut for a living.
 
----
 
-**McCOY**
-*(very quietly)*
-Jim.
+                         McCOY
+               (very quietly)
+          Jim.
 
----
 
-**KIRK**
-I know.
+                         KIRK
+          I know.
 
 He stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a man just threatened to kill him over.
 
----
 
-**KIRK** *(CONT'D)*
-*(to Spock, quietly)*
-The personnel density in the northern cluster.
+                         KIRK (CONT'D)
+               (to Spock, quietly)
+          The personnel density in the northern cluster.
 
----
 
-**SPOCK**
-I noticed it as well.
+                         SPOCK
+          I noticed it as well.
 
----
 
-**KIRK**
-What's in the northern cluster?
+                         KIRK
+          What's in the northern cluster?
 
----
 
-**SPOCK**
-Officially? A power distribution hub and an agricultural processing facility.
+                         SPOCK
+          Officially? A power distribution hub and an agricultural processing facility.
 
 Kirk looks at him.
 
----
 
-**SPOCK** *(CONT'D)*
-The power consumption readings are inconsistent with agricultural processing. By a factor of approximately eleven.
+                         SPOCK (CONT'D)
+          The power consumption readings are inconsistent with agricultural processing. By a factor of approximately eleven.
 
 Kirk looks back at the planet.
 
----
 
-**KIRK**
-*(to the bridge, changing the subject with the particular authority of a man who has decided that what he just saw requires time to think about)*
-Standard orbit. All departments, full readiness. I want a senior staff briefing in one hour.
+                         KIRK
+               (to the bridge, changing the subject with the particular authority of a man who has decided that what he just saw requires time to think about)
+          Standard orbit. All departments, full readiness. I want a senior staff briefing in one hour.
 
-*(beat — quieter, to no one in particular)*
+               (beat — quieter, to no one in particular)
 
-And fix the water.
+          And fix the water.
 
 Nobody responds. Nobody can fix the water. The membranes are on backorder.
 
 But the order feels like something else. It feels like a man who has arrived somewhere that is going to cost him something, and wants one small thing to be right before it begins.
 
-`CUT TO:`
 
----
-
-*End of Scene 4*
+CUT TO:

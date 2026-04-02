@@ -1,9 +1,9 @@
 # STAR TREK: THE LONG GAME
 ## Scene 12 — "THE BELT"
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — LATER`
+INT. ENTERPRISE-A — BRIDGE — LATER
+
 
 The clock is running.
 
@@ -15,47 +15,40 @@ SPOCK at his station. He has been running the same analysis since K'Tagh closed 
 
 Something doesn't fit.
 
----
 
-**SPOCK**
-Captain.
+                         SPOCK
+          Captain.
 
 Kirk turns.
 
----
 
-**SPOCK** *(CONT'D)*
-The asteroid belt. The energy readings are inconsistent with natural geology.
+                         SPOCK (CONT'D)
+          The asteroid belt. The energy readings are inconsistent with natural geology.
 
----
 
-**KIRK**
-How inconsistent?
+                         KIRK
+          How inconsistent?
 
----
 
-**SPOCK**
-Several asteroids in the inner ring are radiating low-level energy signatures that exceed the thermal output of their composition by a factor of three. The signatures are intermittent — consistent with shielded power systems cycling on and off, not with radioactive decay or volcanic activity.
+                         SPOCK
+          Several asteroids in the inner ring are radiating low-level energy signatures that exceed the thermal output of their composition by a factor of three. The signatures are intermittent — consistent with shielded power systems cycling on and off, not with radioactive decay or volcanic activity.
 
-*(beat)*
+               (beat)
 
-The Exeter did not flag this four years ago. It is possible the signatures were not present then. It is also possible the Exeter was not looking.
+          The Exeter did not flag this four years ago. It is possible the signatures were not present then. It is also possible the Exeter was not looking.
 
----
 
-**KIRK**
-What could cause it?
+                         KIRK
+          What could cause it?
 
----
 
-**SPOCK**
-Mining operations. Industrial processing. Subsurface habitation.
+                         SPOCK
+          Mining operations. Industrial processing. Subsurface habitation.
 
-*(the pause of a man listing the innocent explanations before arriving at the one he actually means)*
+               (the pause of a man listing the innocent explanations before arriving at the one he actually means)
 
-Or an extension of the Cardassian construction program. The colony. The northern installation. And now — potentially — the belt.
+          Or an extension of the Cardassian construction program. The colony. The northern installation. And now — potentially — the belt.
 
----
 
 Silence on the bridge. HUMMER has been listening from the tactical station. His hands have stopped moving.
 
@@ -63,69 +56,59 @@ He knows that belt. Two years of his life. Night shifts in shuttles with bad lig
 
 He knows what should be in there. And power systems are not on the list.
 
----
 
-**HUMMER**
-Captain.
+                         HUMMER
+          Captain.
 
 Kirk looks at him.
 
----
 
-**HUMMER** *(CONT'D)*
-I can take a mining shuttle into the belt. One of the colonial utility craft — they're registered to the settlement, they transit the belt daily. Nobody looks twice at a mining shuttle.
+                         HUMMER (CONT'D)
+          I can take a mining shuttle into the belt. One of the colonial utility craft — they're registered to the settlement, they transit the belt daily. Nobody looks twice at a mining shuttle.
 
-*(beat)*
+               (beat)
 
-I know those rocks. If there's something inside them that shouldn't be there — I'll see it. Not on sensors. Up close. The surface tells you what's underneath if you know how to read it.
+          I know those rocks. If there's something inside them that shouldn't be there — I'll see it. Not on sensors. Up close. The surface tells you what's underneath if you know how to read it.
 
----
 
 Kirk looks at Spock. Spock raises an eyebrow — not objection, calculation. The risk of sending an officer alone into an uncontrolled environment against the value of information they cannot obtain any other way.
 
----
 
-**KIRK**
-What are you looking for?
+                         KIRK
+          What are you looking for?
 
----
 
-**HUMMER**
-The discoloration patterns. The iron-rich asteroids in the inner ring have a specific surface signature — dark veins where the iron content is highest. When you cut into them the crystal structure tells you what's inside. Void pockets. Density changes. Anything artificial would show up as a discontinuity in the natural pattern.
+                         HUMMER
+          The discoloration patterns. The iron-rich asteroids in the inner ring have a specific surface signature — dark veins where the iron content is highest. When you cut into them the crystal structure tells you what's inside. Void pockets. Density changes. Anything artificial would show up as a discontinuity in the natural pattern.
 
-*(quieter — the voice of a man who is already back in the belt in his mind)*
+               (quieter — the voice of a man who is already back in the belt in his mind)
 
-I spent two years reading those surfaces. I know which rocks are solid and which ones are hollow. If someone built something inside one of them — the rock will tell me.
+          I spent two years reading those surfaces. I know which rocks are solid and which ones are hollow. If someone built something inside one of them — the rock will tell me.
 
----
 
-**KIRK**
-Alone.
+                         KIRK
+          Alone.
 
----
 
-**HUMMER**
-A mining shuttle with one operator is invisible. Two is unusual. Three is suspicious.
+                         HUMMER
+          A mining shuttle with one operator is invisible. Two is unusual. Three is suspicious.
 
----
 
 McCOY, who has been standing near the turbolift, says nothing. His face says everything.
 
 Kirk looks at Hummer for a long moment. Thirty-four hours until the Vor'nak arrives. He needs to know what's in that belt before he goes to the surface.
 
----
 
-**KIRK**
-Take the shuttle. Stay on the colonial transponder frequency. If you find something — don't engage, don't investigate further, come back. I want information, not heroics.
+                         KIRK
+          Take the shuttle. Stay on the colonial transponder frequency. If you find something — don't engage, don't investigate further, come back. I want information, not heroics.
 
-*(beat)*
+               (beat)
 
-And Hummer — trust your eyes. If it looks wrong, it is wrong.
+          And Hummer — trust your eyes. If it looks wrong, it is wrong.
 
----
 
-**HUMMER**
-Understood.
+                         HUMMER
+          Understood.
 
 He stands. Moves toward the turbolift. Passes McCoy.
 
@@ -133,9 +116,9 @@ McCoy doesn't say anything to him. Just watches him go with the particular expre
 
 The turbolift closes.
 
----
 
-`EXT. ASTEROID BELT — CORDIA SYSTEM — LATER`
+EXT. ASTEROID BELT — CORDIA SYSTEM — LATER
+
 
 A mining shuttle. Small. Battered. The colonial registration markings faded but legible. The kind of vessel that transits this belt a dozen times a day hauling ore samples and maintenance crews.
 
@@ -167,13 +150,11 @@ He has seen that cutting pattern before. Twelve years ago. Every day for two yea
 
 Klingon.
 
----
 
-**HUMMER**
-*(to himself — barely a whisper)*
-You weren't mining.
+                         HUMMER
+               (to himself — barely a whisper)
+          You weren't mining.
 
----
 
 He came looking for Marek's secrets. He found K'Tagh's.
 
@@ -185,7 +166,6 @@ He was wrong. For twelve years he was wrong. The man who reads surfaces — who 
 
 And Kirk was wrong too. He sent Hummer looking for Cardassian infrastructure. There is a third player in this system that nobody accounted for.
 
----
 
 A proximity alert. Soft. The shuttle's passive sensors detecting a power signature — something large, somewhere close, moving.
 
@@ -211,9 +191,9 @@ The cloud swallows the shuttle. Sensors go dark. For thirty seconds he flies bli
 
 He emerges on the other side. Clear space. Enterprise's transponder signal ahead.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
 
 The turbolift opens. HUMMER steps out. He looks different — not shaken, not heroic. The particular stillness of a man who has just learned something that rearranges everything he thought he knew.
 
@@ -221,132 +201,110 @@ McCoy looks at him. Exhales.
 
 KIRK turns from the viewer.
 
----
 
-**HUMMER**
-It's not Cardassian.
+                         HUMMER
+          It's not Cardassian.
 
 A beat. Kirk's face shifts. He sent Hummer looking for Marek's secrets.
 
----
 
-**KIRK**
-Explain.
+                         KIRK
+          Explain.
 
----
 
-**HUMMER**
-The installations in the belt are Klingon. The construction is Klingon. The cutting patterns on the rock — I recognize the tool marks. I worked next to crews who made those marks for two years.
+                         HUMMER
+          The installations in the belt are Klingon. The construction is Klingon. The cutting patterns on the rock — I recognize the tool marks. I worked next to crews who made those marks for two years.
 
-*(beat)*
+               (beat)
 
-At least four installations. Hardened. Hatches, power systems, shielded compartments. They've been there for years.
+          At least four installations. Hardened. Hatches, power systems, shielded compartments. They've been there for years.
 
-*(quieter)*
+               (quieter)
 
-I worked fifty meters from one of those hatches for six months. I never saw it. Because I already knew the Klingons couldn't build anything useful.
+          I worked fifty meters from one of those hatches for six months. I never saw it. Because I already knew the Klingons couldn't build anything useful.
 
----
 
 Kirk is very still.
 
----
 
-**KIRK**
-K'Tagh didn't mention this.
+                         KIRK
+          K'Tagh didn't mention this.
 
----
 
-**HUMMER**
-No sir. He didn't.
+                         HUMMER
+          No sir. He didn't.
 
----
 
-**SPOCK**
-K'Tagh informed us that the Klingon faction had been used as cover for Cardassian operations. It appears the Klingons were simultaneously conducting their own. Neither side knew what the other was building.
+                         SPOCK
+          K'Tagh informed us that the Klingon faction had been used as cover for Cardassian operations. It appears the Klingons were simultaneously conducting their own. Neither side knew what the other was building.
 
----
 
-**KIRK**
-Everyone playing the long game. Everyone building something inside something else.
+                         KIRK
+          Everyone playing the long game. Everyone building something inside something else.
 
 He looks at the viewer. The asteroid belt. Ancient rock full of new secrets.
 
----
 
-**KIRK** *(CONT'D)*
-How many do you think there are?
+                         KIRK (CONT'D)
+          How many do you think there are?
 
----
 
-**HUMMER**
-I saw four. Based on the energy pattern Spock flagged — possibly eight to twelve. They're concentrated in the inner ring. The iron-rich asteroids.
+                         HUMMER
+          I saw four. Based on the energy pattern Spock flagged — possibly eight to twelve. They're concentrated in the inner ring. The iron-rich asteroids.
 
-*(beat)*
+               (beat)
 
-The ones I used to cut.
+          The ones I used to cut.
 
----
 
 Kirk looks at Hummer. Then at Spock. Then at the belt.
 
----
 
-**KIRK**
-Why on earth would the Klingons build a military base inside an asteroid belt in the Cordia system?
+                         KIRK
+          Why on earth would the Klingons build a military base inside an asteroid belt in the Cordia system?
 
----
 
-**SPOCK**
-Several reasons, Captain. All of them logical.
+                         SPOCK
+          Several reasons, Captain. All of them logical.
 
 He moves to the tactical display. Pulls up the sector map.
 
----
 
-**SPOCK** *(CONT'D)*
-Cordia sits at the intersection of three spheres of influence — Federation, Cardassian, and Klingon. The shipping corridors that pass through this system connect all three. Control of Cordia is control of the transit routes.
+                         SPOCK (CONT'D)
+          Cordia sits at the intersection of three spheres of influence — Federation, Cardassian, and Klingon. The shipping corridors that pass through this system connect all three. Control of Cordia is control of the transit routes.
 
-*(beat)*
+               (beat)
 
-The Cardassians understood this thirty years ago. Their infrastructure operation was never about the colony — it was about the corridor. The Klingons appear to have reached the same conclusion independently.
+          The Cardassians understood this thirty years ago. Their infrastructure operation was never about the colony — it was about the corridor. The Klingons appear to have reached the same conclusion independently.
 
----
 
-**KIRK**
-A choke point.
+                         KIRK
+          A choke point.
 
----
 
-**SPOCK**
-Precisely. Whoever holds this system controls the flow of resources and fleet movements between three powers. The Cardassians chose to secure it through economic dependency. The Klingons chose to secure it through concealed military capability. Both arrived at the same strategic assessment. Both chose different instruments.
+                         SPOCK
+          Precisely. Whoever holds this system controls the flow of resources and fleet movements between three powers. The Cardassians chose to secure it through economic dependency. The Klingons chose to secure it through concealed military capability. Both arrived at the same strategic assessment. Both chose different instruments.
 
-*(beat)*
+               (beat)
 
-There is a further consideration. The Cardassian trade embargo threatened by Marek — the mining products that flow through this system are critical to the Klingon Empire. If the Cardassians gain full control of Cordia, they gain the ability to strangle the Klingon supply chain at will. The installations Hummer discovered may be an insurance policy — a guarantee that even if the Cardassians control the surface, the Klingons retain the ability to contest the belt.
+          There is a further consideration. The Cardassian trade embargo threatened by Marek — the mining products that flow through this system are critical to the Klingon Empire. If the Cardassians gain full control of Cordia, they gain the ability to strangle the Klingon supply chain at will. The installations Hummer discovered may be an insurance policy — a guarantee that even if the Cardassians control the surface, the Klingons retain the ability to contest the belt.
 
----
 
-**KIRK**
-They built a fallback position inside the one place their allies controlled.
+                         KIRK
+          They built a fallback position inside the one place their allies controlled.
 
----
 
-**SPOCK**
-The Klingons and Cardassians are not allies, Captain. They never were. They are two powers occupying the same strategic chokepoint, each building the means to deny it to the other while maintaining the appearance of cooperation.
+                         SPOCK
+          The Klingons and Cardassians are not allies, Captain. They never were. They are two powers occupying the same strategic chokepoint, each building the means to deny it to the other while maintaining the appearance of cooperation.
 
-*(beat)*
+               (beat)
 
-The Federation occupies the third position. We control none of it. We built none of it. And until today, we were unaware of what either side had constructed.
+          The Federation occupies the third position. We control none of it. We built none of it. And until today, we were unaware of what either side had constructed.
 
----
 
 Kirk stares at the belt. Three factions. Three long games. One system. And Enterprise — the aging flagship with grey water and a backlogged parts list — is the only piece on the board that belongs to the Federation.
 
 Everyone has been building something. The Cardassians built a colony. The Klingons built a fortress. The Federation built nothing — and is now surrounded by what everyone else built while it wasn't looking.
 
-`CUT TO:`
 
----
-
-*End of Scene 12*
+CUT TO:

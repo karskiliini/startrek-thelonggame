@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Parse a screenplay markdown file into voice-tagged blocks for TTS.
+"""Parse a Final Draft-style indented screenplay into voice-tagged blocks for TTS.
 
-Output format: one block per line as JSON:
-  {"voice": "Carter", "text": "The kitchen was not large..."}
+Format detection by indentation:
+  0 spaces:   Action/narrative/scene headings → narrator (Carter)
+  25 spaces:  Character name (ALL CAPS)       → narrator speaks the name
+  15 spaces:  Parenthetical                   → narrator
+  10 spaces:  Dialogue                        → character's voice
 
 Voice mapping:
   KIRK     → Mike
@@ -36,6 +39,12 @@ VOICE_MAP = {
 }
 DEFAULT_VOICE = "Carter"
 
+# Display names for narrator to speak
+DISPLAY_NAMES = {
+    "McCOY": "McCoy",
+    "LT. COMMANDER": "Lieutenant Commander",
+}
+
 # Phonetic substitutions applied to all text
 PHONETIC = [
     (r'\bVoss\b', 'Vawss'),
@@ -44,24 +53,48 @@ PHONETIC = [
     (r'\bKIRK\b', 'KURK'),
 ]
 
+# Indentation thresholds
+CHAR_NAME_INDENT = 20   # 25 spaces in practice, detect at 20+
+PAREN_INDENT = 12       # 15 spaces in practice, detect at 12+
+DIALOGUE_INDENT = 6     # 10 spaces in practice, detect at 6+
+
+
+def format_name(raw_name):
+    """Format character name for narrator to speak."""
+    # Strip (CONT'D) suffix
+    name = re.sub(r"\s*\(CONT'D\)\s*$", '', raw_name).strip()
+    if name in DISPLAY_NAMES:
+        return DISPLAY_NAMES[name]
+    return name.title()
+
+
 def apply_phonetic(text):
     for pattern, replacement in PHONETIC:
         text = re.sub(pattern, replacement, text)
     return text
 
-def strip_md(line):
-    """Strip markdown formatting from a line."""
-    line = re.sub(r'\*\*', '', line)
-    line = re.sub(r'\*', '', line)
-    return line
+
+def get_indent(line):
+    """Return number of leading spaces."""
+    return len(line) - len(line.lstrip(' '))
+
+
+def voice_for_character(char_name):
+    """Look up voice for a character name."""
+    for key, voice in VOICE_MAP.items():
+        if key in char_name:
+            return voice
+    return DEFAULT_VOICE
+
 
 def parse_screenplay(filepath):
-    """Parse markdown screenplay into voice-tagged blocks."""
+    """Parse indented screenplay into voice-tagged blocks."""
     with open(filepath, 'r') as f:
         lines = f.readlines()
 
     blocks = []
     current_voice = DEFAULT_VOICE
+    current_char_voice = DEFAULT_VOICE  # voice for current character's dialogue
     current_text = []
 
     def flush():
@@ -72,61 +105,52 @@ def parse_screenplay(filepath):
             blocks.append({"voice": current_voice, "text": text})
         current_text = []
 
-    for line in lines:
-        line = line.rstrip()
+    for raw_line in lines:
+        line = raw_line.rstrip()
 
-        # Skip headers, scene end markers
+        # Skip markdown headers
         if re.match(r'^#{1,2}\s', line):
             continue
-        if line.startswith('*End of Scene'):
-            continue
-        if line == '---':
-            continue
 
-        # Scene headings (backtick lines) — narrator
-        if re.match(r'^`.*`$', line):
-            flush()
-            current_voice = DEFAULT_VOICE
-            heading = line.strip('`').strip()
-            if heading:
-                current_text.append(heading)
-            flush()
-            continue
-
-        # Character name line: **NAME** or **NAME** *(CONT'D)*
-        char_match = re.match(r'^\*\*([A-Z][A-Z \'\-]+?)(?:\s*\*\*\s*\*\(CONT\'D\)\*|\*\*)', line)
-        if char_match:
-            flush()
-            char_name = char_match.group(1).strip()
-            # Check for parenthetical on same line: **NAME** *(stage direction)*
-            rest = line[char_match.end():].strip()
-
-            # Map character to voice
-            current_voice = DEFAULT_VOICE
-            for key, voice in VOICE_MAP.items():
-                if key in char_name:
-                    current_voice = voice
-                    break
-            continue
-
-        # Parenthetical: *(quiet)* — keep with current speaker
-        if re.match(r'^\*\(.*\)\*$', line):
-            paren = strip_md(line)
-            current_text.append(paren)
-            continue
-
-        # Empty line — paragraph break within same speaker
+        # Empty line — just a separator
         if line.strip() == '':
             continue
 
-        # Block quote
-        if line.startswith('>'):
-            line = line.lstrip('> ')
+        indent = get_indent(line)
+        content = line.strip()
 
-        # Regular text — strip markdown
-        clean = strip_md(line)
-        if clean.strip():
-            current_text.append(clean.strip())
+        # Character name (25+ spaces, ALL CAPS)
+        if indent >= CHAR_NAME_INDENT:
+            flush()
+            # Determine character voice
+            current_char_voice = voice_for_character(content)
+            # Narrator speaks the name
+            current_voice = DEFAULT_VOICE
+            current_text.append(format_name(content) + ".")
+            flush()
+            # Set voice for upcoming dialogue
+            current_voice = current_char_voice
+            continue
+
+        # Parenthetical (15 spaces, starts with '(')
+        if indent >= PAREN_INDENT and content.startswith('('):
+            # Parentheticals stay with current speaker block
+            current_text.append(content)
+            continue
+
+        # Dialogue (10 spaces)
+        if indent >= DIALOGUE_INDENT:
+            if current_voice != current_char_voice:
+                flush()
+                current_voice = current_char_voice
+            current_text.append(content)
+            continue
+
+        # Action/narrative/scene headings (0 indent)
+        if current_voice != DEFAULT_VOICE:
+            flush()
+            current_voice = DEFAULT_VOICE
+        current_text.append(content)
 
     flush()
 
@@ -139,6 +163,7 @@ def parse_screenplay(filepath):
             merged.append(block)
 
     return merged
+
 
 if __name__ == "__main__":
     if len(sys.argv) == 2:

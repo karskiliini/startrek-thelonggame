@@ -1,157 +1,103 @@
 # STAR TREK: THE LONG GAME
 ## Scene 14 — "THE CONN"
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
-HUMMER reads the asteroids the way a sailing master reads a current — not calculating, recognizing. The drift patterns. The density shifts. The way the dust moves around things that aren't there.
 
-He knows the Klingon ship is in the ring. He doesn't know where. Not yet.
+KIRK in the command chair. Beamed back aboard twenty minutes ago. His uniform still carries dust from the colony surface — he hasn't had time to change. Hasn't thought about changing.
 
-But he knows this belt. And he knows where you can't hide a warbird — not in the fast-tumbling zones where the orbital mechanics would tear a cloaked ship's position out of the background noise in minutes. Not in the shallow dust where displacement is immediately visible.
+Hummer's report is still on the tactical display. The Klingon installations. The hidden bases. The belt full of secrets nobody was looking for.
 
-That leaves three corridors. Deep. Slow. The ancient inner-ring paths where the rocks are continent-sized and the spaces between them are quiet enough to hide in.
+Hummer is still out there. Somewhere in the ring in a mining shuttle with colonial markings, running silent, reading the rocks the way he's always read them.
 
-He used those corridors himself. Twelve years ago. Night shifts in a shuttle with no running lights.
+Kirk looks at the asteroid belt on the viewer. He has never mined a rock in his life. But he listened to a man who did — over dinner, over grey water, over a hypothetical that wasn't hypothetical at all.
 
----
+He knows enough.
 
-**HUMMER**
-Helm — take us into the ring. Bearing one-eight-seven mark four. Slow. Thrusters only.
 
----
+                         KIRK
+          Helm — take us into the ring. Bearing one-eight-seven mark four. Thrusters only. Kill everything that makes a sound.
 
-**LT. COMMANDER**
-Sir — the ring? At this tonnage?
 
----
+                         LT. COMMANDER
+          Sir — the ring? At this tonnage?
 
-**HUMMER**
-Helm — bearing two-two-four mark twelve. The large asteroid with the iron discoloration on the southern face.
 
-He's studying it on the passive display. His gut is working faster than his mind.
+                         KIRK
+          Mr. Hummer briefed me on the inner ring geology before he went out. The iron-rich asteroids are partially hollow. The mining crews used to find cavities when they cut deep enough.
 
----
+               (beat)
 
-**HUMMER** *(CONT'D)*
-The inner ring asteroids — the iron-rich ones with that discoloration pattern — they're often hollow. Partially. The iron deposits form around voids. The mining crews used to find cavities when they cut deep enough. Some of them big enough to park a shuttle in.
+          Some of them big enough to park a shuttle in. Some of them bigger.
 
-*(beat)*
+The Lt. Commander looks at him. Kirk doesn't look back.
 
-Some of them bigger.
 
----
+                         KIRK (CONT'D)
+          All systems to minimal profile. Running lights off. Active sensors off. Navigation lights off. Passive arrays only — gravitometric and optical.
 
-**PARK**
-You want to take Enterprise inside an asteroid.
+               (beat)
 
----
-
-**HUMMER**
-I want to try.
-
----
-
-**LT. COMMANDER**
-Enterprise is three hundred meters long. If the cavity isn't big enough —
-
----
-
-**HUMMER**
-Then we won't fit and we'll back out.
-
-*(beat)*
-
-If it is big enough — we might not be able to turn around inside. We go in forward, we come out in reverse. And if a cloaked warbird parks itself at the entrance —
-
-He doesn't finish the sentence. He doesn't need to.
-
----
-
-**PARK**
-We'd be trapped. No shields, no weapons arc, no maneuvering room. Inside a rock.
-
----
-
-**HUMMER**
-Yes.
-
-A silence. The specific silence of a bridge crew being asked to trust a gut feeling with four hundred lives.
-
----
-
-**HUMMER** *(CONT'D)*
-But if we stay in open space they will find us. That's not a gut feeling. That's sensor math.
-
-*(to the bridge)*
-
-All systems to minimal profile. Running lights off. Active sensors off. Navigation lights off. I want passive arrays only — gravitometric and optical.
-
-*(beat)*
-
-And kill the deflector pulse. If they're listening for us, that's what they'll hear.
+          And kill the deflector pulse. If they're listening for us, that's what they'll hear.
 
 The bridge lights dim to emergency red. Then dimmer. The consoles drop to minimum luminance. The hum of the ship — the particular sound that is always there, always underneath — goes quieter. Not silent. But the silence of a ship that is trying not to be heard.
 
 Enterprise drifts into the asteroid ring like a ship entering fog.
 
----
 
-`EXT. ASTEROID RING — CONTINUOUS`
+EXT. ASTEROID RING — CONTINUOUS
+
 
 The asteroid fills the screen. Eleven kilometers of ancient stone.
 
-Enterprise slides around its flank — past the iron discoloration — scanning the surface with nothing but the viewport and whatever light reaches them.
+Enterprise slides around its flank — past the iron discoloration Hummer described, the dark veins where the iron content is highest — scanning the surface with nothing but the viewport and whatever light reaches them.
 
 The rock face scrolling past. Craters. Ridges. The monotony of geological time.
 
 Then — a shadow. Darker than the others. A crack in the surface that isn't a crack. An opening.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
----
 
-**HUMMER**
-There. Helm — hold position.
+                         KIRK
+          There. Helm — hold position.
 
 On the viewer — the opening. A dark mouth in the asteroid's surface. No way to know how deep it goes. No way to know if it's wide enough. The passive sensors can give them the width of the entrance — approximately two hundred fifty meters — but nothing about what's inside.
 
 Enterprise is three hundred meters at the saucer. But the secondary hull is narrower.
 
----
 
-**PARK**
-The saucer won't clear.
+                         PARK
+          The saucer won't clear.
 
----
 
-**HUMMER**
-We go in dorsal-down. Roll ninety degrees and enter on the vertical axis. The secondary hull and nacelle pylons will fit. The saucer —
+                         KIRK
+          We go in dorsal-down. Roll ninety degrees and enter on the vertical axis. The secondary hull and nacelle pylons will fit. The saucer will be tight.
 
-He looks at the opening.
 
----
+                         LT. COMMANDER
+               (very quietly)
+          Define tight.
 
-**HUMMER** *(CONT'D)*
-— will be tight.
 
----
+                         KIRK
+          If we don't fit, we back out.
 
-**LT. COMMANDER**
-*(very quietly)*
-Define tight.
+               (beat)
 
----
+          If we do fit — we can't turn around. We go in forward, we come out in reverse. And if a cloaked warbird parks itself at the entrance —
 
-**HUMMER**
-I'll tell you when we're inside.
+He doesn't finish the sentence. He doesn't need to.
 
----
 
-`EXT. ASTEROID — CONTINUOUS`
+                         KIRK (CONT'D)
+          Take us in.
+
+
+EXT. ASTEROID — CONTINUOUS
+
 
 Enterprise rotates. Slowly. The great ship rolling onto her side — the saucer section turning from horizontal to vertical, the nacelles pivoting until the whole vessel presents her narrowest possible profile to the dark opening in the rock.
 
@@ -171,15 +117,15 @@ They cannot turn around.
 
 From outside — nothing. The asteroid looks like every other asteroid in the ring. The opening is a dark scar on a surface covered in dark scars. Nobody is looking for a starship inside a rock.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
 
 Silence.
 
 Not the operational quiet of a bridge running normally. The held-breath silence of people inside a stone coffin who cannot turn around and cannot fight and cannot do anything except wait and hope that nobody looks inside.
 
-HUMMER at tactical. Eyes on the passive gravitometric display. Waiting.
+KIRK in the command chair. Still. The particular stillness of a man who has done everything he can and is now waiting for the geometry to do the rest.
 
 PARK at the secondary console. Not moving. Barely breathing.
 
@@ -189,28 +135,13 @@ Through the forward viewport — rock. The grain of it visible. A dead end thirt
 
 Minutes pass.
 
----
 
-**HUMMER**
-Aft viewer.
+                         KIRK
+          Aft viewer.
 
 The screen switches. The view behind them — the narrow opening they entered through. A sliver of space visible at the far end of the cavity. Stars. The faint dust haze of the ring. The only window out.
 
-Hummer watches it. The only thing worth watching.
-
-Then — something.
-
-Not on the sensors. In the aft viewer.
-
-The sliver of space at the mouth of the cavity. Stars visible through the opening. And crossing that opening — slowly, taking perhaps four seconds to traverse the narrow gap — a distortion.
-
-Not a ship. Not anything visible. Just — a wrongness. The stars in the opening ripple slightly, as though seen through heat haze. A section of space approximately two hundred meters long that doesn't quite match what's behind it.
-
-The cloaked Klingon warbird.
-
-Passing the mouth of their hiding place. Three kilometers away. Maybe less. Moving on the exact corridor Hummer predicted — the deep slow path through the inner ring.
-
-Nobody on the bridge moves.
+Kirk watches it. The only thing worth watching.
 
 Then — the sliver of space in the aft viewer narrows.
 
@@ -222,16 +153,14 @@ Stone.
 
 The aft viewer shows stone. The forward viewport shows stone. Every direction shows stone. Enterprise is sealed inside a rotating rock with no view of anything.
 
----
 
-**PARK**
-*(barely audible)*
-We're blind.
+                         PARK
+               (barely audible)
+          We're blind.
 
----
 
-**HUMMER**
-So are they.
+                         KIRK
+          So are they.
 
 Silence. Stone. Nothing on any display.
 
@@ -241,13 +170,10 @@ Not an impact. Not an engine vibration. Something deeper — a shudder that pass
 
 Cups rattle on a console. A stylus rolls across a surface and falls. Park grabs the edge of his station.
 
----
 
-**KIRK**
-*(whispered)*
-The Klingon impulse drive.
-
----
+                         SPOCK
+               (very quiet)
+          Klingon impulse drive. Passing within two kilometers.
 
 The tremor builds — slowly, slowly — peaks — and then fades. Recedes. Like a wave passing under a boat.
 
@@ -255,95 +181,38 @@ It passed them.
 
 The opening didn't face the corridor when the warbird crossed. The rotation put the entrance on the far side — facing empty space, facing nothing, facing away from anything that was looking.
 
-Hummer knew it would. Not from certainty. From the rotation period he clocked when they approached — approximately nine minutes. He calculated how long they had from entry to occlusion. He calculated it would be enough.
+Kirk knew it would. Not from certainty. From the rotation period he clocked when they approached — approximately nine minutes. He calculated how long they had from entry to occlusion. He calculated it would be enough.
 
 It was enough.
-
----
 
 PARK exhales.
 
 The asteroid keeps turning. Minutes later — the opening rotates back into view. Stars again in the aft viewer. The corridor visible. Empty now.
 
----
 
-**PARK** *(CONT'D)*
-How did you know the rotation would —
+                         KIRK
+               (quiet — to himself)
+          There you are.
 
----
+He stands.
 
-**HUMMER**
-I watched it for thirty seconds on approach. Nine-minute period. We entered when the opening faced the corridor. Four and a half minutes later it faces the other way.
 
-*(beat)*
+                         KIRK (CONT'D)
+          Photon torpedoes — load tubes one through six. Target the corridor walls. Three points along the starboard face. Fifteen thousand meter spread — far, middle, near.
 
-I needed them to pass us within that window.
 
----
+                         PARK
+          Sir — we don't have a target lock. The corridor is —
 
-**PARK**
-And if they'd been two minutes later?
 
-Hummer doesn't answer that.
+                         KIRK
+          I'm not aiming at the ship.
 
----
+He looks at the tactical display. The corridor — the narrow tube between the continent-sized rocks that the Klingon ship is threading through. A passage perhaps two kilometers wide and forty kilometers long.
 
-**HUMMER**
-*(very quietly, eyes tracking where the distortion was)*
-There you are.
 
-He watches the passive display. The faintest gravitometric wake — a whisper in the data that confirms what his eyes just saw.
-
-He knows the heading now. He knows the speed. He knows which corridor they're taking toward the Cardassian vessel.
-
-And he knows these rocks.
-
----
-
-The Cardassian vessel is almost at the corridor entrance. Twenty minutes. Maybe fifteen.
-
-Hummer sits forward. Something has changed in him. The hesitation is gone. Not because he's performing confidence — because he has been in this corridor, in the dark, hiding from things larger than himself, and he knows exactly what the geometry looks like from here.
-
-His gut fires.
-
-He doesn't wait.
-
----
-
-**HUMMER**
-*(whispered — the voice of a man who knows exactly what he's about to do)*
-Take us off. Forward. One quarter impulse. Ready phasers.
-
-Enterprise detaches from the asteroid. Slow. Deliberate. A submarine leaving the ocean floor.
-
----
-
-**HUMMER** *(CONT'D)*
-Photon torpedoes — load tubes one through six.
-
----
-
-**PARK**
-Sir — we don't have a target lock. The corridor is —
-
----
-
-**HUMMER**
-I'm not aiming at the ship.
-
-He pulls up the tactical display. The corridor — the narrow tube between the continent-sized rocks that the Klingon ship is threading through. A passage perhaps two kilometers wide and forty kilometers long. Enormous by any human measure. A needle's eye at this scale.
-
----
-
-**HUMMER** *(CONT'D)*
-Targeting the corridor walls. Three points along the starboard face. Fifteen thousand meter spread — far, middle, near.
-
-He uploads coordinates. Not to the center of the tube. To the rock face that forms its edge.
-
----
-
-**HUMMER** *(CONT'D)*
-Fire.
+                         KIRK (CONT'D)
+          Fire.
 
 Six photon torpedoes leave Enterprise. They are, against the scale of this place, almost nothing — bright points that shrink to invisibility within seconds, swallowed by the dark geometry of the ring.
 
@@ -351,264 +220,397 @@ Silence.
 
 The bridge watches.
 
----
 
 The farthest torpedo hits first.
 
 Not an explosion in the way a weapon creates an explosion. An explosion in the way a mountain creates a landslide. The photon yield strikes eleven kilometers of ancient stone and the stone answers — a section of the corridor wall the size of a city district shears free and begins to move. Slowly. Inevitably. Into the tube.
 
-Two seconds later — the middle torpedo. Another face. Another calve. Closer now. The debris field thickening.
+Two seconds later — the middle torpedo. Another face. Another calve. Closer now.
 
----
+The near torpedo. Three points of fracture. Hundreds of thousands of tons of ancient rock shearing free and tumbling — slowly, at this scale everything moves slowly — into the corridor.
 
-`INT. KLINGON WARBIRD — BRIDGE — CONTINUOUS`
 
-K'TAGH sees the third torpedo on his tactical display. Its trajectory. Its target.
+EXT. ASTEROID CORRIDOR — CONTINUOUS
 
-He knows that asteroid. He built a base inside it. Weapons caches. Energy cells. Three years of volatile materials stored in chambers carved into the iron-rich core — the same iron deposits that create the discoloration patterns Hummer learned to read as a miner.
 
-Close-up: K'Tagh's face. The eyes widen. Not fear — *recognition*. A man watching his own long game turn against him in a single heartbeat. He built the bomb. Someone else is lighting the fuse without knowing it exists.
+The rocks drift.
 
----
+Large. Silent. Tumbling end over end with the patience of objects that have nowhere to be. Some the size of houses. Some the size of city blocks. A slow river of stone filling the passage from three directions.
 
-**K'TAGH**
-*(eyes wide — the voice of a man who sees the end of everything he built)*
-Shields up.
+Most of them keep moving. Drifting through the corridor, continuing on their trajectories, obeying the ordinary physics of things that hit nothing.
 
----
+But one doesn't.
 
-The torpedo strikes.
+A boulder — perhaps thirty meters across — drifts into the center of the corridor. Moving steadily, predictably, on a trajectory that should carry it through and out the other side.
 
-The asteroid does not calve. It detonates.
+Then — a flash. Brief. Not light exactly. Static. A ripple of interference that blooms across the surface of the rock for a fraction of a second — like a television losing signal — and the boulder vanishes.
 
-The hidden base — energy stores, weapons caches, volatile mining compounds repurposed for military use — amplifies the photon torpedo impact by an order of magnitude. What should have been a landslide becomes an eruption. The asteroid splits open from within, the iron core blazing white, and the blast wave carries not just rock but the shrapnel of a military installation no one knew was there.
+It doesn't explode. It doesn't deflect. It is there, and then it is not there.
 
-The corridor wall doesn't fracture inward from three points. It fractures inward from two — and explodes outward from one. Hundreds of thousands of tons of rock, metal, and burning ordnance cascading into the passage in a chain reaction that dwarfs anything Hummer calculated.
+Empty space where a thirty-meter rock was drifting a moment ago.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
-Enterprise shudders. Hard. Not the tremor of nearby debris — a shockwave. Consoles flicker. A conduit blows sparks from an overhead panel.
 
-Hummer grabs his station. His face: the expression of a man who fired at a rock and hit something else entirely.
+                         PARK
+               (staring)
+          Where did it —
 
----
 
-**PARK**
-What the —
+                         SPOCK
+          It didn't stop.
 
----
 
-**HUMMER**
-*(staring at the readings)*
-That's not right. That yield is — that's not just rock.
+                         KIRK
+          No. It didn't.
 
-He doesn't understand yet. He won't understand until the salvage teams find the remains.
+He is leaning forward in the chair. Eyes on the viewer.
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+EXT. ASTEROID CORRIDOR — CONTINUOUS
 
-On the viewer — the corridor. The debris advancing toward its center from three directions. Slowly — at this distance, at this scale, everything moves slowly. Rocks the size of houses tumbling end over end in silence. Dust walls thickening. The passage filling.
 
-HUMMER watches.
+Another rock. Smaller — perhaps fifteen meters. Tumbling slowly on a parallel course, twenty meters to the left of where the first one vanished.
 
-The first rocks reach the center of the tube.
+It reaches the same zone.
 
-Most of them keep moving. Drifting through, continuing on their trajectories, obeying the ordinary physics of things that hit nothing.
+The same flash. The same static ripple — brighter this time, lasting a full half-second, the outline of something briefly visible in the interference pattern before the signal corrects itself.
 
-But some don't.
+The rock vanishes.
 
-One rock — perhaps twenty meters across — enters the center of the corridor and stops. Dead. As though it struck a wall that isn't there.
+A third rock, drifting behind the first two on a slightly different vector.
 
-Then another. Thirty meters to the left. It hits something, rebounds slightly, and begins to rotate in place.
+It passes through. Nothing happens. It continues on its way, obeying physics, tumbling into the darkness beyond.
 
----
+A fourth rock. Larger. Directly on the path of the first.
 
-**HUMMER**
-*(quiet)*
-There.
+Static. Gone.
 
----
+Silence. Empty corridor. Three rocks have ceased to exist and the universe has not noticed.
 
-**PARK**
-Viewer — magnify.
+Then —
 
-The viewer zooms. The corridor center fills the screen.
+On the far side. Beyond the zone where the rocks vanished.
 
-Rocks drifting through empty space. And among them — four, five, now seven objects that have stopped moving. Hanging motionless where nothing should stop them. A constellation of stillness in the middle of chaos.
+A shape. Emerging from nothing.
 
-A new boulder strikes the invisible hull — and the rocks that stopped earlier shift. They rotate, slide sideways, as the impact travels along something solid and unseen beneath them. The shape of a hull traced in the negative space between floating stones.
+The first boulder. Still tumbling. Still on its original trajectory. But now it is on the other side — twenty meters past the point where it disappeared. It has passed through something. Something that swallowed it on one side and released it on the other.
 
----
+And the boulder is different.
 
-**PARK** *(CONT'D)*
-*(barely breathing)*
-I can see it. I can see the shape —
+One face is clean — ancient stone, dust, the ordinary surface of a rock that has been tumbling for a billion years. The other face is scored. Deep parallel gouges where the stone was dragged across something metallic. The marks of hull plating. And in the gouges — a dark residue. Not dust. Not stone.
 
-Then — a shimmer.
+The faint green shimmer of Klingon hull composite.
 
-The cloaking field fails. Whether by choice or by damage — it doesn't matter.
+Then the second rock emerges. Behind the first. Same trajectory, same rotation — but this one is trailing debris. Small fragments of metal, polymer, what might be insulation. Things that were inside a hull and are not inside it anymore.
 
-The Klingon warbird appears.
+Then — nothing emerges. The third vanished rock does not reappear on the other side.
 
-And the rocks that were hanging in space — the ones that seemed suspended against nothing — vanish. They were inside the cloak field. Against the hull. They're still there, pressed against the metal, but now they're part of the ship's silhouette instead of floating impossibly in empty space.
+It is still inside.
 
-A green flash — shields activating. The familiar Klingon shield geometry blazing into existence around the hull. New rocks strike the shield boundary and shatter, deflecting outward instead of reaching the hull.
 
-But the rocks that were already inside — they're still there. Between the shield and the hull. Grinding.
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
----
 
-The turbolift opens.
+                         SPOCK
+          The rocks have penetrated the hull. At least one remains lodged in the superstructure.
 
-KIRK.
 
-He takes in the viewer in one glance. The warbird. The debris field. The shields flickering green against the ongoing bombardment.
+                         KIRK
+          Viewer — magnify. Aft section of the corridor.
 
-He doesn't ask what happened. He can read it.
+The viewer zooms.
 
----
+Empty space. Dust. Tumbling debris.
 
-**KIRK**
-Phasers.
+And then — slowly, the geometry changes.
 
----
+Not because anything appears. Because the things that are already there begin to move wrong. Smaller rocks — gravel, fragments from the calving — drift into the zone and deflect. Not dramatically. Just — a degree or two off their expected trajectory. As though something is exerting a gravitational influence that shouldn't be there.
 
-**HUMMER**
-Locked.
+Then the rotation becomes visible.
 
----
+The deflection patterns aren't random. They are curving. Arcing around a central point that is moving — slowly, ponderously — in a rotation that has nothing to do with orbital mechanics.
 
-**KIRK**
-Fire.
+Something is spinning. Something that has been hit by three boulders at different angles and is now tumbling on an axis it was never designed to tumble on.
 
-Two phaser beams cut through the debris field — bright lines through the dust — and strike the Klingon shields.
+And as it turns — as whatever-it-is rotates through the dust and gravel of the debris field —
 
-The green shimmer absorbs the first beam. Holds. Flickers.
+A flash. Longer this time. A sustained burst of static interference that blooms across a section of space approximately two hundred meters long. The outline of something vast and angular visible for two full seconds in the noise — the distinctive silhouette of a Klingon warbird, hull plating flickering like a damaged screen, the cloaking field fighting to reassert itself over a shape that is no longer the shape it was designed to conceal.
 
-The second beam hits.
+The cloak corrects. The ship vanishes again.
 
-The shields collapse.
+But the rotation continues. And with each revolution, the static returns — longer each time, the cloaking device straining to cover hull breaches that weren't there when the system was calibrated. Metal where there should be smooth plating. Voids where there should be metal. A geometry the cloak can no longer compute.
 
-The green light dies.
+Rocks continue to rain. The smaller debris — gravel, fragments, shards of stone — strikes the invisible hull with a rhythm that is almost gentle. Each impact registers as a tiny flash of static. A constellation of interference points tracing the outline of a ship that is trying very hard not to exist.
 
-For one frame — the warbird is visible. Naked. Hull scarred where the rocks have been grinding against it. No shields. No cloak. A ship stripped of everything except what it's made of.
+Then — the cloak fails.
 
-Then the dust cloud reaches it.
+Not dramatically. Not in a burst. It simply stops. One moment the ship is a ghost outlined in static. The next moment it is there.
 
-The debris wall — still moving, still cascading from the three points of impact — rolls over the warbird's position like fog rolling over a harbor. The viewer fills with grey. Rocks. Dust. The particular blindness of a place where too much is happening to see any of it.
+The IKS warbird. K'Tagh's ship.
 
-The warbird disappears.
+Visible.
 
-Not in a fireball. In something worse — the chain reaction from the hidden base tearing through the hull from three directions simultaneously while the debris field buries what remains. Metal and rock and fire and silence, all at once.
+In slow rotation. The hull breached in three places where the boulders punched through — ragged wounds in the metal, internal structure visible through the gaps, atmosphere venting in thin white streams that freeze instantly into ice crystals. The first boulder is still lodged in the port side — thirty meters of asteroid embedded in the ship like a nail in wood. The second pierced the starboard nacelle housing and exited through the dorsal surface, leaving a tunnel of twisted metal.
 
-K'Tagh's last order was *shields up*. Two words. A commander trying to save his crew from the consequences of his own secret. The shields came up. They were not enough.
+The ship is not destroyed. It is disabled in the most fundamental way possible — holed below the waterline, spinning without power, unable to cloak, unable to maneuver, unable to do anything except rotate slowly in the debris field that killed it.
 
----
+Smaller rocks continue to strike the exposed hull. Each impact sends a shudder through the ship that is visible from outside — the hull flexing slightly, debris scattering from the breach points, the ice crystal plumes shifting direction with each new blow.
+
+
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
 
 The bridge is silent.
 
-On the viewer — dust. Slowly churning. Occasionally a larger rock tumbles through the frame. The debris field settling into its new orbital pattern. Among the rocks — fragments that are too regular, too metallic. Pieces of something that was not asteroid.
+Kirk looks at the warbird on the viewer. Spinning. Holed. Dying slowly in the ordinary physics of a place where too many rocks are moving and nothing is there to stop them.
 
-Nothing else.
 
----
+                         KIRK
+          Take us out. Quarter impulse. Close approach.
 
-**PARK**
-*(very quiet)*
-Sir — can they —
+Enterprise emerges from the asteroid belt. Slowly. Damaged herself — the navigation array took debris during the torpedo firing, and the port impulse engine is running rough. She is not gliding. She is limping.
 
-He doesn't finish the question.
+But she is moving.
 
----
 
-**HUMMER**
-No.
+EXT. SPACE — CONTINUOUS
 
-He says it without triumph. Without satisfaction. Just the certainty of a man who knows what happens to an unshielded hull in a debris field that dense.
 
-*(beat)*
+Enterprise approaches the tumbling warbird.
 
-Ninety crew.
+The scale difference becomes apparent only at close range. Enterprise is longer, wider, taller — the Constitution-class saucer alone is broader than the warbird's entire wingspan. At distance they are both ships. At close range, one of them is considerably more ship than the other.
 
-The weight of it on the bridge. Ninety people who were alive four minutes ago.
+Enterprise drifts past. Slow. Close enough to count the hull plates on the Klingon vessel. Close enough to see the individual rivets around the breach where the boulder is still embedded.
 
-The bridge is quiet for a long time.
+The warbird rotates slowly beneath Enterprise's hull. The great ship passing overhead like a ceiling descending.
 
-Then PARK, very quietly:
 
----
+INT. KLINGON WARBIRD — CORRIDOR — CONTINUOUS
 
-**PARK**
-Sir.
 
-*(pause)*
+A single KLINGON OFFICER braces against a bulkhead. Emergency lighting. The red pulse of damage alerts. The groan of metal under stress.
 
-How did you know the corridor?
+Through the viewport beside him — Enterprise.
 
-Hummer looks at the viewer. The dust still churning where the Vor'nak was. Ninety crew.
+Not a ship at this distance. A landscape. The ventral surface of the saucer filling the viewport from edge to edge, close enough that the individual hull markings are legible, close enough that the faint blue glow of the impulse engines paints the Klingon's face.
 
----
+The Federation insignia drifts past the window. Massive. An emblem the size of a building.
 
-**HUMMER**
-I used it myself. Twelve years ago. Coming back from a night shift in a shuttle with no running lights because the power cell was failing.
+Then — the vibration.
 
-*(beat)*
+Not from his own ship. From Enterprise. The displacement field of a Constitution-class starship passing within two hundred meters. The same gravitational shudder that the Enterprise crew felt when K'Tagh's warbird passed their hiding place — but reversed. Amplified. The mass differential means Enterprise's displacement hits harder.
 
-It's the only quiet path through the inner ring.
+The Klingon feels it in his chest. In his teeth. The deep subsonic rumble of something enormous passing very close, and the specific helplessness of a man who cannot move his ship out of its path.
 
-He pauses. Then:
+The hull groans. The viewport frame rattles. A conduit above him sheds dust.
 
----
+Enterprise passes.
 
-**HUMMER** *(CONT'D)*
-I knew which rocks to aim for because I cut them once and felt what happened.
+The rumble fades. The Klingon watches the nacelles recede — two points of blue light growing smaller, growing fainter, the ship that just drifted past him like a mountain moving through fog.
 
-Park looks at him. Then at the viewer. Then back at him.
+He is alive. His ship is not going anywhere.
 
-Kirk has been standing behind him since the phaser strike. He heard the answer.
+He stands in the emergency light and watches the stars return to his viewport.
 
-He looks at the dust cloud on the viewer. Ninety crew somewhere in that silence.
 
-He looks at Hummer.
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
----
 
-**KIRK**
-You gave those orders before you were certain.
+Kirk watches the warbird recede on the aft viewer. Still spinning. Still venting atmosphere. Still being struck by the debris that will eventually reduce it to scrap if no one comes.
 
-Not a question. Not an accusation. Just recognition.
 
----
+                         SPOCK
+          The warbird's life support is still functional. Intermittently. I estimate they have approximately fourteen hours before the hull breaches reach critical atmospheric loss.
 
-**HUMMER**
-*(meeting his eyes)*
-I knew enough.
 
-Kirk holds his gaze for one beat. Then turns to the viewer.
+                         KIRK
+          Hail them.
 
-The audience sees his face as he turns.
+               (beat)
 
-He's thinking about a dinner table. A grey water glass nobody drank. A man from Vega Colony who worked those rocks for two years and knew exactly which ones to aim for.
+          Open a channel. Standard frequency. No encryption.
 
-He knew enough then too.
 
----
+                         COMMUNICATIONS OFFICER
+          Channel open, sir.
 
-**KIRK**
-*(quietly, to the bridge)*
-Well done.
 
-Two words. The whole bridge feels them.
+                         KIRK
+          Commander K'Tagh. This is Captain Kirk. Your ship has sustained critical damage. We are prepared to offer evacuation assistance and medical support for your crew. Please respond.
 
-Kirk goes to the command chair. Sits. Looks at the planet below.
+Silence.
 
-Everything is not finished yet.
+The channel is open. The static of an active connection. Nothing else.
 
-`DISSOLVE TO:`
 
----
+                         KIRK (CONT'D)
+          K'Tagh. You warned me. I'm returning the courtesy. Your hull breaches will reach critical atmospheric loss within hours. Let us help your people.
 
-*End of Scene 14*
+Silence.
+
+
+INT. KLINGON WARBIRD — BRIDGE — CONTINUOUS
+
+
+Emergency lighting. The red pulse of damage alerts. The groan of hull plates adjusting to stresses they were never designed to bear.
+
+K'TAGH is on his feet. Bleeding from a cut above the eye — a beam came down during the impact. He hasn't noticed. He is listening to Kirk's voice on the speaker. The open channel. The offer.
+
+He looks at the speaker for a moment. The face of a man performing a calculation that has nothing to do with gratitude.
+
+He turns away from it.
+
+
+                         K'TAGH
+               (to his engineer, ignoring the channel entirely)
+          Inertial stabilizers. How long?
+
+
+                         KLINGON ENGINEER
+          Four hours. Maybe five. The port array is —
+
+
+                         K'TAGH
+          You have three.
+
+The engineer opens his mouth. Closes it. Leaves.
+
+K'Tagh looks at the viewport. Through the crack in the glass — stars. Tumbling slowly as the ship rotates. And somewhere out there, growing closer by the minute, the IKS Vor'nak.
+
+He knows the Vor'nak is coming. He knew before the first torpedo hit. General Kord told him six hours. That was — he calculates — four hours ago. Maybe five. The Vor'nak's captain, Toral, is ambitious. He will push his engines.
+
+K'Tagh's ship is destroyed. But K'Tagh is not destroyed. If the Vor'nak finishes Enterprise — and it will, because K'Tagh can see the damage from here, the listing hull, the dark navigation array, the port impulse engine cycling at half power — then K'Tagh is the commander who engaged the Federation flagship. Who drew first blood. Who weakened it enough for the kill.
+
+He does not need to defeat Enterprise. He needs to survive long enough for someone else to do it.
+
+Kirk's voice is still on the speaker. Offering help. Offering mercy. The specific kindness of a man who does not understand that kindness is a tactical error.
+
+K'Tagh reaches over and closes the channel.
+
+
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
+
+The channel goes dead.
+
+
+                         COMMUNICATIONS OFFICER
+          They've closed the channel, sir.
+
+Kirk looks at the blank display. He offered help to a man who warned him. The man chose silence.
+
+
+                         SPOCK
+               (quiet)
+          He knows the Vor'nak is coming.
+
+Kirk looks at Spock. The sentence lands like a stone.
+
+
+                         KIRK
+          How long?
+
+
+                         SPOCK
+          If the Vor'nak departed on schedule and maintained maximum cruise — she could be in the system within the hour.
+
+
+                         KIRK (CONT'D)
+          Helm — take us out of the belt. Best speed we can manage on one good impulse engine.
+
+Enterprise moves. Not gracefully. The port impulse engine coughs, catches, runs rough. The navigation array is blind on one side. She lists slightly to starboard — the particular asymmetry of a ship compensating for damage she hasn't had time to assess.
+
+But she moves.
+
+
+EXT. ASTEROID BELT — CONTINUOUS
+
+
+Enterprise threads through the outer ring. Past the silicate rocks — the younger, lighter stones that Hummer said were predictable. Past the dust hazes and the tumbling gravel fields. Heading for open space.
+
+A large asteroid drifts alongside them. Continent-sized. The last of the inner ring — an ancient body of iron and stone, eleven kilometers of mass moving on its billion-year orbit, filling the viewport from edge to edge as Enterprise slides past its flank.
+
+The rock face scrolls past. Craters. Ridges. Shadow.
+
+Then the shadow ends.
+
+The asteroid clears. The edge of the rock passes out of frame like a curtain drawing open. And behind it —
+
+Open space.
+
+And in that open space — directly ahead, filling the viewer, already at combat speed —
+
+The IKS Vor'nak.
+
+Not six hours away. Here. Now. Arrived early — warp seven point five, maybe higher, a captain who pushed his engines past specification because someone told him there was a fight worth having.
+
+A Klingon cruiser at full power. Shields up. Weapons hot. The green geometry of battle readiness blazing across the hull like war paint.
+
+And on the Vor'nak's bridge — COMMANDER TORAL sees Enterprise the instant she clears the asteroid. A damaged Constitution-class starship limping out of a rock field with one impulse engine and no cover. Listing to starboard. Navigation array dark on one side. Shield generators cycling at minimum.
+
+He does not need a tactical analysis. He can see it.
+
+
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
+
+The bridge goes very quiet.
+
+Kirk is standing. He was heading for the turbolift. Now he is standing in the middle of his bridge looking at a Klingon cruiser that should not be here for another six hours.
+
+
+                         SPOCK
+          The Vor'nak. Commander Toral. She has exceeded projected arrival by —
+
+
+                         KIRK
+          I can see that, Spock.
+
+
+                         PARK
+          Sir — shields are at thirty-one percent. The port generator is —
+
+
+                         KIRK
+          I know.
+
+
+                         PARK
+          Phasers — I can give you maybe four shots before the emitters overheat. The debris impact damaged the —
+
+
+                         KIRK
+          I know.
+
+He looks at the viewer. The Vor'nak, growing. Closing the distance. In no hurry. A predator that has found wounded prey and sees no reason to rush.
+
+
+                         SPOCK
+          We have fourteen photon torpedoes remaining. Against active Klingon shields, at this range, the probability of a hull breach is —
+
+
+                         KIRK
+          Negligible.
+
+
+                         SPOCK
+          Four point seven percent per torpedo. Cumulative probability of critical damage across all fourteen —
+
+               (beat)
+
+          Insufficient.
+
+Silence on the bridge.
+
+Enterprise lists in the starlight. One engine. Partial shields. Four phaser shots. Fourteen torpedoes that will bounce off Klingon shields like stones off a glacier.
+
+The Vor'nak fills the viewer. Kirk looks at it.
+
+He has been here before. Not this ship. Not this belt. But this moment — the moment where every option has been exhausted and the arithmetic says you've already lost.
+
+He knows this moment by its old name.
+
+
+CUT TO:

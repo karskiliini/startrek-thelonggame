@@ -1,9 +1,9 @@
 # STAR TREK: THE LONG GAME
 ## Scene 11 — "K'TAGH"
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — THE NEXT WATCH`
+INT. ENTERPRISE-A — BRIDGE — THE NEXT WATCH
+
 
 The situation has calcified into the specific tension of a standoff that knows it's a standoff.
 
@@ -13,31 +13,30 @@ KIRK at the command chair. Waiting.
 
 A SIGNAL from the Klingon vessel. Not a standard channel request. A different frequency — narrow, encrypted, the specific signature of a communication that is not intended to be logged.
 
----
 
-**COMMUNICATIONS OFFICER**
-Captain. Receiving a non-standard signal from the Klingon vessel. It's —
+                         COMMUNICATIONS OFFICER
+          Captain. Receiving a non-standard signal from the Klingon vessel. It's —
 
-*(beat)*
+               (beat)
 
-It's addressed to you personally, sir.
+          It's addressed to you personally, sir.
 
 Kirk and Spock exchange the briefest look.
 
----
 
-**KIRK**
-I'll take it in my ready room.
+                         KIRK
+          I'll take it in my ready room.
 
 He stands. Goes.
 
 On the bridge, Hummer watches him go. Goes back to his console. Keeps reading.
 
-`CUT TO:`
 
----
+CUT TO:
 
-`INT. ENTERPRISE-A — CAPTAIN'S READY ROOM — CONTINUOUS`
+
+INT. ENTERPRISE-A — CAPTAIN'S READY ROOM — CONTINUOUS
+
 
 Kirk opens the channel.
 
@@ -45,105 +44,92 @@ K'TAGH appears on the screen. Behind him — not a bridge. A private space on hi
 
 He looks at Kirk for a moment before he speaks. Reading something in his face.
 
----
 
-**K'TAGH**
-You received information about the explosion that you don't have evidence for.
+                         K'TAGH
+          You received information about the explosion that you don't have evidence for.
 
 It isn't a question.
 
----
 
-**KIRK**
-Commander, this channel —
+                         KIRK
+          Commander, this channel —
 
----
 
-**K'TAGH**
-Is not logged on my end either.
+                         K'TAGH
+          Is not logged on my end either.
 
-*(beat)*
+               (beat)
 
-Captain. I need you to listen to me for approximately four minutes. After that you can respond however you feel is appropriate.
+          Captain. I need you to listen to me for approximately four minutes. After that you can respond however you feel is appropriate.
 
 Kirk says nothing. Which he takes as assent.
 
----
 
-**K'TAGH** *(CONT'D)*
-I was sent to this system as a guarantee. The joint operation — you understand there is a joint operation —
+                         K'TAGH (CONT'D)
+          I was sent to this system as a guarantee. The joint operation — you understand there is a joint operation —
 
----
 
-**KIRK**
-I'm beginning to.
+                         KIRK
+          I'm beginning to.
 
----
 
-**K'TAGH**
-My faction was told this installation served Klingon strategic interests. That Cardassian investment in this corridor would create shared infrastructure that benefits both —
+                         K'TAGH
+          My faction was told this installation served Klingon strategic interests. That Cardassian investment in this corridor would create shared infrastructure that benefits both —
 
 He stops. Something crosses his face.
 
----
 
-**K'TAGH** *(CONT'D)*
-I have spent the last three weeks reviewing the construction projections that my faction was given versus the power consumption data I can read from orbit with standard sensors.
+                         K'TAGH (CONT'D)
+          I have spent the last three weeks reviewing the construction projections that my faction was given versus the power consumption data I can read from orbit with standard sensors.
 
-*(beat)*
+               (beat)
 
-They are not the same projections.
+          They are not the same projections.
 
 The installation is not joint infrastructure. The installation is Cardassian military architecture that requires no Klingon presence to operate. We were brought here as a distraction. Our ship. My crew.
 
----
 
-**KIRK**
-Commander —
+                         KIRK
+          Commander —
 
----
 
-**K'TAGH**
-I am not finished.
+                         K'TAGH
+          I am not finished.
 
 He waits.
 
----
 
-**K'TAGH** *(CONT'D)*
-When that installation is complete — the corridor formalization follows automatically under the treaty framework they've been building for thirty years. The Federation loses unrestricted access to the passage in perpetuity.
+                         K'TAGH (CONT'D)
+          When that installation is complete — the corridor formalization follows automatically under the treaty framework they've been building for thirty years. The Federation loses unrestricted access to the passage in perpetuity.
 
-Cardassia controls the fastest route to your core systems from the spinward border.
+          Cardassia controls the fastest route to your core systems from the spinward border.
 
-Without a single shot fired. Without a single treaty explicitly broken.
+          Without a single shot fired. Without a single treaty explicitly broken.
 
-*(beat)*
+               (beat)
 
-My government made me a piece in that game without telling me what game it was.
+          My government made me a piece in that game without telling me what game it was.
 
 The silence between them has enormous weight.
 
 Kirk looks at him.
 
----
 
-**KIRK**
-Why are you telling me this?
+                         KIRK
+          Why are you telling me this?
 
----
 
-**K'TAGH**
-*(and here is where something very Klingon and very specific comes into his face)*
-Because I will not be Cardassian muscle.
+                         K'TAGH
+               (and here is where something very Klingon and very specific comes into his face)
+          Because I will not be Cardassian muscle.
 
-Beat.
+          Beat.
 
----
 
-**K'TAGH** *(CONT'D)*
-Whatever you do with this information — that is your problem. But I came here believing I was serving a Klingon strategic interest.
+                         K'TAGH (CONT'D)
+          Whatever you do with this information — that is your problem. But I came here believing I was serving a Klingon strategic interest.
 
-I was serving a Cardassian one. And they did not have the honor to tell me so.
+          I was serving a Cardassian one. And they did not have the honor to tell me so.
 
 He closes the channel.
 
@@ -163,8 +149,5 @@ He starts thinking about whether it's the only move.
 
 He starts thinking about Marek.
 
-`CUT TO:`
 
----
-
-*End of Scene 11*
+CUT TO:

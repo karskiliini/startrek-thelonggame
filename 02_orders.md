@@ -1,9 +1,9 @@
 # STAR TREK: THE LONG GAME
 ## Scene 2 — "ORDERS"
 
----
 
-`EXT. EARTH ORBIT — ENTERPRISE-A — ESTABLISHING`
+EXT. EARTH ORBIT — ENTERPRISE-A — ESTABLISHING
+
 
 She's in orbit. Earth orbit. The slow rotation of a ship that has been circling home for weeks, waiting for the San Francisco Fleet Yards to have a berth ready. Below her — the Pacific, the coast, the city where Starfleet Command makes its decisions. The stars aren't going anywhere. Neither is she.
 
@@ -13,11 +13,12 @@ She should be in a museum. She should be in a scrapyard. Instead she's orbiting 
 
 The flagship of the Federation. Waiting to be put down.
 
-`CUT TO:`
 
----
+CUT TO:
 
-`INT. ENTERPRISE-A — MESS — CONTINUOUS`
+
+INT. ENTERPRISE-A — MESS — CONTINUOUS
+
 
 A TABLE of junior officers eating. Rectangular blocks on rectangular trays — uniform in color, uniform in shape, uniform in the specific way that food stops being food and becomes a delivery system for calories. No texture. No contour. The geometry of nutrition without the memory of anything that was ever alive. A meal that looks like it was designed by someone who had food described to them but never tasted it.
 
@@ -31,11 +32,12 @@ The others eat. Nobody talks much.
 
 This is Tuesday.
 
-`CUT TO:`
 
----
+CUT TO:
 
-`INT. ENTERPRISE-A — BRIDGE — CONTINUOUS`
+
+INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
+
 
 KIRK stands at the main viewer.
 
@@ -61,100 +63,85 @@ Everything looks legitimate.
 
 SPOCK approaches from the science station.
 
----
 
-**SPOCK**
-At maximum warp we would reach Cordia IV in approximately fourteen hours.
+                         SPOCK
+          At maximum warp we would reach Cordia IV in approximately fourteen hours.
 
----
 
-**KIRK**
-What do we know about the Klingon vessel?
+                         KIRK
+          What do we know about the Klingon vessel?
 
----
 
-**SPOCK**
-IKS Rotarran-class. Commander K'Tagh. His record is —
+                         SPOCK
+          IKS Rotarran-class. Commander K'Tagh. His record is —
 
 He pauses. The pause of a man selecting the correct word from several available.
 
----
 
-**SPOCK** *(CONT'D)*
-Distinguished.
+                         SPOCK (CONT'D)
+          Distinguished.
 
----
 
-**KIRK**
-High praise from you.
+                         KIRK
+          High praise from you.
 
----
 
-**SPOCK**
-I try not to underestimate people.
+                         SPOCK
+          I try not to underestimate people.
 
 Kirk almost smiles.
 
----
 
-**KIRK**
-What about the Cardassian ship?
+                         KIRK
+          What about the Cardassian ship?
 
----
 
-**SPOCK**
-Three weeks in standard orbit with no deviation. They cite ongoing humanitarian coordination with the colony administration.
+                         SPOCK
+          Three weeks in standard orbit with no deviation. They cite ongoing humanitarian coordination with the colony administration.
 
-*(beat)*
+               (beat)
 
-The colony administration's communications with Cardassia Prime have increased by three hundred and forty percent in the same period.
+          The colony administration's communications with Cardassia Prime have increased by three hundred and forty percent in the same period.
 
 Kirk looks at him.
 
----
 
-**SPOCK** *(CONT'D)*
-Humanitarian coordination rarely requires that volume of encrypted traffic.
+                         SPOCK (CONT'D)
+          Humanitarian coordination rarely requires that volume of encrypted traffic.
 
----
 
-**KIRK**
-No. It doesn't.
+                         KIRK
+          No. It doesn't.
 
 He picks up the PADD again. Sets it down again.
 
----
 
-**KIRK** *(CONT'D)*
-Have Dr. McCoy join me for dinner tonight.
+                         KIRK (CONT'D)
+          Have Dr. McCoy join me for dinner tonight.
 
-*(almost as an afterthought)*
+               (almost as an afterthought)
 
-And the new tactical officer. Hummer.
+          And the new tactical officer. Hummer.
 
----
 
-**SPOCK**
-He arrived with the last rotation. Three weeks aboard.
+                         SPOCK
+          He arrived with the last rotation. Three weeks aboard.
 
----
 
-**KIRK**
-I know. I haven't had a chance to —
+                         KIRK
+          I know. I haven't had a chance to —
 
 He gestures vaguely. The gesture of a captain who used to know every officer on his ship and now gets transfer manifests he hasn't finished reading.
 
----
 
-**KIRK** *(CONT'D)*
-Invite him.
+                         KIRK (CONT'D)
+          Invite him.
 
 Spock processes this. Files it alongside the fourteen other variables he is currently modeling.
 
----
 
-**SPOCK**
-I'll inform them.
+                         SPOCK
+          I'll inform them.
 
 Kirk goes back to looking at the viewer.
 
@@ -162,8 +149,5 @@ Behind him, Spock returns to his station.
 
 And begins, very quietly, to prepare a question.
 
-`CUT TO:`
 
----
-
-*End of Scene 2*
+CUT TO:

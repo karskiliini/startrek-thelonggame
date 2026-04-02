@@ -1,34 +1,30 @@
 # STAR TREK: THE LONG GAME
 ## Scene 5 — "THE INCIDENT"
 
----
 
-`INT. ENTERPRISE-A — BRIDGE — NIGHT WATCH`
+INT. ENTERPRISE-A — BRIDGE — NIGHT WATCH
+
 
 The shift has changed. Quieter now. The bridge lights are dimmed to night cycle — the soft blue-grey that makes everything feel like it's underwater.
 
 HUMMER at tactical. The readings scrolling across his console. He's been running the same analysis of the northern cluster for twenty minutes — the power consumption anomaly Spock flagged, the numbers that don't add up.
 
----
 
 The explosion happens on the night side of the planet.
 
 No visual confirmation — the detonation is below the horizon from Enterprise's current orbital position. What Hummer sees is data. A sudden thermal spike in the northern settlement cluster. Seismic displacement. Atmospheric particulate bloom consistent with a structural collapse.
 
----
 
-**HUMMER**
-Captain — explosion on the surface. Northern settlement, night side. No visual — we're on the wrong orbital arc.
+                         HUMMER
+          Captain — explosion on the surface. Northern settlement, night side. No visual — we're on the wrong orbital arc.
 
----
 
-**KIRK**
-Source?
+                         KIRK
+          Source?
 
----
 
-**HUMMER**
-Working.
+                         HUMMER
+          Working.
 
 His hands move across the console. Energy residue analysis. Blast pattern reconstruction from the seismic data. Atmospheric spectrography.
 
@@ -40,7 +36,7 @@ Every tactical officer learns the standard disruptor profiles at the Academy. Kl
 
 He should say something.
 
-Right now. Out loud. To Kirk. Three words: *Klingon disruptor signature.*
+Right now. Out loud. To Kirk. Three words: Klingon disruptor signature.
 
 But something stops him. Not fear. Not uncertainty about the data — the data is clear enough. Something else. Something in the shape of the attack itself.
 
@@ -52,7 +48,6 @@ The signature is Klingon. The behavior is not.
 
 He keeps calculating.
 
----
 
 The Klingon warbird is in a standard patrol orbit. As Hummer watches, it begins a slow orbital adjustment — the kind of minor correction any vessel makes a dozen times a day for fuel efficiency, thermal management, communications alignment. The movement takes it behind the planet's ionosphere for ninety seconds.
 
@@ -62,52 +57,44 @@ If it fired it. If anyone fired it from orbit at all.
 
 He had a window. The window is closed.
 
----
 
-**KIRK**
-*(watching the surface data on the main viewer)*
-Hummer. Report.
+                         KIRK
+               (watching the surface data on the main viewer)
+          Hummer. Report.
 
----
 
-**HUMMER**
-*(a beat — a beat too long)*
-Explosion in the northern settlement cluster. Power distribution hub. Casualty reports coming in from the surface.
+                         HUMMER
+               (a beat — a beat too long)
+          Explosion in the northern settlement cluster. Power distribution hub. Casualty reports coming in from the surface.
 
-*(beat)*
+               (beat)
 
-Blast pattern is... I'm still analyzing, sir.
+          Blast pattern is... I'm still analyzing, sir.
 
 Kirk looks at him.
 
-The specific look of a man who has been in enough tactical situations to know when *still analyzing* means something was there and is now gone.
+The specific look of a man who has been in enough tactical situations to know when still analyzing means something was there and is now gone.
 
 He says nothing.
 
 Looks back at the screen.
 
----
 
-**KIRK**
-*(to communications)*
-Get me Starfleet Command. Priority channel.
+                         KIRK
+               (to communications)
+          Get me Starfleet Command. Priority channel.
 
----
 
 The broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action. The Cardassian broadcast is polished but cracked — something in the composure has broken. This was not planned. Whatever is happening, it wasn't coordinated.
 
----
 
-**KIRK** *(CONT'D)*
-*(separately, quietly, in a voice that doesn't carry past the tactical station)*
-When you're done analyzing — come see me.
+                         KIRK (CONT'D)
+               (separately, quietly, in a voice that doesn't carry past the tactical station)
+          When you're done analyzing — come see me.
 
 Hummer looks at his console. The fragmentary signature. The night side. The behavior that doesn't match the data.
 
 He is right about all of it. He will never know.
 
-`CUT TO:`
 
----
-
-*End of Scene 5*
+CUT TO:
