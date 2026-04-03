@@ -56,6 +56,24 @@ He says nothing. Picks up his fork.
 Kirk noticed. He always notices.
 
 
+                         KIRK
+          Every time I see a good steak, I think of the time Bones and I were on a Klingon diet.
+
+
+                         McCOY
+          That was Rura Penthe, Jim. It wasn't a diet.
+
+
+                         KIRK
+          The food was worse than the prison.
+
+
+                         McCOY
+          The food was the prison.
+
+Hummer looks between them. The particular expression of a junior officer who is hearing senior officers discuss a penal colony on an ice moon with the cadence of a married couple arguing about a restaurant.
+
+
                          McCOY (CONT'D)
                (reaching for the water dispenser)
           Now. The question of hydration.
@@ -463,7 +481,69 @@ Kirk is very still.
                          KIRK (CONT'D)
           Except that it would.
 
-He reaches for the wine. Tops up Hummer's glass without asking. Changes the subject completely.
+He is quiet for a moment. Not changing the subject. Going somewhere with it.
+
+
+                         KIRK (CONT'D)
+          Gorkon told me something once. The night he died. We were sitting at a table not very different from this one — different wine, different company, considerably more tension. He said the future belongs to whoever is willing to sit at the table longest. I thought he meant diplomacy.
+
+               (beat)
+
+          Now I think he meant patience. The willingness to wait while everything in you says move.
+
+He reaches for the wine. Tops up Hummer's glass without asking.
+
+
+                         KIRK (CONT'D)
+          The old Earth submariners understood that. Before warp drive, before space — the ocean navies. The captains who won weren't the ones with the biggest torpedoes. They were the ones who could stand the pressure in the silence and the dark.
+
+               (beat)
+
+          There was a captain — I read about him at the Academy. His vessel was being hunted. Three destroyers above him, depth charges falling. He drove his submarine into an underwater canyon so narrow the hull scraped rock on both sides. Shut down every system. Sat there in the dark for sixteen hours while the enemy passed overhead.
+
+
+                         McCOY
+          Sixteen hours.
+
+
+                         KIRK
+          His crew thought he'd lost his mind. His executive officer drafted a relief-of-command order.
+
+
+                         McCOY
+          And?
+
+
+                         KIRK
+          The destroyers left. He surfaced. He's in every tactics textbook at the Academy.
+
+
+                         McCOY
+          And if a depth charge had hit that canyon wall? Close enough to collapse the rock?
+
+Kirk looks at him. Doesn't answer.
+
+McCoy holds the look. The specific silence of a doctor who has just described a man being buried alive and is watching the captain not flinch.
+
+
+                         McCOY (CONT'D)
+          Sixteen hours, Jim. Sitting in the dark. Knowing that one explosion in the wrong place buries you under a million tons of rock and nobody ever finds you.
+
+
+                         KIRK
+          The alternative was certain death on the surface.
+
+
+                         McCOY
+          So the choice was certain death or probable death in a stone coffin.
+
+
+                         KIRK
+          The choice was no choice at all. That's what made it work.
+
+McCoy shakes his head. The particular head-shake of a man who has served with James Kirk for thirty years and recognizes the tone of a captain who is not telling a story for entertainment.
+
+Kirk catches his eye. Smiles. Changes the subject completely.
 
 
                          KIRK (CONT'D)
