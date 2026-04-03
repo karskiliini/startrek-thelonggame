@@ -239,6 +239,27 @@ He makes a gesture with his hands. An explosion. Debris in multiple vectors simu
 
 
                          HUMMER (CONT'D)
+          You couldn't mine them the normal way. Couldn't just cut into them with phasers — the stress pockets would blow and you'd lose half the yield. Sometimes the whole rock.
+
+               (beat)
+
+          So you'd pack it first. Demolition charges — military-grade, shaped detonation. You'd drill six, maybe eight bore holes along the grain of the iron and set a ring pattern. Then you'd blow it.
+
+He picks up a piece of bread from the table. Holds it flat. Snaps it in half — clean, along the center.
+
+
+                         HUMMER (CONT'D)
+          Splits right down the middle. Like breaking hardtack. Two clean halves, stress pockets vented, and the mining phasers can do the rest without any surprises.
+
+He puts the bread down. Realizes he just used the captain's dinner as a geology demonstration. Slightly embarrassed.
+
+
+                         McCOY
+               (dry)
+          I was going to eat that.
+
+
+                         HUMMER (CONT'D)
           You learned to read the surface. The discoloration patterns that told you where the pockets were. Took about six months before you stopped getting surprised by them.
 
 
