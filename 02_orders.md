@@ -69,6 +69,34 @@ SPOCK approaches from the science station.
 
 
                          KIRK
+          Spock — we're being sent to assess the situation. That's what the orders say. Assess.
+
+He picks up the PADD. Puts it down again.
+
+
+                         KIRK (CONT'D)
+          Any Miranda-class survey ship could assess a border incident. A Soyuz-class with a good science officer could assess it. Why are they sending the Enterprise?
+
+
+                         SPOCK
+          I have been reviewing the region's activity profiles.
+
+               (beat)
+
+          Klingon presence in the Cordia corridor has increased by a factor of three in the past four years. Simultaneously, the Cardassian Union has committed significant infrastructure and personnel resources to the colony — well beyond what their humanitarian mandate would justify.
+
+Kirk looks at him. The look of a man who just heard the answer he was expecting — and didn't want.
+
+
+                         KIRK
+          So it's not a border incident.
+
+
+                         SPOCK
+          It is a border incident. It may also be considerably more than that.
+
+
+                         KIRK
           What do we know about the Klingon vessel?
 
 
@@ -89,7 +117,7 @@ He pauses. The pause of a man selecting the correct word from several available.
                          SPOCK
           I try not to underestimate people.
 
-Kirk almost smiles.
+Kirk almost smiles. But the smile doesn't quite land. He's still thinking about the question he asked and the answer Spock gave him.
 
 
                          KIRK
