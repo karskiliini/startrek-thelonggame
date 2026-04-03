@@ -32,69 +32,162 @@ There — in the energy signature. A disruptor frequency trace. Faint. Fragmenta
 
 He knows that frequency.
 
-Every tactical officer learns the standard disruptor profiles at the Academy. Klingon military disruptors operate on a frequency band that is distinct from Cardassian, Romulan, or any civilian mining equipment. The signature in the residue data is consistent with a ship-mounted disruptor bank. Not a hand weapon. Not a ground installation.
+Not from the Academy. From the belt.
 
-He should say something.
+Every tactical officer learns the standard disruptor profiles — Klingon military, Cardassian military, Romulan, civilian. The signature in the residue data matches none of them exactly. It reads close to Klingon — close enough that a standard comparison would flag it as Klingon military. But the frequency is offset. Shifted down into a band that Hummer has heard before.
 
-Right now. Out loud. To Kirk. Three words: Klingon disruptor signature.
+Mining disruptors. The modified civilian units the Klingon crews used in the asteroid belt — jury-rigged to cut through high-density iron ore, recalibrated by hand, every one of them slightly different because every crew tuned theirs to the rock they were cutting. He spent two years listening to that frequency. Eating next to men who argued over the right calibration the way other people argue over food.
 
-But something stops him. Not fear. Not uncertainty about the data — the data is clear enough. Something else. Something in the shape of the attack itself.
+A standard comparison flags it as Klingon military. Hummer knows it isn't.
 
-Night side. No witnesses. A single precision strike on infrastructure. This is not how Klingons operate. Hummer worked alongside Klingon crews for two years. He watched them fight over card games. He saw what happened when a Klingon felt disrespected — the immediate, public, theatrical violence of a species that considers secrecy a form of cowardice.
-
-K'Tagh threatened Kirk openly, on a channel everyone could hear. That is Klingon. A hidden strike on the night side of a planet while Enterprise can't see? That is something else.
-
-The signature is Klingon. The behavior is not.
-
-He keeps calculating.
-
-
-The Klingon warbird is in a standard patrol orbit. As Hummer watches, it begins a slow orbital adjustment — the kind of minor correction any vessel makes a dozen times a day for fuel efficiency, thermal management, communications alignment. The movement takes it behind the planet's ionosphere for ninety seconds.
-
-When it re-emerges, the fresh data chain is broken. The disruptor signature in Hummer's buffer is now an isolated reading without a continuous sensor correlation to the vessel that may have fired it.
-
-If it fired it. If anyone fired it from orbit at all.
-
-He had a window. The window is closed.
-
-
-                         KIRK
-               (watching the surface data on the main viewer)
-          Hummer. Report.
+And because he knows it — because his hands and ears and two years in the dark have given him something no Academy course teaches — he makes a decision that is not his to make.
 
 
                          HUMMER
-               (a beat — a beat too long)
-          Explosion in the northern settlement cluster. Power distribution hub. Casualty reports coming in from the surface.
+          Captain. Energy residue shows a disruptor trace. But the frequency profile doesn't match a ship-mounted weapons system.
+
+Kirk turns.
+
+
+                         HUMMER (CONT'D)
+          It reads close to Klingon military on a standard sweep — but the band offset is wrong. It's consistent with modified mining equipment. The kind used in the belt.
 
                (beat)
 
-          Blast pattern is... I'm still analyzing, sir.
+          This wasn't fired from orbit.
 
-Kirk looks at him.
+A beat. The bridge is very quiet.
 
-The specific look of a man who has been in enough tactical situations to know when still analyzing means something was there and is now gone.
+He has just told the captain of the Enterprise that the Klingon warbird — the one whose commander threatened them six hours ago, whose weapons are hot, who is orbiting the same planet — did not fire this shot.
 
-He says nothing.
-
-Looks back at the screen.
+He has told him this not as a detail in a report. Not as an anomaly to be evaluated. He has told him this as a conclusion. A finding. The tactical officer's professional judgment, delivered with the quiet confidence of a man who knows he is right because he has touched the thing he is talking about.
 
 
                          KIRK
-               (to communications)
+          Noted.
+
+One word. The temperature of it would take Hummer years to fully understand. Not anger. Not disagreement. The particular flatness of a captain who has just watched a junior officer make a decision that wasn't his to make — and who has decided to address it later, privately, when the bridge isn't listening.
+
+
+A chime from communications. Not the standard hailing frequency. A priority channel — the kind that cuts through everything else.
+
+
+                         COMMUNICATIONS OFFICER
+          Captain — incoming from the surface. Ambassador Marek. Priority one.
+
+
+                         KIRK
+          On screen.
+
+The viewscreen shifts. MAREK. The face is composed — the particular composure of a man who has spent thirty years making sure his face says exactly what he wants it to say. But the background is wrong. The room behind him is too bright. Emergency lighting. Someone is shouting in Cardassian off-screen. The composure is a lid on a pot that is boiling.
+
+
+                         MAREK
+          Captain Kirk. One of my settlements is on fire. Forty-seven casualties and counting. A power distribution hub that served twelve thousand people — gone.
+
+               (the voice is perfectly controlled — the control itself is the anger)
+
+          I need your authorization to deploy a security detail to the northern cluster. Immediately. Armed. Before the Klingons do whatever they plan to do next.
+
+
+                         KIRK
+          Ambassador — we're still assessing the —
+
+
+                         MAREK
+          Assessing. Yes. While you assess, my people are pulling bodies from rubble that smells like disruptor fire. The Klingon kind. The kind that has a very particular odor that my engineers recognized in the first thirty seconds.
+
+               (beat — the voice drops, not softer, more precise)
+
+          I have three hundred thousand people on this planet, Captain. I did not build this colony for thirty years to watch it burn while a Federation starship runs sensor sweeps.
+
+Kirk's jaw tightens. He has the data from his own tactical officer — data that says this wasn't the Klingons. Data he hasn't verified. Data delivered as a verdict by a lieutenant.
+
+He is standing between a Cardassian ambassador demanding action and a junior officer's conclusion. For one long moment the captain of the Enterprise has nothing to say.
+
+
+                         KIRK
+          Ambassador. Our sensor analysis indicates the disruptor signature is not consistent with a ship-mounted weapons system.
+
+
+                         MAREK
+               (a beat — the beat of a man who has just been told something he did not expect)
+          Not consistent.
+
+
+                         KIRK
+          The frequency profile suggests modified civilian equipment. Not the warbird.
+
+A silence. Marek's face does something very small and very controlled. The eyes narrow. Not surprise — recalculation.
+
+
+                         MAREK
+          Modified civilian equipment. On a planet with no civilian disruptors in any registry. Klingon frequency. Klingon weapon. But not — according to your sensors — the Klingon ship.
+
+               (beat)
+
+          Who performed this analysis?
+
+The question hangs. Kirk does not look at Hummer. He does not need to. Everyone on the bridge knows what is about to happen.
+
+
+                         KIRK
+          Mr. Hummer.
+
+Hummer feels the weight of his own name before he hears it. He straightens. Looks at the viewscreen. At the face of a man who has been building something for longer than Hummer has been alive.
+
+
+                         HUMMER
+          Ambassador. The frequency trace in the residue is offset from standard Klingon military bands. It's shifted into a range consistent with modified mining disruptors — civilian units recalibrated for high-density ore extraction. I'm familiar with the profile from —
+
+               (he hears himself — a lieutenant explaining his credentials to a diplomat)
+
+          — from prior experience in this system's asteroid belt.
+
+
+                         MAREK
+               (very quietly — the quiet that is worse than shouting)
+          Prior experience.
+
+               (beat)
+
+          You are telling me — lieutenant — that based on your personal familiarity with mining equipment, the Klingon military vessel in orbit — the one whose commander publicly threatened this ship six hours ago — is not responsible for an attack on my colony.
+
+Hummer says nothing. There is nothing to say. The sentence is accurate.
+
+
+                         MAREK (CONT'D)
+          Captain Kirk. I will be filing a formal request for armed security deployment within the hour. I will also be requesting that Starfleet Command review the sensor methodology your ship employed tonight.
+
+               (the composure hasn't cracked — it has hardened into something architectural)
+
+          Forty-seven people. And counting. I trust your lieutenant's mining experience will be a comfort to their families.
+
+The channel closes. Not hard, like K'Tagh. Precisely. The way a man closes a door when he wants you to hear the lock turn.
+
+On the bridge, silence. The kind that has weight.
+
+Kirk stands very still. He has just relayed a junior officer's conclusion to a foreign diplomat during an active crisis — and the conclusion, right or wrong, has made the Federation look like it is protecting the Klingons. Marek will make sure everyone who matters knows that. By morning the report will be on three desks. By afternoon, on twelve.
+
+
+The broadcasts begin — Klingon and Cardassian simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action.
+
+
+                         KIRK
+               (to communications — the voice flat, professional, the voice of a man putting the ship back together)
           Get me Starfleet Command. Priority channel.
 
+               (then, separately, quietly, in a voice that doesn't carry past the tactical station)
 
-The broadcasts begin — Cardassian and Klingon simultaneously, overlapping, both claiming the other's involvement, both demanding Federation action. The Cardassian broadcast is polished but cracked — something in the composure has broken. This was not planned. Whatever is happening, it wasn't coordinated.
+          When your shift ends — come see me.
 
+Hummer looks at his console. The frequency trace. The mining band. The expertise that no one else on this bridge has.
 
-                         KIRK (CONT'D)
-               (separately, quietly, in a voice that doesn't carry past the tactical station)
-          When you're done analyzing — come see me.
+He is right about all of it. He will never be rewarded for it.
 
-Hummer looks at his console. The fragmentary signature. The night side. The behavior that doesn't match the data.
+Because the correct report was three sentences: disruptor frequency trace in the residue, non-standard profile, recommend detailed analysis. Data up, interpretation attached, decision to the captain. Instead he delivered a verdict that cleared a suspect — on the authority of a lieutenant who cut rock for two years before he could afford the Academy. And Kirk, with nothing else in hand, carried that verdict into a diplomatic exchange where it became a position. A position the Federation did not authorize.
 
-He is right about all of it. He will never know.
+He doesn't know it yet, but what he said tonight will appear in a file. The file will say: the tactical officer made a determination of non-involvement during an active incident, based on personal experience rather than sensor protocol, which was subsequently communicated to Cardassian diplomatic personnel. The file will not mention that he was right. Files never do.
 
 
 CUT TO:
