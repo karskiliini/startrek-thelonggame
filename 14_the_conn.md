@@ -485,7 +485,33 @@ K'Tagh's ship is destroyed. But K'Tagh is not destroyed. If the Vor'nak finishes
 
 He does not need to defeat Enterprise. He needs to survive long enough for someone else to do it.
 
-Kirk's voice is still on the speaker. Offering help. Offering mercy. The specific kindness of a man who does not understand that kindness is a tactical error.
+Kirk's voice is still on the speaker. Offering help. Offering mercy.
+
+A YOUNG KLINGON OFFICER — one of the few still at a functional station — is listening to the open channel. Kirk's voice filling the damaged bridge. The offer. The sincerity in it.
+
+He turns to K'Tagh.
+
+
+                         YOUNG KLINGON OFFICER
+          Is this a deception?
+
+
+                         K'TAGH
+          No. He means it.
+
+The young officer stares at the speaker. Processing this. A Federation captain — whose ship they attacked, whose systems they damaged, whose crew they endangered — is offering to save their lives. Without conditions. Without negotiation. Without even the pretense of expecting something in return.
+
+
+                         YOUNG KLINGON OFFICER
+          Why?
+
+K'Tagh looks at him.
+
+He opens his mouth. Closes it.
+
+He looks back at the speaker. Kirk's voice, still there, still offering. The question hangs in the emergency lighting — the simplest question in any language, asked by a young Klingon who has been trained in tactics, strategy, deception, and the seventeen forms of honorable combat, and who has not been trained for this.
+
+K'Tagh has no answer. Not because the answer is complex. Because it is simple, and the simplicity of it is the part he cannot process. A man is offering help because a man needs help. That is the entire calculation. There is nothing behind it.
 
 K'Tagh reaches over and closes the channel.
 

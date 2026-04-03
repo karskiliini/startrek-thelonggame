@@ -698,7 +698,28 @@ The disruptor bank — the massive weapon system that was cycling to full charge
 
 
                          TORAL
-          Time to restore?
+          Casualties.
+
+The VOR'NAK SECURITY OFFICER checks his console. Half the displays are dark. He reads what remains.
+
+
+                         VOR'NAK SECURITY OFFICER
+          Decks three, five, and nine report losses. Deck nine is fully vented — the outer hull separated along the port seam. Thirty-one warriors were at stations on that deck.
+
+               (beat)
+
+          They are in vacuum now.
+
+He looks up from the console. He is smiling. Not cruelly. Not inappropriately. The particular smile of a man reporting that thirty-one of his colleagues died in battle — which is, in his culture, the only death worth reporting with anything other than embarrassment.
+
+
+                         VOR'NAK SECURITY OFFICER (CONT'D)
+          A good death. All of them.
+
+
+                         TORAL
+               (not acknowledging the smile, not condemning it)
+          Time to restore weapons?
 
 
                          VOR'NAK ENGINEER
