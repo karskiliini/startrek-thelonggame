@@ -122,7 +122,13 @@ It isn't a question.
 
 
                          SORAK
-          I have someone in mind.
+          I had Jim in mind.
+
+
+                         VOSS
+          Kirk?
+
+The word hangs for a moment. Not surprise — recognition. The recognition of a woman who understands what it means when an intelligence officer uses a first name.
 
 
 The turbolift slows. Voss looks at Sorak for a moment — the look of a woman who has been here before. Not this turbolift, but this conversation. Sorak presenting just enough to get what he needs without presenting what she'd actually need to justify it officially.

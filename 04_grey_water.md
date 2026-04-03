@@ -170,6 +170,79 @@ Hummer is looking at his console. His hands have stopped. He has just met the ma
 
 He stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a man just threatened to kill him over.
 
+A soft chime from the communications console. Not the standard hailing frequency — a private channel. Encrypted. The kind of channel that exists for people who don't use official channels.
+
+
+                         COMMUNICATIONS OFFICER
+          Captain — incoming on a secured frequency. Personal routing.
+
+
+Kirk glances at the identifier. Something in his face changes — not tension. The opposite. The slight easing of a man who has just heard from someone he trusts.
+
+
+                         KIRK
+          I'll take it here.
+
+The viewscreen shifts. Not to a Starfleet office. Not to a command center. To a room with no insignia. SORAK. The same face from the starbase dinner — but warmer now. The warmth of a man speaking to someone he doesn't have to perform for.
+
+
+                         SORAK
+          Hello, Jim.
+
+               (a beat — something almost like a smile)
+
+          I wish we were seeing each other under better circumstances. But with us, it always seems to be like this.
+
+
+                         KIRK
+               (the half-smile of a man who has heard this before)
+          You could retire. I hear Vulcan is nice this time of year.
+
+
+                         SORAK
+          I've been told.
+
+               (the warmth fades — not disappears, settles into something more careful)
+
+          I heard the Klingon greeting. K'Tagh is — K'Tagh. He'll perform on schedule.
+
+               (a beat — the pause of a man choosing what not to say)
+
+          It's the quiet ones I'd watch, Jim. The infrastructure numbers coming out of that colony don't match anything civilian. They haven't for years.
+
+
+                         KIRK
+          You've been watching this system for a while.
+
+
+                         SORAK
+          Someone had to.
+
+               (a beat — the voice of an old colleague being careful with a friend)
+
+          Jim. Be careful with the belt. The rogues are deadly.
+
+He says it the way a veteran says watch your back — a courtesy, nothing more. The kind of thing anyone would say to a friend heading into contested space. Kirk takes it as warmth. The bridge takes it as background.
+
+
+                         KIRK
+               (smiling — genuine, warm, the smile of a man who means it completely)
+          It's good to have you watching my back.
+
+Sorak smiles. The smile reaches his eyes. It is, by every visible measure, the smile of a friend.
+
+The channel closes.
+
+On the bridge, Spock is at his console. His expression hasn't changed. But his hands have — they are already entering new scan parameters. Asteroid cloud composition. Subsurface density variance. The kind of survey that takes hours and that nobody runs unless they have a reason to look.
+
+Sorak gave the bridge a warning. Kirk heard concern. Spock heard a question.
+
+He does not know that a man he has never met calculated that he would.
+
+Kirk stands a little straighter. Not because the conversation gave him information — it didn't. Because it reminded him that somewhere behind the politics, someone he knows is watching. Someone competent. Someone who has been right about these things before.
+
+He doesn't know yet what that costs.
+
 
                          KIRK (CONT'D)
                (to Spock, quietly)
