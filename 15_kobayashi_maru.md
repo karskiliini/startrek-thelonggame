@@ -1205,20 +1205,32 @@ Enterprise waits.
 INT. IKS VOR'NAK — BRIDGE — CONTINUOUS
 
 
-The disruptor bank.
+The VOR'NAK ENGINEER is at the forward weapons console. Not the access panel — the console itself. He has been hitting it. Not metaphorically. With the heel of his hand, with the flat of his fist, with the specific percussive diagnostic technique taught at the Klingon Imperial Engineering Academy — which is, in practice, indistinguishable from hitting something because you are angry at it.
 
-The emitters.
+He hits it again. The console flickers. Dark. He hits it harder.
 
-A flicker.
+The console flickers again — and this time, something changes. A light. Green. Faint. The weapons status indicator cycling from dead black to the first pale suggestion of power.
 
-Green. Faint. The first pulse of energy running through the secondary bypass — the improvised circuit built from communications conduit and bleeding hands and the particular Klingon engineering philosophy that anything can carry power if you force it hard enough.
+The engineer stares at it. Hits the console once more — carefully now, the same spot, the same angle, the way a man repeats a lucky gesture because he believes in the physics of his own hand.
 
-The emitters glow. Brighter. The green cycling up from standby toward operational, the color deepening as the charge builds.
+The green brightens.
+
+The emitters glow. The cycling builds — from standby toward operational, the color deepening.
+
+The engineer's eyes widen. The particular look of a man who has just witnessed his own competence and is slightly surprised by it.
+
+He does not know that three decks below, a SECOND ENGINEER has just completed the actual repair — two severed power cables, each as thick as a man's arm, forced together and held in place by a magnetic clamp that was designed for hull plating and is being used for something its manufacturer would not approve of. This engineer throws the main relay. The relay closes with a sound that travels through the ship's frame — a deep, resonant clunk, felt in the bones.
+
+The power routes upward through the secondary bypass. Through conduits that were never rated for weapons-grade load. Through junction points that are already heating. Through the forward console where the first engineer's hand is still resting on the casing he has been beating for the last four minutes.
+
+The console comes fully alive under his palm. The weapons display blazing green. The disruptor charge climbing — forty percent, fifty, the emitters aligning.
+
+The engineer looks at the console. Looks at his hand. The hand that fixed it.
 
 
                          VOR'NAK ENGINEER
-               (from the access panel, his voice raw)
-          Disruptors online! Forty percent charge — it's climbing!
+               (the pride of a man who believes absolutely in what just happened)
+          Disruptors online! Forty percent — climbing!
 
 Toral looks at the weapons display. The green bar rising. Forty. Fifty. The targeting system cycling to active — the forward bank aligning, the emitters focusing.
 
