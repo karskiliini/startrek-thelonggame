@@ -526,7 +526,7 @@ The only player whose long game is purely selfless. Plants a seed in a young off
 
 ---
 
-## DR. McCOY — Chief Medical Officer
+## DR. McCoy — Chief Medical Officer
 ### The humanizing force. Kirk's emotional barometer. Cast: DeForest Kelley (Star Trek VI age).
 
 His role at the dinner table is specific: lower Hummer's guard completely. Self-deprecating stories about his privileged background create the contrast that lets Hummer speak honestly about Vega Colony and the freight hauler and two years cutting rock in the dark.

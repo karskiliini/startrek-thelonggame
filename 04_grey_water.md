@@ -5,7 +5,7 @@
 EXT. SPACE — CORDIA SYSTEM
 
 
-Enterprise drops out of warp. The first time the ship has moved with purpose since we met her orbiting that forgettable planet.
+Enterprise drops out of warp.
 
 The system opens on the viewer. The planet — green and blue, the same one from the opening sequence, still beautiful, still looking cared for. The moon with its dark canyon wound. And beyond it, the asteroid belt. A river of ancient rock.
 
@@ -160,7 +160,7 @@ On the bridge, a long silence.
 Hummer is looking at his console. His hands have stopped. He has just met the man he will fight in a dark corridor between asteroids he used to cut for a living.
 
 
-                         McCOY
+                         BONES
                (very quietly)
           Jim.
 
@@ -273,13 +273,9 @@ Kirk looks back at the planet.
                (to the bridge, changing the subject with the particular authority of a man who has decided that what he just saw requires time to think about)
           Standard orbit. All departments, full readiness. I want a senior staff briefing in one hour.
 
-               (beat — quieter, to no one in particular)
+He looks at the grey light on the bridge. The recycled air. The ship that should have been retired and wasn't.
 
-          And fix the water.
-
-Nobody responds. Nobody can fix the water. The membranes are on backorder.
-
-But the order feels like something else. It feels like a man who has arrived somewhere that is going to cost him something, and wants one small thing to be right before it begins.
+He doesn't say anything about the water. He doesn't have to. Everyone on the bridge is drinking it.
 
 
 CUT TO:

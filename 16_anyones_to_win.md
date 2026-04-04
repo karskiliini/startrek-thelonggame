@@ -347,7 +347,7 @@ INT. ENTERPRISE-A — CAPTAIN'S QUARTERS — LATER
 
 The same room. The same table. Set for three — the same number as Marek's dinner at the beginning of the film.
 
-KIRK, McCOY and HUMMER. Hummer is not in dress uniform this time. He knows better now.
+KIRK, McCoy and HUMMER. Hummer is not in dress uniform this time. He knows better now.
 
 Kirk reaches under the table. Produces a bottle.
 
@@ -392,7 +392,7 @@ McCoy looks at his glass. The Kanar, not the water. He picks up the water glass 
 He holds it to the light.
 
 
-                         McCOY
+                         BONES
           For us, the water is always grey.
 
 Kirk picks up his glass. The water, not the Kanar. Holds it up. Looks at it. The same gesture. The same grey.

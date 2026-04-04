@@ -41,13 +41,13 @@ INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
 KIRK stands at the main viewer.
 
-He looks tired. Not dramatically — not the exhaustion of crisis, just the specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop. The decommission orders would have been the answer. Enterprise retired. Kirk retired. The story ending where it should.
+He looks tired. Not dramatically — not the exhaustion of crisis, just the specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop. His hand, when he reaches for the console, has a tremor. Small. The kind a man learns to disguise by keeping his hands busy. The decommission orders would have been the answer. Enterprise retired. Kirk retired. The story ending where it should.
 
 Instead — someone rescinded the orders. Someone decided the old ship and the old captain had one more assignment in them. Kirk doesn't know who. He suspects he wouldn't like the answer.
 
-He's reading mission orders on a PADD. We can't see the screen but we can see his face, and his face is doing the thing it does when he's reading something that tells him less than he needs to know.
+He's reading mission orders on a PADD. We can't see the screen but we can see his face, and his face is doing the thing it does when he's reading something that tells him less than he needs to know. The PADD shakes — once, barely — in his grip.
 
-He reads it twice. Sets the PADD down.
+He reads it twice. Sets the PADD down. Carefully. The way a man sets something down when he doesn't trust his hands to do it smoothly.
 
 Looks at the viewer. Earth below. He can see the outline of North America. Iowa is down there somewhere. Home — if that word still means anything to a man who has spent thirty years making sure it doesn't have to.
 
@@ -78,74 +78,17 @@ He picks up the PADD. Puts it down again.
           Any Miranda-class survey ship could assess a border incident. A Soyuz-class with a good science officer could assess it. Why are they sending the Enterprise?
 
 
-                         SPOCK
-          I have been reviewing the region's activity profiles.
-
-               (beat)
-
-          Klingon presence in the Cordia corridor has increased by a factor of three in the past four years. Simultaneously, the Cardassian Union has committed significant infrastructure and personnel resources to the colony — well beyond what their humanitarian mandate would justify.
-
-Kirk looks at him. The look of a man who just heard the answer he was expecting — and didn't want.
-
-
-                         KIRK
-          So it's not a border incident.
+Spock considers the question. He does not have an answer — not yet. The orders arrived less than an hour ago. The kind of analysis Kirk is asking for requires time he has not yet had.
 
 
                          SPOCK
-          It is a border incident. It may also be considerably more than that.
-
-
-                         KIRK
-          What do we know about the Klingon vessel?
-
-
-                         SPOCK
-          IKS Rotarran-class. Commander K'Tagh. His record is —
-
-He pauses. The pause of a man selecting the correct word from several available.
-
-
-                         SPOCK (CONT'D)
-          Distinguished.
-
-
-                         KIRK
-          High praise from you.
-
-
-                         SPOCK
-          I try not to underestimate people.
-
-Kirk almost smiles. But the smile doesn't quite land. He's still thinking about the question he asked and the answer Spock gave him.
-
-
-                         KIRK
-          What about the Cardassian ship?
-
-
-                         SPOCK
-          Three weeks in standard orbit with no deviation. They cite ongoing humanitarian coordination with the colony administration.
-
-               (beat)
-
-          The colony administration's communications with Cardassia Prime have increased by three hundred and forty percent in the same period.
-
-Kirk looks at him.
-
-
-                         SPOCK (CONT'D)
-          Humanitarian coordination rarely requires that volume of encrypted traffic.
-
-
-                         KIRK
-          No. It doesn't.
+          I will have a full regional assessment by this evening.
 
 He picks up the PADD again. Sets it down again.
 
 
                          KIRK (CONT'D)
-          Have Dr. McCoy join me for dinner tonight.
+          Have Dr. McCoy join us for dinner tonight.
 
                (almost as an afterthought)
 

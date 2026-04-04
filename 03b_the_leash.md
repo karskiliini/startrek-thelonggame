@@ -72,111 +72,107 @@ He opens the channel.
 SPLIT SCREEN — K'TAGH / MAREK
 
 
-MAREK appears. He is in a kitchen. Cooking. The apron. The knives. A pot on the heat behind him. He is preparing something with the unhurried attention of a man who has nowhere else to be — which is, itself, a message.
+MAREK appears. He is in a room aboard the Cardassian vessel — low light, a tactical display behind him cycling through data he has clearly been watching for hours. He looks composed but alert. The posture of a man who has not left this room in some time.
 
 
                          MAREK
-          Commander. I trust the orbit is uneventful.
+          Commander K'Tagh. I wanted to discuss the incident in the eastern residential block.
 
 
                          K'TAGH
-          Twenty-two days is not uneventful. Twenty-two days is a waste of a warship and a crew that was built to fight.
+          Six dead. I heard.
 
 
                          MAREK
-          Twenty-two days is investment. The incident has had its effect. The Federation Council has been in session for six days. They are doing what the Federation always does.
+          Six Cardassian dead. Two children. Military-grade ordnance. The yield profile is consistent with weapons that require manufacturing infrastructure considerably beyond what civilians have access to.
 
-
-                         K'TAGH
-          Nothing.
-
-
-                         MAREK
-               (correcting, gently)
-          Slowly. They are doing things slowly. There is a difference.
-
-He stirs something. The sound of it carries through the channel — domestic, incongruous against the bare metal of K'Tagh's quarters.
+He lets the sentence do its work.
 
 
                          MAREK (CONT'D)
-          The Federation is not built for speed, Commander. It is built for consensus. Consensus requires committees. Committees require reports. Reports require time. And while they take that time — while they debate and draft and defer — the situation on the ground continues to develop in our favor. Every day they deliberate is a day we build.
-
-               (beat)
-
-          This is how it works. This is how it has always worked. Patience.
+          I would like to understand how weapons of that specification came to be used in a residential district where fourteen thousand Cardassian nationals live under what I had understood to be a shared security arrangement.
 
 
                          K'TAGH
-          Patience is a Cardassian word for cowardice.
+          You are asking me if Klingons killed your people.
 
 
                          MAREK
-          Patience is a Cardassian word for winning without fighting. I understand the concept is unfamiliar.
+          I am asking what happened. I am asking because someone in this system knows the answer, and I would prefer to hear it from you than to reconstruct it from forensics.
 
-          K'Tagh's jaw tightens. Marek doesn't react to it. He is slicing something on a cutting board — the steady rhythm of the knife not changing, not slowing, not acknowledging the tension.
+K'Tagh looks at him. The particular look of a man deciding whether the question is genuine or whether it is a weapon being positioned.
+
+
+                         K'TAGH
+          What happens in the corridor is Klingon business. We patrol it. We have patrolled it for thirty years. If there are elements in this system that the Empire has not yet brought to heel — that is an operational matter. Not a Cardassian one.
+
+
+                         MAREK
+          Elements.
+
+One word. The way he says it makes it clear he heard everything K'Tagh did not say.
 
 
                          MAREK (CONT'D)
-          The critical thing now is that the Federation does not send anyone to look closely. As long as they debate from a distance, we control the information. The incident report is ours. The humanitarian metrics are ours. The narrative is ours.
+          Commander — the Klingon presence in the Cordia corridor has tripled in four years. Your ship has been in orbit for twenty-two days. And now six of my people are dead in their homes.
 
-               (he looks up from the cutting board — directly into the screen for the first time)
+               (beat — quiet, precise)
 
-          If they send a ship — if they send someone with the authority and the instinct to look at this system from orbit and see what is actually here — then the calculus changes. They will see the personnel density. They will see the power consumption. They may see worse.
+          I am not assigning blame. I am reading a pattern. And the pattern concerns me.
 
 
                          K'TAGH
-          Then we deal with whoever they send.
+          You should be concerned. This system is changing. The balance is changing. Your schools and your hospitals and your market where the administrators know the vendors by name — all of that exists because the Empire allows it to exist.
+
+He leans closer to the screen.
+
+
+                         K'TAGH (CONT'D)
+          Do not confuse permission with permanence.
 
 
                          MAREK
-          No.
+          And the attacks? Are they part of the change — or a prelude to something larger?
 
-The word is quiet. Final.
+The question lands. K'Tagh's face does something — not quite a flinch. The micro-expression of a man who has just been asked the exact question he didn't want to answer.
 
-
-                         MAREK (CONT'D)
-          We do not deal with them. We wait. We cooperate. We show them the schools and the hospitals and the infant mortality statistics and the market where Cardassian administrators know the vendors by name. We show them thirty years of genuine investment in a colony that the Federation neglected. And we let them conclude — on their own, at their own pace, through their own institutional paralysis — that there is nothing here worth fighting over.
-
-               (beat)
-
-          That is how you win this game, Commander. Not by dealing with people. By making sure they never have a reason to look past the surface.
+He doesn't answer it.
 
 
                          K'TAGH
-          And if they do look past the surface?
+          I am a military commander, Gul. I hold this corridor. What happens in it is what I decide happens in it.
 
 
                          MAREK
-          Then we have a problem that your disruptors cannot solve. And I will have to solve it with mine.
-
-He holds up the knife. The blade catches the light. He is smiling — the particular smile of a man who has just made a joke about his cooking utensils that is not entirely a joke.
-
-
-                         MAREK (CONT'D)
-          Patience, Commander. A few more weeks of orbit. Then we will have what we came for.
-
-
-K'Tagh looks at him. His face is the face of a man who has been told to wait by someone who has never had to hold a crew together through twenty-two days of nothing. He doesn't argue. But he doesn't agree either.
+          That is not an answer.
 
 
                          K'TAGH
-          If the Federation sends a ship — I will respond as I see fit.
+          It is the only answer you are going to get.
+
+A long silence. Two men on two ships looking at each other through a screen. Neither blinking.
 
 
                          MAREK
-          If the Federation sends a ship, you will do nothing until I tell you otherwise.
+          If the Empire is planning something in this system — a realignment, an escalation, a change of posture — I would ask you to consider that thirty years of Cardassian infrastructure does not disappear quietly. If it is threatened, Cardassia Prime will respond. And the response will not be measured in warbirds.
 
-K'Tagh stares at him. The distance between them is the distance between a man who solves problems with a blade and a man who solves problems with a recipe. They are allies. They do not like each other.
+K'Tagh grins. The grin of a man who has just been threatened by someone who thinks threats are made with words.
 
 
                          K'TAGH
-          We will see.
+          You build hospitals. We build warriors. We will see which lasts longer.
 
 He closes the channel.
 
-Marek looks at the dark screen. He is still holding the knife. The smile is gone.
+Marek looks at the dark screen for a long time.
 
-He goes back to cooking. The knife resumes its rhythm on the cutting board. Steady. Patient. The sound of a man who knows that the tool he is most worried about is not the one in his hand.
+He did not get the answer he came for. K'Tagh did not deny the attacks. He did not claim them either. He spoke about the corridor as territory — his territory — and about change, and about permission.
+
+Marek turns back to his display. The data scrolls. Klingon fleet movements. Troop deployments. Supply chain projections.
+
+He is trying to determine whether what just happened was a border commander posturing — or the first warning of something much larger.
+
+He does not know yet. That is what frightens him.
 
 
 CUT TO:

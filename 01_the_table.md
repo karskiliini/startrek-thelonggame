@@ -42,23 +42,15 @@ INT. STARBASE 12 — CORRIDOR / TURBOLIFT — CONTINUOUS
 
 
                          SORAK
-          Gul Marek has been aboard for two days. He requested a private kitchen six days ago. Had equipment shipped from his vessel. A cutting surface. A specific heat source. An apron.
+          Gul Marek has been aboard for two days. He arranged private quarters on this level. The modifications to the standard layout were — significant.
 
 
                          VOSS
-          He brought an apron to a starbase.
+          Significant how?
 
 
                          SORAK
-          He brought an apron, three knives, a live animal, and a case of Kanar. The animal was slaughtered aboard his ship this morning. The Kanar is a sixty-eight vintage.
-
-
-                         VOSS
-          How do you know the vintage?
-
-
-                         SORAK
-          Because I know what a sixty-eight costs. And I know what it means when someone spends that on people he's about to ask a favour from.
+          The kind of significant that requires either extraordinary rank or extraordinary influence. A Gul does not have that rank.
 
 
 They reach the turbolift. The doors open. They step in.
@@ -167,7 +159,7 @@ Sorak registers it. Files it. The turbolift is either a convenience or a signal.
 
 
                          MAREK (CONT'D)
-          I apologize for the delay — the taska is temperamental. It requires a specific heat for the first four minutes or the protein seizes.
+          I apologize for the delay — the taska was prepared yesterday, but the final sear is temperamental. A specific heat for the first four minutes or the protein seizes.
 
                (to Sorak)
 

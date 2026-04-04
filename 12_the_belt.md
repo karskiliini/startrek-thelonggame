@@ -94,7 +94,7 @@ Kirk looks at Spock. Spock raises an eyebrow — not objection, calculation. The
           A mining shuttle with one operator is invisible. Two is unusual. Three is suspicious.
 
 
-McCOY, who has been standing near the turbolift, says nothing. His face says everything.
+McCoy, who has been standing near the turbolift, says nothing. His face says everything.
 
 Kirk looks at Hummer for a long moment. Thirty-four hours until the Vor'nak arrives. He needs to know what's in that belt before he goes to the surface.
 

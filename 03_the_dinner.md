@@ -26,7 +26,7 @@ The door opens. HUMMER enters.
 He's in full dress uniform — the only one at the table who is. He reads the room in approximately half a second and knows he got it wrong.
 
 
-                         McCOY
+                         BONES
           Lose the jacket and sit down.
 
 Hummer removes the jacket. Folds it over a chair back with the precision of someone for whom disorder has always had real consequences. Sits.
@@ -36,8 +36,8 @@ Hummer removes the jacket. Folds it over a chair back with the precision of some
           I wasn't sure of the agenda.
 
 
-                         McCOY
-          The agenda is: table for four, one bottle, informal, no agenda.
+                         BONES
+          The agenda is: informal, food, the assignment.
 
 Kirk leans forward and pours for Hummer. Catches his eyes for half a second.
 
@@ -60,7 +60,7 @@ Kirk noticed. He always notices.
           Every time I see a good steak, I think of the time Bones and I were on a Klingon diet.
 
 
-                         McCOY
+                         BONES
           That was Rura Penthe, Jim. It wasn't a diet.
 
 
@@ -68,13 +68,13 @@ Kirk noticed. He always notices.
           The food was worse than the prison.
 
 
-                         McCOY
+                         BONES
           The food was the prison.
 
 Hummer looks between them. The particular expression of a junior officer who is hearing senior officers discuss a penal colony on an ice moon with the cadence of a married couple arguing about a restaurant.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
                (reaching for the water dispenser)
           Now. The question of hydration.
 
@@ -85,7 +85,7 @@ Grey. Slightly cloudy.
 He regards it with the expression of a man who has been personally wronged by an inanimate object.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
           I'm a doctor not a plumber.
 
 He sets it down. Pours wine instead.
@@ -98,7 +98,7 @@ Nobody at the table comments on the grey water. They've all gotten used to it. W
           That's from the filtration membrane?
 
 
-                         McCOY
+                         BONES
           Backorder. Three weeks and counting. Apparently someone decided the water supply of the Federation flagship is a discretionary expense.
 
 
@@ -106,7 +106,7 @@ Nobody at the table comments on the grey water. They've all gotten used to it. W
           And the crew hasn't complained once.
 
 
-                         McCOY
+                         BONES
           The crew is drinking fog.
 
 
@@ -124,7 +124,7 @@ Hummer looks at his glass. Holds it up to the light — the faint milky opacity 
 McCoy turns. Slightly surprised.
 
 
-                         McCOY
+                         BONES
           How would you know that?
 
 
@@ -142,13 +142,13 @@ A small silence. The specific silence of a man who has revealed something about 
           If you add a trace amount of calcium hypochlorite to the glass — just the glass, not the system — it binds to the particulate and precipitates out in about thirty seconds. You get one clear glass. The membrane residue settles to the —
 
 
-                         McCOY
+                         BONES
           — bottom as a calcium carbonate film.
 
 He stops. Stares at Hummer. Then at his own glass. The look of a man who has been a doctor for thirty years and has just been shown a field medic's trick that works better than his complaint.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
           That's — yes. That's basic chemistry. I should have —
 
 
@@ -156,13 +156,13 @@ He stops. Stares at Hummer. Then at his own glass. The look of a man who has bee
           It doesn't scale. You can't dose the whole ship's supply — the concentration would have to be maintained dynamically and the carbonate buildup would clog the secondary —
 
 
-                         McCOY
+                         BONES
           No, I know. I know why it doesn't scale. I'm annoyed that I didn't think of it for one glass.
 
 Kirk watches this exchange. Says nothing. Files something.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
                (to Hummer, changing the subject with the ease of a man who has been changing subjects his whole career)
           Where are you from?
 
@@ -171,7 +171,7 @@ Kirk watches this exchange. Says nothing. Files something.
           Vega Colony. Originally.
 
 
-                         McCOY
+                         BONES
           Originally.
 
 
@@ -187,7 +187,7 @@ Kirk watches this exchange. Says nothing. Files something.
 A small silence. The particular silence that follows something true.
 
 
-                         McCOY
+                         BONES
           I'm from Georgia. My father was a doctor. His father was a doctor. I became a doctor because it simply never occurred to me not to.
 
                (beat)
@@ -200,7 +200,7 @@ A small silence. The particular silence that follows something true.
           Nothing about Vega Colony made anything feel inevitable.
 
 
-                         McCOY
+                         BONES
           No. I imagine not.
 
 Kirk has been listening. Not obviously — he's been eating, refilling glasses, present in the surface conversation. But his attention has the particular quality it gets when he's reading someone. Not assessing. Reading.
@@ -236,7 +236,7 @@ Something moves behind Kirk's eyes. Very briefly. He doesn't look at Spock.
 He stops. Looks up. Slightly self-conscious — he's been talking about asteroid mining at a senior officers' dinner table.
 
 
-                         McCOY
+                         BONES
           No — go on. I find I prefer stories about actual work to most of what I hear at this table.
 
 
@@ -272,7 +272,7 @@ He picks up a piece of bread from the table. Holds it flat. Snaps it in half —
 He puts the bread down. Realizes he just used the captain's dinner as a geology demonstration. Slightly embarrassed.
 
 
-                         McCOY
+                         BONES
                (dry)
           I was going to eat that.
 
@@ -281,7 +281,7 @@ He puts the bread down. Realizes he just used the captain's dinner as a geology 
           You learned to read the surface. The discoloration patterns that told you where the pockets were. Took about six months before you stopped getting surprised by them.
 
 
-                         McCOY
+                         BONES
           And after six months?
 
 
@@ -309,7 +309,7 @@ The question lands somewhere unexpected. Hummer is quiet for a moment.
           It was like — the old frontier stories. The ones where the town doesn't have a name yet because nobody expects it to last long enough to need one.
 
 
-                         McCOY
+                         BONES
           And the violence?
 
 
@@ -363,7 +363,7 @@ He stops.
 Nobody says anything for a moment.
 
 
-                         McCOY
+                         BONES
           The colony's replicators are Cardassian-spec. Thirty years of infrastructure investment and the best thing they built is a food system. Three hundred thousand Federation citizens eating better than the crew of this ship.
 
 
@@ -371,7 +371,7 @@ Nobody says anything for a moment.
           Don't tell the crew.
 
 
-                         McCOY
+                         BONES
           They know. They always know.
 
 Silence. The ship sounds around them.
@@ -425,7 +425,7 @@ Hummer is quiet. Not the quiet of someone searching for an answer. The quiet of 
 A beat.
 
 
-                         McCOY
+                         BONES
           Including yours?
 
 
@@ -502,7 +502,7 @@ He reaches for the wine. Tops up Hummer's glass without asking.
           There was a captain — I read about him at the Academy. His vessel was being hunted. Three destroyers above him, depth charges falling. He drove his submarine into an underwater canyon so narrow the hull scraped rock on both sides. Shut down every system. Sat there in the dark for sixteen hours while the enemy passed overhead.
 
 
-                         McCOY
+                         BONES
           Sixteen hours.
 
 
@@ -510,7 +510,7 @@ He reaches for the wine. Tops up Hummer's glass without asking.
           His crew thought he'd lost his mind. His executive officer drafted a relief-of-command order.
 
 
-                         McCOY
+                         BONES
           And?
 
 
@@ -518,7 +518,7 @@ He reaches for the wine. Tops up Hummer's glass without asking.
           The destroyers left. He surfaced. He's in every tactics textbook at the Academy.
 
 
-                         McCOY
+                         BONES
           And if a depth charge had hit that canyon wall? Close enough to collapse the rock?
 
 Kirk looks at him. Doesn't answer.
@@ -526,7 +526,7 @@ Kirk looks at him. Doesn't answer.
 McCoy holds the look. The specific silence of a doctor who has just described a man being buried alive and is watching the captain not flinch.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
           Sixteen hours, Jim. Sitting in the dark. Knowing that one explosion in the wrong place buries you under a million tons of rock and nobody ever finds you.
 
 
@@ -534,7 +534,7 @@ McCoy holds the look. The specific silence of a doctor who has just described a 
           The alternative was certain death on the surface.
 
 
-                         McCOY
+                         BONES
           So the choice was certain death or probable death in a stone coffin.
 
 
@@ -550,7 +550,7 @@ Kirk catches his eye. Smiles. Changes the subject completely.
           McCoy, you were telling a story earlier with no ending.
 
 
-                         McCOY
+                         BONES
           It has an ending. The ending requires seventeen minutes of context.
 
 
@@ -558,7 +558,7 @@ Kirk catches his eye. Smiles. Changes the subject completely.
           Summarize.
 
 
-                         McCOY
+                         BONES
           A man, a compromised situation, a decision that was technically correct and entirely wrong.
 
 
@@ -566,7 +566,7 @@ Kirk catches his eye. Smiles. Changes the subject completely.
           That's most of Starfleet.
 
 
-                         McCOY
+                         BONES
           That's most of everything.
 
 The dinner continues. Hummer fully relaxed now — McCoy being funny, Kirk asking questions that seem idle, Spock occasionally deploying an observation with the dry precision of someone who has calibrated exactly how much wit is socially appropriate.
@@ -590,7 +590,7 @@ He retrieves his folded jacket. Pauses at the door.
           The filtration membranes. I used to patch similar units on the haulers — there's a trick with the ion exchange layer that sometimes buys you a few more weeks. Doesn't fix them. But it might take the fog down a grade or two.
 
 
-                         McCOY
+                         BONES
           It's worth a try.
 
 
@@ -601,16 +601,63 @@ He leaves.
 
 The door closes.
 
+The room is quiet. The ship sounds around them. Three men who have done this a hundred times — the dinner that was a dinner and also something else.
+
+Spock, who has been reviewing data on a PADD throughout the evening, sets it aside.
+
+
+                         SPOCK
+          Captain. I have completed the regional assessment.
+
+               (beat)
+
+          Klingon presence in the Cordia corridor has increased by a factor of three in the past four years. Simultaneously, the Cardassian Union has committed significant infrastructure and personnel resources to the colony — well beyond what their humanitarian mandate would justify.
+
+Kirk looks at him. The look of a man who asked a question on the bridge hours ago and is only now getting the answer he was expecting — and didn't want.
+
+
+                         KIRK
+          So it's not a border incident.
+
+
+                         SPOCK
+          It is a border incident. It may also be considerably more than that.
+
+
+                         KIRK
+          What do we know about the Klingon vessel?
+
+
+                         SPOCK
+          IKS Rotarran-class. Commander K'Tagh. His record is —
+
+He pauses. The pause of a man selecting the correct word from several available.
+
+
+                         SPOCK (CONT'D)
+          Distinguished.
+
+
+                         KIRK
+          High praise from you.
+
+
+                         SPOCK
+          I try not to underestimate people.
+
+Kirk almost smiles. But the smile doesn't quite land.
+
+
 McCoy sits back in his chair with the particular posture of a man who has just had a good evening and knows it.
 
 
-                         McCOY
+                         BONES
           I like him.
 
 Kirk says nothing. Turns his empty glass slowly on the table. Looking at it.
 
 
-                         McCOY (CONT'D)
+                         BONES (CONT'D)
           Don't let him get himself killed.
 
 Kirk looks at his glass. Picks it up. Turns it slowly in his hand — the grey water catching what light there is. The particular gesture of a man weighing something that doesn't fit in a glass.
@@ -637,9 +684,49 @@ The seed planted in the only soil where it would grow.
 
 Memory.
 
+Then something else passes between them. Quieter. The Klingon presence tripled. The infrastructure numbers that don't match anything civilian. A border incident that may be considerably more than that.
+
+And the simple arithmetic of distance: fourteen hours at maximum warp. Every hour they wait is an hour the situation develops without anyone watching.
+
+
+                         KIRK
+          Spock.
+
+Spock stops at the door. Turns.
+
+
+                         KIRK (CONT'D)
+          How long since the last attack on the colony?
+
+Spock doesn't need to check.
+
+
+                         SPOCK
+          Eleven days.
+
+Kirk nods. The nod of a man who has just done the math and doesn't like the answer.
+
 Spock leaves.
 
-Kirk sits alone at the table with an empty bottle and a glass of grey water neither of them drank.
+Kirk sits alone at the table for three seconds. Then he taps his communicator.
+
+
+                         KIRK
+          Kirk to bridge. Lay in a course for the Cordia system. Warp six.
+
+A pause. The bridge officer's voice comes back, professional, slightly surprised.
+
+
+                         BRIDGE OFFICER (V.O.)
+          Aye, Captain. Course laid in. Warp six at your order.
+
+
+                         KIRK
+          Engage.
+
+He sets down the glass of grey water. Stands. Leaves the room.
+
+The table sits empty. The bottle. The glasses. The quiet that follows a man who has stopped waiting.
 
 
 CUT TO:

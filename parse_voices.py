@@ -24,7 +24,7 @@ import sys
 
 VOICE_MAP = {
     "KIRK": "Mike",
-    "McCOY": "Davis",
+    "BONES": "Davis",
     "SPOCK": "Davis",
     "ADMIRAL VOSS": "Grace",
     "VOSS": "Grace",
@@ -41,7 +41,7 @@ DEFAULT_VOICE = "Carter"
 
 # Display names for narrator to speak
 DISPLAY_NAMES = {
-    "McCOY": "McCoy",
+    "BONES": "Bones",
     "LT. COMMANDER": "Lieutenant Commander",
 }
 
@@ -51,6 +51,8 @@ PHONETIC = [
     (r'\bVOSS\b', 'VAWSS'),
     (r'\bKirk\b', 'Kurk'),
     (r'\bKIRK\b', 'KURK'),
+    (r'\bEnterprise\b', 'Enter Prize'),
+    (r'\bENTERPRISE\b', 'ENTER PRIZE'),
 ]
 
 # Indentation thresholds

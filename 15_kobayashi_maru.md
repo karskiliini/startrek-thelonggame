@@ -320,7 +320,7 @@ Marek. The apron. The knives. The sixty-eight vintage Kanar. The man who cooked 
 Gone. Mid-sentence. Four seconds.
 
 
-                         McCOY
+                         BONES
                (very quiet, from the back of the bridge)
           Jim.
 
@@ -914,7 +914,7 @@ Kirk looks at the bridge. His crew. The dead. The Klingon blood on the deck. The
 He has nothing.
 
 
-                         McCOY
+                         BONES
                (from the back of the bridge — he was pinned behind the environmental console during the fight, his medical bag clutched to his chest)
           Jim.
 
