@@ -57,7 +57,7 @@ Not from the Academy. From the belt.
 
 
                          KIRK
-          Where is the Dread?
+          Rek'thar?
 
 
                          HUMMER
@@ -72,6 +72,20 @@ Not from the Academy. From the belt.
           Confirmed. Same position, same patrol pattern. Weapons powered down.
 
 Kirk looks at him. The look of a man recalculating.
+
+
+                         KIRK
+          A second vessel. They fire, they cloak.
+
+
+                         HUMMER
+          No residual tachyon signature in the orbital corridor. A cloaking device leaves a trace for up to ninety seconds after engagement — I've been scanning continuously. Nothing has cloaked or decloaked in this system since we arrived.
+
+               (beat)
+
+          Captain — whatever fired that shot, it wasn't from orbit.
+
+Kirk is quiet for a moment. That answer eliminated two possibilities at once — the Rek'thar and any hidden ship.
 
 
                          KIRK
