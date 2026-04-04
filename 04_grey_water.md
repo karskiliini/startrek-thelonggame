@@ -164,7 +164,23 @@ Hummer is looking at his console. His hands have stopped. He has just met the ma
                          BONES
           Well that was awkward.
 
-He stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a man just threatened to kill him over.
+
+                         HUMMER
+          Captain — the Klingon vessel is breaking orbit. Moving toward the asteroid belt. High impulse.
+
+On the viewer, the warbird pulls away from the planet — not retreating. Repositioning. Taking up station at the mouth of the corridor, between the inner belt and open space. The move of a guard dog returning to the gate it was told to watch.
+
+
+                         HUMMER (CONT'D)
+          Weapons are powering down. She's settling into a patrol pattern.
+
+
+                         KIRK
+          Stand down yellow alert.
+
+The bridge exhales. Not relaxed — recalibrated. The threat hasn't gone. It has simply moved to where it lives.
+
+Kirk stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a Klingon warbird is now guarding.
 
 A soft chime from the communications console. Not the standard hailing frequency — a private channel. Encrypted. The kind of channel that exists for people who don't use official channels.
 
@@ -242,9 +258,27 @@ Sorak smiles. The smile reaches his eyes. It is, by every visible measure, the s
 
 The channel closes.
 
-On the bridge, Spock is at his console. His expression hasn't changed. But his hands have — they are already entering new scan parameters. Asteroid cloud composition. Subsurface density variance. The kind of survey that takes hours and that nobody runs unless they have a reason to look.
 
-Sorak gave the bridge a warning. Kirk heard concern. Spock heard a question.
+                         KIRK
+          Spock.
+
+But Spock is already working. His hands have been moving since Sorak mentioned the belt — entering scan parameters before the channel closed. Asteroid cloud composition. Subsurface density variance. Cargo transit signatures.
+
+
+                         SPOCK
+          I am running a full compositional survey of the asteroid belt. Preliminary readings indicate significant material transit through the inner ring — consistent with construction-grade shipments. The volume is not consistent with any civilian project on record.
+
+Kirk looks at him. The look of a man who was about to give an order and found it already being carried out.
+
+
+                         KIRK
+          How long for a full analysis?
+
+
+                         SPOCK
+          Several hours. If the transit patterns are what I believe them to be, the results will be — informative.
+
+Sorak gave the bridge a warning. Kirk heard concern. Spock heard data.
 
 He does not know that a man he has never met calculated that he would.
 
