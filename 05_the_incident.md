@@ -2,15 +2,23 @@
 ## Scene 5 — "THE INCIDENT"
 
 
+EXT. SPACE — CORDIA IV — NIGHT SIDE
+
+
+Enterprise in standard orbit. She slides into the planet's shadow — the terminator line crossing the hull, sunlight replaced by the faint glow of the colony's night-side grid below. The ship darkens with the planet. Running lights only.
+
+Inside, the ship is quiet. The corridors are dimmed. The hum of the engines drops a register — or seems to. The particular stillness of a vessel at rest that is not at rest. Crew quarters sealed. Mess halls empty. The day shift sleeping the shallow sleep of people who know they might be woken.
+
+
 INT. ENTERPRISE-A — BRIDGE — NIGHT WATCH
 
 
-The shift has changed. Quieter now. The bridge lights are dimmed to night cycle — the soft blue-grey that makes everything feel like it's underwater.
+The bridge on reduced lighting. The soft blue-grey that makes everything feel like it's underwater. Skeleton crew. The stations that matter are manned. The rest are dark.
 
-HUMMER at tactical. The readings scrolling across his console. He's been running the same analysis of the northern cluster for twenty minutes — the power consumption anomaly Spock flagged, the numbers that don't add up.
+HUMMER at tactical. He hasn't left. The readings scrolling across his console — Spock's belt survey feeding back data in slow pulses. He watches it the way a man watches weather he doesn't trust.
 
 
-The explosion happens on the night side of the planet.
+An explosion happens on the night side of the planet.
 
 No visual confirmation — the detonation is below the horizon from Enterprise's current orbital position. What Hummer sees is data. A sudden thermal spike in the northern settlement cluster. Seismic displacement. Atmospheric particulate bloom consistent with a structural collapse.
 
@@ -19,20 +27,56 @@ No visual confirmation — the detonation is below the horizon from Enterprise's
           Captain — explosion on the surface. Northern settlement, night side. No visual — we're on the wrong orbital arc.
 
 
-                         KIRK
+                         KIRK (V.O.)
+               (communicator — from quarters, instantly awake)
           Source?
 
 
                          HUMMER
           Working.
 
-His hands move across the console. Energy residue analysis. Blast pattern reconstruction from the seismic data. Atmospheric spectrography.
+The turbolift doors open. Kirk steps onto the bridge — uniform jacket half-buttoned, fingers working the last fasteners as he moves. He didn't wait for an answer. He was moving before the channel closed.
 
-There — in the energy signature. A disruptor frequency trace. Faint. Fragmentary. But there.
+
+                         KIRK
+          What do we have?
+
+Humme's hands move across the console.
+
+                         HUMMER
+          Energy residue analysis. Blast pattern reconstruction from the seismic data. Atmospheric spectrography.
+          
+          There — in the energy signature. A disruptor frequency trace. Faint. Fragmentary. But there.
 
 He knows that frequency.
 
 Not from the Academy. From the belt.
+
+                         HUMMER
+          It's Klingon. But captain —
+
+
+                         KIRK
+          Where is the Dread?
+
+
+                         HUMMER
+          Still holding station over the Klingon mining sector. She hasn't moved.
+
+
+                         KIRK
+          You're sure.
+
+
+                         HUMMER
+          Confirmed. Same position, same patrol pattern. Weapons powered down.
+
+Kirk looks at him. The look of a man recalculating.
+
+
+                         KIRK
+          Continue.
+
 
 Every tactical officer learns the standard disruptor profiles — Klingon military, Cardassian military, Romulan, civilian. The signature in the residue data matches none of them exactly. It reads close to Klingon — close enough that a standard comparison would flag it as Klingon military. But the frequency is offset. Shifted down into a band that Hummer has heard before.
 
@@ -44,7 +88,7 @@ And because he knows it — because his hands and ears and two years in the dark
 
 
                          HUMMER
-          Captain. Energy residue shows a disruptor trace. But the frequency profile doesn't match a ship-mounted weapons system.
+          Energy residue shows a disruptor trace. But the frequency profile doesn't match a ship-mounted weapons system.
 
 Kirk turns.
 

@@ -53,6 +53,8 @@ PHONETIC = [
     (r'\bKIRK\b', 'KURK'),
     (r'\bEnterprise\b', 'Enter Prize'),
     (r'\bENTERPRISE\b', 'ENTER PRIZE'),
+    (r"Rek'thar", "Rec tar"),
+    (r"REK'THAR", "REC TAR"),
 ]
 
 # Indentation thresholds

@@ -15,9 +15,9 @@ The IKS Vor'nak fills the frame.
 
 Close. Very close. The camera begins at the bow — the forward disruptor bank, a weapon system larger than most Federation shuttlecraft. The emitters glow faintly green, cycling at standby. Not firing. Not needing to. The glow is a promise, not a threat. The threat is the hull itself.
 
-This is not K'Tagh's warbird.
+This is not the Rek'thar.
 
-K'Tagh's ship was a patrol vessel. Fast, aggressive, built for border skirmishes and intimidation. The Vor'nak is a cruiser. The difference is the difference between a knife and a hammer — K'Tagh's ship was designed to cut; this one is designed to break.
+the Rek'thar was a patrol vessel. Fast, aggressive, built for border skirmishes and intimidation. The Vor'nak is a cruiser. The difference is the difference between a knife and a hammer — the Rek'thar was designed to cut; this one is designed to break.
 
 The hull is thicker. The nacelle pylons wider. The disruptor banks are doubled — port and starboard, dorsal and ventral, a weapons geometry that has no blind spot and no mercy in it. The deflector array at the bow is armored — a warship that expects to take hits and has been built to keep moving through them.
 
@@ -68,7 +68,7 @@ He has everything he needs.
 
 He looks at the display. The postage-stamp Enterprise drifting among the rocks. A ship that has clearly been in a fight and clearly lost it.
 
-He received K'Tagh's automated distress beacon eleven minutes ago. He can see K'Tagh's warbird on the long-range display — tumbling, holed, dark. He does not know what happened to it. He does not particularly care. K'Tagh was sent here to hold a position and failed. Toral was sent here to finish what K'Tagh could not.
+He received K'Tagh's automated distress beacon eleven minutes ago. He can see the Rek'thar on the long-range display — tumbling, holed, dark. He does not know what happened to it. He does not particularly care. K'Tagh was sent here to hold a position and failed. Toral was sent here to finish what K'Tagh could not.
 
 He intends to finish it quickly.
 
@@ -209,7 +209,7 @@ INT. CARDASSIAN VESSEL — BRIDGE — CONTINUOUS
 
 MAREK stands at the communications console. His bridge is small — a diplomatic vessel, not a warship. Four crew. No weapons worth mentioning. The shields would hold against debris. They would not hold against anything else.
 
-He has been watching. He saw K'Tagh's warbird holed by the rocks. He saw Enterprise limp past it. He saw the Vor'nak arrive.
+He has been watching. He saw the Rek'thar holed by the rocks. He saw Enterprise limp past it. He saw the Vor'nak arrive.
 
 He is performing the calculation he has performed every day for thirty years: what is the move that keeps the game going?
 
@@ -450,7 +450,7 @@ The FIRST OFFICER, from the command platform:
                (not looking up from the display)
           An asteroid field. Without shields. You can see for yourself where that leads.
 
-He gestures at the tactical display — the debris field where K'Tagh's warbird is still spinning, holed by rocks it couldn't deflect because it had no shields.
+He gestures at the tactical display — the debris field where the Rek'thar is still spinning, holed by rocks it couldn't deflect because it had no shields.
 
 
                          TORAL (CONT'D)
@@ -1462,7 +1462,7 @@ Enterprise recedes — still large, still present, still the center of the frame
 
 Further back. The debris field becomes visible. The churning cloud where the Vor'nak was. The fading orange glow of the detonation. Metal and stone, mixed, cooling, settling.
 
-Further still. And in the far distance — barely visible, a point of light catching the sun on each slow rotation — K'Tagh's warbird. Still spinning where Enterprise left it hours ago. Still holed. Still dark.
+Further still. And in the far distance — barely visible, a point of light catching the sun on each slow rotation — the Rek'thar. Still spinning where Enterprise left it hours ago. Still holed. Still dark.
 
 One Klingon warship in pieces. One Klingon warship spinning. Both the size of matchbox cars against the scale of the belt. Small. Helpless. The particular insignificance of things that were dangerous an hour ago and are now just objects drifting in the ordinary physics of a place that doesn't care about any of them.
 

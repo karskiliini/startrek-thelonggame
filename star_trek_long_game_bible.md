@@ -564,7 +564,7 @@ But something doesn't fit. Hummer's instinct — built from two years working al
 
 He hesitates. Not from cowardice — from the correct instinct that something about this evidence is fabricated. He is right. Sorak manufactured the disruptor signature to implicate K'Tagh. But Hummer cannot know that. He only knows it doesn't feel like Klingon work.
 
-While he calculates, K'Tagh's warbird passes behind the ionosphere — routine orbital adjustment or evasive maneuver, impossible to tell. The continuous sensor lock breaks. The signature becomes an isolated reading. The window closes.
+While he calculates, the Rek'thar passes behind the ionosphere — routine orbital adjustment or evasive maneuver, impossible to tell. The continuous sensor lock breaks. The signature becomes an isolated reading. The window closes.
 
 Nobody will ever tell Hummer his instinct was correct. Kirk reads the hesitation as failure. Voss records it as incompetence. The audience — once they learn about Sorak's false flag in Scene 9 — will understand that the young officer who was punished for hesitating was the only person in the room who sensed something was wrong.
 

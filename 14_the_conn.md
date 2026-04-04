@@ -348,7 +348,7 @@ Then — the cloak fails.
 
 Not dramatically. Not in a burst. It simply stops. One moment the ship is a ghost outlined in static. The next moment it is there.
 
-The IKS warbird. K'Tagh's ship.
+The Rek'thar. K'Tagh's ship.
 
 Visible.
 
@@ -400,7 +400,7 @@ The Federation insignia drifts past the window. Massive. An emblem the size of a
 
 Then — the vibration.
 
-Not from his own ship. From Enterprise. The displacement field of a Constitution-class starship passing within two hundred meters. The same gravitational shudder that the Enterprise crew felt when K'Tagh's warbird passed their hiding place — but reversed. Amplified. The mass differential means Enterprise's displacement hits harder.
+Not from his own ship. From Enterprise. The displacement field of a Constitution-class starship passing within two hundred meters. The same gravitational shudder that the Enterprise crew felt when the Rek'thar passed their hiding place — but reversed. Amplified. The mass differential means Enterprise's displacement hits harder.
 
 The Klingon feels it in his chest. In his teeth. The deep subsonic rumble of something enormous passing very close, and the specific helplessness of a man who cannot move his ship out of its path.
 

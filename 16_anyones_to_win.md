@@ -119,7 +119,7 @@ She has read everything. Her face shows nothing. The clinical stillness of a wom
 
 
                          ADMIRAL VOSS
-          Commander K'Tagh's warbird has been retrieved by a Klingon recovery vessel. He is alive. His ship is not repairable. He will return to the Empire with a crew, a story, and no command.
+          The Rek'thar has been retrieved by a Klingon recovery vessel. He is alive. His ship is not repairable. He will return to the Empire with a crew, a story, and no command.
 
                (beat)
 

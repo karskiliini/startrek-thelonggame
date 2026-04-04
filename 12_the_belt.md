@@ -169,7 +169,7 @@ And Kirk was wrong too. He sent Hummer looking for Cardassian infrastructure. Th
 
 A proximity alert. Soft. The shuttle's passive sensors detecting a power signature — something large, somewhere close, moving.
 
-K'Tagh's warbird. It has detected the shuttle.
+The Rek'thar. It has detected the shuttle.
 
 Hummer doesn't panic. He is past panic. He is in the place where his hands and his memory do the work while his mind watches.
 

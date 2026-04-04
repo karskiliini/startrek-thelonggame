@@ -59,7 +59,11 @@ Hummer snaps back. Professional. But something behind his eyes hasn't quite retu
 
 
                          HUMMER
-          Klingon warbird in high orbit. IKS designation — Commander K'Tagh commanding.
+          Klingon warbird in high orbit. IKS Rek'thar — Commander K'Tagh commanding.
+
+               (beat)
+
+          The Dread.
 
 He pauses.
 
@@ -168,7 +172,7 @@ Hummer is looking at his console. His hands have stopped. He has just met the ma
                          HUMMER
           Captain — the Klingon vessel is breaking orbit. Moving toward the asteroid belt. High impulse.
 
-On the viewer, the warbird pulls away from the planet and heads toward the belt. The asteroid field is divided — Klingon, Cardassian, and human mining sectors, carved up years ago to keep the operations from colliding. K'Tagh's ship settles into position above the Klingon sector. The move of a guard dog returning to its yard.
+On the viewer, the warbird pulls away from the planet and heads toward the belt. The asteroid field is divided — Klingon, Cardassian, and human mining sectors, carved up years ago to keep the operations from colliding. The Rek'thar settles into position above the Klingon sector. The move of a guard dog returning to its yard.
 
 
                          HUMMER (CONT'D)
@@ -287,38 +291,10 @@ Kirk stands a little straighter. Not because the conversation gave him informati
 He doesn't know yet what that costs.
 
 
-                         KIRK (CONT'D)
-               (to Spock, quietly)
-          The personnel density in the northern cluster.
-
-
-                         SPOCK
-          I noticed it as well.
-
-
-                         KIRK
-          What's in the northern cluster?
-
-
-                         SPOCK
-          Officially? A power distribution hub and an agricultural processing facility.
-
-Kirk looks at him.
-
-
-                         SPOCK (CONT'D)
-          The power consumption readings are inconsistent with agricultural processing. By a factor of approximately eleven.
-
-Kirk looks back at the planet.
-
 
                          KIRK
                (to the bridge, changing the subject with the particular authority of a man who has decided that what he just saw requires time to think about)
-          Standard orbit. All departments, full readiness. I want a senior staff briefing in one hour.
-
-He looks at the grey light on the bridge. The recycled air. The ship that should have been retired and wasn't.
-
-He doesn't say anything about the water. He doesn't have to. Everyone on the bridge is drinking it.
+          Standard orbit. All departments, full readiness. Senior staff briefing when Mr. Spock's analysis is complete. I'll be in my quarters.
 
 
 CUT TO:

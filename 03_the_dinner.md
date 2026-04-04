@@ -386,7 +386,7 @@ The room shifts. Not physically. Just the quality of attention in it.
 
 
                          HUMMER
-          Commander.
+          Captain.
 
 
                          SPOCK
@@ -629,7 +629,7 @@ Kirk looks at him. The look of a man who asked a question on the bridge hours ag
 
 
                          SPOCK
-          IKS Rotarran-class. Commander K'Tagh. His record is —
+          IKS Rek'thar. Rotarran-class. Commander K'Tagh. His record is —
 
 He pauses. The pause of a man selecting the correct word from several available.
 
