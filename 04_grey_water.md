@@ -36,7 +36,7 @@ Kirk, from the command chair, notices the pause. Files it. Says nothing.
 
           Standard protocol requires a full sensor sweep of Federation colonial territories when a capital ship is present. It has been some time since one was conducted.
 
-Kirk nods. The nod of a man who understands that Spock is not asking permission — he is creating a paper trail. If anyone later asks why Enterprise ran a full sweep of a colony the Federation considers friendly, the answer will be: procedure. It was simply overdue.
+Kirk nods. Enterprise still has her standard procedures — the ones she follows even on special assignments, as long as they don't interfere with the mission. This time the standard procedure and the mission happen to want the same thing.
 
 
                          SPOCK (CONT'D)
@@ -53,7 +53,7 @@ He says it without emphasis. Spock never editorialises. But the sentence structu
 
 
                          KIRK
-          Report.
+          Status report, mr Hummer.
 
 Hummer snaps back. Professional. But something behind his eyes hasn't quite returned to the console.
 
@@ -67,11 +67,12 @@ He pauses.
                          HUMMER (CONT'D)
           Weapons are hot, Captain.
 
-          That changes the temperature on the bridge.
 
+                         KIRK
+          Yellow alert.
 
-                         HUMMER (CONT'D)
-          Cardassian diplomatic vessel in standard orbit, same position for twenty-two days. No deviation.
+No hesitation. The words are out before Hummer finishes the sentence. The bridge shifts — not panic, but the particular tightening of a crew that has just been reminded they are on a warship.
+
 
 He runs the standard sweep. Reads the results. Something in the numbers makes him slow down.
 
@@ -161,12 +162,7 @@ Hummer is looking at his console. His hands have stopped. He has just met the ma
 
 
                          BONES
-               (very quietly)
-          Jim.
-
-
-                         KIRK
-          I know.
+          Well that was awkward.
 
 He stands. Goes to the viewer. Looks at the planet. The planet that looks cared for. The planet with thirty years of Cardassian investment visible from orbit. The planet at the mouth of a corridor that a man just threatened to kill him over.
 
@@ -191,43 +187,56 @@ The viewscreen shifts. Not to a Starfleet office. Not to a command center. To a 
 
                (a beat — something almost like a smile)
 
-          I wish we were seeing each other under better circumstances. But with us, it always seems to be like this.
+          I wish we were seeing each other under better circumstances. 
 
 
                          KIRK
                (the half-smile of a man who has heard this before)
-          You could retire. I hear Vulcan is nice this time of year.
+          I thought you woud've retired by now. I hear Vulcan is nice this time of year.
 
 
                          SORAK
           I've been told.
 
-               (the warmth fades — not disappears, settles into something more careful)
-
-          I heard the Klingon greeting. K'Tagh is — K'Tagh. He'll perform on schedule.
-
-               (a beat — the pause of a man choosing what not to say)
-
-          It's the quiet ones I'd watch, Jim. The infrastructure numbers coming out of that colony don't match anything civilian. They haven't for years.
-
 
                          KIRK
-          You've been watching this system for a while.
+          A lot of good officers haven't made it that far.
+
+It lands gently. But it lands.
 
 
                          SORAK
-          Someone had to.
+          No. They haven't.
 
-               (a beat — the voice of an old colleague being careful with a friend)
+               (beat)
 
-          Jim. Be careful with the belt. The rogues are deadly.
+          But every one of them died for something that mattered. I have to believe that. Otherwise none of this means anything.
+
+He says it looking directly at Kirk. The warmth in his eyes is real. The calculus behind it is also real. He is speaking to a man he respects, admires, and has already factored into an equation that has an acceptable cost.
+
+               (the warmth fades — not disappears, settles into something more careful)
+
+          Jim — eleven days ago a device detonated in the eastern residential block. Six dead. Two children. Military-grade ordnance. The colonial administration filed a preliminary report but no Federation investigation has been initiated.
+
+               (beat)
+
+          The Cardassians have their own forensics. Marek — Gul Marek, he runs the civilian operation — has been waiting for the right moment to present them. He is asking for Cardassian boots on the ground. Cardassian military police on Federation territory.
+
+               (a beat — the pause of a man choosing what not to say)
+
+          Be careful with this one, Jim. The attack is real. The dead are real. What comes after — that I'm less sure about.
+
+               (beat — almost an afterthought)
+
+          And Jim — the belt. The cargo traffic through there has tripled. Nobody moves that much material through asteroids for humanitarian purposes. And you be careful with the rogues.
+
 
 He says it the way a veteran says watch your back — a courtesy, nothing more. The kind of thing anyone would say to a friend heading into contested space. Kirk takes it as warmth. The bridge takes it as background.
 
 
                          KIRK
                (smiling — genuine, warm, the smile of a man who means it completely)
-          It's good to have you watching my back.
+          It's good to have you watching my back. Enterprise out.
 
 Sorak smiles. The smile reaches his eyes. It is, by every visible measure, the smile of a friend.
 
