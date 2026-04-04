@@ -456,13 +456,20 @@ He gestures at the tactical display — the debris field where K'Tagh's warbird 
                          TORAL (CONT'D)
           Only an idiot drops his shields in this environment when he has the advantage.
 
-And there — behind Enterprise, drifting on a slightly faster orbit than the surrounding rocks — a massive asteroid. Twelve kilometers. Iron-rich. Moving on a vector that will carry it past Enterprise's current position within four minutes.
+And there — behind Enterprise, drifting on a slightly faster orbit than the surrounding rocks — a massive asteroid. Moving on a vector that will carry it past Enterprise's current position within four minutes.
 
 Toral points at it. His finger on the tactical display — pressing against the glass, against the image of the rock.
 
 
-                         TORAL (CONT'D)
-          We approach them from behind this rock.
+                         TORAL
+          That one. We approach them from behind it.
+
+
+A NAVIGATOR reads the display.
+
+
+                         NAVIGATOR
+          Rogue asteroid. Twelve kilometers. Iron-rich. Moving faster than the surrounding field — it will overtake Enterprise's position in four minutes.
 
 His finger traces the trajectory — the asteroid overtaking Enterprise, the Vor'nak riding its shadow.
 

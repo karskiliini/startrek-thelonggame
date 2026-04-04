@@ -168,11 +168,11 @@ Hummer is looking at his console. His hands have stopped. He has just met the ma
                          HUMMER
           Captain — the Klingon vessel is breaking orbit. Moving toward the asteroid belt. High impulse.
 
-On the viewer, the warbird pulls away from the planet — not retreating. Repositioning. Taking up station at the mouth of the corridor, between the inner belt and open space. The move of a guard dog returning to the gate it was told to watch.
+On the viewer, the warbird pulls away from the planet and heads toward the belt. The asteroid field is divided — Klingon, Cardassian, and human mining sectors, carved up years ago to keep the operations from colliding. K'Tagh's ship settles into position above the Klingon sector. The move of a guard dog returning to its yard.
 
 
                          HUMMER (CONT'D)
-          Weapons are powering down. She's settling into a patrol pattern.
+          Weapons are powering down. She's holding station over the Klingon mining sector.
 
 
                          KIRK
