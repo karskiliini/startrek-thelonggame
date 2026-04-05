@@ -20,8 +20,8 @@ chapters=(
     03_the_dinner
     04_grey_water
     05_the_incident
-    06_the_call
-    07_the_cook
+    06_the_cook
+    07_the_call
     08_the_order
     09_ready_room
     10_sorak_hand
@@ -260,7 +260,7 @@ Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
     # Rebuild full MP3 after each scene
     all_chapters=(
         00_opening_credits 01_the_table 02_orders 03_the_dinner
-        04_grey_water 05_the_incident 06_the_call 07_the_cook
+        04_grey_water 05_the_incident 06_the_cook 07_the_call
         08_the_order 09_ready_room 10_sorak_hand 11_ktagh
         12_the_belt 13_the_canyon 14_the_conn 15_kobayashi_maru 16_anyones_to_win
     )
