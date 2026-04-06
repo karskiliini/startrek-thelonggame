@@ -43,6 +43,12 @@ The officer says nothing. K'Tagh holds the position for two seconds longer than 
 
 The bridge is very quiet. The kind of quiet that follows a man who has made his crew afraid of doing their jobs correctly because correct is not the same as what he wants.
 
+This is K'Tagh. The Dread. The man the Klingon High Council points at problems it wants broken. He has disruptor banks that could level a city. He has a crew that would follow him into a star. He terrorizes civilians because someone told him the civilians are the problem.
+
+He is the most dangerous thing in this system.
+
+He is about to find out he isn't.
+
 
 A COMMUNICATIONS OFFICER, carefully:
 
@@ -54,125 +60,166 @@ K'Tagh stops pacing. Something in his posture changes — not calmer, exactly. M
 
 
                          K'TAGH
-          My quarters. Route it there.
-
-He leaves the bridge. The bridge breathes.
+          On screen.
 
 
-INT. KLINGON WARBIRD — K'TAGH'S QUARTERS — CONTINUOUS
+The bridge noise — the chatter, the diagnostics, the low hum of a crew filling dead time — continues for one more second.
 
-
-Spare. Functional. A bed that hasn't been slept in — the blanket is exactly where it was placed when the quarters were assigned. K'Tagh doesn't sleep here. He sleeps on the bridge, if he sleeps.
-
-A bat'leth mounted on the wall. Not decorative. The edge is bright.
-
-He opens the channel.
-
-
-SPLIT SCREEN — K'TAGH / MAREK
-
+The main viewer activates. The entire bridge crew can see it. Every officer, every station.
 
 MAREK appears. He is in a room aboard the Cardassian vessel — low light, a tactical display behind him cycling through data he has clearly been watching for hours. He looks composed but alert. The posture of a man who has not left this room in some time.
 
 
                          MAREK
-          Commander K'Tagh. I wanted to discuss the incident in the eastern residential block.
+          Commander K'Tagh. The eastern residential block.
 
 
                          K'TAGH
-          Six dead. I heard.
+          Thirty-two humans dead.
+
+He says it the way a man reads a weather report. Thirty-two. Humans. Dead.
 
 
                          MAREK
-          Six Cardassian dead. Two children. Military-grade ordnance. The yield profile is consistent with weapons that require manufacturing infrastructure considerably beyond what civilians have access to.
+          Also six Cardassian dead. Two children.
 
-He lets the sentence do its work.
+K'Tagh shrugs. Not quite — Klingons don't shrug. But something in his posture dismisses the number. Six. Cardassians. Irrelevant.
 
 
                          MAREK (CONT'D)
-          I would like to understand how weapons of that specification came to be used in a residential district where fourteen thousand Cardassian nationals live under what I had understood to be a shared security arrangement.
+          Commander. I want to make sure you understand what I am about to say.
+
+               (beat — the voice does not rise. It lowers. The voice of a man who has disciplined subordinates for thirty years)
+
+          You killed six of my people. Two of them children. In an operation targeting the human sector — an operation I did not authorize, did not request, and was not consulted on. An operation that should not have touched a single Cardassian life.
 
 
                          K'TAGH
-          You are asking me if Klingons killed your people.
+          War has costs.
 
 
                          MAREK
-          I am asking what happened. I am asking because someone in this system knows the answer, and I would prefer to hear it from you than to reconstruct it from forensics.
+          This is not a war, Commander. When I need the human sector cleared, I do not use disruptor banks. I use paperwork. I rezone a block. I redirect a water supply. I adjust a school district boundary. In six months the humans move themselves — voluntarily, quietly, without a single body to explain.
 
-K'Tagh looks at him. The particular look of a man deciding whether the question is genuine or whether it is a weapon being positioned.
+               (beat)
+
+          That is how you take a street. That is how you take a district. That is how you take a planet. And that is what I have been doing here for thirty years while you have been sitting in orbit accomplishing nothing.
 
 
                          K'TAGH
-          What happens in the corridor is Klingon business. We patrol it. We have patrolled it for thirty years. If there are elements in this system that the Empire has not yet brought to heel — that is an operational matter. Not a Cardassian one.
+          I cleared more of the human sector in one night than your paperwork has cleared in —
 
 
                          MAREK
-          Elements.
+          You cleared nothing. You created a crime scene. You created a Federation investigation. You created a reason for Starfleet to send a ship — which they have now done. The Enterprise is en route as we speak.
 
-One word. The way he says it makes it clear he heard everything K'Tagh did not say.
+               (the voice — ice)
+
+          Thirty-two dead humans is not an achievement. It is an advertisement. You have told the Federation — loudly, with disruptor fire — that their colony is under attack. They were ignoring this system. They were filing our reports and not reading them. We had years left. Years. And you have given them a reason to look.
+
+K'Tagh's jaw tightens. He was not expecting this. He expected anger — the kind of anger he understands, the kind you answer with teeth. This is not anger. This is a man explaining, with terrifying precision, exactly how stupid K'Tagh has been.
 
 
                          MAREK (CONT'D)
-          Commander — the Klingon presence in the Cordia corridor has tripled in four years. Your ship has been in orbit for twenty-two days. And now six of my people are dead in their homes.
+          And the children, Commander.
 
-               (beat — quiet, precise)
+               (quieter — the quiet that is worse than the ice)
 
-          I am not assigning blame. I am reading a pattern. And the pattern concerns me.
+          The residential grid is mapped. Every boundary. Every block. Cardassian, human, Klingon. We built the grid. We designed the boundaries. Your operatives did not need to guess where the Cardassian sector ends. It is marked. It is lit. It is labelled.
+
+               (beat)
+
+          They killed two Cardassian children because they could not read a map.
 
 
                          K'TAGH
-          You should be concerned. This system is changing. The balance is changing. Your schools and your hospitals and your market where the administrators know the vendors by name — all of that exists because the Empire allows it to exist.
-
-He leans closer to the screen.
-
-
-                         K'TAGH (CONT'D)
-          Do not confuse permission with permanence.
+          My men —
 
 
                          MAREK
-          And the attacks? Are they part of the change — or a prelude to something larger?
+          Your men are tools, Commander. I do not blame a hammer for missing the nail. I blame the hand that held it.
 
-The question lands. K'Tagh's face does something — not quite a flinch. The micro-expression of a man who has just been asked the exact question he didn't want to answer.
+The word tools. In Klingon culture — the worst thing you can call a warrior. A tool has no honour. A tool does not choose. A tool is held and swung and set down.
 
-He doesn't answer it.
+K'Tagh's face changes. The anger is still there — but underneath it something else. The particular discomfort of a man who has just been outmanoeuvred in a conversation he thought he was winning.
+
+
+                         MAREK (CONT'D)
+          Here is what will happen now. The Enterprise will arrive. A captain with authority and instinct will scan this system and see things we do not want him to see. Your installations in the belt. My infrastructure on the surface. Everything.
+
+               (beat)
+
+          And I will handle it. As I have handled everything on this planet for thirty years. I will show him the schools and the hospitals. I will feed him from my own table. I will present the humanitarian record that makes this colony the most successful development project on the border. And he will file a report that says what every report says: the situation is complicated but stable.
+
+               (beat — looking directly at K'Tagh)
+
+          Unless you create another crime scene. In which case the situation is no longer stable and neither are you.
 
 
                          K'TAGH
-          I am a military commander, Gul. I hold this corridor. What happens in it is what I decide happens in it.
+          You are threatening a commander of the Klingon Empire.
 
 
                          MAREK
-          That is not an answer.
+          I am informing a commander of the Klingon Empire that his continued effectiveness in this system depends entirely on his ability to do nothing. Which — given the past twenty-two days — should be well within your capabilities.
+
+A long silence.
+
+K'Tagh is staring at Marek through the screen. His hands are fists. His jaw is set. Every instinct in his body is telling him to roar, to threaten, to smash the screen.
+
+But he doesn't.
+
+Because somewhere — in the part of his mind that survives by recognising superior predators — he knows that Marek is right. The paperwork is more dangerous than the disruptors. The schools are more dangerous than the warbird. The thirty years of patient, invisible, relentless construction is a weapon that K'Tagh's entire arsenal cannot match.
+
+K'Tagh has disruptor banks. Marek has a planet.
 
 
                          K'TAGH
-          It is the only answer you are going to get.
-
-A long silence. Two men on two ships looking at each other through a screen. Neither blinking.
+          I will not be spoken to like —
 
 
                          MAREK
-          If the Empire is planning something in this system — a realignment, an escalation, a change of posture — I would ask you to consider that thirty years of Cardassian infrastructure does not disappear quietly. If it is threatened, Cardassia Prime will respond. And the response will not be measured in warbirds.
+          Commander.
 
-K'Tagh grins. The grin of a man who has just been threatened by someone who thinks threats are made with words.
+One word. K'Tagh stops.
 
 
-                         K'TAGH
-          You build hospitals. We build warriors. We will see which lasts longer.
+                         MAREK (CONT'D)
+          Six Cardassian lives. I am adding them to your account. The account is long. It grows slowly. And I have an excellent memory.
+
+               (beat — the warmth returns. The terrible warmth. The warmth of a man who has won and is now being gracious about it.)
+
+          I trust the rest of your orbit will be uneventful. Good evening, Commander.
 
 He closes the channel.
 
-Marek looks at the dark screen for a long time.
+The viewer goes dark.
 
-He did not get the answer he came for. K'Tagh did not deny the attacks. He did not claim them either. He spoke about the corridor as territory — his territory — and about change, and about permission.
+The bridge is silent. Every officer at every station is looking at their console. Nobody looks at K'Tagh. Nobody moves. Nobody breathes loudly.
 
-Marek turns back to his display. The data scrolls. Klingon fleet movements. Troop deployments. Supply chain projections.
+They all heard it. Every word. The incompetence. The children. The tools. The map they couldn't read. The man who cooks for a living just dismantled their commander on his own bridge, in front of his own crew.
 
-He is trying to determine whether what just happened was a border commander posturing — or the first warning of something much larger.
+K'Tagh stands at the centre of the bridge. His hands are fists. His jaw is locked. He is vibrating with the particular fury of a man who has been humiliated in the one place where humiliation is fatal — in front of the people who follow him.
 
-He does not know yet. That is what frightens him.
+He turns. Slowly. Scans the bridge. Every face. Every officer.
+
+Nobody meets his eyes. Not because they are afraid of what he'll do — though they are. Because they are afraid that if they look at him, he'll see that they agree with Marek.
+
+K'Tagh walks to his command chair. Sits. The leather creaks.
+
+
+                         K'TAGH
+          Tactical readiness report. Now.
+
+The officers move. Fast. Grateful. Work is better than silence. Work is better than whatever was about to happen if someone had spoken.
+
+K'Tagh stares at the blank viewer.
+
+He is the most heavily armed man in the system. He has terrorized civilians, killed thirty-eight people, and projected Klingon power across a sector.
+
+And he has just been treated like a child by a man who cooks for a living. In front of everyone.
+
+He will not forget this.
 
 
 CUT TO:

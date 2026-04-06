@@ -9,7 +9,7 @@ Enterprise at warp. The stars streak past the windows.
 
 Kirk at the head of the table. McCoy. Hummer. Department heads. Spock stands at the display — a holographic star chart that fills the center of the room.
 
-Three colours. Blue — Federation space. Green — Klingon territory. Yellow — Cardassian sphere of influence.
+Three colours. Blue — Federation space. Yellow — Klingon territory. Red — Cardassian sphere of influence.
 
 And there — where the three colours meet — a small system. Three concentric circles around a single star. A planet. A moon. An asteroid belt.
 

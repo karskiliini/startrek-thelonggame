@@ -5,33 +5,70 @@
 EXT. EARTH ORBIT — ENTERPRISE-A — ESTABLISHING
 
 
-She's in orbit. Earth orbit. The slow rotation of a ship that has been circling home for weeks, waiting for the San Francisco Fleet Yards to have a berth ready. Below her — the Pacific, the coast, the city where Starfleet Command makes its decisions.
+She's in orbit. Earth orbit. The slow rotation of a ship that has been circling home for weeks. Below her — the Pacific, the coast, the city where Starfleet Command makes its decisions. The stars aren't going anywhere. Neither is she.
 
-The familiar silhouette — but look closer. A repair plate on the port nacelle housing that doesn't quite match the surrounding paintwork. Scoring along the secondary hull from the events at Khitomer that was patched but never properly refinished. A running light cycling at the wrong frequency. The decommission orders were filed, processed, and then — quietly, without explanation — rescinded. Someone decided Enterprise still had work to do. The crew wasn't told who or why.
+The familiar silhouette — but look closer. A repair plate on the port nacelle housing that doesn't quite match the surrounding paintwork. Scoring along the secondary hull from the events at Khitomer that was patched but never properly refinished. A running light cycling at the wrong frequency.
 
-She should be in a museum. She should be in a scrapyard. Instead she's orbiting Earth, running on replacement parts and stubbornness, crewed by people who are half new faces and half old hands who have been here too long.
+She should be in a museum. She should be in a scrapyard.
 
 The flagship of the Federation. Waiting to be put down.
 
 
-CUT TO:
+INT. ENTERPRISE-A — CORRIDORS — CONTINUOUS
+
+
+Empty. The lights are on half-power — energy conservation mode. The hum of the ship at minimum. Doors to crew quarters open on both sides — beds stripped, lockers empty, the particular emptiness of rooms that have been vacated by people who don't expect to come back.
+
+A skeleton crew. The kind you leave aboard to keep the air circulating and the orbit stable while the paperwork for decommission grinds through the system.
+
+Footsteps. One set. Echoing.
 
 
 INT. ENTERPRISE-A — MESS — CONTINUOUS
 
 
-A TABLE of junior officers eating. Rectangular blocks on rectangular trays — the geometry of nutrition without the memory of anything that was ever alive.
+Three people in a room built for two hundred.
 
-Half the faces are new. Transfer replacements. The particular discomfort of officers who requested Enterprise and got — this.
+HUMMER sits at the end of a long table. Alone. A rectangular block on a rectangular tray — the geometry of nutrition without the memory of anything that was ever alive. A glass of water in front of him. Grey. Slightly cloudy. He drinks it without looking at it.
 
-One of them is looking out the viewport. Earth. He's looking anyway. Memorizing it, maybe.
+He eats without complaint. The steady, mechanical eating of a man who has had worse and knows it. Vega Colony food was worse. Cordia belt rations were worse. This is just boring. Boring he can handle.
 
-The others eat. Nobody talks much.
+The mess is quiet. The kind of quiet that doesn't belong on a starship. No chatter. No clatter. No line at the replicator. Just Hummer and two engineering ensigns at the far end who haven't spoken to each other in twenty minutes.
 
-This is Tuesday.
+He looks out the viewport. Earth. The planet everyone talks about. He's looking anyway. Memorizing it, maybe. Or saying goodbye.
+
+This is Tuesday on a ship that has no Wednesdays left.
 
 
-CUT TO:
+A sound. Distant. The turbolift.
+
+Then — voices. In the corridor. More than one. More than two.
+
+Hummer looks up from his tray.
+
+Through the mess hall entrance — a stream of officers. Carrying kit bags. Checking PADDs. The particular bustle of people who have just been assigned somewhere and are trying to find their quarters.
+
+One of them pokes a head into the mess, sees the empty room, and moves on. Then another. Then a group — four, five — moving with the organized confusion of a fresh rotation.
+
+Hummer watches. The two engineering ensigns watch. Nobody understands.
+
+The ship was being decommissioned. The ship was empty. The ship was dead.
+
+And now people are arriving.
+
+
+INT. ENTERPRISE-A — CORRIDORS — CONTINUOUS
+
+
+The corridors are changing. Doors that were open are closing. Kit bags in doorways. Officers finding bunks, stowing gear, running fingers along walls to check if the ship is as tired as it looks.
+
+It is.
+
+They're coming anyway.
+
+The lighting hasn't changed — still half-power, still conservation mode. But the sound has. The hum of a ship with forty people and the hum of a ship with four hundred are different frequencies entirely. Enterprise is starting to vibrate at a pitch she hasn't reached in weeks.
+
+Something is happening. Nobody on board knows what.
 
 
 INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
@@ -39,55 +76,89 @@ INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
 KIRK stands at the main viewer.
 
-He looks tired. Not dramatically — not the exhaustion of crisis, just the specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop. His hand, when he reaches for the console, has a tremor. Small. The kind a man learns to disguise by keeping his hands busy. The decommission orders would have been the answer. Enterprise retired. Kirk retired. The story ending where it should.
+He looks tired. Not dramatically — not the exhaustion of crisis. The specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop. His hand, when he reaches for the console, has a tremor. Small. The kind a man learns to disguise by keeping his hands busy.
 
-Instead — someone rescinded the orders. Someone decided the old ship and the old captain had one more assignment in them. Kirk doesn't know who. He suspects he wouldn't like the answer.
+He is reading a crew roster on a PADD. New names. Dozens of them. Transfer orders signed and processed in the last forty-eight hours — faster than normal, faster than bureaucracy usually allows. Someone expedited this. Someone decided Enterprise needed a full crew complement before the paperwork was dry.
 
-He's reading mission orders on a PADD. We can't see the screen but we can see his face, and his face is doing the thing it does when he's reading something that tells him less than he needs to know. The PADD shakes — once, barely — in his grip.
+The PADD shakes — once, barely — in his grip.
 
-He reads it twice. Sets the PADD down. Carefully. The way a man sets something down when he doesn't trust his hands to do it smoothly.
-
-Looks at the viewer. Earth below. He can see the outline of North America. Iowa is down there somewhere. Home — if that word still means anything to a man who has spent thirty years making sure it doesn't have to.
-
-He knows what the orders say.
-
-The Federation colony at Cordia IV has not responded to standard communications in nineteen days. The colonial administration's last verified report is six weeks old. Routine check-in transmissions have gone unanswered. Starfleet Command has been unable to establish contact through any standard channel.
-
-Enterprise is to proceed to the Cordia system, re-establish contact with the colonial administration, and assess the situation on the ground.
-
-The orders are signed by people he respects.
-
-Everything looks legitimate. Everything is incomplete.
+He sets it down. Carefully.
 
 SPOCK approaches from the science station.
 
 
                          SPOCK
-          Captain. The last verified communication from the Cordia colony is dated stardate 9528.4. Six weeks and three days ago.
-
-               (beat)
-
-          Prior to that, communications were regular. Weekly administrative reports. Monthly demographic updates. The cessation was abrupt. There was no distress signal.
+          Four hundred and twelve crew as of this morning. Full complement. The transfers were processed through three different administrative channels — Fleet Personnel, Sector Command, and a routing I have not previously encountered.
 
 
                          KIRK
-          No distress signal.
+          Someone's in a hurry.
 
 
                          SPOCK
-          No. Which is itself informative.
+          The decommission order was rescinded seventy-two hours ago. The crew transfers began sixty hours ago. The mission orders arrived forty minutes ago.
+
+               (beat)
+
+          The sequence suggests the decision to reactivate Enterprise was made before the mission orders were drafted. The mission was assigned to this ship specifically. Not to a ship — to this ship.
 
 
                          KIRK
-          A colony that can't communicate sends a distress signal. A colony that won't communicate doesn't.
-
-He picks up the PADD again. Sets it down again.
+          What are the orders?
 
 
-                         KIRK (CONT'D)
+                         SPOCK
+          The Federation colony at Cordia IV has not responded to standard communications in nineteen days. The colonial administration's last verified report is six weeks old. Routine check-in transmissions have gone unanswered.
+
+               (beat)
+
+          Enterprise is to proceed to the Cordia system, re-establish contact with the colonial administration, and assess the situation on the ground.
+
+
+                         KIRK
+          No distress signal?
+
+
+                         SPOCK
+          No. Which is itself informative. A colony that cannot communicate sends a distress signal. A colony that will not communicate does not.
+
+Kirk picks up the PADD. The roster. Scrolls through the names. Stops at one.
+
+
+                         KIRK
+          Hummer. Tactical officer. Transferred from the Reliant three weeks ago.
+
+
+                         SPOCK
+          Lieutenant Hummer. His file indicates prior experience in the Cordia system. Two years in the asteroid belt. Mining operations.
+
+
+                         KIRK
+          Someone put a tactical officer with Cordia experience on a ship being sent to Cordia.
+
+
+                         SPOCK
+          That could be coincidence.
+
+
+                         KIRK
+          You don't believe that.
+
+
+                         SPOCK
+          I do not.
+
+Kirk sets the PADD down. Looks at the viewer. Earth below. Iowa down there somewhere.
+
+He was ready to be done. The decommission orders would have been the answer. Enterprise retired. Kirk retired. The story ending where it should.
+
+Instead — someone rescinded the orders. Someone staffed the ship. Someone put specific people in specific positions. And now the orders say: go to Cordia.
+
+
+                         KIRK
           Any Miranda-class survey ship could check on a colony. A Soyuz-class with a good comms officer could re-establish contact from orbit. Why are they sending the Enterprise?
 
-Spock considers the question. He does not have an answer — not yet. The orders arrived less than an hour ago. The kind of analysis Kirk is asking for requires time he has not yet had.
+Spock considers the question. He does not have an answer — not yet.
 
 
                          SPOCK
@@ -95,37 +166,31 @@ Spock considers the question. He does not have an answer — not yet. The orders
 
 
                          KIRK
-          Have Dr. McCoy join us for dinner tonight.
-
-               (almost as an afterthought)
-
-          And the new tactical officer. Hummer.
-
-
-                         SPOCK
-          He arrived with the last rotation. Three weeks aboard.
-
-
-                         KIRK
-          I know. I haven't had a chance to —
-
-He gestures vaguely. The gesture of a captain who used to know every officer on his ship and now gets transfer manifests he hasn't finished reading.
-
-
-                         KIRK (CONT'D)
-          Invite him.
-
-Spock processes this. Files it alongside the fourteen other variables he is currently modeling.
+          Have Dr. McCoy join us for dinner tonight. And the new tactical officer. Hummer.
 
 
                          SPOCK
           I'll inform them.
 
-Kirk goes back to looking at the viewer.
 
-Behind him, Spock returns to his station.
+EXT. EARTH ORBIT — ENTERPRISE-A
 
-And begins, very quietly, to prepare a question.
+
+The ship is different now. The same hull, the same scars, the same repair plates. But the running lights are all on. The windows are lit. The impulse engines glow with a warmth that wasn't there an hour ago.
+
+A ship that was dying has been given a reason to move.
+
+Enterprise breaks orbit. The curve of Earth falls away behind her. The stars stretch.
+
+She jumps to warp.
+
+Kirk watches from the bridge. He should feel relieved — command extended, ship saved, one more mission. Instead he feels the particular unease of a man who has been in this chair long enough to know that when someone saves your ship at the last minute, it's because they need your ship for something they don't want to explain.
+
+Someone chose this ship. Someone chose this crew. Someone chose him.
+
+He doesn't know why yet.
+
+Behind him, Spock is already working. The regional assessment. The first thread in a web that will lead — eventually, inevitably — to a planet where the lights go out at night.
 
 
 CUT TO:

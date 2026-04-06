@@ -71,3 +71,26 @@ When adding new scenes, renumber all subsequent scenes. Update:
 - Marek's apron: Cardassian leather, family heirloom, knives in sheaths. Politics = cooking.
 - "You are a tool": the worst thing you can call a Klingon.
 - Mad dog doctrine: Klingon High Command deploys volatile commanders for deniable aggression.
+
+## Screenplay Structure
+- The full film follows a **five-act structure**: Setup → Rising Action → False Victory → Catastrophe → Resolution. The false victory must be convincing enough that the catastrophe is genuinely shocking.
+- Every individual scene follows a **three-act structure**: Beginning state → Turn → New state. If a scene starts and ends in the same state, it's unnecessary — cut or merge it.
+- Use the **scene-three-acts** skill when writing or reviewing scenes.
+
+## Dramatic Principles
+- **Escalation through geography.** Each physical stop on Enterprise's journey is worse than the last. Geography IS the drama. Don't tell the audience things are getting worse — show them a worse place.
+- **Delayed character introduction.** Major antagonists (especially Marek) are introduced only at the moment of maximum impact. Other characters talk about them first — the audience builds expectations before the reality.
+- **Dual-level antagonist.** One enemy is physically dangerous (K'Tagh — weapons, violence). The other is intellectually dangerous (Marek — paperwork, infrastructure, thirty years). The scene where the intellectual dominates the physical reveals the true power structure.
+- **Constructed deniability.** The audience SEES the lie being built (K'Tagh ordering the attack, then rehearsing the denial). Characters don't know. Tension comes from this information asymmetry.
+- **Show don't tell through contrast.** Beautiful from orbit, hell on the ground. Registry says 92% human, sensors say 51%. Official story vs. reality — shown through visual contrast, never through exposition.
+
+## Casting Update
+- K'Tagh = Raymond Cruz (Tuco, Breaking Bad)
+- Toral (IKS Vor'nak captain) = Stallone in his 30s
+- K'Tagh's ship: IKS Rek'thar — "The Dread"
+
+## Thematic Parallels
+- Sicario: Federation is already at war but refuses to call it war. Sorak is the handler operating in the grey zone.
+- Israel-Palestine: 300,000 Cardassians who built everything, being told to leave their homes. Legal right vs. moral reality.
+- USA-Mexico border: Labour the Federation needed, used, and now wants expelled. Infrastructure dependency.
+- Apocalypse Now: The journey upriver. Each stop more lawless. Civilization fades.
