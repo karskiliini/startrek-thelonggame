@@ -198,8 +198,24 @@ Something moves behind Kirk's eyes. Very briefly.
           Different how?
 
 
+                         KIRK
+          I should tell you — all of you — that where we're going may be a powder keg. I want everyone prepared for that.
+
+
                          HUMMER
-          Vega was rough. No real law enforcement. No services. You handled things yourself or they didn't get handled.
+          Captain — with respect — a powder keg is safe. Gunpowder sits in a barrel and does nothing until someone lights a match.
+
+               (beat)
+
+          Cordia is a snake pit. It's dangerous every second you're in it. When I worked the belt, the entire mining crew had full security detail at all times. Armed escort to the work site. Armed escort back. Nobody went outside the secured zones. Nobody.
+
+
+                         KIRK
+          On a Federation colony.
+
+
+                         HUMMER
+          On a Federation colony. Vega was rough — no law enforcement, no services, you handled things yourself or they didn't get handled.
 
                (beat)
 

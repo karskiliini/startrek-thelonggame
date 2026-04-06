@@ -4,7 +4,7 @@
 
 01. THE DARK — Cordia surface. Night. Human colony sector. Lights going out. Terror.
 02. (TBD — hautumassa. Sorak/Voss? Joku muu tapa avata iso kuva?)
-03. ORDERS — Enterprise, Earth orbit. Kirk saa käskyt: Cordian kolonia ei vastaa. PTSD-tremor.
+03. ORDERS — Enterprise, Earth orbit. Kirk saa käskyt: Cordian kolonia ei vastaa. Lastaus. Lähtö.
 04. THE BRIEFING — En route. Spock esittelee tähtikartan. Kolme kulttuuria. Cordia kolmion kärjessä.
 05. THE DINNER — Kirk/McCoy/Spock/Hummer illallinen laivalla matkan aikana. Hummerin tausta. Spockin hypoteettinen.
 06. FIRST LIGHT — Ensimmäinen kolonia. Supply stop. Cardassianien demografiat. "This is already finished."

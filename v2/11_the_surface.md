@@ -95,7 +95,7 @@ The woman turns away. Goes back inside.
 
 He looks at the Cardassian skyline rising above the human sector. The buildings that Marek built. The schools. The hospitals. The infrastructure that works — for some. And the darkness that falls every night on the people it doesn't work for.
 
-Kirk has the orders in his pocket. Terminate the agreement. Tell three hundred thousand people to leave.
+Kirk has the orders in his pocket. Terminate the agreement. Tell forty million people to leave.
 
 He looks at the human sector. The people who would cheer.
 

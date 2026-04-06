@@ -76,11 +76,11 @@ INT. ENTERPRISE-A — BRIDGE — CONTINUOUS
 
 KIRK stands at the main viewer.
 
-He looks tired. Not dramatically — not the exhaustion of crisis. The specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop. His hand, when he reaches for the console, has a tremor. Small. The kind a man learns to disguise by keeping his hands busy.
+He looks tired. Not dramatically — not the exhaustion of crisis. The specific weariness of a man who has been doing this for too long and has started wondering when someone will tell him to stop.
 
 He is reading a crew roster on a PADD. New names. Dozens of them. Transfer orders signed and processed in the last forty-eight hours — faster than normal, faster than bureaucracy usually allows. Someone expedited this. Someone decided Enterprise needed a full crew complement before the paperwork was dry.
 
-The PADD shakes — once, barely — in his grip.
+He reads it twice.
 
 He sets it down. Carefully.
 
@@ -173,14 +173,34 @@ Spock considers the question. He does not have an answer — not yet.
           I'll inform them.
 
 
-EXT. EARTH ORBIT — ENTERPRISE-A
+EXT. EARTH ORBIT — ENTERPRISE-A — SPACEDOCK
 
 
-The ship is different now. The same hull, the same scars, the same repair plates. But the running lights are all on. The windows are lit. The impulse engines glow with a warmth that wasn't there an hour ago.
+Enterprise is alive in a way she hasn't been in months.
 
-A ship that was dying has been given a reason to move.
+Fourteen supply shuttles in formation — approaching from Spacedock, from the orbital platforms, from the surface. They come in waves. The first wave is cargo — deuterium, photon torpedo casings, replacement parts for systems that have been on backorder since before the decommission order. Loading arms extend from the shuttles and lock onto Enterprise's cargo bays. The hull reverberates with the dull rhythm of containers being locked into place.
 
-Enterprise breaks orbit. The curve of Earth falls away behind her. The stars stretch.
+The second wave is data. A Spacedock relay ship parks alongside and begins uploading — tactical databases, star charts, diplomatic protocols, sector intelligence reports. Terabytes of information that Enterprise hasn't had access to because nobody expected her to need it again.
+
+Through the hull — the sound. The particular percussion of a ship being loaded for a voyage. Not maintenance. Not resupply. A ship being armed, fuelled, and briefed for something that requires everything she can carry.
+
+
+INT. ENTERPRISE-A — CORRIDORS — CONTINUOUS
+
+
+The corridors that were empty yesterday are full. Engineers moving equipment. Science officers calibrating instruments that haven't been turned on in weeks. A quartermaster arguing with a supply officer about storage allocation. Someone carrying a crate of medical supplies at a run — McCoy's voice echoing from somewhere behind a corner, barking instructions about vaccine storage temperatures.
+
+The ship hums. Not the skeleton hum of yesterday. The full-throated vibration of four hundred people and fourteen shuttles and every system coming online at once.
+
+
+EXT. EARTH ORBIT — ENTERPRISE-A — CONTINUOUS
+
+
+The last shuttle pulls away. The loading arms retract. The cargo bay doors close — one, two, three — the sound of a ship sealing itself for deep space.
+
+Enterprise is full. Fuelled. Armed. Briefed. Crewed. The same hull, the same scars, the same repair plates. But the running lights are all on. The windows are lit. The impulse engines glow with a warmth that wasn't there an hour ago.
+
+She pulls away from Spacedock. Slowly at first — the deliberate separation of a vessel that knows exactly how much she's carrying. Earth falls behind. The stars open up.
 
 She jumps to warp.
 

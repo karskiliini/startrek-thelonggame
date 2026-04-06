@@ -89,8 +89,13 @@ When adding new scenes, renumber all subsequent scenes. Update:
 - Toral (IKS Vor'nak captain) = Stallone in his 30s
 - K'Tagh's ship: IKS Rek'thar — "The Dread"
 
+## Antagonist Operating Styles
+- **Klingons = Soviet Union.** Brute force. Military occupation. Heavy industry. Armed patrols. Workers' state rhetoric — "we do the hard work, we mine the belt." Centrally planned, top-down, inefficient but overwhelming. Intimidation through sheer presence. K'Tagh is the Soviet garrison commander — blunt, direct, uses force because that's all he knows.
+- **Cardassians = Nazi Germany.** Bureaucratic precision. Cultural superiority — "our schools, our hospitals, our way is better." Infrastructure as control mechanism — total dependency. Demographic replacement presented as "development." Paperwork as weapon — rezoning, regulations, administrative procedures. Marek is the cultured Nazi administrator — polished, educated, genuinely believes in the civilizing mission. "Cardassian-spec replicators are better" = "German engineering is superior." Making occupation look like generosity.
+- **The fatal mix at Cordia:** Both operating simultaneously. Soviet military muscle + Nazi bureaucratic control. Each thinks they're using the other. The Federation population is caught between them.
+
 ## Thematic Parallels
 - Sicario: Federation is already at war but refuses to call it war. Sorak is the handler operating in the grey zone.
-- Israel-Palestine: 300,000 Cardassians who built everything, being told to leave their homes. Legal right vs. moral reality.
+- Israel-Palestine: 40 million Cardassians who built everything, being told to leave their homes. Legal right vs. moral reality.
 - USA-Mexico border: Labour the Federation needed, used, and now wants expelled. Infrastructure dependency.
 - Apocalypse Now: The journey upriver. Each stop more lawless. Civilization fades.

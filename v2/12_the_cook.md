@@ -123,7 +123,7 @@ He looks at Kirk. The warmth is gone. Not replaced by anger — by something old
 
 
                          MAREK
-          Captain Kirk. I have three hundred thousand people on this planet. Families. Children who were born here. They have never known another home. This is not an agreement that can be terminated. This is a civilization.
+          Captain Kirk. I have forty million people on this planet. Families. Children who were born here. They have never known another home. This is not an agreement that can be terminated. This is a civilization.
 
                (beat — very quiet)
 

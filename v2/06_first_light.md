@@ -43,63 +43,42 @@ They walk. Through the depot. Past warehouses. Into the colony proper.
 
 Kirk is looking.
 
-The streets are clean. The buildings well-maintained. Shops open. People moving with the unhurried pace of a community that works.
+The streets are functional. Not pretty — functional. The buildings on the left side of the main road are Federation standard. Prefab. Familiar. The buildings on the right are different. Heavier. Concrete and metal. No windows on the ground floor. The particular architecture of people who build things to last and don't care if they're beautiful.
 
-But Kirk is looking at the signs.
+Klingon architecture.
 
-Half of them are in Cardassian script.
+Not a barracks — not exactly. A commercial district. A foundry. A machine shop with an open front where two Klingon workers are repairing agricultural equipment that looks like it was built to plough a battlefield. They're good at it. The equipment works. Everything on this side of the street works.
 
-The market they pass through — produce, goods, a bakery — the vendors are Cardassian. Not all of them. Not even most. But enough. More than enough for a Federation agricultural colony.
-
-A school. Children playing outside. The building is new — better built than anything around it. The sign above the door is in three languages. Federation Standard. Cardassian. Klingon.
+A Klingon flag — not military, commercial — hangs above what appears to be a labour exchange. Workers in and out. Human and Klingon, side by side. The Klingons are bigger. They move like the street belongs to them. Not aggressively — with the unconscious weight of people who do the heavy lifting and know it.
 
 
                          KIRK
                (casually)
-          The school is new.
+          The Klingon quarter is substantial.
 
 
                          ADMINISTRATOR
-          Built two years ago. Cardassian Education Initiative. They funded the entire construction.
+          They came for the mining contracts about fifteen years ago. Asteroid belt work, mostly. But the agricultural operations needed heavy equipment operators and the Klingons — say what you will, Captain, they work. Harder than anyone else on this planet.
 
-               (with genuine pride)
+               (genuine respect)
 
-          Best school in the sector. Our kids and theirs, together. Integrated curriculum.
+          We couldn't run the northern fields without them. The soil processing requires equipment that Federation agricultural engineers couldn't maintain. The Klingons rebuilt the entire system in three months.
 
 
                          KIRK
-          How many Cardassian families on Arctura?
+          How many Klingon nationals on Arctura?
 
 
                          ADMINISTRATOR
-          Oh — quite a few now. The agricultural workforce expansion brought in a lot of families. Five, six years ago. They're good workers. Good neighbours, mostly.
+          Oh — a few hundred thousand, maybe.
 
-               (a small laugh)
+               (the vagueness of a man who stopped counting)
 
-          Better replicators, too. The Cardassian-spec food systems they installed are — honestly, they're better than what Starfleet gave us.
-
-
-                         KIRK
-          The colony registry lists the population as ninety-two percent human.
-
-
-The administrator's smile doesn't change. But it becomes fixed.
-
-
-                         ADMINISTRATOR
-          The registry is — we've been meaning to update that. People move. Families grow. You know how it is on a colony.
-
-
-                         KIRK
-          What's the actual number?
-
-
-                         ADMINISTRATOR
-          I'd have to check the —
+          The registry is — we've been meaning to update that.
 
 
                          SPOCK
-          Biosensor readings from orbit indicate that approximately thirty-eight percent of current residents are Cardassian nationals. An additional eleven percent are Klingon. The Federation-origin population is fifty-one percent.
+          Biosensor readings from orbit indicate that approximately twenty-eight percent of current residents are Klingon nationals. The colony registry lists four percent.
 
 The administrator is quiet.
 
@@ -107,45 +86,47 @@ The administrator is quiet.
                          ADMINISTRATOR
           That sounds about right.
 
-               (beat — the practiced cheerfulness fading into something more tired)
+               (beat — the practised cheerfulness fading)
 
-          Look, Captain. I file reports. I file them every month. The demographic data is in there. I don't know what happens to them after they leave my desk. But they're accurate. They've always been accurate.
+          Look, Captain. They do the work nobody else wants to do. The heavy mining, the soil processing, the infrastructure maintenance. Without them this colony produces about forty percent of its current output. We'd lose three neighbouring systems' food supply.
 
                (quieter)
 
-          Nobody reads them.
-
-Kirk looks at Spock. Spock's face is neutral. It tells Kirk everything.
+          I file reports. Nobody reads them.
 
 
-EXT. ARCTURA III — COLONY OUTSKIRTS — LATER
+EXT. ARCTURA III — KLINGON SECTOR — LATER
 
 
-Kirk and Spock walking. Away from the administrator. Away from the clean streets.
+Kirk and Spock walking. Away from the administrator. Into the Klingon quarter.
 
-The outskirts. Where the colony ends and the fields begin. A Cardassian warehouse complex — large, modern, humming with power. A fence around it. Not hostile. Just — present. The kind of fence that says: this part is ours.
+It is a different world. Not hostile — industrial. The streets are wider, built for heavy equipment. The buildings are solid, pragmatic, Soviet in their aesthetic — function without a gram of decoration. Communal dining halls instead of restaurants. A repair yard where mining shuttles are being serviced with brutal efficiency. Everything grey, everything metal, everything working.
 
+A group of Klingon workers eating at a long table outside a commissary. They look up at Kirk's uniform. One of them nods — not deference, acknowledgement. The nod of a man who knows he's more useful than the person in the uniform.
 
-                         SPOCK
-          The power consumption of that facility is inconsistent with agricultural storage. By a factor of approximately four.
-
-
-                         KIRK
-          What is it consistent with?
+A Klingon foreman directing a crew. The orders are barked, fast, physical. A man who doesn't ask — he tells. The crew moves. The work happens. The pace is relentless.
 
 
                          SPOCK
-          Administrative infrastructure. Communications processing. A regional coordination hub.
-
-Kirk looks at the warehouse. Looks at the colony behind them — the clean streets, the good school, the happy children.
+          The power consumption of the Klingon sector is disproportionate. Three times the output of the Federation residential zones per capita.
 
 
                          KIRK
-          This isn't infiltration.
+          Mining equipment?
+
+
+                         SPOCK
+          Partially. The excess is consistent with heavy manufacturing. The colony registry lists no manufacturing operations.
+
+Kirk looks at the Klingon sector. The commissary. The repair yard. The workers who do the jobs nobody else wants to do and have built themselves a world within a world.
+
+
+                         KIRK
+          This isn't a labour arrangement.
 
                (beat)
 
-          This is finished.
+          This is a garrison that happens to work.
 
 He turns back toward the beam-out point. The supply stop is over. Enterprise has what she came for — supplies and the first piece of a pattern Kirk was hoping not to find.
 

@@ -19,41 +19,35 @@ Cordia.
                          SPOCK
           The Cordia system sits at the intersection of three spheres of influence — Federation, Klingon, and Cardassian. The shipping corridors that pass through this system connect all three powers. Control of Cordia is, in practical terms, control of the transit routes.
 
-He touches the display. Trade routes light up — threads of light converging on the system like rivers feeding a lake.
+The display shifts. Trade routes light up — threads of light converging on the system like rivers feeding a lake.
 
 
                          SPOCK (CONT'D)
-          The colony was established as a Federation outpost thirty-two years ago. Initial population: four hundred. Current registered population: approximately three hundred thousand.
-
-               (beat)
-
-          The growth rate is not consistent with natural population increase or standard Federation immigration patterns.
+          The colony was established as a Federation outpost thirty-two years ago. Initial population: forty thousand. Current registered population: approximately twelve million.
 
 
-                         BONES
-          Three hundred thousand from four hundred in thirty years?
+                         SPOCK (CONT'D)
+          The colony's labour requirements attracted significant immigration from both Klingon and Cardassian territories. The asteroid belt is mineral-rich. The planet's agricultural capacity is substantial. In the early years, the arrangement was functional — Federation sovereignty, Cardassian and Klingon labour, shared economic benefit.
 
-
-                         SPOCK
-          The colony's labour requirements attracted significant immigration from both Cardassian and Klingon territories. The asteroid belt is mineral-rich. The planet's agricultural capacity is substantial. In the early years, the arrangement was functional — Federation sovereignty, Cardassian and Klingon labour, shared economic benefit.
-
-He touches the display again. The asteroid belt lights up — divided into three sectors. Colour-coded.
+The asteroid belt lights up — divided into three sectors. Colour-coded.
 
 
                          SPOCK (CONT'D)
           The belt is divided into designated mining sectors. Klingon, Cardassian, and human operations. The division was established to minimize conflict.
+
+The display animates — a timeline. Year by year the sectors shift. The yellow and red zones expand. The blue zone contracts. Slowly at first, then faster. Thirty-two years compressed into seconds. The human sector shrinks like a puddle drying in the sun.
 
                (beat)
 
           Our route to Cordia passes through two other systems with similar demographic profiles. I would recommend surveying both en route. The pattern — if there is a pattern — will be more visible with comparative data.
 
 
-                         KIRK
+                         CHEKOV
           Which systems?
 
 
                          SPOCK
-          Arctura III. A Federation agricultural colony with significant Cardassian workforce participation. It is a scheduled supply stop on our route.
+          Arctura III. A Federation agricultural colony with significant Klingon workforce participation. It is a scheduled supply stop on our route.
 
                (beat)
 
@@ -75,17 +69,55 @@ The way Spock says coincidental makes it clear he does not believe it is coincid
                          KIRK
           We stop at both. Full sensor sweep at each. I want to see the pattern before we see Cordia.
 
-He looks at the star chart. Three colours meeting at one point. The triangle. The intersection where everything converges.
+He stands. Walks to the display. Studies the systems — the blue shrinking, the yellow and red expanding. Cordia at the apex.
+
+He turns to the room. The smile. The Kirk smile — the one that has gotten him through forty impossible situations by making them sound like errands.
+
+
+                         KIRK (CONT'D)
+          We go in, we re-establish contact, we remind them whose flag is on the building. Routine. We'll be back before the paint dries.
+
+Nobody laughs. Nobody smiles. The room knows what routine means when the captain has to sell it.
+
+Kirk looks at his crew. Reads their faces. They understand. They understand that routine is the word you use when you don't have a better one.
+
+Good. He doesn't need them to believe it. He needs them to know he doesn't believe it either.
 
 
                          KIRK (CONT'D)
           Dismissed.
 
-The officers file out. Hummer is the last to leave. He stops at the door — looks back at the display. The star chart still glowing in the empty room. Vega, bright and close. Cordia, further, at the apex.
+The officers file out. Hummer is the last to leave. He stops at the door — looks back at the display.
 
-He has been to both.
 
-He leaves.
+                         KIRK
+          Mr. Hummer.
+
+Hummer turns.
+
+
+                         KIRK (CONT'D)
+          These systems. You know them.
+
+It isn't a question.
+
+
+                         HUMMER
+          Vega Colony, Captain. I grew up there. And the Cordia belt — I worked it for two years.
+
+Kirk nods. The nod of a man who already knew the answer.
+
+
+                         KIRK
+          Dinner tonight. My quarters. Twenty hundred hours.
+
+
+                         HUMMER
+          Yes sir.
+
+He leaves. Kirk looks at the display. Vega, bright and close. Cordia, at the apex.
+
+He just invited the one man on this ship who has walked those streets and cut those rocks to tell him what the reports won't.
 
 
 CUT TO:
