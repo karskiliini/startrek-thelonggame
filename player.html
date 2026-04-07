@@ -827,10 +827,8 @@ function getVoiceSettings() {
 }
 
 function updateMicVisibility() {
-  const s = getVoiceSettings();
-  const hasSettings = s.url && s.token;
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (hasSettings && SpeechRecognition && currentIndex >= 0) {
+  if (SpeechRecognition) {
     btnMic.classList.add("visible");
   } else {
     btnMic.classList.remove("visible");
