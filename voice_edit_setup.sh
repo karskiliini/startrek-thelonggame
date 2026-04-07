@@ -125,15 +125,13 @@ if [ "$MODE" = "all" ] || [ "$MODE" = "install" ]; then
     fi
     ok "cloudflared found: $(cloudflared --version 2>&1 | head -1)"
 
-    # Auth token
+    # Auth token — read from file, must be manually created
     if [ ! -f "$TOKEN_FILE" ]; then
-        log "Generating auth token..."
-        python3 -c 'import secrets; print(secrets.token_urlsafe(32))' > "$TOKEN_FILE"
-        chmod 600 "$TOKEN_FILE"
-        ok "Auth token saved to $TOKEN_FILE (chmod 600)"
-    else
-        ok "Auth token already exists at $TOKEN_FILE"
+        error "Auth token file not found at $TOKEN_FILE"
+        error "Create it with:  echo 'your-token' > $TOKEN_FILE && chmod 600 $TOKEN_FILE"
+        exit 1
     fi
+    ok "Auth token loaded from $TOKEN_FILE"
 
     ok "Install complete."
 
@@ -211,6 +209,30 @@ if curl -sf "http://localhost:8742/api/health" > /dev/null; then
     ok "Server is healthy."
 else
     warn "Health check failed — server may still be starting."
+fi
+
+# Publish tunnel URL to repo so the player can auto-discover it.
+# NOTE: only the URL is published, NOT the token.
+log "Publishing tunnel URL to repo..."
+CONFIG_FILE="voice_edit_config.json"
+TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
+cat > "$CONFIG_FILE" <<EOF_JSON
+{
+  "url": "$TUNNEL_URL",
+  "updated": "$TIMESTAMP"
+}
+EOF_JSON
+
+# Only commit if the file actually changed
+if ! git diff --quiet "$CONFIG_FILE" 2>/dev/null || ! git ls-files --error-unmatch "$CONFIG_FILE" >/dev/null 2>&1; then
+    git add "$CONFIG_FILE"
+    git commit -m "Update voice edit tunnel URL
+
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" >/dev/null 2>&1 || true
+    git push >/dev/null 2>&1 &
+    ok "Tunnel URL published to repo (player will auto-discover on next load)"
+else
+    ok "Tunnel URL unchanged — no commit needed"
 fi
 
 echo

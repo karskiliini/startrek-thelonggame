@@ -826,6 +826,25 @@ function getVoiceSettings() {
   };
 }
 
+// Auto-discover tunnel URL from repo config file.
+// The home server publishes voice_edit_config.json with the current URL.
+// We update localStorage if the fetched URL differs from what we have.
+async function autoDiscoverVoiceUrl() {
+  try {
+    const resp = await fetch(REPO_BASE + "voice_edit_config.json?t=" + Date.now(), {
+      cache: "no-store",
+    });
+    if (!resp.ok) return;
+    const config = await resp.json();
+    if (config.url && config.url !== localStorage.getItem("voiceEditUrl")) {
+      localStorage.setItem("voiceEditUrl", config.url);
+      console.log("Auto-discovered voice edit URL:", config.url);
+    }
+  } catch (e) {
+    // Silent fail — user can still configure manually
+  }
+}
+
 function updateMicVisibility() {
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
   if (SpeechRecognition) {
@@ -982,6 +1001,9 @@ async function sendVoiceEdit(transcription) {
 
 // (switchTab and playScene call updateMicVisibility inline below)
 updateMicVisibility();
+
+// Try to auto-discover the voice edit URL from the repo config file
+autoDiscoverVoiceUrl();
 </script>
 </body>
 </html>
