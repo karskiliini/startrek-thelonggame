@@ -1201,6 +1201,211 @@ transcriptModal.addEventListener("click", (e) => {
   if (e.target === transcriptModal) hideTranscriptModal();
 });
 
+// Hardware volume key handling (experimental — works on some Android browsers)
+// Double-tap Volume Up to arm, then press and hold Volume Up to record.
+// In modals: Volume Up = yes, Volume Down = no.
+let volumeArmed = false;
+let volumeArmTimeout = null;
+let lastVolumeUpTap = 0;
+let volumeUpHoldRecording = false;
+
+function armMic() {
+  volumeArmed = true;
+  showToast("Mic armed — hold Volume Up to record", "info", 2500);
+  clearTimeout(volumeArmTimeout);
+  volumeArmTimeout = setTimeout(() => {
+    volumeArmed = false;
+    showToast("Mic disarmed", "info", 1500);
+  }, 2500);
+}
+
+document.addEventListener("keydown", (e) => {
+  const isVolumeUp = e.key === "AudioVolumeUp" || e.code === "AudioVolumeUp" || e.keyCode === 175;
+  const isVolumeDown = e.key === "AudioVolumeDown" || e.code === "AudioVolumeDown" || e.keyCode === 174;
+
+  if (!isVolumeUp && !isVolumeDown) return;
+
+  // In diff modal: up = approve, down = cancel
+  if (document.getElementById("diff-modal").classList.contains("visible")) {
+    if (e.repeat) return;
+    e.preventDefault();
+    if (isVolumeUp) approveEdit();
+    else cancelEdit();
+    return;
+  }
+
+  // In transcript modal: up = send, down = cancel
+  if (transcriptModal.classList.contains("visible")) {
+    if (e.repeat) return;
+    e.preventDefault();
+    if (isVolumeUp) document.getElementById("btn-send-transcript").click();
+    else hideTranscriptModal();
+    return;
+  }
+
+  if (isVolumeUp) {
+    if (e.repeat) return;  // only handle real press events, not autorepeat
+    const now = Date.now();
+
+    // If armed, next press starts recording
+    if (volumeArmed && !isRecording) {
+      e.preventDefault();
+      volumeArmed = false;
+      clearTimeout(volumeArmTimeout);
+      volumeUpHoldRecording = true;
+      btnMic.click();
+      return;
+    }
+
+    // Detect double-tap within 400ms
+    if (now - lastVolumeUpTap < 400) {
+      e.preventDefault();
+      lastVolumeUpTap = 0;
+      armMic();
+    } else {
+      lastVolumeUpTap = now;
+    }
+  }
+});
+
+document.addEventListener("keyup", (e) => {
+  const isVolumeUp = e.key === "AudioVolumeUp" || e.code === "AudioVolumeUp" || e.keyCode === 175;
+  if (isVolumeUp && volumeUpHoldRecording && isRecording) {
+    e.preventDefault();
+    volumeUpHoldRecording = false;
+    if (recognition) recognition.stop();
+  }
+});
+
+// ============ SHAKE DETECTION (iOS + Android) ============
+// Shake = yes/activate. In modals: no shake within 5 seconds = no.
+const SHAKE_THRESHOLD = 18;          // m/s² — moderately firm shake
+const SHAKE_MIN_INTERVAL = 1000;     // ms between shakes (debounce)
+const MODAL_NO_TIMEOUT = 5000;       // 5 sec with no shake in modal = no
+
+let lastShakeTime = 0;
+let modalNoTimer = null;
+
+function handleShake() {
+  const now = Date.now();
+  if (now - lastShakeTime < SHAKE_MIN_INTERVAL) return;
+  lastShakeTime = now;
+
+  // In diff modal: shake = approve, clear timer
+  if (document.getElementById("diff-modal").classList.contains("visible")) {
+    clearTimeout(modalNoTimer);
+    modalNoTimer = null;
+    approveEdit();
+    return;
+  }
+
+  // In transcript modal: shake = send, clear timer
+  if (transcriptModal.classList.contains("visible")) {
+    clearTimeout(modalNoTimer);
+    modalNoTimer = null;
+    document.getElementById("btn-send-transcript").click();
+    return;
+  }
+
+  // Otherwise: shake = activate mic
+  if (!isRecording) {
+    btnMic.click();
+  }
+}
+
+function startModalNoTimer(onTimeout) {
+  clearTimeout(modalNoTimer);
+  modalNoTimer = setTimeout(() => {
+    modalNoTimer = null;
+    onTimeout();
+  }, MODAL_NO_TIMEOUT);
+}
+
+function cancelModalNoTimer() {
+  clearTimeout(modalNoTimer);
+  modalNoTimer = null;
+}
+
+let motionListenerActive = false;
+
+function onDeviceMotion(e) {
+  if (!e.accelerationIncludingGravity) return;
+  const { x, y, z } = e.accelerationIncludingGravity;
+  if (x === null || y === null || z === null) return;
+  // Subtract gravity approximation (always ~9.8 on one axis)
+  const magnitude = Math.sqrt(x * x + y * y + z * z);
+  // Shake detection: magnitude noticeably above rest state (~9.8)
+  if (Math.abs(magnitude - 9.8) > SHAKE_THRESHOLD) {
+    handleShake();
+  }
+}
+
+async function enableShakeDetection() {
+  if (motionListenerActive) return true;
+  if (typeof DeviceMotionEvent === "undefined") return false;
+
+  // iOS 13+ requires explicit permission
+  if (typeof DeviceMotionEvent.requestPermission === "function") {
+    try {
+      const result = await DeviceMotionEvent.requestPermission();
+      if (result !== "granted") return false;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  window.addEventListener("devicemotion", onDeviceMotion);
+  motionListenerActive = true;
+  return true;
+}
+
+// Try to enable on first user gesture (settings save is a natural trigger)
+// Also try on startup for non-iOS browsers (no permission needed)
+if (typeof DeviceMotionEvent !== "undefined" && typeof DeviceMotionEvent.requestPermission !== "function") {
+  // Non-iOS — just add listener directly
+  window.addEventListener("devicemotion", onDeviceMotion);
+  motionListenerActive = true;
+}
+
+// Hook into modal open/close to start/cancel the 5-sec "no" timer
+function observeModal(modalEl, onAutoNo) {
+  // Use MutationObserver to detect class changes
+  const observer = new MutationObserver(() => {
+    if (modalEl.classList.contains("visible")) {
+      startModalNoTimer(onAutoNo);
+    } else {
+      cancelModalNoTimer();
+    }
+  });
+  observer.observe(modalEl, { attributes: true, attributeFilter: ["class"] });
+}
+
+observeModal(document.getElementById("diff-modal"), () => {
+  if (document.getElementById("diff-modal").classList.contains("visible")) {
+    cancelEdit();
+    showToast("No response — edit cancelled", "info", 3000);
+  }
+});
+
+observeModal(transcriptModal, () => {
+  if (transcriptModal.classList.contains("visible")) {
+    hideTranscriptModal();
+    showToast("No response — cancelled", "info", 3000);
+  }
+});
+
+// Try to enable shake detection when user saves settings (iOS user gesture)
+const origSaveHandler = document.getElementById("setting-save");
+if (origSaveHandler) {
+  origSaveHandler.addEventListener("click", () => {
+    enableShakeDetection().then((ok) => {
+      if (ok && typeof DeviceMotionEvent !== "undefined" && typeof DeviceMotionEvent.requestPermission === "function") {
+        showToast("Shake detection enabled", "success", 2000);
+      }
+    });
+  });
+}
+
 // (switchTab and playScene call updateMicVisibility inline below)
 updateMicVisibility();
 
