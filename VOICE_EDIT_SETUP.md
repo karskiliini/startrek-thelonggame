@@ -1,18 +1,34 @@
 # Voice Edit Setup
 
-How to enable voice-to-edit for the screenplay via your phone.
+Voice-to-edit for the screenplay via your phone.
+
+## TL;DR
+
+```bash
+./voice_edit_setup.sh
+```
+
+That's it. The script does everything. It will:
+
+1. Check prerequisites (python3, claude CLI, brew)
+2. Create a Python venv and install dependencies
+3. Install `cloudflared` via Homebrew if missing
+4. Generate an auth token (one-time, saved in `.voice_edit_token`)
+5. Start the voice edit server (FastAPI)
+6. Start the Cloudflare Tunnel
+7. Print the tunnel URL and auth token for you to paste into the player
 
 ## Architecture
 
 ```
 Phone (GitHub Pages player.html)
     │
-    │ HTTPS (with Bearer token)
+    │ HTTPS with Bearer token
     ▼
-Cloudflare Tunnel (public URL)
+Cloudflare Tunnel (https://xxx.trycloudflare.com)
     │
     ▼
-Home computer (voice_edit_server.py)
+Home computer (voice_edit_server.py, port 8742)
     │
     ▼
 Claude Code CLI (uses your existing login)
@@ -23,110 +39,84 @@ Edits v1/ or v2/ scene file → git commit + push
 
 The player on GitHub Pages loads mp3s and text as before, but adds a microphone
 button. When pressed, it uses the browser's Web Speech API to transcribe your
-voice, sends the transcription to your home computer via a Cloudflare Tunnel,
-and your home computer uses Claude Code CLI to apply the edit.
+voice, sends the transcription to your home computer via the tunnel, and the
+server uses Claude Code CLI to apply the edit.
 
-**Your Claude Code subscription handles the LLM call — no API keys needed.**
+**No Anthropic API keys needed — uses your existing Claude Code login.**
+
+## Commands
+
+```bash
+./voice_edit_setup.sh          # Install (if needed) + run
+./voice_edit_setup.sh install  # Install only
+./voice_edit_setup.sh run      # Run only (assumes installed)
+./voice_edit_setup.sh stop     # Stop server and tunnel
+```
 
 ## Prerequisites
 
+- macOS with Homebrew
 - Python 3.10+
-- Claude Code CLI installed and logged in (`claude` command works)
-- Cloudflare Tunnel (`cloudflared`) — free, no account required for quick tunnels
-- git repository cloned and configured to push to GitHub
+- Claude Code CLI logged in (`claude` command works)
+- This git repo configured to push to GitHub
 
-## 1. Install Python dependencies
+## How to use
 
-```bash
-cd /Users/marski/git/startrek-thelonggame
-python3 -m venv .venv-voice
-source .venv-voice/bin/activate
-pip install fastapi uvicorn pydantic
-```
+1. Run `./voice_edit_setup.sh`
+2. Copy the printed **Server URL** and **Auth Token**
+3. Open the player on your phone: `https://karskiliini.github.io/startrek-thelonggame/player.html`
+4. Tap the gear icon (⚙) top right → paste URL and token → Save
+5. Select a scene, switch to text view
+6. Tap the microphone button
+7. Speak a command, e.g. "Change Rek'thar to Nak'thar in this scene"
+8. Wait for confirmation — the scene will reload with the change applied
 
-## 2. Install Cloudflare Tunnel
+The server auto-commits and pushes, so the edits land on GitHub immediately.
 
-```bash
-brew install cloudflare/cloudflare/cloudflared
-```
+## Security
 
-## 3. Generate an auth token
+- Auth token is a shared secret stored in `.voice_edit_token` on your Mac (chmod 600)
+- Token is stored in browser localStorage on your phone only
+- Server only accepts requests with a valid Bearer token
+- CORS restricted to `https://karskiliini.github.io`
+- Path traversal protection — only scene files under the project directory
+- Tunnel URL is random per run (unless you set up a named tunnel)
+- `.voice_edit_*` files are gitignored
 
-```bash
-python3 -c 'import secrets; print(secrets.token_urlsafe(32))'
-```
+## What Claude does with your voice
 
-Save the output — you will need it for both the server and the phone.
+The server sends your transcription to `claude -p` with a prompt that:
 
-## 4. Start the server
+1. **Validates** the request is a screenplay edit (rejects random chatter)
+2. **Applies** the edit using the Edit tool, preserving screenplay formatting
+3. **Returns** either `REJECT: <reason>` or `DONE: <description>`
 
-In one terminal:
+On `DONE`, the server commits and pushes the change to GitHub.
 
-```bash
-cd /Users/marski/git/startrek-thelonggame
-source .venv-voice/bin/activate
-export VOICE_EDIT_TOKEN="your-generated-token-here"
-python voice_edit_server.py
-```
-
-The server runs on `http://localhost:8742`.
-
-## 5. Start the tunnel
-
-In another terminal:
+## Logs
 
 ```bash
-cloudflared tunnel --url http://localhost:8742
+tail -f .voice_edit_server.log   # FastAPI server logs
+tail -f .voice_edit_tunnel.log   # Cloudflare Tunnel logs
 ```
-
-Cloudflared prints a public URL like `https://random-words.trycloudflare.com`.
-Copy this URL.
-
-## 6. Configure the player
-
-1. Open the player on your phone (GitHub Pages URL)
-2. Tap the settings icon (gear) in the top right
-3. Paste the Cloudflare Tunnel URL
-4. Paste the auth token
-5. Save
-
-The settings are stored in localStorage on your phone. Nobody else can access them.
-
-## 7. Use it
-
-1. Open a scene in the text view
-2. Tap the microphone button
-3. Speak a command, e.g. "Change Rek'thar to Nak'thar"
-4. The browser transcribes your speech
-5. The transcription is sent to your home computer
-6. Claude Code applies the edit and commits
-7. The player reloads the updated scene
-
-## Security notes
-
-- The auth token is a shared secret between the phone and the server
-- The token is stored in localStorage on the phone (not exposed in the URL or git)
-- The server only accepts requests with a valid Bearer token
-- CORS is restricted to `https://karskiliini.github.io`
-- The Cloudflare Tunnel URL is random and changes every time you restart cloudflared (unless you use a named tunnel)
-- Path traversal is prevented — the server only accepts scene files under the project directory
 
 ## Stopping
 
-- Ctrl+C the server
-- Ctrl+C the tunnel
+```bash
+./voice_edit_setup.sh stop
+```
 
-The player.html on GitHub Pages still works for listening and reading, but the microphone button will fail until both are running again.
+Or just close the terminal that ran it — the PID files will be stale but
+nothing will be running.
 
-## Optional: Persistent tunnel URL
+## Optional: persistent tunnel URL
 
-Quick tunnels get a new random URL every restart. If you want a persistent URL:
+Quick tunnels get a new URL every restart. For a stable URL, set up a named
+tunnel with a Cloudflare account:
 
 ```bash
 cloudflared tunnel login
 cloudflared tunnel create screenplay-voice
 cloudflared tunnel route dns screenplay-voice voice.yourdomain.com
-cloudflared tunnel run --url http://localhost:8742 screenplay-voice
+# Then modify voice_edit_setup.sh to run the named tunnel instead
 ```
-
-This requires a Cloudflare account and a domain.
