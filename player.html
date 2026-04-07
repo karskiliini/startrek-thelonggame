@@ -417,8 +417,9 @@ input[type="range"]::-webkit-slider-thumb {
   <div class="text-scene-title" id="text-scene-title">Select a scene</div>
   <div class="text-content" id="text-content"></div>
   <div class="scroll-indicator" id="scroll-end"></div>
-  <button class="mic-btn" id="btn-mic" title="Voice edit">&#127908;</button>
 </div>
+
+<button class="mic-btn" id="btn-mic" title="Voice edit">&#127908;</button>
 
 <div class="player">
   <div class="player-inner">
@@ -547,6 +548,9 @@ function setVersion(v) {
 
   // Rebuild scene list
   rebuildSceneList();
+
+  // Always return to scenes view — text view can't match across versions
+  switchTab("scenes");
 
   // Update version tab UI
   document.getElementById("tab-v1").classList.toggle("active", v === "v1");
@@ -826,7 +830,7 @@ function updateMicVisibility() {
   const s = getVoiceSettings();
   const hasSettings = s.url && s.token;
   const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (hasSettings && SpeechRecognition && activeTab === "text" && currentIndex >= 0) {
+  if (hasSettings && SpeechRecognition && currentIndex >= 0) {
     btnMic.classList.add("visible");
   } else {
     btnMic.classList.remove("visible");
