@@ -4,6 +4,3 @@ text_input/
 generate_audio.sh
 audio/*.wav
 audio/*.md5
-audio/star_trek_the_long_game_full.mp3
-audio/v1/star_trek_the_long_game_full.mp3
-audio/v2/star_trek_the_long_game_full.mp3

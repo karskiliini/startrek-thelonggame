@@ -28,7 +28,6 @@ User communicates in Finnish and English interchangeably. Respond in the languag
 - Texts over 500 words are split into ~500-word chunks (resplit threshold: 700 words)
 - Chunk WAVs are cached locally — unchanged chunks reuse existing WAVs
 - Each scene MP3 is pushed to GitHub immediately after generation
-- Full screenplay MP3 (`star_trek_the_long_game_full.mp3`) is rebuilt and pushed after each scene
 - Kill any running TTS before starting a new sync
 
 ## When User Says "puske muutokset, triggaa mp3"
