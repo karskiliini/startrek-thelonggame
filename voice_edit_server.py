@@ -1,13 +1,12 @@
 #!/usr/bin/env python3
 """Voice edit server — receives transcribed voice commands from the web player
-and applies them to screenplay scenes using Claude Code CLI.
+and proposes edits via Claude Code CLI. User approves before commit.
 
-Usage:
-  export VOICE_EDIT_TOKEN="your-secret-token"
-  python voice_edit_server.py
-
-Then expose via Cloudflare Tunnel:
-  cloudflared tunnel --url http://localhost:8742
+Flow:
+1. POST /api/voice-edit → Claude proposes change, returns diff
+2. Phone shows diff to user for approval
+3. POST /api/voice-edit-approve → server commits, pushes, triggers TTS
+4. POST /api/voice-edit-cancel → server reverts the proposed change
 """
 
 import os
@@ -25,19 +24,17 @@ PORT = 8742
 AUTH_TOKEN = os.environ.get("VOICE_EDIT_TOKEN")
 if not AUTH_TOKEN:
     print("ERROR: VOICE_EDIT_TOKEN environment variable not set", file=sys.stderr)
-    print("Generate one with: python -c 'import secrets; print(secrets.token_urlsafe(32))'", file=sys.stderr)
     sys.exit(1)
 
 app = FastAPI()
 
-# Allow requests from GitHub Pages and local dev
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://karskiliini.github.io",
         "http://localhost:8000",
         "http://127.0.0.1:8000",
-        "null",  # for local file:// testing
+        "null",
     ],
     allow_credentials=False,
     allow_methods=["POST", "OPTIONS"],
@@ -47,12 +44,33 @@ app.add_middleware(
 
 class VoiceEditRequest(BaseModel):
     transcription: str
-    scene_file: str  # relative path, e.g. "v2/05_the_dinner.md"
-    version: str  # "v1" or "v2"
+    scene_file: str
+    version: str
+
+
+class ApprovalRequest(BaseModel):
+    scene_file: str
+    transcription: str
+
+
+def check_auth(authorization: str):
+    if authorization != f"Bearer {AUTH_TOKEN}":
+        raise HTTPException(401, "Unauthorized")
+
+
+def validate_scene_path(scene_file: str) -> Path:
+    """Ensure scene file is under project dir and exists."""
+    scene_path = PROJECT_DIR / scene_file
+    try:
+        scene_path.resolve().relative_to(PROJECT_DIR.resolve())
+    except ValueError:
+        raise HTTPException(400, "Invalid scene file path")
+    if not scene_path.exists():
+        raise HTTPException(404, f"Scene file not found: {scene_file}")
+    return scene_path
 
 
 def build_prompt(req: VoiceEditRequest) -> str:
-    """Build the prompt sent to Claude Code CLI."""
     return f"""You are editing a Star Trek screenplay. The user just spoke a command into their phone while looking at a specific scene. The speech was transcribed to text.
 
 **Scene file:** {req.scene_file}
@@ -70,7 +88,7 @@ def build_prompt(req: VoiceEditRequest) -> str:
 
 **Important:**
 - Work only on the specified scene file: {req.scene_file}
-- Do not commit to git yourself — the server will handle that
+- Do NOT run git commands — the server will handle committing
 - Do not run any other tools besides Read and Edit
 - Respond with ONLY "REJECT: ..." or "DONE: ..." — no preamble, no explanation beyond that one line
 """
@@ -81,21 +99,25 @@ async def voice_edit(
     req: VoiceEditRequest,
     authorization: str = Header(None),
 ):
-    # Auth check
-    if authorization != f"Bearer {AUTH_TOKEN}":
-        raise HTTPException(401, "Unauthorized")
+    """Apply edit proposal to the file (but don't commit). Return diff for approval."""
+    check_auth(authorization)
+    validate_scene_path(req.scene_file)
 
-    # Validate scene file path (prevent path traversal)
-    scene_path = PROJECT_DIR / req.scene_file
-    try:
-        scene_path.resolve().relative_to(PROJECT_DIR.resolve())
-    except ValueError:
-        raise HTTPException(400, "Invalid scene file path")
+    # Make sure working tree is clean for this file before starting
+    check = subprocess.run(
+        ["git", "status", "--porcelain", req.scene_file],
+        cwd=str(PROJECT_DIR),
+        capture_output=True,
+        text=True,
+    )
+    if check.stdout.strip():
+        # Existing uncommitted changes — revert them first so we start clean
+        subprocess.run(
+            ["git", "checkout", "--", req.scene_file],
+            cwd=str(PROJECT_DIR),
+            capture_output=True,
+        )
 
-    if not scene_path.exists():
-        raise HTTPException(404, f"Scene file not found: {req.scene_file}")
-
-    # Build prompt and call Claude Code CLI
     prompt = build_prompt(req)
 
     try:
@@ -104,72 +126,178 @@ async def voice_edit(
             cwd=str(PROJECT_DIR),
             capture_output=True,
             text=True,
-            timeout=120,
+            timeout=180,
         )
     except subprocess.TimeoutExpired:
         raise HTTPException(504, "Claude Code timed out")
     except FileNotFoundError:
-        raise HTTPException(500, "Claude Code CLI not found. Is it installed and in PATH?")
+        raise HTTPException(500, "Claude Code CLI not found")
 
     if result.returncode != 0:
         return {
             "status": "error",
             "message": f"Claude Code failed: {result.stderr.strip() or result.stdout.strip()}",
-            "file_updated": False,
         }
 
     output = result.stdout.strip()
 
-    # Parse response
     if output.startswith("REJECT:"):
+        # Revert any stray changes just in case
+        subprocess.run(
+            ["git", "checkout", "--", req.scene_file],
+            cwd=str(PROJECT_DIR),
+            capture_output=True,
+        )
         return {
             "status": "rejected",
             "message": output[len("REJECT:"):].strip(),
-            "file_updated": False,
         }
 
     if output.startswith("DONE:"):
         message = output[len("DONE:"):].strip()
-        # Commit and push the change
-        commit_msg = f"Voice edit: {message}\n\nCommand: \"{req.transcription}\"\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
-        try:
-            subprocess.run(
-                ["git", "add", req.scene_file],
-                cwd=str(PROJECT_DIR),
-                check=True,
-                capture_output=True,
-            )
-            subprocess.run(
-                ["git", "commit", "-m", commit_msg],
-                cwd=str(PROJECT_DIR),
-                check=True,
-                capture_output=True,
-            )
-            subprocess.run(
-                ["git", "push"],
-                cwd=str(PROJECT_DIR),
-                check=True,
-                capture_output=True,
-                timeout=60,
-            )
-        except subprocess.CalledProcessError as e:
+
+        # Get the diff
+        diff_result = subprocess.run(
+            ["git", "diff", "--no-color", req.scene_file],
+            cwd=str(PROJECT_DIR),
+            capture_output=True,
+            text=True,
+        )
+        diff = diff_result.stdout.strip()
+
+        if not diff:
             return {
-                "status": "error",
-                "message": f"Edit applied but commit failed: {e.stderr.decode() if e.stderr else str(e)}",
-                "file_updated": True,
+                "status": "no_change",
+                "message": "Claude reported DONE but no actual change was made",
             }
 
         return {
-            "status": "done",
+            "status": "pending_approval",
             "message": message,
-            "file_updated": True,
+            "diff": diff,
+            "scene_file": req.scene_file,
+            "transcription": req.transcription,
         }
 
-    # Unexpected output — return as-is
+    # Unexpected output
+    subprocess.run(
+        ["git", "checkout", "--", req.scene_file],
+        cwd=str(PROJECT_DIR),
+        capture_output=True,
+    )
     return {
         "status": "error",
         "message": f"Unexpected Claude output: {output[:500]}",
-        "file_updated": False,
+    }
+
+
+@app.post("/api/voice-edit-approve")
+async def approve_edit(
+    req: ApprovalRequest,
+    authorization: str = Header(None),
+):
+    """Commit the pending change, push, and trigger TTS regeneration."""
+    check_auth(authorization)
+    validate_scene_path(req.scene_file)
+
+    # Verify there's actually something to commit
+    check = subprocess.run(
+        ["git", "status", "--porcelain", req.scene_file],
+        cwd=str(PROJECT_DIR),
+        capture_output=True,
+        text=True,
+    )
+    if not check.stdout.strip():
+        return {
+            "status": "error",
+            "message": "No pending changes to commit",
+        }
+
+    commit_msg = f"Voice edit: {req.transcription[:80]}\n\nCo-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
+
+    try:
+        subprocess.run(
+            ["git", "add", req.scene_file],
+            cwd=str(PROJECT_DIR),
+            check=True,
+            capture_output=True,
+        )
+        subprocess.run(
+            ["git", "commit", "-m", commit_msg],
+            cwd=str(PROJECT_DIR),
+            check=True,
+            capture_output=True,
+        )
+
+        # Push with retry
+        push_ok = False
+        for attempt in range(5):
+            push_result = subprocess.run(
+                ["git", "push"],
+                cwd=str(PROJECT_DIR),
+                capture_output=True,
+                text=True,
+                timeout=60,
+            )
+            if push_result.returncode == 0:
+                push_ok = True
+                break
+            subprocess.run(
+                ["git", "pull", "--rebase", "--autostash"],
+                cwd=str(PROJECT_DIR),
+                capture_output=True,
+                timeout=60,
+            )
+
+        if not push_ok:
+            return {
+                "status": "commit_ok_push_failed",
+                "message": "Committed locally but push failed. Try again manually.",
+            }
+    except subprocess.CalledProcessError as e:
+        return {
+            "status": "error",
+            "message": f"Commit failed: {e.stderr.decode() if e.stderr else str(e)}",
+        }
+
+    # Trigger TTS in background (detached, fire and forget)
+    try:
+        subprocess.Popen(
+            ["nohup", "zsh", "tts_sync.sh"],
+            cwd=str(PROJECT_DIR),
+            stdout=open(str(PROJECT_DIR / "tts_log.txt"), "w"),
+            stderr=subprocess.STDOUT,
+            start_new_session=True,
+        )
+        tts_triggered = True
+    except Exception as e:
+        tts_triggered = False
+
+    return {
+        "status": "approved",
+        "message": "Committed and pushed. TTS regeneration started." if tts_triggered else "Committed and pushed. TTS trigger failed.",
+        "tts_triggered": tts_triggered,
+    }
+
+
+@app.post("/api/voice-edit-cancel")
+async def cancel_edit(
+    req: ApprovalRequest,
+    authorization: str = Header(None),
+):
+    """Revert the pending change in the working tree."""
+    check_auth(authorization)
+    validate_scene_path(req.scene_file)
+
+    subprocess.run(
+        ["git", "checkout", "--", req.scene_file],
+        cwd=str(PROJECT_DIR),
+        capture_output=True,
+    )
+
+    return {
+        "status": "cancelled",
+        "message": "Pending change reverted",
     }
 
 
@@ -181,5 +309,4 @@ async def health():
 if __name__ == "__main__":
     print(f"Starting voice edit server on port {PORT}")
     print(f"Project directory: {PROJECT_DIR}")
-    print(f"Expose publicly with: cloudflared tunnel --url http://localhost:{PORT}")
     uvicorn.run(app, host="127.0.0.1", port=PORT)

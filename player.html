@@ -372,6 +372,40 @@ input[type="range"]::-webkit-slider-thumb {
 .voice-toast.success { border-color: #2a6a2a; }
 .voice-toast.error { border-color: #7a1e1e; }
 .voice-toast.info { border-color: #2a6aaa; }
+
+/* Diff modal */
+.diff-modal-inner {
+  max-width: 90%;
+  max-height: 85vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.diff-message {
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 12px;
+  font-style: italic;
+}
+.diff-content {
+  flex: 1;
+  overflow: auto;
+  background: #0a0a0a;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 12px;
+  font-family: "SF Mono", Monaco, monospace;
+  font-size: 11px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+  color: #aaa;
+  max-height: 50vh;
+}
+.diff-content .added { color: #4ade80; background: rgba(74, 222, 128, 0.1); }
+.diff-content .removed { color: #f87171; background: rgba(248, 113, 113, 0.1); text-decoration: line-through; }
+.diff-content .context { color: #666; }
+.diff-content .header { color: #4a9eff; font-weight: 600; }
 </style>
 </head>
 <body>
@@ -400,6 +434,19 @@ input[type="range"]::-webkit-slider-thumb {
 
 <!-- Voice edit status toast -->
 <div class="voice-toast" id="voice-toast"></div>
+
+<!-- Diff approval modal -->
+<div class="modal-backdrop" id="diff-modal">
+  <div class="modal diff-modal-inner">
+    <h3>Proposed Change</h3>
+    <div class="diff-message" id="diff-message"></div>
+    <pre class="diff-content" id="diff-content"></pre>
+    <div class="modal-buttons">
+      <button id="btn-approve">Approve &amp; Commit</button>
+      <button id="btn-cancel-edit">Cancel</button>
+    </div>
+  </div>
+</div>
 
 <div class="tabs" style="max-width: 600px; margin: 0 auto;">
   <div class="tab active" id="tab-v2" data-version="v2">V2 (Current)</div>
@@ -954,6 +1001,42 @@ btnMic.addEventListener("click", () => {
   }
 });
 
+// Pending edit state
+let pendingEdit = null;
+
+function renderDiff(diff) {
+  const lines = diff.split("\n");
+  let html = "";
+  for (const line of lines) {
+    const esc = line.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    if (line.startsWith("+++") || line.startsWith("---") || line.startsWith("diff ") || line.startsWith("index ") || line.startsWith("@@")) {
+      html += `<span class="header">${esc}</span>\n`;
+    } else if (line.startsWith("+")) {
+      html += `<span class="added">${esc}</span>\n`;
+    } else if (line.startsWith("-")) {
+      html += `<span class="removed">${esc}</span>\n`;
+    } else {
+      html += `<span class="context">${esc}</span>\n`;
+    }
+  }
+  return html;
+}
+
+function showDiffModal(data) {
+  pendingEdit = {
+    scene_file: data.scene_file,
+    transcription: data.transcription,
+  };
+  document.getElementById("diff-message").textContent = data.message || "";
+  document.getElementById("diff-content").innerHTML = renderDiff(data.diff);
+  document.getElementById("diff-modal").classList.add("visible");
+}
+
+function hideDiffModal() {
+  document.getElementById("diff-modal").classList.remove("visible");
+  pendingEdit = null;
+}
+
 async function sendVoiceEdit(transcription) {
   const s = getVoiceSettings();
   const scene = scenes[currentIndex];
@@ -982,15 +1065,13 @@ async function sendVoiceEdit(transcription) {
     }
 
     const data = await resp.json();
-    if (data.status === "done") {
-      showToast("Done: " + data.message, "success", 6000);
-      // Reload scene text
-      delete textCache[currentIndex];
-      if (activeTab === "text") {
-        await loadText(currentIndex);
-      }
+    if (data.status === "pending_approval") {
+      voiceToast.classList.remove("visible");
+      showDiffModal(data);
     } else if (data.status === "rejected") {
       showToast("Rejected: " + data.message, "error", 6000);
+    } else if (data.status === "no_change") {
+      showToast("No change: " + data.message, "info", 4000);
     } else {
       showToast("Error: " + (data.message || "Unknown"), "error", 6000);
     }
@@ -998,6 +1079,65 @@ async function sendVoiceEdit(transcription) {
     showToast("Network error: " + e.message, "error", 6000);
   }
 }
+
+async function approveEdit() {
+  if (!pendingEdit) return;
+  const s = getVoiceSettings();
+  showToast("Committing...", "info", 0);
+  const sceneIdx = currentIndex;
+  try {
+    const resp = await fetch(s.url.replace(/\/$/, "") + "/api/voice-edit-approve", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + s.token,
+      },
+      body: JSON.stringify(pendingEdit),
+    });
+    const data = await resp.json();
+    if (data.status === "approved") {
+      hideDiffModal();
+      showToast("Committed. TTS regenerating — audio will update shortly.", "success", 8000);
+      // Reload the scene text to reflect the change
+      delete textCache[sceneIdx];
+      if (activeTab === "text") {
+        await loadText(sceneIdx);
+      }
+    } else {
+      showToast("Error: " + (data.message || data.status), "error", 6000);
+    }
+  } catch (e) {
+    showToast("Network error: " + e.message, "error", 6000);
+  }
+}
+
+async function cancelEdit() {
+  if (!pendingEdit) {
+    hideDiffModal();
+    return;
+  }
+  const s = getVoiceSettings();
+  try {
+    await fetch(s.url.replace(/\/$/, "") + "/api/voice-edit-cancel", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer " + s.token,
+      },
+      body: JSON.stringify(pendingEdit),
+    });
+  } catch (e) {
+    // Silent fail — not critical
+  }
+  hideDiffModal();
+  showToast("Change cancelled", "info", 3000);
+}
+
+document.getElementById("btn-approve").addEventListener("click", approveEdit);
+document.getElementById("btn-cancel-edit").addEventListener("click", cancelEdit);
+document.getElementById("diff-modal").addEventListener("click", (e) => {
+  if (e.target === document.getElementById("diff-modal")) cancelEdit();
+});
 
 // (switchTab and playScene call updateMicVisibility inline below)
 updateMicVisibility();
