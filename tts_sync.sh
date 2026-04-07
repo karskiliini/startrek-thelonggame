@@ -75,21 +75,30 @@ parse_voices() {
     echo $count
 }
 
-# Generate WAV from a text file with specified voice
-generate_wav() {
-    local txt="$1" wav_out="$2" voice="${3:-Carter}"
-    python VibeVoice/demo/realtime_model_inference_from_file.py \
-        --model_path microsoft/VibeVoice-Realtime-0.5B \
-        --txt_path "$txt" \
-        --speaker_name "$voice" \
-        --output_dir "$CACHE/" \
-        --device mps
-    local auto_name="$CACHE/$(basename "${txt%.txt}")_generated.wav"
-    if [[ -f "$auto_name" ]]; then
-        mv "$auto_name" "$wav_out"
+# Generate WAVs for a list of jobs in one Python process (model loaded once).
+# Input: lines of "txt_path|voice|wav_out" on stdin
+# Returns 0 if all jobs succeeded, non-zero otherwise.
+generate_wavs_batch() {
+    local jobs_json="["
+    local first=true
+    local job_count=0
+    while IFS='|' read -r txt voice wav; do
+        [[ -z "$txt" ]] && continue
+        if $first; then
+            first=false
+        else
+            jobs_json+=","
+        fi
+        jobs_json+="{\"txt\":\"$txt\",\"voice\":\"$voice\",\"wav\":\"$wav\"}"
+        job_count=$((job_count + 1))
+    done
+    jobs_json+="]"
+
+    if [[ $job_count -eq 0 ]]; then
         return 0
     fi
-    return 1
+
+    echo "$jobs_json" | python batch_tts.py --device mps
 }
 
 # Process one version (v1 or v2)
@@ -145,39 +154,45 @@ process_version() {
         local num_chunks=$(parse_voices "$md" "$version" "$base")
         echo "Voice blocks: $num_chunks"
 
-        # Generate each block with correct voice
+        # Separate cached blocks from those needing generation
         local chunk_wavs=()
-        local all_ok=true
         local cached_count=0
         local gen_count=0
-        local para_num=0
+        local jobs_input=""
         while IFS= read -r h; do
-            para_num=$((para_num + 1))
             local txt_file="$CACHE/txt/${h}.txt"
             local wav_file="$CACHE/wav/${h}.wav"
             local voice_file="$CACHE/txt/${h}.voice"
-            local chunk_words=$(wc -w < "$txt_file" | tr -d ' ')
-            local voice=$(cat "$voice_file")
 
             if [[ -f "$wav_file" ]]; then
                 cached_count=$((cached_count + 1))
-                chunk_wavs+=("$wav_file")
-                continue
-            fi
-
-            gen_count=$((gen_count + 1))
-            echo "--- Block $para_num/$num_chunks ($chunk_words words, $voice) ---"
-
-            if generate_wav "$txt_file" "$wav_file" "$voice"; then
-                chunk_wavs+=("$wav_file")
             else
-                echo "ERROR: block $para_num failed for ${version}/${base}"
-                all_ok=false
-                break
+                local voice=$(cat "$voice_file")
+                jobs_input+="${txt_file}|${voice}|${wav_file}"$'\n'
+                gen_count=$((gen_count + 1))
             fi
+            chunk_wavs+=("$wav_file")
         done < "$MANIFEST/${version}_${base}.hashes"
 
-        echo "Cached: $cached_count | Generated: $gen_count"
+        echo "Cached: $cached_count | To generate: $gen_count"
+
+        # Generate all missing blocks in one Python process (model loaded once)
+        local all_ok=true
+        if [[ $gen_count -gt 0 ]]; then
+            if ! printf "%s" "$jobs_input" | generate_wavs_batch; then
+                echo "ERROR: batch generation failed for ${version}/${base}"
+                all_ok=false
+            else
+                # Verify all WAVs now exist
+                for wav in "${chunk_wavs[@]}"; do
+                    if [[ ! -f "$wav" ]]; then
+                        echo "ERROR: expected WAV missing after batch: $wav"
+                        all_ok=false
+                        break
+                    fi
+                done
+            fi
+        fi
 
         if ! $all_ok; then
             echo "ERROR: skipping ${version}/${base}"
