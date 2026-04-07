@@ -240,6 +240,11 @@ input[type="range"]::-webkit-slider-thumb {
   <h2>Grey Water</h2>
 </header>
 
+<div class="tabs" style="max-width: 600px; margin: 0 auto;">
+  <div class="tab active" id="tab-v2" data-version="v2">V2 (Current)</div>
+  <div class="tab" id="tab-v1" data-version="v1">V1 (Original)</div>
+</div>
+
 <div class="tabs">
   <div class="tab active" id="tab-scenes">Scenes</div>
   <div class="tab" id="tab-text">Text</div>
@@ -272,17 +277,18 @@ input[type="range"]::-webkit-slider-thumb {
 </div>
 
 <script>
-const BASE_AUDIO = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/audio/";
-const BASE_TEXT = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/";
-const scenes = [
+const REPO_BASE = "https://raw.githubusercontent.com/karskiliini/startrek-thelonggame/main/";
+
+const SCENES_V1 = [
   { file: "00_opening_credits", num: "00", title: "Opening Credits — The Rocks" },
   { file: "01_the_table", num: "01", title: "The Table" },
   { file: "02_orders", num: "02", title: "Orders" },
   { file: "03_the_dinner", num: "03", title: "The Dinner" },
+  { file: "03b_the_leash", num: "03b", title: "The Leash" },
   { file: "04_grey_water", num: "04", title: "Grey Water" },
   { file: "05_the_incident", num: "05", title: "The Incident" },
-  { file: "06_the_call", num: "06", title: "The Call" },
-  { file: "07_the_cook", num: "07", title: "The Cook" },
+  { file: "06_the_cook", num: "06", title: "The Cook" },
+  { file: "07_the_call", num: "07", title: "The Call" },
   { file: "08_the_order", num: "08", title: "The Order" },
   { file: "09_ready_room", num: "09", title: "Ready Room" },
   { file: "10_sorak_hand", num: "10", title: "Sorak's Hand" },
@@ -293,6 +299,35 @@ const scenes = [
   { file: "15_kobayashi_maru", num: "15", title: "Kobayashi Maru" },
   { file: "16_anyones_to_win", num: "16", title: "Anyone's to Win" },
 ];
+
+const SCENES_V2 = [
+  { file: "01_the_dark", num: "01", title: "The Dark" },
+  { file: "03_orders", num: "03", title: "Orders" },
+  { file: "03b_the_leash", num: "03b", title: "The Leash" },
+  { file: "04_the_briefing", num: "04", title: "The Briefing" },
+  { file: "05_the_dinner", num: "05", title: "The Dinner" },
+  { file: "06_first_light", num: "06", title: "First Light" },
+  { file: "07_vega", num: "07", title: "Vega" },
+  { file: "08_sorak", num: "08", title: "Sorak" },
+  { file: "09_the_knife", num: "09", title: "The Knife" },
+  { file: "10_grey_water", num: "10", title: "Grey Water" },
+  { file: "11_the_surface", num: "11", title: "The Surface" },
+  { file: "12_the_cook", num: "12", title: "The Cook" },
+  { file: "13_the_clock", num: "13", title: "The Clock" },
+  { file: "14_the_order", num: "14", title: "The Order" },
+  { file: "15_sorak_hand", num: "15", title: "Sorak's Hand" },
+  { file: "16_ktagh", num: "16", title: "K'Tagh" },
+  { file: "17_the_belt", num: "17", title: "The Belt" },
+  { file: "18_the_canyon", num: "18", title: "The Canyon" },
+  { file: "19_the_conn", num: "19", title: "The Conn" },
+  { file: "20_kobayashi_maru", num: "20", title: "Kobayashi Maru" },
+  { file: "21_anyones_to_win", num: "21", title: "Anyone's to Win" },
+];
+
+let currentVersion = localStorage.getItem("screenplayVersion") || "v2";
+let scenes = currentVersion === "v2" ? SCENES_V2 : SCENES_V1;
+let BASE_AUDIO = REPO_BASE + "audio/" + currentVersion + "/";
+let BASE_TEXT = REPO_BASE + currentVersion + "/";
 
 let currentIndex = -1;
 let isPlaying = false;
@@ -318,6 +353,44 @@ function fmt(s) {
   const sec = Math.floor(s % 60);
   return m + ":" + (sec < 10 ? "0" : "") + sec;
 }
+
+// Version switcher
+function setVersion(v) {
+  if (v === currentVersion) return;
+  currentVersion = v;
+  localStorage.setItem("screenplayVersion", v);
+  scenes = currentVersion === "v2" ? SCENES_V2 : SCENES_V1;
+  BASE_AUDIO = REPO_BASE + "audio/" + currentVersion + "/";
+  BASE_TEXT = REPO_BASE + currentVersion + "/";
+
+  // Stop current playback
+  audio.pause();
+  audio.src = "";
+  isPlaying = false;
+  btnPlay.innerHTML = "&#9654;";
+  currentIndex = -1;
+  playerTitle.textContent = "Select a scene";
+  timeCurrent.textContent = "0:00";
+  timeTotal.textContent = "0:00";
+  slider.value = 0;
+
+  // Clear text cache for the old version
+  for (const key in textCache) delete textCache[key];
+
+  // Rebuild scene list
+  rebuildSceneList();
+
+  // Update version tab UI
+  document.getElementById("tab-v1").classList.toggle("active", v === "v1");
+  document.getElementById("tab-v2").classList.toggle("active", v === "v2");
+}
+
+document.getElementById("tab-v1").addEventListener("click", () => setVersion("v1"));
+document.getElementById("tab-v2").addEventListener("click", () => setVersion("v2"));
+
+// Initialize version tab UI
+document.getElementById("tab-v1").classList.toggle("active", currentVersion === "v1");
+document.getElementById("tab-v2").classList.toggle("active", currentVersion === "v2");
 
 // Tabs
 document.getElementById("tab-scenes").addEventListener("click", () => switchTab("scenes"));
@@ -436,21 +509,39 @@ window.addEventListener("wheel", () => {
   scrollTimeout = setTimeout(() => { userScrolled = false; }, 5000);
 }, { passive: true });
 
-// Build scene list
-scenes.forEach((s, i) => {
-  const div = document.createElement("div");
-  div.className = "scene";
-  div.dataset.index = i;
-  div.innerHTML = `
-    <div class="scene-header">
-      <span class="scene-num">${s.num}</span>
-      <span class="scene-title">${s.title}</span>
-      <span class="scene-duration" id="dur-${i}"></span>
-    </div>
-  `;
-  div.addEventListener("click", () => playScene(i));
-  sceneList.appendChild(div);
-});
+// Build scene list (rebuildable when version changes)
+function rebuildSceneList() {
+  sceneList.innerHTML = "";
+  scenes.forEach((s, i) => {
+    const div = document.createElement("div");
+    div.className = "scene";
+    div.dataset.index = i;
+    div.innerHTML = `
+      <div class="scene-header">
+        <span class="scene-num">${s.num}</span>
+        <span class="scene-title">${s.title}</span>
+        <span class="scene-duration" id="dur-${i}"></span>
+      </div>
+    `;
+    div.addEventListener("click", () => playScene(i));
+    sceneList.appendChild(div);
+  });
+  preloadDurations();
+}
+
+function preloadDurations() {
+  scenes.forEach((s, i) => {
+    const tmp = new Audio();
+    tmp.preload = "metadata";
+    tmp.src = BASE_AUDIO + s.file + ".mp3";
+    tmp.addEventListener("loadedmetadata", () => {
+      const el = document.getElementById(`dur-${i}`);
+      if (el) el.textContent = fmt(tmp.duration);
+    });
+  });
+}
+
+rebuildSceneList();
 
 function playScene(i) {
   if (i < 0 || i >= scenes.length) return;
@@ -526,16 +617,7 @@ audio.addEventListener("ended", () => {
   else { isPlaying = false; btnPlay.innerHTML = "&#9654;"; }
 });
 
-// Preload durations
-scenes.forEach((s, i) => {
-  const tmp = new Audio();
-  tmp.preload = "metadata";
-  tmp.src = BASE_AUDIO + s.file + ".mp3";
-  tmp.addEventListener("loadedmetadata", () => {
-    const el = document.getElementById(`dur-${i}`);
-    if (el) el.textContent = fmt(tmp.duration);
-  });
-});
+// (durations preloaded in rebuildSceneList → preloadDurations)
 
 // Media session (lock screen controls)
 if ("mediaSession" in navigator) {
