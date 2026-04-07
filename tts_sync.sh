@@ -2,8 +2,9 @@
 # TTS Sync — content-addressed paragraph caching
 # Processes BOTH v1/ and v2/ markdown files → audio/v1/ and audio/v2/ MP3s
 # WAVs keyed purely by content hash (shared across versions)
-set -e
-cd /Users/marski/git/startrek-thelonggame
+# Note: no `set -e` — we handle errors explicitly so the script never dies
+# mid-run and leaves audio generation incomplete.
+cd /Users/marski/git/startrek-thelonggame || exit 1
 
 CACHE=".cache"
 MANIFEST="$CACHE/manifest"
@@ -200,30 +201,37 @@ process_version() {
         # Update scene checksum
         md5 -q "$md" > "$MANIFEST/${version}_${base}.md5"
 
-        # Commit the MP3
-        git add "$mp3"
-        git commit -m "Update ${version} audio: ${base}.mp3
+        # Commit the MP3 — skip if ffmpeg produced byte-identical output
+        git add "$mp3" 2>/dev/null || true
+        if git diff --cached --quiet -- "$mp3" 2>/dev/null; then
+            echo "No change to commit for $mp3 (byte-identical)"
+        else
+            if git commit -m "Update ${version} audio: ${base}.mp3
 
 Regenerated ($gen_count of $num_chunks paragraphs, $cached_count cached).
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" 2>&1; then
 
-        # Push with retry — handles concurrent pushes from voice_edit_setup.sh
-        local push_ok=false
-        for push_attempt in 1 2 3 4 5; do
-            if git push 2>&1; then
-                push_ok=true
-                break
+                # Push with retry — handles concurrent pushes from voice_edit_setup.sh
+                local push_ok=false
+                for push_attempt in 1 2 3 4 5; do
+                    if git push 2>&1; then
+                        push_ok=true
+                        break
+                    fi
+                    echo "Push attempt $push_attempt failed, rebasing and retrying..."
+                    git pull --rebase --autostash 2>&1 || true
+                    sleep 2
+                done
+
+                if $push_ok; then
+                    echo "Pushed: $mp3 at $(date)"
+                else
+                    echo "WARNING: Could not push $mp3 after 5 attempts. Continuing..."
+                fi
+            else
+                echo "WARNING: Commit failed for $mp3. Continuing..."
             fi
-            echo "Push attempt $push_attempt failed, rebasing and retrying..."
-            git pull --rebase --autostash 2>&1 || true
-            sleep 2
-        done
-
-        if $push_ok; then
-            echo "Pushed: $mp3 at $(date)"
-        else
-            echo "WARNING: Could not push $mp3 after 5 attempts. Continuing..."
         fi
     done
 }
