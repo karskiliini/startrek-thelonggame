@@ -313,6 +313,16 @@ input[type="range"]::-webkit-slider-thumb {
   background: #1e4a7a;
   border-color: #2a6aaa;
 }
+.transcript-text {
+  background: #0a0a0a;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 12px;
+  font-size: 15px;
+  color: #e8e8e8;
+  margin-bottom: 8px;
+  font-style: italic;
+}
 .modal-buttons button:active { opacity: 0.6; }
 .modal-help {
   font-size: 11px;
@@ -434,6 +444,21 @@ input[type="range"]::-webkit-slider-thumb {
 
 <!-- Voice edit status toast -->
 <div class="voice-toast" id="voice-toast"></div>
+
+<!-- Transcription confirmation modal -->
+<div class="modal-backdrop" id="transcript-modal">
+  <div class="modal">
+    <h3>Heard</h3>
+    <div class="transcript-text" id="transcript-text"></div>
+    <label style="margin-top: 10px;">Edit before sending</label>
+    <textarea id="transcript-edit" rows="3" style="width:100%;padding:8px 10px;background:#0a0a0a;border:1px solid #333;border-radius:4px;color:#d4d4d4;font-family:inherit;font-size:14px;resize:vertical;"></textarea>
+    <div class="modal-buttons">
+      <button id="btn-send-transcript">Send to Claude</button>
+      <button id="btn-retry-mic">Retry</button>
+      <button id="btn-cancel-transcript">Cancel</button>
+    </div>
+  </div>
+</div>
 
 <!-- Diff approval modal -->
 <div class="modal-backdrop" id="diff-modal">
@@ -981,8 +1006,7 @@ btnMic.addEventListener("click", () => {
 
   recognition.onresult = (event) => {
     const transcript = event.results[0][0].transcript;
-    showToast("Heard: \"" + transcript + "\"", "info", 3000);
-    sendVoiceEdit(transcript);
+    showTranscriptModal(transcript);
   };
 
   recognition.onerror = (event) => {
@@ -1137,6 +1161,44 @@ document.getElementById("btn-approve").addEventListener("click", approveEdit);
 document.getElementById("btn-cancel-edit").addEventListener("click", cancelEdit);
 document.getElementById("diff-modal").addEventListener("click", (e) => {
   if (e.target === document.getElementById("diff-modal")) cancelEdit();
+});
+
+// Transcript confirmation modal
+const transcriptModal = document.getElementById("transcript-modal");
+const transcriptText = document.getElementById("transcript-text");
+const transcriptEdit = document.getElementById("transcript-edit");
+
+function showTranscriptModal(transcript) {
+  transcriptText.textContent = "\"" + transcript + "\"";
+  transcriptEdit.value = transcript;
+  transcriptModal.classList.add("visible");
+  voiceToast.classList.remove("visible");
+}
+
+function hideTranscriptModal() {
+  transcriptModal.classList.remove("visible");
+}
+
+document.getElementById("btn-send-transcript").addEventListener("click", () => {
+  const finalText = transcriptEdit.value.trim();
+  if (!finalText) {
+    showToast("Empty transcription", "error");
+    return;
+  }
+  hideTranscriptModal();
+  sendVoiceEdit(finalText);
+});
+
+document.getElementById("btn-retry-mic").addEventListener("click", () => {
+  hideTranscriptModal();
+  // Re-trigger mic
+  setTimeout(() => btnMic.click(), 100);
+});
+
+document.getElementById("btn-cancel-transcript").addEventListener("click", hideTranscriptModal);
+
+transcriptModal.addEventListener("click", (e) => {
+  if (e.target === transcriptModal) hideTranscriptModal();
 });
 
 // (switchTab and playScene call updateMicVisibility inline below)
