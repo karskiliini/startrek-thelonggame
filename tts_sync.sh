@@ -200,15 +200,31 @@ process_version() {
         # Update scene checksum
         md5 -q "$md" > "$MANIFEST/${version}_${base}.md5"
 
-        # Push
+        # Commit the MP3
         git add "$mp3"
         git commit -m "Update ${version} audio: ${base}.mp3
 
 Regenerated ($gen_count of $num_chunks paragraphs, $cached_count cached).
 
 Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>"
-        git push
-        echo "Pushed: $mp3 at $(date)"
+
+        # Push with retry — handles concurrent pushes from voice_edit_setup.sh
+        local push_ok=false
+        for push_attempt in 1 2 3 4 5; do
+            if git push 2>&1; then
+                push_ok=true
+                break
+            fi
+            echo "Push attempt $push_attempt failed, rebasing and retrying..."
+            git pull --rebase --autostash 2>&1 || true
+            sleep 2
+        done
+
+        if $push_ok; then
+            echo "Pushed: $mp3 at $(date)"
+        else
+            echo "WARNING: Could not push $mp3 after 5 attempts. Continuing..."
+        fi
     done
 }
 

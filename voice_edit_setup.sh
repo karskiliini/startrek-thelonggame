@@ -213,6 +213,7 @@ fi
 
 # Publish tunnel URL to repo so the player can auto-discover it.
 # NOTE: only the URL is published, NOT the token.
+# Retries with pull --rebase if concurrent git operations cause push failures.
 log "Publishing tunnel URL to repo..."
 CONFIG_FILE="voice_edit_config.json"
 TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
@@ -223,14 +224,36 @@ cat > "$CONFIG_FILE" <<EOF_JSON
 }
 EOF_JSON
 
-# Only commit if the file actually changed
+# Only proceed if the file actually changed
 if ! git diff --quiet "$CONFIG_FILE" 2>/dev/null || ! git ls-files --error-unmatch "$CONFIG_FILE" >/dev/null 2>&1; then
-    git add "$CONFIG_FILE"
-    git commit -m "Update voice edit tunnel URL
+    # Sync with remote first (rebase over any concurrent TTS commits)
+    git pull --rebase --autostash >/dev/null 2>&1 || true
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" >/dev/null 2>&1 || true
-    git push >/dev/null 2>&1 &
-    ok "Tunnel URL published to repo (player will auto-discover on next load)"
+    git add "$CONFIG_FILE"
+    if git commit -m "Update voice edit tunnel URL
+
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" >/dev/null 2>&1; then
+
+        # Retry push up to 5 times to handle races with TTS pushes
+        push_ok=false
+        for i in 1 2 3 4 5; do
+            if git push >/dev/null 2>&1; then
+                push_ok=true
+                break
+            fi
+            log "Push attempt $i failed, rebasing and retrying..."
+            git pull --rebase --autostash >/dev/null 2>&1 || true
+            sleep 2
+        done
+
+        if $push_ok; then
+            ok "Tunnel URL published to repo"
+        else
+            warn "Could not push tunnel URL (concurrent git activity?). Manual push may be needed."
+        fi
+    else
+        ok "Tunnel URL unchanged — no commit needed"
+    fi
 else
     ok "Tunnel URL unchanged — no commit needed"
 fi
