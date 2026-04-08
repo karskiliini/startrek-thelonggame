@@ -55,7 +55,7 @@ The General shifts. The scar on his jaw catches the light.
 
 
                          GENERAL KORD
-          We are sending the IKS Vor'nak. Commander Toral. He will arrive in thirty-six hours.
+          We are sending the IKS Vor'nak. Commander Toral. He will arrive in fourteen hours.
 
 
                          K'TAGH

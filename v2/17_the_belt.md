@@ -7,7 +7,7 @@ INT. ENTERPRISE-A — BRIDGE — LATER
 
 The clock is running.
 
-K'Tagh's message was clear: Klingon reinforcements — the IKS Vor'nak — will arrive in thirty-six hours. After that, the system becomes a battlefield. Kirk has one day to understand what he's standing in the middle of before someone else decides for him.
+K'Tagh's message was clear: Klingon reinforcements — the IKS Vor'nak — will arrive in fourteen hours. After that, the system becomes a battlefield. Kirk has hours to understand what he's standing in the middle of before someone else decides for him.
 
 He cannot negotiate with Marek without knowing the full picture. The colony is Cardassian. The infrastructure is Cardassian. The installation on the northern plateau is Cardassian. If Marek has hidden something else — in the one place nobody has examined closely — Kirk needs to know before he sits across from him. And right now, the asteroid belt is radiating energy it shouldn't have.
 

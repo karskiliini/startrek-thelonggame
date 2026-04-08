@@ -33,11 +33,23 @@ Enterprise still has her standard procedures — the ones she follows even on sp
 
                          SPOCK
                (reading his console — the tone of pure data)
-          Captain. The colony registry lists the population as predominantly human and Federation-origin. Current biosensor readings indicate sixty-one percent of residents are Cardassian nationals. Twenty-three percent Klingon. Sixteen percent Federation-origin.
+          Captain. The colony registry lists the current population as approximately twelve million.
 
-A beat. Nobody responds. The numbers sit on the bridge.
+               (beat)
 
-Sixteen percent. On a Federation colony. Their colony. Sixteen percent.
+          Biosensor readings from orbit indicate an actual population of approximately forty million.
+
+A beat. Nobody responds.
+
+
+                         KIRK
+          Forty million.
+
+
+                         SPOCK
+          Correct. A discrepancy of twenty-eight million unregistered residents. The breakdown: sixty-one percent Cardassian nationals. Twenty-three percent Klingon. Sixteen percent Federation-origin.
+
+Sixteen percent. On a Federation colony. Their colony. Sixteen percent of forty million is roughly six million humans. Surrounded.
 
 
                          SPOCK (CONT'D)

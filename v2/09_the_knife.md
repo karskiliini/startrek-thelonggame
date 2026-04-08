@@ -49,11 +49,11 @@ He has seen Vega — where they own the streets and the humans have learned to t
 
 He knows what Cordia is. Hummer told him. Three cultures colliding. Violence every night. Anarchy.
 
-And now he is being sent to tell forty million people — people who built schools, hospitals, roads, an entire civilization from nothing — that their agreement is over. That they need to leave.
+And now he is being sent to tell twelve million people — people who built schools, hospitals, roads, an entire civilization from nothing — that their agreement is over. That they need to leave.
 
 
                          KIRK
-          Admiral. There are forty million Cardassian nationals at Cordia. Many of them have been there for decades. Families. Children born on that planet.
+          Admiral. The registry lists twelve million Cardassian nationals at Cordia. Many of them have been there for decades. Families. Children born on that planet.
 
 
                          ADMIRAL VOSS (V.O.)
@@ -119,7 +119,7 @@ He picks it up again.
 
 He reads the orders one more time. Then he stands. Goes to the viewport. Stars at warp. Cordia somewhere ahead in the dark.
 
-He is about to walk into a colony of forty million people and tell them that the Federation — the institution that couldn't keep its own flagship's water clean, that let its border colonies disappear one by one into someone else's hands, that filed and ignored reports for fifteen years — has decided that enough is enough.
+He is about to walk into a colony of twelve million people — or however many there actually are, since nobody has counted honestly in years — and tell them that the Federation, the institution that couldn't keep its own flagship's water clean, that let its border colonies disappear one by one into someone else's hands, that filed and ignored reports for fifteen years — has decided that enough is enough.
 
 The timing is not coincidental. The Federation waited until it had lost almost everything before acting. And now it is sending one man, on one ship, to deliver the consequences of its own neglect.
 
