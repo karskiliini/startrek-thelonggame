@@ -217,32 +217,26 @@ process_version() {
         md5 -q "$md" > "$MANIFEST/${version}_${base}.md5"
 
         # Commit the MP3 — skip if ffmpeg produced byte-identical output
-        git add "$mp3" 2>/dev/null || true
+        git add -- "$mp3" 2>/dev/null || true
         if git diff --cached --quiet -- "$mp3" 2>/dev/null; then
             echo "No change to commit for $mp3 (byte-identical)"
         else
-            if git commit -m "Update ${version} audio: ${base}.mp3
+            if git commit --only -m "Update ${version} audio: ${base}.mp3
 
 Regenerated ($gen_count of $num_chunks paragraphs, $cached_count cached).
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" 2>&1; then
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" -- "$mp3" 2>&1; then
 
-                # Push with retry — handles concurrent pushes from voice_edit_setup.sh
+                # Preserve unrelated staged work; conflicts need local review.
                 local push_ok=false
-                for push_attempt in 1 2 3 4 5; do
-                    if git push 2>&1; then
-                        push_ok=true
-                        break
-                    fi
-                    echo "Push attempt $push_attempt failed, rebasing and retrying..."
-                    git pull --rebase --autostash 2>&1 || true
-                    sleep 2
-                done
+                if git push 2>&1; then
+                    push_ok=true
+                fi
 
                 if $push_ok; then
                     echo "Pushed: $mp3 at $(date)"
                 else
-                    echo "WARNING: Could not push $mp3 after 5 attempts. Continuing..."
+                    echo "WARNING: Could not push $mp3 automatically. Resolve and push locally."
                 fi
             else
                 echo "WARNING: Commit failed for $mp3. Continuing..."

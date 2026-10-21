@@ -1049,7 +1049,7 @@ function renderDiff(diff) {
 function showDiffModal(data) {
   pendingEdit = {
     scene_file: data.scene_file,
-    transcription: data.transcription,
+    proposal_id: data.proposal_id,
   };
   document.getElementById("diff-message").textContent = data.message || "";
   document.getElementById("diff-content").innerHTML = renderDiff(data.diff);

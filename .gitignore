@@ -13,3 +13,8 @@ audio/*.md5
 .voice_edit_server.log
 .voice_edit_tunnel.log
 .venv-voice/
+
+# Python test artifacts
+__pycache__/
+.pytest_cache/
+*.pyc
