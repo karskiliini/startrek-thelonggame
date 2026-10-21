@@ -111,7 +111,7 @@ if [ "$MODE" = "all" ] || [ "$MODE" = "install" ]; then
     # shellcheck source=/dev/null
     source "$VENV_DIR/bin/activate"
     pip install --quiet --upgrade pip
-    pip install --quiet fastapi uvicorn pydantic
+    pip install --quiet --only-binary=:all: -r requirements-voice.txt
     ok "Python dependencies installed."
 
     # Cloudflared
@@ -128,7 +128,7 @@ if [ "$MODE" = "all" ] || [ "$MODE" = "install" ]; then
     # Auth token — read from file, must be manually created
     if [ ! -f "$TOKEN_FILE" ]; then
         error "Auth token file not found at $TOKEN_FILE"
-        error "Create it with:  echo 'your-token' > $TOKEN_FILE && chmod 600 $TOKEN_FILE"
+        error "Generate a random token as documented in VOICE_EDIT_SETUP.md."
         exit 1
     fi
     ok "Auth token loaded from $TOKEN_FILE"
@@ -158,6 +158,11 @@ if [ ! -f "$TOKEN_FILE" ]; then
 fi
 
 TOKEN=$(cat "$TOKEN_FILE")
+if [ "${#TOKEN}" -lt 32 ]; then
+    error "Auth token must contain at least 32 random characters. See VOICE_EDIT_SETUP.md."
+    exit 1
+fi
+chmod 600 "$TOKEN_FILE"
 
 # Start server
 log "Starting voice edit server..."
@@ -213,7 +218,7 @@ fi
 
 # Publish tunnel URL to repo so the player can auto-discover it.
 # NOTE: only the URL is published, NOT the token.
-# Retries with pull --rebase if concurrent git operations cause push failures.
+# Push conflicts require local review; never auto-stash or rebase user work.
 log "Publishing tunnel URL to repo..."
 CONFIG_FILE="voice_edit_config.json"
 TIMESTAMP=$(date -u +%Y-%m-%dT%H:%M:%SZ)
@@ -225,26 +230,16 @@ cat > "$CONFIG_FILE" <<EOF_JSON
 EOF_JSON
 
 # Only proceed if the file actually changed
-if ! git diff --quiet "$CONFIG_FILE" 2>/dev/null || ! git ls-files --error-unmatch "$CONFIG_FILE" >/dev/null 2>&1; then
-    # Sync with remote first (rebase over any concurrent TTS commits)
-    git pull --rebase --autostash >/dev/null 2>&1 || true
+if ! git diff --quiet -- "$CONFIG_FILE" 2>/dev/null || ! git ls-files --error-unmatch -- "$CONFIG_FILE" >/dev/null 2>&1; then
+    git add -- "$CONFIG_FILE"
+    if git commit --only -m "Update voice edit tunnel URL
 
-    git add "$CONFIG_FILE"
-    if git commit -m "Update voice edit tunnel URL
+Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" -- "$CONFIG_FILE" >/dev/null 2>&1; then
 
-Co-Authored-By: Claude Opus 4.6 (1M context) <noreply@anthropic.com>" >/dev/null 2>&1; then
-
-        # Retry push up to 5 times to handle races with TTS pushes
         push_ok=false
-        for i in 1 2 3 4 5; do
-            if git push >/dev/null 2>&1; then
-                push_ok=true
-                break
-            fi
-            log "Push attempt $i failed, rebasing and retrying..."
-            git pull --rebase --autostash >/dev/null 2>&1 || true
-            sleep 2
-        done
+        if git push >/dev/null 2>&1; then
+            push_ok=true
+        fi
 
         if $push_ok; then
             ok "Tunnel URL published to repo"
