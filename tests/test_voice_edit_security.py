@@ -191,3 +191,29 @@ def test_non_json_model_output_is_rejected_without_writes(editor, monkeypatch):
     monkeypatch.setattr(mod, 'run_claude', lambda *args: (0, 'Unexpected response'))
     assert client.post('/api/voice-edit', headers=headers, json=payload).status_code == 502
     assert scene.read_text() == 'Original scene\n'
+
+
+@pytest.mark.parametrize(('field', 'value'), [
+    ('transcription', 'Change\x00this scene'),
+    ('transcription', 'x' * 81 + '\x00'),
+    ('scene_file', 'v1/00_scene.md\x00'),
+])
+def test_nul_request_fields_are_rejected_before_any_work(editor, field, value):
+    mod, client, headers, payload, scene, state = editor
+    payload[field] = value
+    assert client.post('/api/voice-edit', headers=headers, json=payload).status_code == 422
+    assert mod.pending is None
+    assert state['calls'] == []
+    assert scene.read_text() == 'Original scene\n'
+
+
+def test_nul_approval_path_cannot_write_or_commit_a_proposal(editor):
+    _, client, headers, _, scene, state = editor
+    proposal = propose(editor)
+    state['calls'].clear()
+    invalid = {**proposal, 'scene_file': proposal['scene_file'] + '\x00'}
+    assert client.post('/api/voice-edit-approve', headers=headers, json=invalid).status_code == 422
+    assert state['calls'] == []
+    assert scene.read_text() == 'Original scene\n'
+    # Invalid approval must not consume or change the legitimate proposal.
+    assert client.post('/api/voice-edit-cancel', headers=headers, json=proposal).status_code == 200
