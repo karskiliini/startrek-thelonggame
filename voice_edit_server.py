@@ -88,13 +88,13 @@ app.add_middleware(RequestGuard)
 
 
 class VoiceEditRequest(BaseModel):
-    transcription: str = Field(min_length=1, max_length=8000)
-    scene_file: str = Field(max_length=240)
+    transcription: str = Field(min_length=1, max_length=8000, pattern=r"^[^\x00]*$")
+    scene_file: str = Field(max_length=240, pattern=r"^[^\x00]*$")
     version: Literal["v1", "v2"]
 
 
 class ApprovalRequest(BaseModel):
-    scene_file: str = Field(max_length=240)
+    scene_file: str = Field(max_length=240, pattern=r"^[^\x00]*$")
     proposal_id: str = Field(pattern=r"^[A-Za-z0-9_-]{43}$")
 
 
